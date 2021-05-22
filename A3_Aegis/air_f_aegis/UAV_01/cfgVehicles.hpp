@@ -44,4 +44,5 @@ class CfgVehicles
 	#include "cfgOPFOR.hpp"     // IAF & China
 	#include "cfgRUS.hpp"       // Russia
 	#include "cfgION.hpp"       // ION
+	#include "cfgRaven.hpp"		// Raven
 };

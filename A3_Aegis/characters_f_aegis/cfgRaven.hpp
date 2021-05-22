@@ -584,7 +584,7 @@ class I_Raven_Soldier_UAV_F: I_Raven_soldier_base_F
 		V_HarnessOSpec_blk,
 		G_Tactical_Clear,
 		DefaultManLinkedItems,
-		I_R_UAVTerminal
+		I_UavTerminal
 	};
 	respawnLinkedItems[] = 
 	{
@@ -592,7 +592,7 @@ class I_Raven_Soldier_UAV_F: I_Raven_soldier_base_F
 		V_HarnessOSpec_blk,
 		G_Tactical_Clear,
 		DefaultManLinkedItems,
-		I_R_UAVTerminal
+		I_UavTerminal
 	};
     headgearList[] = 
     {
@@ -609,14 +609,14 @@ class I_Raven_soldier_UAV_06_F: I_Raven_Soldier_UAV_F
 	author = $STR_A3_A_BranFlakes;
 	editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\I_Raven_soldier_UAV_06_F.jpg";
 	displayName = $STR_A3_B_T_soldier_UAV_06_F0;
-	backpack = UAV_06_backpack_F;
+	backpack = I_Raven_UAV_06_backpack_F;
 };
 class I_Raven_soldier_UAV_06_medical_F: I_Raven_Soldier_UAV_F
 {
 	author = $STR_A3_A_BranFlakes;
 	editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\I_Raven_soldier_UAV_06_medical_F.jpg";
 	displayName = $STR_A3_B_T_soldier_UAV_06_medical_F0;
-	backpack = I_R_UAV_06_medical_backpack_F;
+	backpack = I_Raven_UAV_06_medical_backpack_F;
 };
 class I_Raven_Soldier_universal_F: I_Raven_soldier_F
 {
