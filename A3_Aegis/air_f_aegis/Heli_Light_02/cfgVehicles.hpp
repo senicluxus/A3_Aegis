@@ -164,4 +164,5 @@ class CfgVehicles
 	#include "cfgCivil.hpp"     // Civilians
 	#include "cfgOPFOR.hpp"     // IAF, China & Argana
 	#include "cfgRUS.hpp"       // Russia
+	#include "cfgRaven.hpp"		// Raven Security
 };
