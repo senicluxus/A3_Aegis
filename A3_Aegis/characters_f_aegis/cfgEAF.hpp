@@ -3850,6 +3850,7 @@ class I_E_recon_JTAC_ard_F: I_E_recon_JTAC_F
 	editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\I_E_recon_JTAC_ard_F.jpg";
 	faction = IND_E_ard_F;
 	//uniformClass = U_I_E_Uniform_01_sweater_F;
+	uniformClass = U_I_E_Uniform_01_arid_shortsleeve_F;
 	linkedItems[] =
 	{
 		V_CarrierRigKBT_01_light_EAF_F,
@@ -3920,6 +3921,7 @@ class I_E_recon_medic_ard_F: I_E_recon_medic_F
 	editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\I_E_recon_medic_ard_F.jpg";
 	faction = IND_E_ard_F;
 	//uniformClass = U_I_L_Uniform_01_deserter_F;
+	uniformClass = U_I_E_Uniform_01_arid_tanktop_F;
 	linkedItems[] =
 	{
 		V_CarrierRigKBT_01_light_EAF_F,
