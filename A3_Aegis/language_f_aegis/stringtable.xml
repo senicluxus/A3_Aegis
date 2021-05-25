@@ -7225,6 +7225,23 @@
 					<Japanese>PlusUltra</Japanese>
 					<Turkish>PlusUltra</Turkish>
 				</Key>
+				<Key ID="STR_A3_A_lilithsspawn">
+					<Original>lilithsspawn</Original>
+					<Chinese>lilithsspawn</Chinese>
+					<French>lilithsspawn</French>
+					<Spanish>lilithsspawn</Spanish>
+					<Italian>lilithsspawn</Italian>
+					<Polish>lilithsspawn</Polish>
+					<Russian>lilithsspawn</Russian>
+					<German>lilithsspawn</German>
+					<Czech>lilithsspawn</Czech>
+					<English>lilithsspawn</English>
+					<Portuguese>lilithsspawn</Portuguese>
+					<Korean>lilithsspawn</Korean>
+					<Chinesesimp>lilithsspawn</Chinesesimp>
+					<Japanese>lilithsspawn</Japanese>
+					<Turkish>lilithsspawn</Turkish>
+				</Key>
 			</Container>
 			<Container name="Faction_Classes">
 				<Key ID="STR_A3_A_CfgFactionClasses_BLU_F0">
