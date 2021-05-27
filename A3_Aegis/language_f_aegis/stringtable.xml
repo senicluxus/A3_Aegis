@@ -8155,6 +8155,40 @@
                 <Japanese>灰色</Japanese>
                 <Turkish>Gri</Turkish>
             </Key>
+			<Key ID="STR_A3_TEXTURESOURCES_RUSSIANSTAR0">
+                <Original>Black (Star)</Original>
+                <Chinese>Black (Star)</Chinese>
+                <French>Black (Star)</French>
+                <Spanish>Black (Star)</Spanish>
+                <Italian>Black (Star)</Italian>
+                <Polish>Black (Star)</Polish>
+                <Russian>Black (Star)</Russian>
+                <German>Black (Star)</German>
+                <Czech>Black (Star)</Czech>
+                <English>Black (Star)</English>
+                <Portuguese>Black (Star)</Portuguese>
+                <Korean>Black (Star)</Korean>
+                <Chinesesimp>Black (Star)</Chinesesimp>
+                <Japanese>Black (Star)</Japanese>
+                <Turkish>Black (Star)</Turkish>
+            </Key>
+			<Key ID="STR_A3_TEXTURESOURCES_RUSSIANSTARFLAG0">
+                <Original>Black (Star, Flag)</Original>
+                <Chinese>Black (Star, Flag)</Chinese>
+                <French>Black (Star, Flag)</French>
+                <Spanish>Black (Star, Flag)</Spanish>
+                <Italian>Black (Star, Flag)</Italian>
+                <Polish>Black (Star, Flag)</Polish>
+                <Russian>Black (Star, Flag)</Russian>
+                <German>Black (Star, Flag)</German>
+                <Czech>Black (Star, Flag)</Czech>
+                <English>Black (Star, Flag)</English>
+                <Portuguese>Black (Star, Flag)</Portuguese>
+                <Korean>Black (Star, Flag)</Korean>
+                <Chinesesimp>Black (Star, Flag)</Chinesesimp>
+                <Japanese>Black (Star, Flag)</Japanese>
+                <Turkish>Black (Star, Flag)</Turkish>
+            </Key>
 			<Key ID="STR_A3_A_TEXTURESOURCES_RUS0">
 				<Original>Russia</Original>
 				<Chinese>俄國</Chinese>

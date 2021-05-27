@@ -31,6 +31,28 @@ class CfgVehicles
 				};
 				factions[] = {};
 			};
+			class Russian
+			{
+				displayName = $STR_A3_TEXTURESOURCES_RUSSIANSTAR0;
+				author = $STR_A3_A_lilithsspawn;
+				textures[] = 
+				{
+					"\A3_Aegis\Air_F_Aegis\Heli_Attack_02\Data\Heli_Attack_02_body1_RUS_CO.paa",
+					"\A3_Aegis\Air_F_Aegis\Heli_Attack_02\Data\Heli_Attack_02_body2_RUS_CO.paa"
+				};
+				faction[] = {};
+			};
+			class Russian2
+			{
+				displayName = $STR_A3_TEXTURESOURCES_RUSSIANSTARFLAGS0;
+				author = $STR_A3_A_lilithsspawn;
+				textures[] = 
+				{
+					"\A3_Aegis\Air_F_Aegis\Heli_Attack_02\Data\Heli_Attack_02_body1_RUS2_CO.paa",
+					"\A3_Aegis\Air_F_Aegis\Heli_Attack_02\Data\Heli_Attack_02_body2_RUS_CO.paa"
+				};
+				faction[] = {};
+			};
 		};
 	};
 	class Heli_Attack_02_dynamicLoadout_base_F: Heli_Attack_02_base_F
