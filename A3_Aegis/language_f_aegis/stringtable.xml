@@ -2423,6 +2423,193 @@
 				</Key>
 			</Container>
 			<Container name="Headgear">
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetSpecter_F0">
+					<Original>Raven Helmet</Original>
+					<Chinese>Raven 頭盔</Chinese>
+					<French>Casque Raven</French>
+					<Spanish>Casco de Raven</Spanish>
+					<Italian>Elmetto Raven</Italian>
+					<Polish>Hełm Raven</Polish>
+					<Russian>Шлем Raven</Russian>
+					<German>Raven Helm</German>
+					<Czech>Přilba Raven</Czech>
+					<English>Raven Helmet</English>
+					<Portuguese>Capacete Raven</Portuguese>
+					<Korean>레이븐 헬멧</Korean>
+					<Chinesesimp>Raven 头盔</Chinesesimp>
+					<Japanese>レイヴンヘルメット</Japanese>
+					<Turkish>Avcı Miğfer</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetSpecter_cover_whex_F0">
+					<Original>Raven Helmet (Cover W)</Original>
+					<Chinese>Raven 頭盔 (Cover W)</Chinese>
+					<French>Casque Raven (Cover W)</French>
+					<Spanish>Casco de Raven (Cover W)</Spanish>
+					<Italian>Elmetto Raven (Cover W)</Italian>
+					<Polish>Hełm Raven (Cover W)</Polish>
+					<Russian>Шлем Raven (Cover W)</Russian>
+					<German>Raven Helm (Cover W)</German>
+					<Czech>Přilba Raven (Cover W)</Czech>
+					<English>Raven Helmet (Cover W)</English>
+					<Portuguese>Capacete Raven (Cover W)</Portuguese>
+					<Korean>레이븐 헬멧 (Cover W)</Korean>
+					<Chinesesimp>Raven 头盔 (Cover W)</Chinesesimp>
+					<Japanese>レイヴンヘルメット (Cover W)</Japanese>
+					<Turkish>Avcı Miğfer (Cover W)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetSpecter_black_F0">
+					<Original>Raven Helmet (Black)</Original>
+					<Chinese>Raven 頭盔（黑）</Chinese>
+					<French>Casque Raven (noir)</French>
+					<Spanish>Casco de Raven (negra)</Spanish>
+					<Italian>Elmetto Raven (nero)</Italian>
+					<Polish>Hełm Raven (czarna)</Polish>
+					<Russian>Шлем Raven (оливковый)</Russian>
+					<German>Raven Helm (schwarz)</German>
+					<Czech>Přilba Raven (černý)</Czech>
+					<English>Raven Helmet (Black)</English>
+					<Portuguese>Capacete Raven (preto)</Portuguese>
+					<Korean>레이븐 헬멧(흑색)</Korean>
+					<Chinesesimp>Raven 头盔（黑色）</Chinesesimp>
+					<Japanese>レイヴンヘルメット（黒）</Japanese>
+					<Turkish>Avcı Miğfer (Siyah)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetSpecter_brown_F0">
+					<Original>Raven Helmet (Brown)</Original>
+					<Chinese>Raven 頭盔（棕色）</Chinese>
+					<French>Casque Raven (marron)</French>
+					<Spanish>Casco de Raven (marrón)</Spanish>
+					<Italian>Elmetto Raven (marrone)</Italian>
+					<Polish>Hełm Raven (brązowy)</Polish>
+					<Russian>Шлем Raven (коричневая)</Russian>
+					<German>Raven Helm (braun)</German>
+					<Czech>Přilba Raven (hnědý)</Czech>
+					<English>Raven Helmet (Brown)</English>
+					<Portuguese>Capacete Raven (marrom)</Portuguese>
+					<Korean>레이븐 헬멧(갈색)</Korean>
+					<Chinesesimp>Raven 头盔（棕色）</Chinesesimp>
+					<Japanese>レイヴンヘルメット（茶）</Japanese>
+					<Turkish>Avcı Miğfer (Kahverengi)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetSpecter_headset_F0">
+					<Original>Raven Helmet (Headset)</Original>
+					<Chinese>Raven 頭盔（耳機）</Chinese>
+					<French>Casque Raven (micro-casque)</French>
+					<Spanish>Casco de Raven (auricular)</Spanish>
+					<Italian>Elmetto Raven (cuffia)</Italian>
+					<Polish>Hełm Raven (głowa)</Polish>
+					<Russian>Шлем Raven (гарнитура)</Russian>
+					<German>Raven Helm (Headset)</German>
+					<Czech>Přilba Raven (náhlavní souprava)</Czech>
+					<English>Raven Helmet (Headset)</English>
+					<Portuguese>Capacete Raven (headset)</Portuguese>
+					<Korean>레이븐 헬멧(헤드셋)</Korean>
+					<Chinesesimp>Raven 头盔（头戴式耳机）</Chinesesimp>
+					<Japanese>レイヴンヘルメット（ヘッドセット）</Japanese>
+					<Turkish>Avcı Miğfer (Mik. Kulaklık)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetSpecter_black_headset_F0">
+					<Original>Raven Helmet (Black, Headset)</Original>
+					<Chinese>Raven 頭盔（黑，耳機）</Chinese>
+					<French>Casque Raven (noir, micro-casque)</French>
+					<Spanish>Casco de Raven (negra, auricular)</Spanish>
+					<Italian>Elmetto Raven (nero, cuffia)</Italian>
+					<Polish>Hełm Raven (czarna, głowa)</Polish>
+					<Russian>Шлем Raven (оливковый, гарнитура)</Russian>
+					<German>Raven Helm (schwarz, Headset)</German>
+					<Czech>Přilba Raven (černý, náhlavní souprava)</Czech>
+					<English>Raven Helmet (Black, Headset)</English>
+					<Portuguese>Capacete Raven (preto, headset)</Portuguese>
+					<Korean>레이븐 헬멧(흑색, 헤드셋)</Korean>
+					<Chinesesimp>Raven 头盔（黑色，头戴式耳机）</Chinesesimp>
+					<Japanese>レイヴンヘルメット（黒、ヘッドセット）</Japanese>
+					<Turkish>Avcı Miğfer (Siyah, Mik. Kulaklık)</Turkish>
+				</Key>
+				<Key ID="STR_A3_O_CfgWeapons_H_HelmetSpecter_paint_F0">
+					<Original>Raven Helmet (Spraypaint)</Original>
+					<Chinese>Raven 頭盔（噴漆）</Chinese>
+					<French>Casque Raven (Aérosol)</French>
+					<Spanish>Casco de Raven (pintado con spray)</Spanish>
+					<Italian>Elmetto Raven (vernice a spruzzo)</Italian>
+					<Polish>Hełm Raven (smugi)</Polish>
+					<Russian>Шлем Raven (распыление)</Russian>
+					<German>Raven Helm (Sprühlack)</German>
+					<Czech>Přilba Raven (sprejová barva)</Czech>
+					<English>Raven Helmet (Spraypaint)</English>
+					<Portuguese>Capacete Raven (Tinta spray)</Portuguese>
+					<Korean>레이븐 헬멧(스프레이페인트)</Korean>
+					<Chinesesimp>Raven 头盔（喷漆）</Chinesesimp>
+					<Japanese>レイヴンヘルメット（スプレーペイント）</Japanese>
+					<Turkish>Avcı Miğfer (Sprey Boya)</Turkish>
+				</Key>
+				<Key ID="STR_A3_O_CfgWeapons_H_HelmetSpecter_paint_headset_F0">
+					<Original>Raven Helmet (Spraypaint, Headset)</Original>
+					<Chinese>Raven 頭盔（噴漆，耳機）</Chinese>
+					<French>Casque Raven (Aérosol, micro-casque)</French>
+					<Spanish>Casco de Raven (pintado con spray, auricular)</Spanish>
+					<Italian>Elmetto Raven (vernice a spruzzo, cuffia)</Italian>
+					<Polish>Hełm Raven (smugi, głowa)</Polish>
+					<Russian>Шлем Raven (распыление, гарнитура)</Russian>
+					<German>Raven Helm (Sprühlack, Headset)</German>
+					<Czech>Přilba Raven (sprejová barva, náhlavní souprava)</Czech>
+					<English>Raven Helmet (Spraypaint, Headset)</English>
+					<Portuguese>Capacete Raven (Tinta spray, headset)</Portuguese>
+					<Korean>레이븐 헬멧(스프레이페인트, 헤드셋)</Korean>
+					<Chinesesimp>Raven 头盔（喷漆，头戴式耳机）</Chinesesimp>
+					<Japanese>レイヴンヘルメット（スプレーペイント、ヘッドセット）</Japanese>
+					<Turkish>Avcı Miğfer (Sprey Boya, Mik. Kulaklık)</Turkish>
+				</Key>
+				<Key ID="STR_A3_O_CfgWeapons_H_HelmetSpecter_cover_khaki_F0">
+					<Original>Raven Helmet (Cover B)</Original>
+					<Chinese>Raven 頭盔（B 型）</Chinese>
+					<French>Casque Raven (tenue B)</French>
+					<Spanish>Casco de Raven (cobertura B)</Spanish>
+					<Italian>Elmetto Raven (copertura B)</Italian>
+					<Polish>Hełm Raven (wariant B)</Polish>
+					<Russian>Шлем Raven (подкладка Т)</Russian>
+					<German>Raven Helm (B-Bezug)</German>
+					<Czech>Přilba Raven (kryt B)</Czech>
+					<English>Raven Helmet (Cover B)</English>
+					<Portuguese>Capacete Raven (cobertura B)</Portuguese>
+					<Korean>레이븐 헬멧(커버 B)</Korean>
+					<Chinesesimp>Raven 头盔（B 罩）</Chinesesimp>
+					<Japanese>レイヴンヘルメット（B カバー）</Japanese>
+					<Turkish>Avcı Miğfer (Siper B)</Turkish>
+				</Key>
+				<Key ID="STR_A3_O_CfgWeapons_H_HelmetSpecter_cover_taiga_F0">
+					<Original>Raven Helmet (Cover T)</Original>
+					<Chinese>Raven 頭盔（T 型）</Chinese>
+					<French>Casque Raven (tenue T)</French>
+					<Spanish>Casco de Raven (cobertura T)</Spanish>
+					<Italian>Elmetto Raven (copertura T)</Italian>
+					<Polish>Hełm Raven (wariant T)</Polish>
+					<Russian>Шлем Raven (подкладка Т)</Russian>
+					<German>Raven Helm (T-Bezug)</German>
+					<Czech>Přilba Raven (kryt T)</Czech>
+					<English>Raven Helmet (Cover T)</English>
+					<Portuguese>Capacete Raven (cobertura T)</Portuguese>
+					<Korean>레이븐 헬멧(커버 T)</Korean>
+					<Chinesesimp>Raven 头盔（T 罩）</Chinesesimp>
+					<Japanese>レイヴンヘルメット（T カバー）</Japanese>
+					<Turkish>Avcı Miğfer (Siper T)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetSpecter_brown_headset_F0">
+					<Original>Raven Helmet (Brown, Headset)</Original>
+					<Chinese>Raven 頭盔（棕色，耳機）</Chinese>
+					<French>Casque Raven (marron, micro-casque)</French>
+					<Spanish>Casco de Raven (marrón, auricular)</Spanish>
+					<Italian>Elmetto Raven (marrone, cuffia)</Italian>
+					<Polish>Hełm Raven (brązowy, głowa)</Polish>
+					<Russian>Шлем Raven (коричневая, гарнитура)</Russian>
+					<German>Raven Helm (braun, Headset)</German>
+					<Czech>Přilba Raven (hnědý, náhlavní souprava)</Czech>
+					<English>Raven Helmet (Brown, Headset)</English>
+					<Portuguese>Capacete Raven (marrom, headset)</Portuguese>
+					<Korean>레이븐 헬멧(갈색, 헤드셋)</Korean>
+					<Chinesesimp>Raven 头盔（棕色，头戴式耳机）</Chinesesimp>
+					<Japanese>レイヴンヘルメット（茶、ヘッドセット）</Japanese>
+					<Turkish>Avcı Miğfer (Kahverengi, Mik. Kulaklık)</Turkish>
+				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_Booniehat_khk_hs0">
 					<Original>Booniehat (Khaki, Headset)</Original>
 					<Chinese>登山帽（卡其色，耳機）</Chinese>
@@ -5162,6 +5349,23 @@
 					<Japanese>服（タイガ）[ロシア]</Japanese>
 					<Turkish>Asker Kıyafeti (Tayga) [Rusya]</Turkish>
 				</Key>
+				<Key ID="STR_A3_O_CfgWeapons_U_O_R_CombatUniform_tshirt_taiga_F0">
+					<Original>Fatigues (Taiga, Tee) [Russia]</Original>
+					<Chinese>戰鬥服（Taiga, Tee）（俄國）</Chinese>
+					<French>Treillis (taïga, Tee) [Russie]</French>
+					<Spanish>Traje militar (taiga, Tee) [Rusia]</Spanish>
+					<Italian>Fatigues (taiga, Tee) [Russia]</Italian>
+					<Polish>Mundur (tajga, Tee) [Rosja]</Polish>
+					<Russian>Форма (таежная, Tee) [Россия]</Russian>
+					<German>Militäranzug (Taiga, Tee) [Russland]</German>
+					<Czech>Uniforma (tajga, Tee) [Rusko]</Czech>
+					<English>Fatigues (Taiga, Tee) [Russia]</English>
+					<Portuguese>Fardas (taiga, Tee) [Rússia]</Portuguese>
+					<Korean>전투복(침엽수림)[러시아, Tee]</Korean>
+					<Chinesesimp>军装（针叶林）[俄国, Tee]</Chinesesimp>
+					<Japanese>服（タイガ）[ロシア, Tee]</Japanese>
+					<Turkish>Asker Kıyafeti (Tayga, Tee) [Rusya]</Turkish>
+				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_O_R_GhillieSuit_taiga_F0">
 					<Original>Ghillie Suit (Taiga) [Russia]</Original>
 					<Chinese>偽裝服（Taiga）（俄國）</Chinese>
@@ -5280,6 +5484,23 @@
 					<Chinesesimp>军装（干旱）[俄国]</Chinesesimp>
 					<Japanese>服（乾燥地帯）[ロシア]</Japanese>
 					<Turkish>Asker Kıyafeti (Kurak) [Rusya]</Turkish>
+				</Key>
+				<Key ID="STR_A3_O_CfgWeapons_U_O_R_CombatUniform_tshirt_arid_F0">
+					<Original>Fatigues (Arid, Tee) [Russia]</Original>
+					<Chinese>戰鬥服（乾燥氣候, Tee）（俄國）</Chinese>
+					<French>Treillis (désert, Tee) [Russie]</French>
+					<Spanish>Traje militar (árido, Tee) [Rusia]</Spanish>
+					<Italian>Fatigues (arido, Tee) [Russia]</Italian>
+					<Polish>Mundur (region suchy, Tee) [Rosja]</Polish>
+					<Russian>Форма (пустынный, Tee) [Россия]</Russian>
+					<German>Militäranzug (Karg, Tee) [Russland]</German>
+					<Czech>Uniforma (suchý, Tee) [Rusko]</Czech>
+					<English>Fatigues (Arid, Tee) [Russia]</English>
+					<Portuguese>Fardas (árido, Tee) [Rússia]</Portuguese>
+					<Korean>전투복(황폐, Tee)[러시아]</Korean>
+					<Chinesesimp>军装（干旱, Tee）[俄国]</Chinesesimp>
+					<Japanese>服（乾燥地帯, Tee）[ロシア]</Japanese>
+					<Turkish>Asker Kıyafeti (Kurak, Tee) [Rusya]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_O_R_GhillieSuit_arid_F0">
 					<Original>Ghillie Suit (Arid) [Russia]</Original>
@@ -6885,6 +7106,40 @@
 					<Japanese>Heliotrope</Japanese>
 					<Turkish>Heliotrope</Turkish>
 				</Key>
+				<Key ID="STR_A3_A_Ravenholme">
+					<Original>Ravenholme</Original>
+					<Chinese>Ravenholme</Chinese>
+					<French>Ravenholme</French>
+					<Spanish>Ravenholme</Spanish>
+					<Italian>Ravenholme</Italian>
+					<Polish>Ravenholme</Polish>
+					<Russian>Ravenholme</Russian>
+					<German>Ravenholme</German>
+					<Czech>Ravenholme</Czech>
+					<English>Ravenholme</English>
+					<Portuguese>Ravenholme</Portuguese>
+					<Korean>Ravenholme</Korean>
+					<Chinesesimp>Ravenholme</Chinesesimp>
+					<Japanese>Ravenholme</Japanese>
+					<Turkish>Ravenholme</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_BranFlakes">
+					<Original>Bran Flakes</Original>
+					<Chinese>Bran Flakes</Chinese>
+					<French>Bran Flakes</French>
+					<Spanish>Bran Flakes</Spanish>
+					<Italian>Bran Flakes</Italian>
+					<Polish>Bran Flakes</Polish>
+					<Russian>Bran Flakes</Russian>
+					<German>Bran Flakes</German>
+					<Czech>Bran Flakes</Czech>
+					<English>Bran Flakes</English>
+					<Portuguese>Bran Flakes</Portuguese>
+					<Korean>Bran Flakes</Korean>
+					<Chinesesimp>Bran Flakes</Chinesesimp>
+					<Japanese>Bran Flakes</Japanese>
+					<Turkish>Bran Flakes</Turkish>
+				</Key>
 				<Key ID="STR_A3_A_Kydoimos">
 					<Original>Kydoimos</Original>
 					<Chinese>Kydoimos</Chinese>
@@ -6969,6 +7224,23 @@
 					<Chinesesimp>PlusUltra</Chinesesimp>
 					<Japanese>PlusUltra</Japanese>
 					<Turkish>PlusUltra</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_lilithsspawn">
+					<Original>lilithsspawn</Original>
+					<Chinese>lilithsspawn</Chinese>
+					<French>lilithsspawn</French>
+					<Spanish>lilithsspawn</Spanish>
+					<Italian>lilithsspawn</Italian>
+					<Polish>lilithsspawn</Polish>
+					<Russian>lilithsspawn</Russian>
+					<German>lilithsspawn</German>
+					<Czech>lilithsspawn</Czech>
+					<English>lilithsspawn</English>
+					<Portuguese>lilithsspawn</Portuguese>
+					<Korean>lilithsspawn</Korean>
+					<Chinesesimp>lilithsspawn</Chinesesimp>
+					<Japanese>lilithsspawn</Japanese>
+					<Turkish>lilithsspawn</Turkish>
 				</Key>
 			</Container>
 			<Container name="Faction_Classes">
@@ -7090,6 +7362,23 @@
 					<Chinesesimp>俄国</Chinesesimp>
 					<Japanese>ロシア</Japanese>
 					<Turkish>Rusya</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgFactionClasses_OPF_Raven_F0">
+					<Original>Raven Security</Original>
+					<Chinese>掠奪</Chinese>
+					<French>Corbeau</French>
+					<Spanish>Cuervo</Spanish>
+					<Italian>Corvo</Italian>
+					<Polish>Kruk</Polish>
+					<Russian>Ворон</Russian>
+					<German>Rabe</German>
+					<Czech>Havran</Czech>
+					<English>Raven Security</English>
+					<Portuguese>Raven Security</Portuguese>
+					<Korean>갈가마귀</Korean>
+					<Chinesesimp>掠夺</Chinesesimp>
+					<Japanese>カラス</Japanese>
+					<Turkish>Kuzgun</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgFactionClasses_BLU_CTRG_tna_F0">
 					<Original>CTRG (Pacific)</Original>
@@ -7865,6 +8154,40 @@
                 <Chinesesimp>灰色</Chinesesimp>
                 <Japanese>灰色</Japanese>
                 <Turkish>Gri</Turkish>
+            </Key>
+			<Key ID="STR_A3_TEXTURESOURCES_RUSSIANSTAR0">
+                <Original>Black (Star)</Original>
+                <Chinese>Black (Star)</Chinese>
+                <French>Black (Star)</French>
+                <Spanish>Black (Star)</Spanish>
+                <Italian>Black (Star)</Italian>
+                <Polish>Black (Star)</Polish>
+                <Russian>Black (Star)</Russian>
+                <German>Black (Star)</German>
+                <Czech>Black (Star)</Czech>
+                <English>Black (Star)</English>
+                <Portuguese>Black (Star)</Portuguese>
+                <Korean>Black (Star)</Korean>
+                <Chinesesimp>Black (Star)</Chinesesimp>
+                <Japanese>Black (Star)</Japanese>
+                <Turkish>Black (Star)</Turkish>
+            </Key>
+			<Key ID="STR_A3_TEXTURESOURCES_RUSSIANSTARFLAG0">
+                <Original>Black (Star, Flag)</Original>
+                <Chinese>Black (Star, Flag)</Chinese>
+                <French>Black (Star, Flag)</French>
+                <Spanish>Black (Star, Flag)</Spanish>
+                <Italian>Black (Star, Flag)</Italian>
+                <Polish>Black (Star, Flag)</Polish>
+                <Russian>Black (Star, Flag)</Russian>
+                <German>Black (Star, Flag)</German>
+                <Czech>Black (Star, Flag)</Czech>
+                <English>Black (Star, Flag)</English>
+                <Portuguese>Black (Star, Flag)</Portuguese>
+                <Korean>Black (Star, Flag)</Korean>
+                <Chinesesimp>Black (Star, Flag)</Chinesesimp>
+                <Japanese>Black (Star, Flag)</Japanese>
+                <Turkish>Black (Star, Flag)</Turkish>
             </Key>
 			<Key ID="STR_A3_A_TEXTURESOURCES_RUS0">
 				<Original>Russia</Original>

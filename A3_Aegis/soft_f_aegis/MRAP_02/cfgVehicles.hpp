@@ -116,6 +116,7 @@ class CfgVehicles
 		};
 	};
     #include "cfgRUS.hpp"   // Russia
+	#include "cfgRaven.hpp" // Raven Security
 
     /* Deprecated */
     #include "deprecated.hpp"

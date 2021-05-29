@@ -4201,5 +4201,48 @@ class CfgGroups
 				};
 			};
 		};
+		class IND_E_ard_F
+		{
+			name = $STR_A3_A_CfgFactionClasses_BLU_ION_F0;
+			class Infantry
+			{
+				name = $STR_A3_CfgGroups_West_BLU_F_Infantry0;
+				class I_E_ard_InfSquad
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfSquad0;
+					side = TGuerilla;
+					faction = IND_E_ard_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_inf.paa";
+					GROUP_UNIT(0,TGuerilla,I_E_Soldier_TL_ard_F,SERGEANT,0,0);
+					GROUP_UNIT(1,TGuerilla,I_E_Soldier_ard_F,PRIVATE,5,-5);
+					GROUP_UNIT(2,TGuerilla,I_E_Soldier_LAT_ard_F,CORPORAL,-5,-5);
+					GROUP_UNIT(3,TGuerilla,I_E_Soldier_M_ard_F,PRIVATE,10,-10);
+					GROUP_UNIT(4,TGuerilla,I_E_Soldier_GL_ard_F,SERGEANT,-10,-10);
+					GROUP_UNIT(5,TGuerilla,I_E_Soldier_AR_ard_F,CORPORAL,15,-15);
+					GROUP_UNIT(6,TGuerilla,I_E_Engineer_ard_F,PRIVATE,-15,-15);
+					GROUP_UNIT(7,TGuerilla,I_E_Soldier_Medic_ard_F,PRIVATE,20,-20);
+				};
+				class I_E_ard_InfTeam
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfTeam0;
+					side = TGuerilla;
+					faction = IND_E_ard_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_inf.paa";
+					GROUP_UNIT(0,TGuerilla,I_E_Soldier_TL_ard_F,SERGEANT,0,0);
+					GROUP_UNIT(1,TGuerilla,I_E_Soldier_AR_ard_F,CORPORAL,5,-5);
+					GROUP_UNIT(2,TGuerilla,I_E_Soldier_GL_ard_F,PRIVATE,-5,-5);
+					GROUP_UNIT(3,TGuerilla,I_E_Soldier_LAT_ard_F,PRIVATE,10,-10);
+				};
+				class I_E_ard_InfSentry
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfSentry0;
+					side = TGuerilla;
+					faction = IND_E_ard_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_inf.paa";
+					GROUP_UNIT(0,TGuerilla,I_E_Soldier_GL_ard_F,CORPORAL,0,0);
+					GROUP_UNIT(1,TGuerilla,I_E_Soldier_ard_F,PRIVATE,5,-5);
+				};
+			};
+		};
 	};
 };

@@ -52,6 +52,20 @@ class CfgVehicles
 				textures[] = {"\A3_Aegis\Air_F_Aegis\Heli_Light_02\Data\Heli_Light_02_ext_ghex_CO.paa"};
 				faction[] = {};
 			};
+			class Russian
+			{
+				displayName = $STR_A3_TEXTURESOURCES_RUSSIANSTAR0;
+				author = $STR_A3_A_lilithsspawn;
+				textures[] = {"\A3_Aegis\Air_F_Aegis\Heli_Light_02\Data\Heli_Light_02_ext_RUS_CO.paa"};
+				faction[] = {};
+			};
+			class Russian2
+			{
+				displayName = $STR_A3_TEXTURESOURCES_RUSSIANSTARFLAG0;
+				author = $STR_A3_A_lilithsspawn;
+				textures[] = {"\A3_Aegis\Air_F_Aegis\Heli_Light_02\Data\Heli_Light_02_ext_RUS2_CO.paa"};
+				faction[] = {};
+			};
 		};
 
 		class EventHandlers;
