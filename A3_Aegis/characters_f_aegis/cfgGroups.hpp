@@ -4203,7 +4203,7 @@ class CfgGroups
 		};
 		class IND_E_ard_F
 		{
-			name = $STR_A3_A_CfgFactionClasses_BLU_ION_F0;
+			name = $STR_A3_A_CfgFactionClasses_IND_E_ard_F0;
 			class Infantry
 			{
 				name = $STR_A3_CfgGroups_West_BLU_F_Infantry0;
