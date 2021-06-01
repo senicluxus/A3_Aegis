@@ -371,7 +371,7 @@ class O_R_PilotCoveralls_01_F: O_Pilot_F
     scope = protected;
     scopeCurator = protected;
 	uniformClass = U_O_R_PilotCoveralls;
-	hiddenSelectionsTextures[] = {"\A3_Aegis\Characters_F_Aegis\Uniforms\Data\pilot_suit_RUtaiga_CO.paa"};
+	hiddenSelectionsTextures[] = {"\A3_Aegis\Characters_F_Aegis\Uniforms\Data\pilot_suit_rus_co.paa"};
 };
 class O_R_Wetsuit_01_F: O_diver_F
 {

@@ -199,8 +199,8 @@ class O_R_Heli_Transport_04_F: O_Heli_Transport_04_F
 	textureList[] = {Black,1};
 	hiddenSelectionsTextures[] =
 	{
-		"\A3\Air_F_Heli\Heli_Transport_04\Data\Heli_Transport_04_base_01_black_CO.paa",
-		"\A3\Air_F_Heli\Heli_Transport_04\Data\Heli_Transport_04_base_02_black_CO.paa"
+		"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS_02_CO.paa",
+		"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS2_02_CO.paa"
 	};
 
     /* Turrets */
@@ -412,10 +412,10 @@ class O_R_Heli_Transport_04_ammo_F: O_Heli_Transport_04_ammo_F
 	textureList[] = {Black,1};
 	hiddenSelectionsTextures[] =
 	{
-		"\A3\Air_F_Heli\Heli_Transport_04\Data\Heli_Transport_04_base_01_black_CO.paa",
-		"\A3\Air_F_Heli\Heli_Transport_04\Data\Heli_Transport_04_base_02_black_CO.paa",
-		"\A3\Air_F_Heli\Heli_Transport_04\Data\Heli_Transport_04_Pod_Ext01_black_CO.paa",
-		"\A3\Air_F_Heli\Heli_Transport_04\Data\Heli_Transport_04_Pod_Ext02_black_CO.paa"
+		"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS_02_CO.paa",
+		"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS2_02_CO.paa",
+		"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_Pod_Ext01_RUS_CO.paa",
+		"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_Pod_Ext02_RUS_CO.paa"
 	};
 
     /* Turrets */
@@ -629,8 +629,8 @@ class O_R_Heli_Transport_04_bench_F: O_Heli_Transport_04_bench_F
 	textureList[] = {Black,1};
 	hiddenSelectionsTextures[] =
 	{
-		"\A3\Air_F_Heli\Heli_Transport_04\Data\Heli_Transport_04_base_01_black_CO.paa",
-		"\A3\Air_F_Heli\Heli_Transport_04\Data\Heli_Transport_04_base_02_black_CO.paa",
+		"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS_02_CO.paa",
+		"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS2_02_CO.paa",
 		"\A3\Air_F_Heli\Heli_Transport_04\Data\Heli_Transport_04_Bench_black_CO.paa"
 	};
 
@@ -864,10 +864,10 @@ class O_R_Heli_Transport_04_box_F: O_Heli_Transport_04_box_F
 	textureList[] = {Black,1};
 	hiddenSelectionsTextures[] =
 	{
-		"\A3\Air_F_Heli\Heli_Transport_04\Data\Heli_Transport_04_base_01_black_CO.paa",
-		"\A3\Air_F_Heli\Heli_Transport_04\Data\Heli_Transport_04_base_02_black_CO.paa",
-		"\A3\Air_F_Heli\Heli_Transport_04\Data\Heli_Transport_04_Pod_Ext01_black_CO.paa",
-		"\A3\Air_F_Heli\Heli_Transport_04\Data\Heli_Transport_04_Pod_Ext02_black_CO.paa"
+		"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS_02_CO.paa",
+		"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS2_02_CO.paa",
+		"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_Pod_Ext01_RUS_CO.paa",
+		"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_Pod_Ext02_RUS_CO.paa"
 	};
 
     /* Turrets */
@@ -1143,10 +1143,10 @@ class O_R_Heli_Transport_04_covered_F: O_Heli_Transport_04_covered_F
 	textureList[] = {Black,1};
 	hiddenSelectionsTextures[] =
 	{
-		"\A3\Air_F_Heli\Heli_Transport_04\Data\Heli_Transport_04_base_01_black_CO.paa",
-		"\A3\Air_F_Heli\Heli_Transport_04\Data\Heli_Transport_04_base_02_black_CO.paa",
-		"\A3\Air_F_Heli\Heli_Transport_04\Data\Heli_Transport_04_Pod_Ext01_black_CO.paa",
-		"\A3\Air_F_Heli\Heli_Transport_04\Data\Heli_Transport_04_Pod_Ext02_black_CO.paa"
+		"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS_02_CO.paa",
+		"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS2_02_CO.paa",
+		"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_Pod_Ext01_RUS_CO.paa",
+		"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_Pod_Ext02_RUS_CO.paa"
 	};
 
     /* Turrets */
@@ -1360,9 +1360,9 @@ class O_R_Heli_Transport_04_fuel_F: O_Heli_Transport_04_fuel_F
 	textureList[] = {Black,1};
 	hiddenSelectionsTextures[] =
 	{
-		"\A3\Air_F_Heli\Heli_Transport_04\Data\Heli_Transport_04_base_01_black_CO.paa",
-		"\A3\Air_F_Heli\Heli_Transport_04\Data\Heli_Transport_04_base_02_black_CO.paa",
-		"\A3\Air_F_Heli\Heli_Transport_04\Data\Heli_Transport_04_Fuel_black_CO.paa"
+		"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS_02_CO.paa",
+		"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS2_02_CO.paa",
+		"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_Fuel_RUS_CO.paa"
 	};
 
     /* Turrets */
@@ -1579,10 +1579,10 @@ class O_R_Heli_Transport_04_medevac_F: O_Heli_Transport_04_medevac_F
 	textureList[] = {Black,1};
 	hiddenSelectionsTextures[] =
 	{
-		"\A3\Air_F_Heli\Heli_Transport_04\Data\Heli_Transport_04_base_01_black_CO.paa",
-		"\A3\Air_F_Heli\Heli_Transport_04\Data\Heli_Transport_04_base_02_black_CO.paa",
-		"\A3\Air_F_Heli\Heli_Transport_04\Data\Heli_Transport_04_Pod_Ext01_black_CO.paa",
-		"\A3\Air_F_Heli\Heli_Transport_04\Data\Heli_Transport_04_Pod_Ext02_black_CO.paa"
+		"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS_02_CO.paa",
+		"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS2_02_CO.paa",
+		"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_Pod_Ext01_RUS_CO.paa",
+		"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_Pod_Ext02_RUS_CO.paa"
 	};
 
     /* Turrets */
@@ -1794,10 +1794,10 @@ class O_R_Heli_Transport_04_repair_F: O_Heli_Transport_04_repair_F
 	textureList[] = {Black,1};
 	hiddenSelectionsTextures[] =
 	{
-		"\A3\Air_F_Heli\Heli_Transport_04\Data\Heli_Transport_04_base_01_black_CO.paa",
-		"\A3\Air_F_Heli\Heli_Transport_04\Data\Heli_Transport_04_base_02_black_CO.paa",
-		"\A3\Air_F_Heli\Heli_Transport_04\Data\Heli_Transport_04_Pod_Ext01_black_CO.paa",
-		"\A3\Air_F_Heli\Heli_Transport_04\Data\Heli_Transport_04_Pod_Ext02_black_CO.paa"
+		"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS_02_CO.paa",
+		"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS2_02_CO.paa",
+		"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_Pod_Ext01_RUS_CO.paa",
+		"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_Pod_Ext02_RUS_CO.paa"
 	};
 
     /* Turrets */
