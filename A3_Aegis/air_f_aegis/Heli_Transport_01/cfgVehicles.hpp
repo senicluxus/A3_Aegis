@@ -74,29 +74,6 @@ class CfgVehicles
             0.0     // Air
         };
 	    availableForSupportTypes[] = {Transport};
-
-        /* Inventory */
-		class TransportBackpacks
-		{
-			bag_xx(B_Parachute,3);
-		};
-		class TransportMagazines{/* Medical vehicle, let's wipe these */};
-		class TransportWeapons{/* Medical vehicle, let's wipe these */};
-		class TransportItems
-		{
-			item_xx(FirstAidKit,15);
-			item_xx(ToolKit,1);
-			item_xx(Medikit,2);
-			item_xx(ItemGPS,1);
-		};
-
-        /* Turrets */
-        class Turrets: Turrets
-        {
-			class CopilotTurret: CopilotTurret{};
-			class MainTurret{/* Medical vehicle, let's wipe these */};
-			class RightDoorGun{/* Medical vehicle, let's wipe these */};
-        };
 	};
 
     /* Factions */
