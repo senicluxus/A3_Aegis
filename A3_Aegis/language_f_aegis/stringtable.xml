@@ -2440,6 +2440,23 @@
 					<Japanese>レイヴンヘルメット</Japanese>
 					<Turkish>Avcı Miğfer</Turkish>
 				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetSpecter_cover_UNO_F0">
+					<Original>Raven Helmet (Cover UNO)</Original>
+					<Chinese>Raven 頭盔 (Cover UNO)</Chinese>
+					<French>Casque Raven (Cover UNO)</French>
+					<Spanish>Casco de Raven (Cover UNO)</Spanish>
+					<Italian>Elmetto Raven (Cover UNO)</Italian>
+					<Polish>Hełm Raven (Cover UNO)</Polish>
+					<Russian>Шлем Raven (Cover UNO)</Russian>
+					<German>Raven Helm (Cover UNO)</German>
+					<Czech>Přilba Raven (Cover UNO)</Czech>
+					<English>Raven Helmet (Cover UNO)</English>
+					<Portuguese>Capacete Raven (Cover UNO)</Portuguese>
+					<Korean>레이븐 헬멧 (Cover UNO)</Korean>
+					<Chinesesimp>Raven 头盔 (Cover UNO)</Chinesesimp>
+					<Japanese>レイヴンヘルメット (Cover UNO)</Japanese>
+					<Turkish>Avcı Miğfer (Cover UNO)</Turkish>
+				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_HelmetSpecter_cover_whex_F0">
 					<Original>Raven Helmet (Cover W)</Original>
 					<Chinese>Raven 頭盔 (Cover W)</Chinese>
