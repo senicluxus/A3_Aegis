@@ -68,9 +68,6 @@ class CfgVehicles
 						hardpoints[] += {20MM_CANNON};
 					};
 					class PylonRight1: PylonLeft1
-					{
-						hardpoints[] += {20MM_CANNON};
-					};
 				};
 			};
 		};
