@@ -196,7 +196,7 @@ class O_R_Heli_Transport_04_F: O_Heli_Transport_04_F
 	faction = OPF_R_F;
 	crew = O_R_helipilot_F;
 	typicalCargo[] = {O_R_Soldier_lite_F};
-	textureList[] = {Black,1};
+	textureList[] = {Russian2,1};
 	hiddenSelectionsTextures[] =
 	{
 		"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS_02_CO.paa",
@@ -409,7 +409,7 @@ class O_R_Heli_Transport_04_ammo_F: O_Heli_Transport_04_ammo_F
 	faction = OPF_R_F;
 	crew = O_R_helipilot_F;
 	typicalCargo[] = {O_R_Soldier_lite_F};
-	textureList[] = {Black,1};
+	textureList[] = {Russian2,1};
 	hiddenSelectionsTextures[] =
 	{
 		"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS_02_CO.paa",
@@ -626,7 +626,7 @@ class O_R_Heli_Transport_04_bench_F: O_Heli_Transport_04_bench_F
 	faction = OPF_R_F;
 	crew = O_R_helipilot_F;
 	typicalCargo[] = {O_R_Soldier_lite_F};
-	textureList[] = {Black,1};
+	textureList[] = {Russian2,1};
 	hiddenSelectionsTextures[] =
 	{
 		"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS_02_CO.paa",
@@ -861,7 +861,7 @@ class O_R_Heli_Transport_04_box_F: O_Heli_Transport_04_box_F
 	faction = OPF_R_F;
 	crew = O_R_helipilot_F;
 	typicalCargo[] = {O_R_Soldier_lite_F};
-	textureList[] = {Black,1};
+	textureList[] = {Russian2,1};
 	hiddenSelectionsTextures[] =
 	{
 		"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS_02_CO.paa",
@@ -1140,7 +1140,7 @@ class O_R_Heli_Transport_04_covered_F: O_Heli_Transport_04_covered_F
 	faction = OPF_R_F;
 	crew = O_R_helipilot_F;
 	typicalCargo[] = {O_R_Soldier_lite_F};
-	textureList[] = {Black,1};
+	textureList[] = {Russian2,1};
 	hiddenSelectionsTextures[] =
 	{
 		"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS_02_CO.paa",
@@ -1357,7 +1357,7 @@ class O_R_Heli_Transport_04_fuel_F: O_Heli_Transport_04_fuel_F
 	faction = OPF_R_F;
 	crew = O_R_helipilot_F;
 	typicalCargo[] = {O_R_Soldier_lite_F};
-	textureList[] = {Black,1};
+	textureList[] = {Russian2,1};
 	hiddenSelectionsTextures[] =
 	{
 		"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS_02_CO.paa",
@@ -1576,7 +1576,7 @@ class O_R_Heli_Transport_04_medevac_F: O_Heli_Transport_04_medevac_F
 	faction = OPF_R_F;
 	crew = O_R_helipilot_F;
 	typicalCargo[] = {O_R_Soldier_lite_F};
-	textureList[] = {Black,1};
+	textureList[] = {Russian2,1};
 	hiddenSelectionsTextures[] =
 	{
 		"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS_02_CO.paa",
@@ -1791,7 +1791,7 @@ class O_R_Heli_Transport_04_repair_F: O_Heli_Transport_04_repair_F
 	faction = OPF_R_F;
 	crew = O_R_helipilot_F;
 	typicalCargo[] = {O_R_Soldier_lite_F};
-	textureList[] = {Black,1};
+	textureList[] = {Russian2,1};
 	hiddenSelectionsTextures[] =
 	{
 		"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS_02_CO.paa",
