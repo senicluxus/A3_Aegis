@@ -37,6 +37,28 @@ class CfgVehicles
 				};
 				factions[] = {};
 			};
+			class Russian
+			{
+				displayName = $STR_A3_TEXTURESOURCES_RUSSIANSTAR0;
+				author = $STR_A3_A_lilithsspawn;
+				textures[] =
+				{
+					"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS_01_CO.paa",
+					"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS2_02_CO.paa"
+				};
+				factions[] = {};
+			};
+			class Russian2
+			{
+				displayName = $STR_A3_TEXTURESOURCES_RUSSIANSTARFLAG0;
+				author = $STR_A3_A_lilithsspawn;
+				textures[] =
+				{
+					"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS_02_CO.paa",
+					"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS2_02_CO.paa"
+				};
+				factions[] = {};
+			};
 		};
 	};
 	class Pod_Heli_Transport_04_crewed_base_F: StaticWeapon
@@ -59,6 +81,28 @@ class CfgVehicles
 				};
 				factions[] = {};
 			};
+			class Russian
+			{
+				displayName = $STR_A3_TEXTURESOURCES_RUSSIANSTAR0;
+				author = $STR_A3_A_lilithsspawn;
+				textures[] =
+				{
+					"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS_01_CO.paa",
+					"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS2_02_CO.paa"
+				};
+				factions[] = {};
+			};
+			class Russian2
+			{
+				displayName = $STR_A3_TEXTURESOURCES_RUSSIANSTARFLAG0;
+				author = $STR_A3_A_lilithsspawn;
+				textures[] =
+				{
+					"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS_02_CO.paa",
+					"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS2_02_CO.paa"
+				};
+				factions[] = {};
+			};
 		};
 	};
 	class Pod_Heli_Transport_04_base_F: Slingload_base_F
@@ -78,6 +122,17 @@ class CfgVehicles
 				{
 					"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_Pod_Ext01_ghex_CO.paa",
 					"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_Pod_Ext02_ghex_CO.paa"
+				};
+				factions[] = {};
+			};
+			class Russian
+			{
+				displayName = $STR_A3_TEXTURESOURCES_RUSSIANSTAR0;
+				author = $STR_A3_A_lilithsspawn;
+				textures[] =
+				{
+					"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_Pod_Ext01_RUS_CO.paa",
+					"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_Pod_Ext02_RUS_CO.paa"
 				};
 				factions[] = {};
 			};

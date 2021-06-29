@@ -41,7 +41,7 @@ class U_O_R_PilotCoveralls: Uniform_Base
 	picture = "\A3_Aegis\Characters_F_Aegis\Uniforms\Data\UI\icon_U_O_R_PilotCoveralls_CA.paa";
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
 	hiddenSelections[] = {camo};
-	hiddenSelectionsTextures[] = {"\A3_Aegis\Characters_F_Aegis\Uniforms\Data\pilot_suit_RUtaiga_CO.paa"};
+	hiddenSelectionsTextures[] = {"\A3_Aegis\Characters_F_Aegis\Uniforms\Data\pilot_suit_rus_co.paa"};
 	class ItemInfo: UniformItem
 	{
 		uniformModel = "-";
