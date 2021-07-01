@@ -4254,7 +4254,7 @@ class CfgGroups
 				{
 					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfSquad0;
 					side = TGuerilla;
-					faction = IND_E_ard_F;
+					faction = IND_Raven_F;
 					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_inf.paa";
 					GROUP_UNIT(0,TGuerilla,I_Raven_soldier_TL_F,SERGEANT,0,0);
 					GROUP_UNIT(1,TGuerilla,I_Raven_soldier_F,PRIVATE,5,-5);
@@ -4269,7 +4269,7 @@ class CfgGroups
 				{
 					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfTeam0;
 					side = TGuerilla;
-					faction = IND_E_ard_F;
+					faction = IND_Raven_F;
 					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_inf.paa";
 					GROUP_UNIT(0,TGuerilla,I_Raven_soldier_TL_F,SERGEANT,0,0);
 					GROUP_UNIT(1,TGuerilla,I_Raven_soldier_MG_F,CORPORAL,5,-5);
@@ -4280,7 +4280,7 @@ class CfgGroups
 				{
 					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfSentry0;
 					side = TGuerilla;
-					faction = IND_E_ard_F;
+					faction = IND_Raven_F;
 					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_inf.paa";
 					GROUP_UNIT(0,TGuerilla,I_Raven_soldier_GL_F,CORPORAL,0,0);
 					GROUP_UNIT(1,TGuerilla,I_Raven_soldier_F,PRIVATE,5,-5);
