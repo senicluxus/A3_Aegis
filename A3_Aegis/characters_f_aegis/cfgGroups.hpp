@@ -4246,7 +4246,7 @@ class CfgGroups
 		};
 		class IND_Raven_F
 		{
-			name = $STR_A3_A_CfgFactionClasses_OPF_Raven_F0;
+			name = $STR_A3_A_CfgFactionClasses_IND_Raven_F0;
 			class Infantry
 			{
 				name = $STR_A3_CfgGroups_West_BLU_F_Infantry0;
