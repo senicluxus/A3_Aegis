@@ -113,8 +113,7 @@ class CfgFactionClasses
 	};
 	class IND_Raven_F
 	{
-		//displayName = $STR_A3_A_CfgFactionClasses_IND_Raven_F0;
-		displayName = $STR_A3_A_CfgFactionClasses_OPF_Raven_F0;
+		displayName = $STR_A3_A_CfgFactionClasses_IND_Raven_F0;
 		priority = 3;
 		side = TGuerrila;
 		icon = "\A3_Aegis\Data_F_Aegis\FactionIcons\CfgFactionClasses_IND_R_CA.paa";
