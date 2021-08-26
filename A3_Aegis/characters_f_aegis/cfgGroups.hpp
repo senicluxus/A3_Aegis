@@ -4250,7 +4250,7 @@ class CfgGroups
 			class Infantry
 			{
 				name = $STR_A3_CfgGroups_West_BLU_F_Infantry0;
-				class I_E_ard_InfSquad
+				class I_Raven_InfSquad
 				{
 					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfSquad0;
 					side = TGuerilla;
@@ -4265,7 +4265,7 @@ class CfgGroups
 					GROUP_UNIT(6,TGuerilla,I_Raven_engineer_F,PRIVATE,-15,-15);
 					GROUP_UNIT(7,TGuerilla,I_Raven_medic_F,PRIVATE,20,-20);
 				};
-				class I_E_ard_InfTeam
+				class I_Raven_InfTeam
 				{
 					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfTeam0;
 					side = TGuerilla;
@@ -4276,7 +4276,7 @@ class CfgGroups
 					GROUP_UNIT(2,TGuerilla,I_Raven_soldier_GL_F,PRIVATE,-5,-5);
 					GROUP_UNIT(3,TGuerilla,I_Raven_soldier_LAT_F,PRIVATE,10,-10);
 				};
-				class I_E_ard_InfSentry
+				class I_Raven_InfSentry
 				{
 					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfSentry0;
 					side = TGuerilla;
