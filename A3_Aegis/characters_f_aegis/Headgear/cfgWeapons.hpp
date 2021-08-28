@@ -2563,7 +2563,7 @@ class CfgWeapons
 			};
 		};
 	};
-    class H_MK7_atacsau_F: H_MK7_Base_F
+    /*class H_MK7_atacsau_F: H_MK7_Base_F
     {
         author = "Bran Flakes and TacticalDruid";
         scope = public;
@@ -2592,7 +2592,7 @@ class CfgWeapons
          	"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetSpecter_01_brown_CO.paa",
          	"\A3_Aegis\Characters_F_Aegis\Headgear\Data\equip_d_co.paa"
         };
-    };
+    };*/
     class H_MK7_AAF_F: H_MK7_Base_F
     {
         author = "Bran Flakes and TacticalDruid";
