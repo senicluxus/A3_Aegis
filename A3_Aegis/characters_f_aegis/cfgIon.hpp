@@ -11,6 +11,10 @@ class B_ION_Man_Base_F: B_G_Soldier_F
 		LanguageENGB_F,
 		LanguageENG_F,
 		Head_NATO,
+		Head_Euro,
+		Head_Enoch,
+		Head_Asian,
+		Head_Tanoan,
 		G_ION_default
 	};
 };
