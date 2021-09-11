@@ -4220,7 +4220,7 @@ class CfgGroups
 					GROUP_UNIT(4,TGuerilla,I_E_Soldier_GL_ard_F,SERGEANT,-10,-10);
 					GROUP_UNIT(5,TGuerilla,I_E_Soldier_AR_ard_F,CORPORAL,15,-15);
 					GROUP_UNIT(6,TGuerilla,I_E_Engineer_ard_F,PRIVATE,-15,-15);
-					GROUP_UNIT(7,TGuerilla,I_E_Soldier_Medic_ard_F,PRIVATE,20,-20);
+					GROUP_UNIT(7,TGuerilla,I_E_Medic_ard_F,PRIVATE,20,-20);
 				};
 				class I_E_ard_InfTeam
 				{
