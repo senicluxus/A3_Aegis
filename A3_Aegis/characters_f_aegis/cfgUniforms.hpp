@@ -633,3 +633,21 @@ class O_R_Fatigues_01_Tshirt_arid_F: O_R_Fatigues_01_Tshirt_taiga_F
 		"\A3_Aegis\Characters_F_Aegis\Uniforms\Data\clothing_RUarid_CO.paa"
 	};
 };
+class O_FieldFatigues_F: O_A_officer_F
+{
+    scope = protected;
+    scopeCurator = private;
+	uniformClass = U_O_FieldFatigues_F;
+	model = "\A3_Aegis\Characters_F_Aegis\Uniforms\LUP_Uni.p3d";
+    hiddenSelections[] =
+    {
+        camo1,
+        camo2,
+        insignia
+    };
+    hiddenSelectionsTextures[] =
+    {
+        "\A3_Aegis\Characters_F_Aegis\Uniforms\Data\armour_co.paa",
+        "\A3_Aegis\Characters_F_Aegis\Uniforms\Data\Fielduniform_CO.paa"
+    };
+};
