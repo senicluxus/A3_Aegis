@@ -55,9 +55,9 @@ class CfgVehicles
 				author = $STR_A3_A_lilithsspawn;
 				textures[] =
 				{
-					"\A3_Aegis\Air_F_Aegis\Plane_Fighter_02\Data\Fighter02_ext01_rus_CO.paa",
-					"\A3_Aegis\Air_F_Aegis\Plane_Fighter_02\Data\Fighter02_ext02_rus_CO.paa",
-					"\A3_Aegis\Air_F_Aegis\Plane_Fighter_02\Data\Fighter02_ext01_rus_CO.paa",
+					"\A3_Aegis\Air_F_Aegis\Plane_Fighter_02\Data\Fighter_02_fuselage_01_rus_CO.paa",
+					"\A3_Aegis\Air_F_Aegis\Plane_Fighter_02\Data\Fighter_02_fuselage_01_rus_CO.paa",
+					"\A3_Aegis\Air_F_Aegis\Plane_Fighter_02\Data\Fighter_02_fuselage_01_rus_CO.paa",
 					"\A3\Air_F_Jets\Plane_Fighter_02\Data\Numbers\Fighter_02_number_02_CO.paa",
 					"\A3\Air_F_Jets\Plane_Fighter_02\Data\Numbers\Fighter_02_number_00_CO.paa",
 					"\A3\Air_F_Jets\Plane_Fighter_02\Data\Numbers\Fighter_02_number_01_CO.paa",
