@@ -49,7 +49,7 @@ class CfgVehicles
 				};
 				factions[] = {};
 			};
-			class Russian
+			/*class Russian
 			{
 				displayName = $STR_A3_TEXTURESOURCES_RUSSIANSTARFLAG0;
 				author = $STR_A3_A_lilithsspawn;
@@ -64,7 +64,7 @@ class CfgVehicles
 					"\A3\Data_F\clear_empty.paa"
 				};
 				factions[] = {};
-			};
+			};*/
 		};
 		textureList[] =
 		{
