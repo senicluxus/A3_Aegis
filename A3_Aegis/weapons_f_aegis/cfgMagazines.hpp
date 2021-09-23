@@ -772,7 +772,7 @@ class CfgMagazines
 		count = 6;
 		displayName = "6Rnd M32 Flares (White)";
 		descriptionShort = "Type: Flare Rounds - White<br />Rounds: 6<br />Used in: M32";
-		displayNameShort = STR_A3_CfgMagazines_FlareWhite_F_dns;
+		displayNameShort = $STR_A3_CfgMagazines_FlareWhite_F_dns;
 		mass = 24;
 	};
 	class 6Rnd_UGL_FlareGreen_F: UGL_FlareGreen_F
@@ -781,7 +781,7 @@ class CfgMagazines
 		count = 6;
 		displayName = "6Rnd M32 Flares (Green)";
 		descriptionShort = "Type: Flare Rounds - Green<br />Rounds: 6<br />Used in: M32";
-		displayNameShort = STR_A3_CfgMagazines_FlareGreen_F_dns;
+		displayNameShort = $STR_A3_CfgMagazines_FlareGreen_F_dns;
 		mass = 24;
 	};
 	class 6Rnd_UGL_FlareRed_F: UGL_FlareRed_F
