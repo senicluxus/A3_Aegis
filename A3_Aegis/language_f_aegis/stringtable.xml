@@ -16718,6 +16718,210 @@
 						<Japanese>GLM</Japanese>
 						<Turkish>GLM</Turkish>
 					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_L_F0">
+						<Original>Mk16 5.56 mm</Original>
+						<Chinese>Mk16 5.56 mm</Chinese>
+						<French>Mk16 5,56 mm</French>
+						<Spanish>Mk16 5,56 mm</Spanish>
+						<Italian>Mk16 5,56 mm</Italian>
+						<Polish>Mk16 5,56 mm</Polish>
+						<Russian>Мк16 5,56 мм</Russian>
+						<German>Mk16 5,56 mm</German>
+						<Czech>Mk16 5,56 mm</Czech>
+						<English>Mk16 5.56 mm</English>
+						<Portuguese>Mk16 5.56 mm</Portuguese>
+						<Korean>Mk16 5.56mm</Korean>
+						<Chinesesimp>Mk16 5.56 毫米</Chinesesimp>
+						<Japanese>Mk16 5.56mm</Japanese>
+						<Turkish>Mk16 5.56 mm</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_L_GL_F0">
+						<Original>Mk16C GL 5.56 mm</Original>
+						<Chinese>Mk16C GL 5.56 mm</Chinese>
+						<French>Mk16C GL 5,56 mm</French>
+						<Spanish>Mk16C GL 5,56 mm</Spanish>
+						<Italian>Mk16C GL 5,56 mm</Italian>
+						<Polish>Mk16C GL 5,56 mm</Polish>
+						<Russian>Мк16C GL 5,56 мм</Russian>
+						<German>Mk16C GL 5,56 mm</German>
+						<Czech>Mk16C GL 5,56 mm</Czech>
+						<English>Mk16C GL 5.56 mm</English>
+						<Portuguese>Mk16C GL 5.56 mm</Portuguese>
+						<Korean>Mk16C GL 5.56mm</Korean>
+						<Chinesesimp>Mk16C GL 5.56 毫米</Chinesesimp>
+						<Japanese>Mk16C GL 5.56mm</Japanese>
+						<Turkish>Mk16C GL 5.56 mm</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_L_short_F0">
+						<Original>Mk16C 5.56 mm</Original>
+						<Chinese>Mk16C 5.56 mm</Chinese>
+						<French>Mk16C 5,56 mm</French>
+						<Spanish>Mk16C 5,56 mm</Spanish>
+						<Italian>Mk16C 5,56 mm</Italian>
+						<Polish>Mk16C 5,56 mm</Polish>
+						<Russian>Мк16C 5,56 мм</Russian>
+						<German>Mk16C 5,56 mm</German>
+						<Czech>Mk16C 5,56 mm</Czech>
+						<English>Mk16C 5.56 mm</English>
+						<Portuguese>Mk16C 5.56 mm</Portuguese>
+						<Korean>Mk16C 5.56mm</Korean>
+						<Chinesesimp>Mk16C 5.56 毫米</Chinesesimp>
+						<Japanese>Mk16C 5.56mm</Japanese>
+						<Turkish>Mk16C 5.56 mm</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_L_grip_F0">
+						<Original>Mk16 FG 5.56 mm</Original>
+						<Chinese>Mk16 FG 5.56 mm</Chinese>
+						<French>Mk16 FG 5,56 mm</French>
+						<Spanish>Mk16 FG 5,56 mm</Spanish>
+						<Italian>Mk16 FG 5,56 mm</Italian>
+						<Polish>Mk16 FG 5,56 mm</Polish>
+						<Russian>Мк16 FG 5,56 мм</Russian>
+						<German>Mk16 FG 5,56 mm</German>
+						<Czech>Mk16 FG 5,56 mm</Czech>
+						<English>Mk16 FG 5.56 mm</English>
+						<Portuguese>Mk16 FG 5.56 mm</Portuguese>
+						<Korean>Mk16 FG 5.56mm</Korean>
+						<Chinesesimp>Mk16 FG 5.56 毫米</Chinesesimp>
+						<Japanese>Mk16 FG 5.56mm</Japanese>
+						<Turkish>Mk16 FG 5.56 mm</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_L_black_F0">
+						<Original>Mk16 5.56 mm (Black)</Original>
+						<Chinese>Mk16 5.56 mm（黑）</Chinese>
+						<French>Mk16 5,56 mm (noir)</French>
+						<Spanish>Mk16 5,56 mm (negro)</Spanish>
+						<Italian>Mk16 5,56 mm (nero)</Italian>
+						<Polish>Mk16 5,56 mm (czarny)</Polish>
+						<Russian>Мк16 5,56 мм (черная)</Russian>
+						<German>Mk16 5,56 mm (schwarz)</German>
+						<Czech>Mk16 5,56 mm (černý)</Czech>
+						<English>Mk16 5.56 mm (Black)</English>
+						<Portuguese>Mk16 5.56 mm (preto)</Portuguese>
+						<Korean>Mk16 5.56mm (흑색)</Korean>
+						<Chinesesimp>Mk16 5.56 毫米（黑色）</Chinesesimp>
+						<Japanese>Mk16 5.56mm （黒）</Japanese>
+						<Turkish>Mk16 5.56 mm (Siyah)</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_L_GL_black_F0">
+						<Original>Mk16C GL 5.56 mm (Black)</Original>
+						<Chinese>Mk16C GL 5.56 mm（黑）</Chinese>
+						<French>Mk16C GL 5,56 mm (noir)</French>
+						<Spanish>Mk16C GL 5,56 mm (negro)</Spanish>
+						<Italian>Mk16C GL 5,56 mm (nero)</Italian>
+						<Polish>Mk16C GL 5,56 mm (czarny)</Polish>
+						<Russian>Мк16C GL 5,56 мм (черная)</Russian>
+						<German>Mk16C GL 5,56 mm (schwarz)</German>
+						<Czech>Mk16C GL 5,56 mm (černý)</Czech>
+						<English>Mk16C GL 5.56 mm (Black)</English>
+						<Portuguese>Mk16C GL 5.56 mm (preto)</Portuguese>
+						<Korean>Mk16C GL 5.56mm (흑색)</Korean>
+						<Chinesesimp>Mk16C GL 5.56 毫米（黑色）</Chinesesimp>
+						<Japanese>Mk16C GL 5.56mm （黒）</Japanese>
+						<Turkish>Mk16C GL 5.56 mm (Siyah)</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_L_short_black_F0">
+						<Original>Mk16C 5.56 mm (Black)</Original>
+						<Chinese>Mk16C 5.56 mm（黑）</Chinese>
+						<French>Mk16C 5,56 mm (noir)</French>
+						<Spanish>Mk16C 5,56 mm (negro)</Spanish>
+						<Italian>Mk16C 5,56 mm (nero)</Italian>
+						<Polish>Mk16C 5,56 mm (czarny)</Polish>
+						<Russian>Мк16C 5,56 мм (черная)</Russian>
+						<German>Mk16C 5,56 mm (schwarz)</German>
+						<Czech>Mk16C 5,56 mm (černý)</Czech>
+						<English>Mk16C 5.56 mm (Black)</English>
+						<Portuguese>Mk16C 5.56 mm (preto)</Portuguese>
+						<Korean>Mk16C 5.56mm (흑색)</Korean>
+						<Chinesesimp>Mk16C 5.56 毫米（黑色）</Chinesesimp>
+						<Japanese>Mk16C 5.56mm （黒）</Japanese>
+						<Turkish>Mk16C 5.56 mm (Siyah)</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_L_grip_black_F0">
+						<Original>Mk16 FG 5.56 mm (Black)</Original>
+						<Chinese>Mk16 FG 5.56 mm（黑）</Chinese>
+						<French>Mk16 FG 5,56 mm (noir)</French>
+						<Spanish>Mk16 FG 5,56 mm (negro)</Spanish>
+						<Italian>Mk16 FG 5,56 mm (nero)</Italian>
+						<Polish>Mk16 FG 5,56 mm (czarny)</Polish>
+						<Russian>Мк16 FG 5,56 мм (черная)</Russian>
+						<German>Mk16 FG 5,56 mm (schwarz)</German>
+						<Czech>Mk16 FG 5,56 mm (černý)</Czech>
+						<English>Mk16 FG 5.56 mm (Black)</English>
+						<Portuguese>Mk16 FG 5.56 mm (preto)</Portuguese>
+						<Korean>Mk16 FG 5.56mm (흑색)</Korean>
+						<Chinesesimp>Mk16 FG 5.56 毫米（黑色）</Chinesesimp>
+						<Japanese>Mk16 FG 5.56mm （黒）</Japanese>
+						<Turkish>Mk16 FG 5.56 mm (Siyah)</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_L_khaki_F0">
+						<Original>Mk16 5.56 mm (Khaki)</Original>
+						<Chinese>Mk16 5.56 mm（卡其）</Chinese>
+						<French>Mk16 5,56 mm (kaki)</French>
+						<Spanish>Mk16 5,56 mm (caqui)</Spanish>
+						<Italian>Mk16 5,56 mm (kaki)</Italian>
+						<Polish>Mk16 5,56 mm (khaki)</Polish>
+						<Russian>Мк16 5,56 мм (хаки)</Russian>
+						<German>Mk16 5,56 mm (Khaki)</German>
+						<Czech>Mk16 5,56 mm (khaki)</Czech>
+						<English>Mk16 5.56 mm (Khaki)</English>
+						<Portuguese>Mk16 5.56 mm (cáqui)</Portuguese>
+						<Korean>Mk16 5.56mm (카키)</Korean>
+						<Chinesesimp>Mk16 5.56 毫米（卡其色）</Chinesesimp>
+						<Japanese>Mk16 5.56mm （カーキ）</Japanese>
+						<Turkish>Mk16 5.56 mm (Haki)</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_L_GL_khaki_F0">
+						<Original>Mk16C GL 5.56 mm (Khaki)</Original>
+						<Chinese>Mk16C GL 5.56 mm（卡其）</Chinese>
+						<French>Mk16C GL 5,56 mm (kaki)</French>
+						<Spanish>Mk16C GL 5,56 mm (caqui)</Spanish>
+						<Italian>Mk16C GL 5,56 mm (kaki)</Italian>
+						<Polish>Mk16C GL 5,56 mm (khaki)</Polish>
+						<Russian>Мк16C GL 5,56 мм (хаки)</Russian>
+						<German>Mk16C GL 5,56 mm (Khaki)</German>
+						<Czech>Mk16C GL 5,56 mm (khaki)</Czech>
+						<English>Mk16C GL 5.56 mm (Khaki)</English>
+						<Portuguese>Mk16C GL 5.56 mm (cáqui)</Portuguese>
+						<Korean>Mk16C GL 5.56mm (카키)</Korean>
+						<Chinesesimp>Mk16C GL 5.56 毫米（卡其色）</Chinesesimp>
+						<Japanese>Mk16C GL 5.56mm （カーキ）</Japanese>
+						<Turkish>Mk16C GL 5.56 mm (Haki)</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_L_short_khaki_F0">
+						<Original>Mk16C 5.56 mm (Khaki)</Original>
+						<Chinese>Mk16C 5.56 mm（卡其）</Chinese>
+						<French>Mk16C 5,56 mm (kaki)</French>
+						<Spanish>Mk16C 5,56 mm (caqui)</Spanish>
+						<Italian>Mk16C 5,56 mm (kaki)</Italian>
+						<Polish>Mk16C 5,56 mm (khaki)</Polish>
+						<Russian>Мк16C 5,56 мм (хаки)</Russian>
+						<German>Mk16C 5,56 mm (Khaki)</German>
+						<Czech>Mk16C 5,56 mm (khaki)</Czech>
+						<English>Mk16C 5.56 mm (Khaki)</English>
+						<Portuguese>Mk16C 5.56 mm (cáqui)</Portuguese>
+						<Korean>Mk16C 5.56mm (카키)</Korean>
+						<Chinesesimp>Mk16C 5.56 毫米（卡其色）</Chinesesimp>
+						<Japanese>Mk16C 5.56mm （カーキ）</Japanese>
+						<Turkish>Mk16C 5.56 mm (Haki)</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_L_grip_khaki_F0">
+						<Original>Mk16 FG 5.56 mm (Khaki)</Original>
+						<Chinese>Mk16 FG 5.56 mm（卡其）</Chinese>
+						<French>Mk16 FG 5,56 mm (kaki)</French>
+						<Spanish>Mk16 FG 5,56 mm (caqui)</Spanish>
+						<Italian>Mk16 FG 5,56 mm (kaki)</Italian>
+						<Polish>Mk16 FG 5,56 mm (khaki)</Polish>
+						<Russian>Мк16 FG 5,56 мм (хаки)</Russian>
+						<German>Mk16 FG 5,56 mm (Khaki)</German>
+						<Czech>Mk16 FG 5,56 mm (khaki)</Czech>
+						<English>Mk16 FG 5.56 mm (Khaki)</English>
+						<Portuguese>Mk16 FG 5.56 mm (cáqui)</Portuguese>
+						<Korean>Mk16 FG 5.56mm (카키)</Korean>
+						<Chinesesimp>Mk16 FG 5.56 毫米（卡其色）</Chinesesimp>
+						<Japanese>Mk16 FG 5.56mm （カーキ）</Japanese>
+						<Turkish>Mk16 FG 5.56 mm (Haki)</Turkish>
+					</Key>
 				</Container>
 				<Container name="Library">
 					<Key ID="STR_A3_A_CfgWeapons_arifle_RPK_base_F_Library0">
