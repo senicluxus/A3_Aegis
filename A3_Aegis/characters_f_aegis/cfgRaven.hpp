@@ -584,7 +584,7 @@ class I_Raven_Soldier_UAV_F: I_Raven_soldier_base_F
 		V_HarnessOSpec_blk,
 		G_Tactical_Clear,
 		DefaultManLinkedItems,
-		I_UavTerminal
+		I_UAVTerminal
 	};
 	respawnLinkedItems[] = 
 	{
@@ -592,7 +592,7 @@ class I_Raven_Soldier_UAV_F: I_Raven_soldier_base_F
 		V_HarnessOSpec_blk,
 		G_Tactical_Clear,
 		DefaultManLinkedItems,
-		I_UavTerminal
+		I_UAVTerminal
 	};
     headgearList[] = 
     {
