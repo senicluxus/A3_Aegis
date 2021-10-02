@@ -288,6 +288,7 @@ ItemRadio \
 #define RPM_350 0.17
 #define RPM_450 0.133333
 #define RPM_600 0.1
+#define RPM_625 0.096
 #define RPM_700 0.085
 #define RPM_705 0.0851
 #define RPM_710 0.084

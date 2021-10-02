@@ -540,7 +540,22 @@ class CfgPatches
             B_ION_soldier_UAV_06_F,
             B_ION_soldier_UAV_06_medical_F,
             B_ION_soldier_UGV_02_Demining_F,
-            B_ION_Soldier_unarmed_F
+            B_ION_Soldier_unarmed_F,
+
+            /* From "cfgRaven.hpp" */
+            I_Raven_soldier_F,
+            I_Raven_soldier_GL_F,
+            I_Raven_soldier_MG_F,
+            I_Raven_soldier_TL_F,
+            I_Raven_soldier_M_F,
+            I_Raven_soldier_LAT_F,
+            I_Raven_medic_F,
+            I_Raven_engineer_F,
+            I_Raven_Soldier_UAV_F,
+            I_Raven_soldier_UAV_06_F,
+            I_Raven_soldier_UAV_06_medical_F,
+            I_Raven_Soldier_unarmed_F,
+            I_Raven_Soldier_helipilot_F
         };
 		weapons[] = {/* Automated */};
 	};

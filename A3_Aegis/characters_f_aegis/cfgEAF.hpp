@@ -2564,6 +2564,20 @@ class I_E_soldier_M_ard_F: I_E_Soldier_M_F
 	editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\I_E_soldier_M_ard_F.jpg";
     faction = IND_E_ard_F;
     uniformClass = U_I_E_Uniform_01_arid_F;
+	linkedItems[] =
+	{
+		V_CarrierRigKBT_01_heavy_EAF_F,
+		H_HelmetHBK_arid_F,
+		DefaultManLinkedItems,
+		NVGoggles_INDEP
+	};
+	respawnLinkedItems[] =
+	{
+		V_CarrierRigKBT_01_heavy_EAF_F,
+		H_HelmetHBK_arid_F,
+		DefaultManLinkedItems,
+		NVGoggles_INDEP
+	};
     weapons[] =
     {
         arifle_MSBS65_Mark_sand_SOS_LP_BI_F,

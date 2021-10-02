@@ -7380,7 +7380,7 @@
 					<Japanese>ロシア</Japanese>
 					<Turkish>Rusya</Turkish>
 				</Key>
-				<Key ID="STR_A3_A_CfgFactionClasses_OPF_Raven_F0">
+				<Key ID="STR_A3_A_CfgFactionClasses_IND_Raven_F0">
 					<Original>Raven Security</Original>
 					<Chinese>掠奪</Chinese>
 					<French>Corbeau</French>
@@ -16718,6 +16718,210 @@
 						<Japanese>GLM</Japanese>
 						<Turkish>GLM</Turkish>
 					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_L_F0">
+						<Original>Mk16 5.56 mm</Original>
+						<Chinese>Mk16 5.56 mm</Chinese>
+						<French>Mk16 5,56 mm</French>
+						<Spanish>Mk16 5,56 mm</Spanish>
+						<Italian>Mk16 5,56 mm</Italian>
+						<Polish>Mk16 5,56 mm</Polish>
+						<Russian>Мк16 5,56 мм</Russian>
+						<German>Mk16 5,56 mm</German>
+						<Czech>Mk16 5,56 mm</Czech>
+						<English>Mk16 5.56 mm</English>
+						<Portuguese>Mk16 5.56 mm</Portuguese>
+						<Korean>Mk16 5.56mm</Korean>
+						<Chinesesimp>Mk16 5.56 毫米</Chinesesimp>
+						<Japanese>Mk16 5.56mm</Japanese>
+						<Turkish>Mk16 5.56 mm</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_L_GL_F0">
+						<Original>Mk16C GL 5.56 mm</Original>
+						<Chinese>Mk16C GL 5.56 mm</Chinese>
+						<French>Mk16C GL 5,56 mm</French>
+						<Spanish>Mk16C GL 5,56 mm</Spanish>
+						<Italian>Mk16C GL 5,56 mm</Italian>
+						<Polish>Mk16C GL 5,56 mm</Polish>
+						<Russian>Мк16C GL 5,56 мм</Russian>
+						<German>Mk16C GL 5,56 mm</German>
+						<Czech>Mk16C GL 5,56 mm</Czech>
+						<English>Mk16C GL 5.56 mm</English>
+						<Portuguese>Mk16C GL 5.56 mm</Portuguese>
+						<Korean>Mk16C GL 5.56mm</Korean>
+						<Chinesesimp>Mk16C GL 5.56 毫米</Chinesesimp>
+						<Japanese>Mk16C GL 5.56mm</Japanese>
+						<Turkish>Mk16C GL 5.56 mm</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_L_short_F0">
+						<Original>Mk16C 5.56 mm</Original>
+						<Chinese>Mk16C 5.56 mm</Chinese>
+						<French>Mk16C 5,56 mm</French>
+						<Spanish>Mk16C 5,56 mm</Spanish>
+						<Italian>Mk16C 5,56 mm</Italian>
+						<Polish>Mk16C 5,56 mm</Polish>
+						<Russian>Мк16C 5,56 мм</Russian>
+						<German>Mk16C 5,56 mm</German>
+						<Czech>Mk16C 5,56 mm</Czech>
+						<English>Mk16C 5.56 mm</English>
+						<Portuguese>Mk16C 5.56 mm</Portuguese>
+						<Korean>Mk16C 5.56mm</Korean>
+						<Chinesesimp>Mk16C 5.56 毫米</Chinesesimp>
+						<Japanese>Mk16C 5.56mm</Japanese>
+						<Turkish>Mk16C 5.56 mm</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_L_grip_F0">
+						<Original>Mk16 FG 5.56 mm</Original>
+						<Chinese>Mk16 FG 5.56 mm</Chinese>
+						<French>Mk16 FG 5,56 mm</French>
+						<Spanish>Mk16 FG 5,56 mm</Spanish>
+						<Italian>Mk16 FG 5,56 mm</Italian>
+						<Polish>Mk16 FG 5,56 mm</Polish>
+						<Russian>Мк16 FG 5,56 мм</Russian>
+						<German>Mk16 FG 5,56 mm</German>
+						<Czech>Mk16 FG 5,56 mm</Czech>
+						<English>Mk16 FG 5.56 mm</English>
+						<Portuguese>Mk16 FG 5.56 mm</Portuguese>
+						<Korean>Mk16 FG 5.56mm</Korean>
+						<Chinesesimp>Mk16 FG 5.56 毫米</Chinesesimp>
+						<Japanese>Mk16 FG 5.56mm</Japanese>
+						<Turkish>Mk16 FG 5.56 mm</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_L_black_F0">
+						<Original>Mk16 5.56 mm (Black)</Original>
+						<Chinese>Mk16 5.56 mm（黑）</Chinese>
+						<French>Mk16 5,56 mm (noir)</French>
+						<Spanish>Mk16 5,56 mm (negro)</Spanish>
+						<Italian>Mk16 5,56 mm (nero)</Italian>
+						<Polish>Mk16 5,56 mm (czarny)</Polish>
+						<Russian>Мк16 5,56 мм (черная)</Russian>
+						<German>Mk16 5,56 mm (schwarz)</German>
+						<Czech>Mk16 5,56 mm (černý)</Czech>
+						<English>Mk16 5.56 mm (Black)</English>
+						<Portuguese>Mk16 5.56 mm (preto)</Portuguese>
+						<Korean>Mk16 5.56mm (흑색)</Korean>
+						<Chinesesimp>Mk16 5.56 毫米（黑色）</Chinesesimp>
+						<Japanese>Mk16 5.56mm （黒）</Japanese>
+						<Turkish>Mk16 5.56 mm (Siyah)</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_L_GL_black_F0">
+						<Original>Mk16C GL 5.56 mm (Black)</Original>
+						<Chinese>Mk16C GL 5.56 mm（黑）</Chinese>
+						<French>Mk16C GL 5,56 mm (noir)</French>
+						<Spanish>Mk16C GL 5,56 mm (negro)</Spanish>
+						<Italian>Mk16C GL 5,56 mm (nero)</Italian>
+						<Polish>Mk16C GL 5,56 mm (czarny)</Polish>
+						<Russian>Мк16C GL 5,56 мм (черная)</Russian>
+						<German>Mk16C GL 5,56 mm (schwarz)</German>
+						<Czech>Mk16C GL 5,56 mm (černý)</Czech>
+						<English>Mk16C GL 5.56 mm (Black)</English>
+						<Portuguese>Mk16C GL 5.56 mm (preto)</Portuguese>
+						<Korean>Mk16C GL 5.56mm (흑색)</Korean>
+						<Chinesesimp>Mk16C GL 5.56 毫米（黑色）</Chinesesimp>
+						<Japanese>Mk16C GL 5.56mm （黒）</Japanese>
+						<Turkish>Mk16C GL 5.56 mm (Siyah)</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_L_short_black_F0">
+						<Original>Mk16C 5.56 mm (Black)</Original>
+						<Chinese>Mk16C 5.56 mm（黑）</Chinese>
+						<French>Mk16C 5,56 mm (noir)</French>
+						<Spanish>Mk16C 5,56 mm (negro)</Spanish>
+						<Italian>Mk16C 5,56 mm (nero)</Italian>
+						<Polish>Mk16C 5,56 mm (czarny)</Polish>
+						<Russian>Мк16C 5,56 мм (черная)</Russian>
+						<German>Mk16C 5,56 mm (schwarz)</German>
+						<Czech>Mk16C 5,56 mm (černý)</Czech>
+						<English>Mk16C 5.56 mm (Black)</English>
+						<Portuguese>Mk16C 5.56 mm (preto)</Portuguese>
+						<Korean>Mk16C 5.56mm (흑색)</Korean>
+						<Chinesesimp>Mk16C 5.56 毫米（黑色）</Chinesesimp>
+						<Japanese>Mk16C 5.56mm （黒）</Japanese>
+						<Turkish>Mk16C 5.56 mm (Siyah)</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_L_grip_black_F0">
+						<Original>Mk16 FG 5.56 mm (Black)</Original>
+						<Chinese>Mk16 FG 5.56 mm（黑）</Chinese>
+						<French>Mk16 FG 5,56 mm (noir)</French>
+						<Spanish>Mk16 FG 5,56 mm (negro)</Spanish>
+						<Italian>Mk16 FG 5,56 mm (nero)</Italian>
+						<Polish>Mk16 FG 5,56 mm (czarny)</Polish>
+						<Russian>Мк16 FG 5,56 мм (черная)</Russian>
+						<German>Mk16 FG 5,56 mm (schwarz)</German>
+						<Czech>Mk16 FG 5,56 mm (černý)</Czech>
+						<English>Mk16 FG 5.56 mm (Black)</English>
+						<Portuguese>Mk16 FG 5.56 mm (preto)</Portuguese>
+						<Korean>Mk16 FG 5.56mm (흑색)</Korean>
+						<Chinesesimp>Mk16 FG 5.56 毫米（黑色）</Chinesesimp>
+						<Japanese>Mk16 FG 5.56mm （黒）</Japanese>
+						<Turkish>Mk16 FG 5.56 mm (Siyah)</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_L_khaki_F0">
+						<Original>Mk16 5.56 mm (Khaki)</Original>
+						<Chinese>Mk16 5.56 mm（卡其）</Chinese>
+						<French>Mk16 5,56 mm (kaki)</French>
+						<Spanish>Mk16 5,56 mm (caqui)</Spanish>
+						<Italian>Mk16 5,56 mm (kaki)</Italian>
+						<Polish>Mk16 5,56 mm (khaki)</Polish>
+						<Russian>Мк16 5,56 мм (хаки)</Russian>
+						<German>Mk16 5,56 mm (Khaki)</German>
+						<Czech>Mk16 5,56 mm (khaki)</Czech>
+						<English>Mk16 5.56 mm (Khaki)</English>
+						<Portuguese>Mk16 5.56 mm (cáqui)</Portuguese>
+						<Korean>Mk16 5.56mm (카키)</Korean>
+						<Chinesesimp>Mk16 5.56 毫米（卡其色）</Chinesesimp>
+						<Japanese>Mk16 5.56mm （カーキ）</Japanese>
+						<Turkish>Mk16 5.56 mm (Haki)</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_L_GL_khaki_F0">
+						<Original>Mk16C GL 5.56 mm (Khaki)</Original>
+						<Chinese>Mk16C GL 5.56 mm（卡其）</Chinese>
+						<French>Mk16C GL 5,56 mm (kaki)</French>
+						<Spanish>Mk16C GL 5,56 mm (caqui)</Spanish>
+						<Italian>Mk16C GL 5,56 mm (kaki)</Italian>
+						<Polish>Mk16C GL 5,56 mm (khaki)</Polish>
+						<Russian>Мк16C GL 5,56 мм (хаки)</Russian>
+						<German>Mk16C GL 5,56 mm (Khaki)</German>
+						<Czech>Mk16C GL 5,56 mm (khaki)</Czech>
+						<English>Mk16C GL 5.56 mm (Khaki)</English>
+						<Portuguese>Mk16C GL 5.56 mm (cáqui)</Portuguese>
+						<Korean>Mk16C GL 5.56mm (카키)</Korean>
+						<Chinesesimp>Mk16C GL 5.56 毫米（卡其色）</Chinesesimp>
+						<Japanese>Mk16C GL 5.56mm （カーキ）</Japanese>
+						<Turkish>Mk16C GL 5.56 mm (Haki)</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_L_short_khaki_F0">
+						<Original>Mk16C 5.56 mm (Khaki)</Original>
+						<Chinese>Mk16C 5.56 mm（卡其）</Chinese>
+						<French>Mk16C 5,56 mm (kaki)</French>
+						<Spanish>Mk16C 5,56 mm (caqui)</Spanish>
+						<Italian>Mk16C 5,56 mm (kaki)</Italian>
+						<Polish>Mk16C 5,56 mm (khaki)</Polish>
+						<Russian>Мк16C 5,56 мм (хаки)</Russian>
+						<German>Mk16C 5,56 mm (Khaki)</German>
+						<Czech>Mk16C 5,56 mm (khaki)</Czech>
+						<English>Mk16C 5.56 mm (Khaki)</English>
+						<Portuguese>Mk16C 5.56 mm (cáqui)</Portuguese>
+						<Korean>Mk16C 5.56mm (카키)</Korean>
+						<Chinesesimp>Mk16C 5.56 毫米（卡其色）</Chinesesimp>
+						<Japanese>Mk16C 5.56mm （カーキ）</Japanese>
+						<Turkish>Mk16C 5.56 mm (Haki)</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_L_grip_khaki_F0">
+						<Original>Mk16 FG 5.56 mm (Khaki)</Original>
+						<Chinese>Mk16 FG 5.56 mm（卡其）</Chinese>
+						<French>Mk16 FG 5,56 mm (kaki)</French>
+						<Spanish>Mk16 FG 5,56 mm (caqui)</Spanish>
+						<Italian>Mk16 FG 5,56 mm (kaki)</Italian>
+						<Polish>Mk16 FG 5,56 mm (khaki)</Polish>
+						<Russian>Мк16 FG 5,56 мм (хаки)</Russian>
+						<German>Mk16 FG 5,56 mm (Khaki)</German>
+						<Czech>Mk16 FG 5,56 mm (khaki)</Czech>
+						<English>Mk16 FG 5.56 mm (Khaki)</English>
+						<Portuguese>Mk16 FG 5.56 mm (cáqui)</Portuguese>
+						<Korean>Mk16 FG 5.56mm (카키)</Korean>
+						<Chinesesimp>Mk16 FG 5.56 毫米（卡其色）</Chinesesimp>
+						<Japanese>Mk16 FG 5.56mm （カーキ）</Japanese>
+						<Turkish>Mk16 FG 5.56 mm (Haki)</Turkish>
+					</Key>
 				</Container>
 				<Container name="Library">
 					<Key ID="STR_A3_A_CfgWeapons_arifle_RPK_base_F_Library0">
@@ -16755,21 +16959,38 @@
 						<Turkish>Despite its poor reputation and troubled reception in the past, the SA80 remains as the main service rifle for the British Armed Forces. The L85A3 has been rechambered for NATO's standardized 6.5x39 mm caseless ammunition, and features a new full-length rail enabling modularity and variety of other changes to improve the reliability and stability of the weapon. It is often issued with a grip-pod, but can be fitted with a 40 mm underslung grenade launcher. A compact carbine variant with a shortened barrel exists and is labelled the L22A3.</Turkish>
 					</Key>
 					<Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_base_F_Library0">
-						<Original>The Mk17 entered service during Operation Arrowhead, and while its lighter counterpart was eventually replaced by the MX, it remains in use with US special forces. It's a reliable battle rifle originating from Belgium, with a modular design that is compatible with a variety of accessories. Chambered for 7.62x51 mm ammunition, it hits harder than most assault rifles at the cost of increased weight and reduced magazine capacity. It can be fitted with a 40 mm underslung grenade launcher or an underbarrel 12 gauge shotgun module. A shortened version exists, labeled the Mk17C.</Original>
-						<Chinese>The Mk17 entered service during Operation Arrowhead, and while its lighter counterpart was eventually replaced by the MX, it remains in use with US special forces. It's a reliable battle rifle originating from Belgium, with a modular design that is compatible with a variety of accessories. Chambered for 7.62x51 mm ammunition, it hits harder than most assault rifles at the cost of increased weight and reduced magazine capacity. It can be fitted with a 40 mm underslung grenade launcher or an underbarrel 12 gauge shotgun module. A shortened version exists, labeled the Mk17C.</Chinese>
-						<French>The Mk17 entered service during Operation Arrowhead, and while its lighter counterpart was eventually replaced by the MX, it remains in use with US special forces. It's a reliable battle rifle originating from Belgium, with a modular design that is compatible with a variety of accessories. Chambered for 7.62x51 mm ammunition, it hits harder than most assault rifles at the cost of increased weight and reduced magazine capacity. It can be fitted with a 40 mm underslung grenade launcher or an underbarrel 12 gauge shotgun module. A shortened version exists, labeled the Mk17C.</French>
-						<Spanish>The Mk17 entered service during Operation Arrowhead, and while its lighter counterpart was eventually replaced by the MX, it remains in use with US special forces. It's a reliable battle rifle originating from Belgium, with a modular design that is compatible with a variety of accessories. Chambered for 7.62x51 mm ammunition, it hits harder than most assault rifles at the cost of increased weight and reduced magazine capacity. It can be fitted with a 40 mm underslung grenade launcher or an underbarrel 12 gauge shotgun module. A shortened version exists, labeled the Mk17C.</Spanish>
-						<Italian>The Mk17 entered service during Operation Arrowhead, and while its lighter counterpart was eventually replaced by the MX, it remains in use with US special forces. It's a reliable battle rifle originating from Belgium, with a modular design that is compatible with a variety of accessories. Chambered for 7.62x51 mm ammunition, it hits harder than most assault rifles at the cost of increased weight and reduced magazine capacity. It can be fitted with a 40 mm underslung grenade launcher or an underbarrel 12 gauge shotgun module. A shortened version exists, labeled the Mk17C.</Italian>
-						<Polish>The Mk17 entered service during Operation Arrowhead, and while its lighter counterpart was eventually replaced by the MX, it remains in use with US special forces. It's a reliable battle rifle originating from Belgium, with a modular design that is compatible with a variety of accessories. Chambered for 7.62x51 mm ammunition, it hits harder than most assault rifles at the cost of increased weight and reduced magazine capacity. It can be fitted with a 40 mm underslung grenade launcher or an underbarrel 12 gauge shotgun module. A shortened version exists, labeled the Mk17C.</Polish>
-						<Russian>The Mk17 entered service during Operation Arrowhead, and while its lighter counterpart was eventually replaced by the MX, it remains in use with US special forces. It's a reliable battle rifle originating from Belgium, with a modular design that is compatible with a variety of accessories. Chambered for 7.62x51 mm ammunition, it hits harder than most assault rifles at the cost of increased weight and reduced magazine capacity. It can be fitted with a 40 mm underslung grenade launcher or an underbarrel 12 gauge shotgun module. A shortened version exists, labeled the Mk17C.</Russian>
-						<German>The Mk17 entered service during Operation Arrowhead, and while its lighter counterpart was eventually replaced by the MX, it remains in use with US special forces. It's a reliable battle rifle originating from Belgium, with a modular design that is compatible with a variety of accessories. Chambered for 7.62x51 mm ammunition, it hits harder than most assault rifles at the cost of increased weight and reduced magazine capacity. It can be fitted with a 40 mm underslung grenade launcher or an underbarrel 12 gauge shotgun module. A shortened version exists, labeled the Mk17C.</German>
+						<Original>The Mk17 entered service during Operation Arrowhead, and while its lighter counterpart was eventually replaced by the MX, it remains in use with US special forces. It's a reliable battle rifle originating from Belgium, with a modular design that is compatible with a variety of accessories. Chambered for 7.62x51 mm ammunition, it hits harder than most assault rifles at the cost of increased weight and reduced magazine capacity. It can be fitted with a 40 mm underslung grenade launcher or an underbarrel 12 gauge shotgun module. A shortened version exists, labelled the Mk17C.</Original>
+						<Chinese>The Mk17 entered service during Operation Arrowhead, and while its lighter counterpart was eventually replaced by the MX, it remains in use with US special forces. It's a reliable battle rifle originating from Belgium, with a modular design that is compatible with a variety of accessories. Chambered for 7.62x51 mm ammunition, it hits harder than most assault rifles at the cost of increased weight and reduced magazine capacity. It can be fitted with a 40 mm underslung grenade launcher or an underbarrel 12 gauge shotgun module. A shortened version exists, labelled the Mk17C.</Chinese>
+						<French>The Mk17 entered service during Operation Arrowhead, and while its lighter counterpart was eventually replaced by the MX, it remains in use with US special forces. It's a reliable battle rifle originating from Belgium, with a modular design that is compatible with a variety of accessories. Chambered for 7.62x51 mm ammunition, it hits harder than most assault rifles at the cost of increased weight and reduced magazine capacity. It can be fitted with a 40 mm underslung grenade launcher or an underbarrel 12 gauge shotgun module. A shortened version exists, labelled the Mk17C.</French>
+						<Spanish>The Mk17 entered service during Operation Arrowhead, and while its lighter counterpart was eventually replaced by the MX, it remains in use with US special forces. It's a reliable battle rifle originating from Belgium, with a modular design that is compatible with a variety of accessories. Chambered for 7.62x51 mm ammunition, it hits harder than most assault rifles at the cost of increased weight and reduced magazine capacity. It can be fitted with a 40 mm underslung grenade launcher or an underbarrel 12 gauge shotgun module. A shortened version exists, labelled the Mk17C.</Spanish>
+						<Italian>The Mk17 entered service during Operation Arrowhead, and while its lighter counterpart was eventually replaced by the MX, it remains in use with US special forces. It's a reliable battle rifle originating from Belgium, with a modular design that is compatible with a variety of accessories. Chambered for 7.62x51 mm ammunition, it hits harder than most assault rifles at the cost of increased weight and reduced magazine capacity. It can be fitted with a 40 mm underslung grenade launcher or an underbarrel 12 gauge shotgun module. A shortened version exists, labelled the Mk17C.</Italian>
+						<Polish>The Mk17 entered service during Operation Arrowhead, and while its lighter counterpart was eventually replaced by the MX, it remains in use with US special forces. It's a reliable battle rifle originating from Belgium, with a modular design that is compatible with a variety of accessories. Chambered for 7.62x51 mm ammunition, it hits harder than most assault rifles at the cost of increased weight and reduced magazine capacity. It can be fitted with a 40 mm underslung grenade launcher or an underbarrel 12 gauge shotgun module. A shortened version exists, labelled the Mk17C.</Polish>
+						<Russian>The Mk17 entered service during Operation Arrowhead, and while its lighter counterpart was eventually replaced by the MX, it remains in use with US special forces. It's a reliable battle rifle originating from Belgium, with a modular design that is compatible with a variety of accessories. Chambered for 7.62x51 mm ammunition, it hits harder than most assault rifles at the cost of increased weight and reduced magazine capacity. It can be fitted with a 40 mm underslung grenade launcher or an underbarrel 12 gauge shotgun module. A shortened version exists, labelled the Mk17C.</Russian>
+						<German>The Mk17 entered service during Operation Arrowhead, and while its lighter counterpart was eventually replaced by the MX, it remains in use with US special forces. It's a reliable battle rifle originating from Belgium, with a modular design that is compatible with a variety of accessories. Chambered for 7.62x51 mm ammunition, it hits harder than most assault rifles at the cost of increased weight and reduced magazine capacity. It can be fitted with a 40 mm underslung grenade launcher or an underbarrel 12 gauge shotgun module. A shortened version exists, labelled the Mk17C.</German>
 						<Czech>The Mk17 entered service during Operation Arrowhead, and while its lighter counterpart was eventually replaced by the MX, it remains in use with US special forces. It's a reliable battle rifle originating from Belgium, with a modular design that is compatible with a variety of accessories. Chambered for 7.62x51 mm ammunition, it hits harder than most assault rifles at the cost of increased weight and reduced magazine capacity. It can be fitted with a 40 mm underslung grenade launcher or an underbarrel 12 gauge shotgun module. A shortened version exists, labeled the Mk17C.</Czech>
-						<English>The Mk17 entered service during Operation Arrowhead, and while its lighter counterpart was eventually replaced by the MX, it remains in use with US special forces. It's a reliable battle rifle originating from Belgium, with a modular design that is compatible with a variety of accessories. Chambered for 7.62x51 mm ammunition, it hits harder than most assault rifles at the cost of increased weight and reduced magazine capacity. It can be fitted with a 40 mm underslung grenade launcher or an underbarrel 12 gauge shotgun module. A shortened version exists, labeled the Mk17C.</English>
-						<Portuguese>The Mk17 entered service during Operation Arrowhead, and while its lighter counterpart was eventually replaced by the MX, it remains in use with US special forces. It's a reliable battle rifle originating from Belgium, with a modular design that is compatible with a variety of accessories. Chambered for 7.62x51 mm ammunition, it hits harder than most assault rifles at the cost of increased weight and reduced magazine capacity. It can be fitted with a 40 mm underslung grenade launcher or an underbarrel 12 gauge shotgun module. A shortened version exists, labeled the Mk17C.</Portuguese>
-						<Korean>The Mk17 entered service during Operation Arrowhead, and while its lighter counterpart was eventually replaced by the MX, it remains in use with US special forces. It's a reliable battle rifle originating from Belgium, with a modular design that is compatible with a variety of accessories. Chambered for 7.62x51 mm ammunition, it hits harder than most assault rifles at the cost of increased weight and reduced magazine capacity. It can be fitted with a 40 mm underslung grenade launcher or an underbarrel 12 gauge shotgun module. A shortened version exists, labeled the Mk17C.</Korean>
-						<Chinesesimp>The Mk17 entered service during Operation Arrowhead, and while its lighter counterpart was eventually replaced by the MX, it remains in use with US special forces. It's a reliable battle rifle originating from Belgium, with a modular design that is compatible with a variety of accessories. Chambered for 7.62x51 mm ammunition, it hits harder than most assault rifles at the cost of increased weight and reduced magazine capacity. It can be fitted with a 40 mm underslung grenade launcher or an underbarrel 12 gauge shotgun module. A shortened version exists, labeled the Mk17C.</Chinesesimp>
-						<Japanese>The Mk17 entered service during Operation Arrowhead, and while its lighter counterpart was eventually replaced by the MX, it remains in use with US special forces. It's a reliable battle rifle originating from Belgium, with a modular design that is compatible with a variety of accessories. Chambered for 7.62x51 mm ammunition, it hits harder than most assault rifles at the cost of increased weight and reduced magazine capacity. It can be fitted with a 40 mm underslung grenade launcher or an underbarrel 12 gauge shotgun module. A shortened version exists, labeled the Mk17C.</Japanese>
-						<Turkish>The Mk17 entered service during Operation Arrowhead, and while its lighter counterpart was eventually replaced by the MX, it remains in use with US special forces. It's a reliable battle rifle originating from Belgium, with a modular design that is compatible with a variety of accessories. Chambered for 7.62x51 mm ammunition, it hits harder than most assault rifles at the cost of increased weight and reduced magazine capacity. It can be fitted with a 40 mm underslung grenade launcher or an underbarrel 12 gauge shotgun module. A shortened version exists, labeled the Mk17C.</Turkish>
+						<English>The Mk17 entered service during Operation Arrowhead, and while its lighter counterpart was eventually replaced by the MX, it remains in use with US special forces. It's a reliable battle rifle originating from Belgium, with a modular design that is compatible with a variety of accessories. Chambered for 7.62x51 mm ammunition, it hits harder than most assault rifles at the cost of increased weight and reduced magazine capacity. It can be fitted with a 40 mm underslung grenade launcher or an underbarrel 12 gauge shotgun module. A shortened version exists, labelled the Mk17C.</English>
+						<Portuguese>The Mk17 entered service during Operation Arrowhead, and while its lighter counterpart was eventually replaced by the MX, it remains in use with US special forces. It's a reliable battle rifle originating from Belgium, with a modular design that is compatible with a variety of accessories. Chambered for 7.62x51 mm ammunition, it hits harder than most assault rifles at the cost of increased weight and reduced magazine capacity. It can be fitted with a 40 mm underslung grenade launcher or an underbarrel 12 gauge shotgun module. A shortened version exists, labelled the Mk17C.</Portuguese>
+						<Korean>The Mk17 entered service during Operation Arrowhead, and while its lighter counterpart was eventually replaced by the MX, it remains in use with US special forces. It's a reliable battle rifle originating from Belgium, with a modular design that is compatible with a variety of accessories. Chambered for 7.62x51 mm ammunition, it hits harder than most assault rifles at the cost of increased weight and reduced magazine capacity. It can be fitted with a 40 mm underslung grenade launcher or an underbarrel 12 gauge shotgun module. A shortened version exists, labelled the Mk17C.</Korean>
+						<Chinesesimp>The Mk17 entered service during Operation Arrowhead, and while its lighter counterpart was eventually replaced by the MX, it remains in use with US special forces. It's a reliable battle rifle originating from Belgium, with a modular design that is compatible with a variety of accessories. Chambered for 7.62x51 mm ammunition, it hits harder than most assault rifles at the cost of increased weight and reduced magazine capacity. It can be fitted with a 40 mm underslung grenade launcher or an underbarrel 12 gauge shotgun module. A shortened version exists, labelled the Mk17C.</Chinesesimp>
+						<Japanese>The Mk17 entered service during Operation Arrowhead, and while its lighter counterpart was eventually replaced by the MX, it remains in use with US special forces. It's a reliable battle rifle originating from Belgium, with a modular design that is compatible with a variety of accessories. Chambered for 7.62x51 mm ammunition, it hits harder than most assault rifles at the cost of increased weight and reduced magazine capacity. It can be fitted with a 40 mm underslung grenade launcher or an underbarrel 12 gauge shotgun module. A shortened version exists, labelled the Mk17C.</Japanese>
+						<Turkish>The Mk17 entered service during Operation Arrowhead, and while its lighter counterpart was eventually replaced by the MX, it remains in use with US special forces. It's a reliable battle rifle originating from Belgium, with a modular design that is compatible with a variety of accessories. Chambered for 7.62x51 mm ammunition, it hits harder than most assault rifles at the cost of increased weight and reduced magazine capacity. It can be fitted with a 40 mm underslung grenade launcher or an underbarrel 12 gauge shotgun module. A shortened version exists, labelled the Mk17C.</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_L_base_F_Library0">
+						<Original>The Mk16 first saw service during operations in Takistan in 2012, after which it saw roughly a decade of service as the primary assault rifle of the US army before being replaced by the MX series when the decision was made to move to the more powerful 6.5x39 mm round. Nonetheless, it remains a reliable assault rifle with a modular design that is compatible with a variety of accessories, features that have seen it widely exported. Produced in Belgium, it is chambered for 5.56x45 mm ammunition and can accept any magazine in a STANAG configuration, making it popular across the globe. It can be fitted with a 40 mm underslung grenade launcher or an under-barrel 12 gauge shotgun module. A shortened version exists, labelled the Mk16C.</Original>
+						<Chinese>The Mk16 first saw service during operations in Takistan in 2012, after which it saw roughly a decade of service as the primary assault rifle of the US army before being replaced by the MX series when the decision was made to move to the more powerful 6.5x39 mm round. Nonetheless, it remains a reliable assault rifle with a modular design that is compatible with a variety of accessories, features that have seen it widely exported. Produced in Belgium, it is chambered for 5.56x45 mm ammunition and can accept any magazine in a STANAG configuration, making it popular across the globe. It can be fitted with a 40 mm underslung grenade launcher or an under-barrel 12 gauge shotgun module. A shortened version exists, labelled the Mk16C.</Chinese>
+						<French>The Mk16 first saw service during operations in Takistan in 2012, after which it saw roughly a decade of service as the primary assault rifle of the US army before being replaced by the MX series when the decision was made to move to the more powerful 6.5x39 mm round. Nonetheless, it remains a reliable assault rifle with a modular design that is compatible with a variety of accessories, features that have seen it widely exported. Produced in Belgium, it is chambered for 5.56x45 mm ammunition and can accept any magazine in a STANAG configuration, making it popular across the globe. It can be fitted with a 40 mm underslung grenade launcher or an under-barrel 12 gauge shotgun module. A shortened version exists, labelled the Mk16C.</French>
+						<Spanish>The Mk16 first saw service during operations in Takistan in 2012, after which it saw roughly a decade of service as the primary assault rifle of the US army before being replaced by the MX series when the decision was made to move to the more powerful 6.5x39 mm round. Nonetheless, it remains a reliable assault rifle with a modular design that is compatible with a variety of accessories, features that have seen it widely exported. Produced in Belgium, it is chambered for 5.56x45 mm ammunition and can accept any magazine in a STANAG configuration, making it popular across the globe. It can be fitted with a 40 mm underslung grenade launcher or an under-barrel 12 gauge shotgun module. A shortened version exists, labelled the Mk16C.</Spanish>
+						<Italian>The Mk16 first saw service during operations in Takistan in 2012, after which it saw roughly a decade of service as the primary assault rifle of the US army before being replaced by the MX series when the decision was made to move to the more powerful 6.5x39 mm round. Nonetheless, it remains a reliable assault rifle with a modular design that is compatible with a variety of accessories, features that have seen it widely exported. Produced in Belgium, it is chambered for 5.56x45 mm ammunition and can accept any magazine in a STANAG configuration, making it popular across the globe. It can be fitted with a 40 mm underslung grenade launcher or an under-barrel 12 gauge shotgun module. A shortened version exists, labelled the Mk16C.</Italian>
+						<Polish>The Mk16 first saw service during operations in Takistan in 2012, after which it saw roughly a decade of service as the primary assault rifle of the US army before being replaced by the MX series when the decision was made to move to the more powerful 6.5x39 mm round. Nonetheless, it remains a reliable assault rifle with a modular design that is compatible with a variety of accessories, features that have seen it widely exported. Produced in Belgium, it is chambered for 5.56x45 mm ammunition and can accept any magazine in a STANAG configuration, making it popular across the globe. It can be fitted with a 40 mm underslung grenade launcher or an under-barrel 12 gauge shotgun module. A shortened version exists, labelled the Mk16C.</Polish>
+						<Russian>The Mk16 first saw service during operations in Takistan in 2012, after which it saw roughly a decade of service as the primary assault rifle of the US army before being replaced by the MX series when the decision was made to move to the more powerful 6.5x39 mm round. Nonetheless, it remains a reliable assault rifle with a modular design that is compatible with a variety of accessories, features that have seen it widely exported. Produced in Belgium, it is chambered for 5.56x45 mm ammunition and can accept any magazine in a STANAG configuration, making it popular across the globe. It can be fitted with a 40 mm underslung grenade launcher or an under-barrel 12 gauge shotgun module. A shortened version exists, labelled the Mk16C.</Russian>
+						<German>The Mk16 first saw service during operations in Takistan in 2012, after which it saw roughly a decade of service as the primary assault rifle of the US army before being replaced by the MX series when the decision was made to move to the more powerful 6.5x39 mm round. Nonetheless, it remains a reliable assault rifle with a modular design that is compatible with a variety of accessories, features that have seen it widely exported. Produced in Belgium, it is chambered for 5.56x45 mm ammunition and can accept any magazine in a STANAG configuration, making it popular across the globe. It can be fitted with a 40 mm underslung grenade launcher or an under-barrel 12 gauge shotgun module. A shortened version exists, labelled the Mk16C.</German>
+						<Czech>The Mk16 first saw service during operations in Takistan in 2012, after which it saw roughly a decade of service as the primary assault rifle of the US army before being replaced by the MX series when the decision was made to move to the more powerful 6.5x39 mm round. Nonetheless, it remains a reliable assault rifle with a modular design that is compatible with a variety of accessories, features that have seen it widely exported. Produced in Belgium, it is chambered for 5.56x45 mm ammunition and can accept any magazine in a STANAG configuration, making it popular across the globe. It can be fitted with a 40 mm underslung grenade launcher or an under-barrel 12 gauge shotgun module. A shortened version exists, labelled the Mk16C.</Czech>
+						<English>The Mk16 first saw service during operations in Takistan in 2012, after which it saw roughly a decade of service as the primary assault rifle of the US army before being replaced by the MX series when the decision was made to move to the more powerful 6.5x39 mm round. Nonetheless, it remains a reliable assault rifle with a modular design that is compatible with a variety of accessories, features that have seen it widely exported. Produced in Belgium, it is chambered for 5.56x45 mm ammunition and can accept any magazine in a STANAG configuration, making it popular across the globe. It can be fitted with a 40 mm underslung grenade launcher or an under-barrel 12 gauge shotgun module. A shortened version exists, labelled the Mk16C.</English>
+						<Portuguese>The Mk16 first saw service during operations in Takistan in 2012, after which it saw roughly a decade of service as the primary assault rifle of the US army before being replaced by the MX series when the decision was made to move to the more powerful 6.5x39 mm round. Nonetheless, it remains a reliable assault rifle with a modular design that is compatible with a variety of accessories, features that have seen it widely exported. Produced in Belgium, it is chambered for 5.56x45 mm ammunition and can accept any magazine in a STANAG configuration, making it popular across the globe. It can be fitted with a 40 mm underslung grenade launcher or an under-barrel 12 gauge shotgun module. A shortened version exists, labelled the Mk16C.</Portuguese>
+						<Korean>The Mk16 first saw service during operations in Takistan in 2012, after which it saw roughly a decade of service as the primary assault rifle of the US army before being replaced by the MX series when the decision was made to move to the more powerful 6.5x39 mm round. Nonetheless, it remains a reliable assault rifle with a modular design that is compatible with a variety of accessories, features that have seen it widely exported. Produced in Belgium, it is chambered for 5.56x45 mm ammunition and can accept any magazine in a STANAG configuration, making it popular across the globe. It can be fitted with a 40 mm underslung grenade launcher or an under-barrel 12 gauge shotgun module. A shortened version exists, labelled the Mk16C.</Korean>
+						<Chinesesimp>The Mk16 first saw service during operations in Takistan in 2012, after which it saw roughly a decade of service as the primary assault rifle of the US army before being replaced by the MX series when the decision was made to move to the more powerful 6.5x39 mm round. Nonetheless, it remains a reliable assault rifle with a modular design that is compatible with a variety of accessories, features that have seen it widely exported. Produced in Belgium, it is chambered for 5.56x45 mm ammunition and can accept any magazine in a STANAG configuration, making it popular across the globe. It can be fitted with a 40 mm underslung grenade launcher or an under-barrel 12 gauge shotgun module. A shortened version exists, labelled the Mk16C.</Chinesesimp>
+						<Japanese>The Mk16 first saw service during operations in Takistan in 2012, after which it saw roughly a decade of service as the primary assault rifle of the US army before being replaced by the MX series when the decision was made to move to the more powerful 6.5x39 mm round. Nonetheless, it remains a reliable assault rifle with a modular design that is compatible with a variety of accessories, features that have seen it widely exported. Produced in Belgium, it is chambered for 5.56x45 mm ammunition and can accept any magazine in a STANAG configuration, making it popular across the globe. It can be fitted with a 40 mm underslung grenade launcher or an under-barrel 12 gauge shotgun module. A shortened version exists, labelled the Mk16C.</Japanese>
+						<Turkish>The Mk16 first saw service during operations in Takistan in 2012, after which it saw roughly a decade of service as the primary assault rifle of the US army before being replaced by the MX series when the decision was made to move to the more powerful 6.5x39 mm round. Nonetheless, it remains a reliable assault rifle with a modular design that is compatible with a variety of accessories, features that have seen it widely exported. Produced in Belgium, it is chambered for 5.56x45 mm ammunition and can accept any magazine in a STANAG configuration, making it popular across the globe. It can be fitted with a 40 mm underslung grenade launcher or an under-barrel 12 gauge shotgun module. A shortened version exists, labelled the Mk16C.</Turkish>
 					</Key>
 				</Container>
 			</Container>
