@@ -39,6 +39,7 @@ class CfgWeapons
 
         /* Ammunition */ 
 		magazines[] = {30Rnd_556x45_Stanag_Sand};
+		magazineWell[] = {"STANAG_556x45","STANAG_556x45_Large"};
 
         /* Handling */
 		htMin = 8;
