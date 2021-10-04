@@ -24,6 +24,8 @@ class CfgPatches
 			A3_Aegis_Weapons_F_Aegis_Rifles_AK12,
 			A3_Aegis_Weapons_F_Aegis_Rifles_RPK,
 			A3_Aegis_Weapons_F_Aegis_Rifles_SA80,
+			A3_Aegis_Weapons_F_Aegis_Rifles_SCAR,
+			A3_Aegis_Weapons_F_Aegis_Rifles_SCAR_L,
 			A3_Aegis_Weapons_F_Aegis_Shotguns_AA40,
 			A3_Aegis_Weapons_F_Aegis_Shotguns_KSG,
 			A3_Aegis_Weapons_F_Aegis_Shotguns_M4_SSAS,

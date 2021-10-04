@@ -880,6 +880,90 @@ class CfgWeapons
 			reloadMagazineSound[] = {"\A3_Aegis\Sounds_F_Aegis\arsenal\weapons\Rifles\SCAR\SCAR_UGL_reload",db-2,1,10};
 		};
 	};
+	class arifle_SCAR_L_base_F: Rifle_Base_F
+	{
+		bullet1[] = {"\A3\Sounds_F\weapons\shells\7_62\metal_762_01",db-6,1,15};
+		bullet2[] = {"\A3\Sounds_F\weapons\shells\7_62\metal_762_02",db-6,1,15};
+		bullet3[] = {"\A3\Sounds_F\weapons\shells\7_62\metal_762_03",db-6,1,15};
+		bullet4[] = {"\A3\Sounds_F\weapons\shells\7_62\metal_762_04",db-6,1,15};
+		bullet5[] = {"\A3\Sounds_F\weapons\shells\7_62\dirt_762_01",db-8,1,15};
+		bullet6[] = {"\A3\Sounds_F\weapons\shells\7_62\dirt_762_02",db-8,1,15};
+		bullet7[] = {"\A3\Sounds_F\weapons\shells\7_62\dirt_762_03",db-8,1,15};
+		bullet8[] = {"\A3\Sounds_F\weapons\shells\7_62\dirt_762_04",db-8,1,15};
+		bullet9[] = {"\A3\Sounds_F\weapons\shells\7_62\grass_762_01",db-12,1,15};
+		bullet10[] = {"\A3\Sounds_F\weapons\shells\7_62\grass_762_02",db-12,1,15};
+		bullet11[] = {"\A3\Sounds_F\weapons\shells\7_62\grass_762_03",db-12,1,15};
+		bullet12[] = {"\A3\Sounds_F\weapons\shells\7_62\grass_762_04",db-12,1,15};
+		soundBullet[] =
+		{
+			bullet1,1/12,
+			bullet2,1/12,
+			bullet3,1/12,
+			bullet4,1/12,
+			bullet5,1/12,
+			bullet6,1/12,
+			bullet7,1/12,
+			bullet8,1/12,
+			bullet9,1/12,
+			bullet10,1/12,
+			bullet11,1/12,
+			bullet12,1/12
+		};
+		drySound[] = {"\A3_Aegis\Sounds_F_Aegis\arsenal\weapons\Rifles\SCAR\SCAR_dry",db-5,1,10};
+		reloadMagazineSound[] = {"\A3_Aegis\Sounds_F_Aegis\arsenal\weapons\Rifles\SCAR\SCAR_reload",db0,1,10};
+		changeFiremodeSound[] = {"\A3_Aegis\Sounds_F_Aegis\arsenal\weapons\Rifles\SCAR\SCAR_firemode",db-15,1,5};
+		class Single: Mode_SemiAuto
+	  	{
+			class BaseSoundModeType;
+			class StandardSound: BaseSoundModeType
+			{
+				soundSetShot[] =
+				{
+					SPAR02_Shot_SoundSet,
+					SPAR02_tail_SoundSet,
+					SPAR02_InteriorTail_SoundSet
+				};
+			};
+			class SilencedSound: BaseSoundModeType
+			{
+				soundSetShot[] =
+				{
+					SPAR02_silencerShot_SoundSet,
+					SPAR02_silencerTail_SoundSet,
+					SPAR02_silencerInteriorTail_SoundSet
+				};
+			};
+	  	};
+	  	class FullAuto: Mode_FullAuto
+	  	{
+			class BaseSoundModeType;
+			class StandardSound: BaseSoundModeType
+			{
+				soundSetShot[] =
+				{
+					SPAR02_Shot_SoundSet,
+					SPAR02_tail_SoundSet,
+					SPAR02_InteriorTail_SoundSet
+				};
+			};
+			class SilencedSound: BaseSoundModeType
+			{
+				soundSetShot[] =
+				{
+					SPAR02_silencerShot_SoundSet,
+					SPAR02_silencerTail_SoundSet,
+					SPAR02_silencerInteriorTail_SoundSet
+				};
+			};
+	  	};
+	};
+	class arifle_SCAR_L_GL_base_F: arifle_SCAR_L_base_F
+	{
+		class EGLM: UGL_F
+		{
+			reloadMagazineSound[] = {"\A3_Aegis\Sounds_F_Aegis\arsenal\weapons\Rifles\SCAR\SCAR_UGL_reload",db-2,1,10};
+		};
+	};
 	class Rifle_Short_Base_F;
 	class sgun_AA40_F: Rifle_Short_Base_F
 	{
