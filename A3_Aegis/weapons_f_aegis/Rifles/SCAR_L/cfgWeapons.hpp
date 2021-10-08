@@ -25,8 +25,8 @@ class CfgWeapons
 		};
 		hiddenSelectionsTextures[] =
 		{
-			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR\Data\SCAR_01_CO.paa",
-			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR\Data\SCAR_02_CO.paa"
+			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR_L\Data\SCAR_L_01_CO.paa",
+			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR_L\Data\SCAR_L_02_CO.paa"
 		};
 
         /* Animations */
@@ -181,8 +181,8 @@ class CfgWeapons
 		};
 		hiddenSelectionsTextures[] =
 		{
-			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR\Data\SCAR_01_CO.paa",
-			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR\Data\SCAR_02_CO.paa",
+			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR_L\Data\SCAR_L_01_CO.paa",
+			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR_L\Data\SCAR_L_02_CO.paa",
 			"\A3_Aegis\Weapons_F_Aegis\Rifles\SA80\Data\SA80_F_GL_snd_CO.paa"
 		};
 
@@ -320,16 +320,16 @@ class CfgWeapons
 	{
 		hiddenSelectionsTextures[] =
 		{
-			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR\Data\SCAR_01_black_CO.paa",
-			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR\Data\SCAR_02_black_CO.paa"
+			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR_L\Data\SCAR_L_01_black_CO.paa",
+			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR_L\Data\SCAR_L_02_black_CO.paa"
 		};
 	};
 	class arifle_SCAR_L_GL_black_base_F: arifle_SCAR_L_GL_base_F
 	{
 		hiddenSelectionsTextures[] =
 		{
-			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR\Data\SCAR_01_black_CO.paa",
-			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR\Data\SCAR_02_black_CO.paa",
+			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR_L\Data\SCAR_L_01_black_CO.paa",
+			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR_L\Data\SCAR_L_02_black_CO.paa",
 			"\A3_Aegis\Weapons_F_Aegis\Rifles\SA80\Data\SA80_F_GL_CO.paa"
 		};
 	};
@@ -337,32 +337,32 @@ class CfgWeapons
 	{
 		hiddenSelectionsTextures[] =
 		{
-			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR\Data\SCAR_01_black_CO.paa",
-			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR\Data\SCAR_02_black_CO.paa"
+			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR_L\Data\SCAR_L_01_black_CO.paa",
+			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR_L\Data\SCAR_L_02_black_CO.paa"
 		};
 	};
 	class arifle_SCAR_L_grip_black_base_F: arifle_SCAR_L_grip_base_F
 	{
 		hiddenSelectionsTextures[] =
 		{
-			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR\Data\SCAR_01_black_CO.paa",
-			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR\Data\SCAR_02_black_CO.paa"
+			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR_L\Data\SCAR_L_01_black_CO.paa",
+			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR_L\Data\SCAR_L_02_black_CO.paa"
 		};
 	};
 	class arifle_SCAR_L_khaki_base_F: arifle_SCAR_L_base_F
 	{
 		hiddenSelectionsTextures[] =
 		{
-			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR\Data\SCAR_01_khaki_CO.paa",
-			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR\Data\SCAR_02_khaki_CO.paa"
+			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR_L\Data\SCAR_L_01_khaki_CO.paa",
+			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR_L\Data\SCAR_L_02_khaki_CO.paa"
 		};
 	};
 	class arifle_SCAR_L_GL_khaki_base_F: arifle_SCAR_L_GL_base_F
 	{
 		hiddenSelectionsTextures[] =
 		{
-			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR\Data\SCAR_01_khaki_CO.paa",
-			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR\Data\SCAR_02_khaki_CO.paa",
+			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR_L\Data\SCAR_L_01_khaki_CO.paa",
+			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR_L\Data\SCAR_L_02_khaki_CO.paa",
 			"\A3_Aegis\Weapons_F_Aegis\Rifles\SA80\Data\SA80_F_GL_khk_CO.paa"
 		};
 	};
@@ -370,16 +370,16 @@ class CfgWeapons
 	{
 		hiddenSelectionsTextures[] =
 		{
-			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR\Data\SCAR_01_khaki_CO.paa",
-			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR\Data\SCAR_02_khaki_CO.paa"
+			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR_L\Data\SCAR_L_01_khaki_CO.paa",
+			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR_L\Data\SCAR_L_02_khaki_CO.paa"
 		};
 	};
 	class arifle_SCAR_L_grip_khaki_base_F: arifle_SCAR_L_grip_base_F
 	{
 		hiddenSelectionsTextures[] =
 		{
-			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR\Data\SCAR_01_khaki_CO.paa",
-			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR\Data\SCAR_02_khaki_CO.paa"
+			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR_L\Data\SCAR_L_01_khaki_CO.paa",
+			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR_L\Data\SCAR_L_02_khaki_CO.paa"
 		};
 	};
 
