@@ -1,5 +1,23 @@
 class CfgVehicles
 {
+	class LandVehicle;
+	class StaticWeapon: LandVehicle
+	{
+		class Turrets
+		{
+			class MainTurret;
+		};
+	};
+	class StaticMortar: StaticWeapon
+	{
+		class Turrets: Turrets
+		{
+			class MainTurret: MainTurret
+			{
+				class ViewOptics;
+			};
+		};
+	};
 	class Mortar_01_base_F;
 	class Mortar_02_base_F: Mortar_01_base_F
 	{

@@ -2,8 +2,8 @@ ambient[]={1,0.99999899,0.99999899,1};
 diffuse[]={1,0.99999899,0.99999899,1};
 forcedDiffuse[]={0,0,0,0};
 emmisive[]={0,0,0,1};
-specular[]={0.99999899,0.99999899,0.99999899,1};
-specularPower=400;
+specular[]={0.2,0.2,0.2,1};
+specularPower=50;
 PixelShaderID="Super";
 VertexShaderID="Super";
 class Stage1
@@ -81,7 +81,6 @@ class Stage6
 class Stage7
 {
 	texture = "a3\data_f\env_land_ca.paa";
-	useWorldEnvMap = "true";
 	uvSource = "tex";
 	class uvTransform
 	{
