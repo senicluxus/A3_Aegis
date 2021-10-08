@@ -11,7 +11,7 @@ class CfgWeapons
 	{
 		model = "\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR_L\SCAR_L_F.p3d";
 		UiPicture = "\A3\Weapons_F\Data\UI\icon_regular_CA.paa";
-		descriptionShort = $STR_A3_A_CfgWeapons_arifle_SCAR_base_F1;
+		descriptionShort = $STR_A3_CfgWeapons_arifle_SPAR_01_base_F1;
 		class Library
 		{
 			libTextDesc = $STR_A3_A_CfgWeapons_arifle_SCAR_L_base_F_Library0;
@@ -39,6 +39,7 @@ class CfgWeapons
 
         /* Ammunition */ 
 		magazines[] = {30Rnd_556x45_Stanag_Sand};
+		magazineWell[] = {"STANAG_556x45","STANAG_556x45_Large"};
 
         /* Handling */
 		htMin = 8;
@@ -318,6 +319,7 @@ class CfgWeapons
 	};
 	class arifle_SCAR_L_black_base_F: arifle_SCAR_L_base_F
 	{
+		magazines[] = {"30Rnd_556x45_Stanag"};
 		hiddenSelectionsTextures[] =
 		{
 			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR_L\Data\SCAR_L_01_black_CO.paa",
@@ -326,6 +328,7 @@ class CfgWeapons
 	};
 	class arifle_SCAR_L_GL_black_base_F: arifle_SCAR_L_GL_base_F
 	{
+		magazines[] = {"30Rnd_556x45_Stanag"};
 		hiddenSelectionsTextures[] =
 		{
 			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR_L\Data\SCAR_L_01_black_CO.paa",
@@ -335,6 +338,7 @@ class CfgWeapons
 	};
 	class arifle_SCAR_L_short_black_base_F: arifle_SCAR_L_short_base_F
 	{
+		magazines[] = {"30Rnd_556x45_Stanag"};
 		hiddenSelectionsTextures[] =
 		{
 			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR_L\Data\SCAR_L_01_black_CO.paa",
@@ -343,6 +347,7 @@ class CfgWeapons
 	};
 	class arifle_SCAR_L_grip_black_base_F: arifle_SCAR_L_grip_base_F
 	{
+		magazines[] = {"30Rnd_556x45_Stanag"};
 		hiddenSelectionsTextures[] =
 		{
 			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR_L\Data\SCAR_L_01_black_CO.paa",
@@ -351,6 +356,7 @@ class CfgWeapons
 	};
 	class arifle_SCAR_L_khaki_base_F: arifle_SCAR_L_base_F
 	{
+		magazines[] = {"30Rnd_556x45_Stanag"};
 		hiddenSelectionsTextures[] =
 		{
 			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR_L\Data\SCAR_L_01_khaki_CO.paa",
@@ -359,6 +365,7 @@ class CfgWeapons
 	};
 	class arifle_SCAR_L_GL_khaki_base_F: arifle_SCAR_L_GL_base_F
 	{
+		magazines[] = {"30Rnd_556x45_Stanag"};
 		hiddenSelectionsTextures[] =
 		{
 			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR_L\Data\SCAR_L_01_khaki_CO.paa",
@@ -368,6 +375,7 @@ class CfgWeapons
 	};
 	class arifle_SCAR_L_short_khaki_base_F: arifle_SCAR_L_short_base_F
 	{
+		magazines[] = {"30Rnd_556x45_Stanag"};
 		hiddenSelectionsTextures[] =
 		{
 			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR_L\Data\SCAR_L_01_khaki_CO.paa",
@@ -376,6 +384,7 @@ class CfgWeapons
 	};
 	class arifle_SCAR_L_grip_khaki_base_F: arifle_SCAR_L_grip_base_F
 	{
+		magazines[] = {"30Rnd_556x45_Stanag"};
 		hiddenSelectionsTextures[] =
 		{
 			"\A3_Aegis\Weapons_F_Aegis\Rifles\SCAR_L\Data\SCAR_L_01_khaki_CO.paa",
