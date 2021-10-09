@@ -10074,6 +10074,23 @@
 					<Japanese>***TO TRANSLATE***</Japanese>
 					<Turkish>***TO TRANSLATE***</Turkish>
 				</Key>
+				<Key ID="STR_A3_CfgVehicles_Mortar_02_Base0">
+					<Original>M252 Mortar</Original>
+					<Chinese>M252 Mortar</Chinese>
+					<French>M252 Mortar</French>
+					<Spanish>M252 Mortar</Spanish>
+					<Italian>M252 Mortar</Italian>
+					<Polish>M252 Mortar</Polish>
+					<Russian>M252 Mortar</Russian>
+					<German>M252 Mortar</German>
+					<Czech>M252 Mortar</Czech>
+					<English>M252 Mortar</English>
+					<Portuguese>M252 Mortar</Portuguese>
+					<Korean>M252 Mortar</Korean>
+					<Chinesesimp>M252 Mortar</Chinesesimp>
+					<Japanese>M252 Mortar</Japanese>
+					<Turkish>M252 Mortar</Turkish>
+				</Key>
 			</Container>
 			<Container name="Library">
 				<Key ID="STR_A3_A_CfgVehicles_Arty_System_01_base_F_Library0">
