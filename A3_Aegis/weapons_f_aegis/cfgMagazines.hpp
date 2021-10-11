@@ -155,6 +155,21 @@ class CfgMagazines
 		lastRoundsTracer = 4;
 		mass = 46;
 	};
+	/*class B_IR_Beacon: B_IR_Grenade
+	{
+		author = "Ravenholme";
+		scope = public;
+		displayName = "IR Beacon";
+		picture = "\A3\Weapons_F_EPB\Ammo\Data\UI\gear_B_IRstrobe_CA.paa";
+		model = "\A3\Weapons_F_EPB\Ammo\B_IRstrobe_F.p3d";
+		ammo = IRBeacon_Base;
+		count = 1;
+		initSpeed = 18;
+		nameSound = handgrenade;
+		maxLeadSpeed = 6.9444399;
+		descriptionShort = $STR_A3_CfgMagazines_B_IR_Grenade1;
+		displayNameShort = $STR_A3_CFGMAGAZINES_IR_GRENADE_DNS;
+	};*/
 	class 150Rnd_93x64_Mag: CA_Magazine
 	{
 		displayName = $STR_A3_A_CfgMagazines_150Rnd_93x64_Mag0;
