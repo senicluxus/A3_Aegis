@@ -681,3 +681,46 @@ class optic_pso_F: ItemCore
 	inertia = 0.2;
 };
 */
+class acc_flashlight_ir: ItemCore
+{
+	author = "Ravenholme";
+	scope = public;
+	displayName = "IR Flashlight";
+	descriptionUse = "$STR_A3_cfgWeapons_use_flashlight0";
+	picture = "\A3\weapons_F\Data\UI\gear_accv_flashlight_CA.paa";
+	model = "\A3\weapons_f\acc\accv_Flashlight_F";
+	descriptionShort = "$STR_A3_cfgWeapons_acc_flashlight1";
+	class ItemInfo: InventoryFlashLightItem_Base_F
+	{
+		mass = 4;
+		class FlashLight
+		{
+			irlight = true;
+			color[] = {0.705,0.627,0.51};
+			ambient[] = {0.9,0.81,0.7};
+			intensity = 1000;
+			size = 1;
+			innerAngle = 5;
+			outerAngle = 100;
+			coneFadeCoef = 8;
+			position = "flash dir";
+			direction = "flash";
+			useFlare = 1;
+			flareSize = 1.4;
+			flareMaxDistance = 100;
+			dayLight = 0;
+			class Attenuation
+			{
+				start = 0;
+				constant = 0.5;
+				linear = 0.1;
+				quadratic = 0.2;
+				hardLimitStart = 27;
+				hardLimitEnd = 34;
+			};
+			volumeShape = "a3\data_f\VolumeLightFlashlight.p3d";
+			scale[] = {1,1,1};
+		};
+	};
+	inertia = 0.1;
+};
