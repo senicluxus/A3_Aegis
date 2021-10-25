@@ -2506,3 +2506,226 @@ class O_G_Soldier_CQ_F: I_G_Soldier_CQ_F
 	};
     uniformClass = U_OG_Guerilla1_3;
 };
+class I_G_Soldier_TechSpec_F: I_G_engineer_F
+{
+    author = $STR_A3_A_Ravenholme;
+    //editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\I_G_Soldier_TechSpec_F.jpg";
+    scope = public;
+    scopeCurator = public;
+    displayName = $STR_A3_A_CfgVehicles_I_G_Soldier_TechSpec_F0;
+    uavHacker = true;
+    canDeactivateMines = false;
+    cost = 150000;
+	role = SpecialOperative;
+    uniformClass = U_IG_Guerilla2_2;
+    backpack = B_Kitbag_rgr_G_TechSpec;
+    weapons[] =
+    {
+        hgun_PDW2000_F,
+        DefaultManWeapons
+    };
+    respawnWeapons[] =
+    {
+        hgun_PDW2000_F,
+        DefaultManWeapons
+    };
+    magazines[] =
+    {
+        mag_5(30Rnd_9x21_Mag_v2),
+        HandGrenade,
+        SmokeShell
+    };
+    respawnMagazines[] =
+    {
+        mag_5(30Rnd_9x21_Mag_v2),
+        HandGrenade,
+        SmokeShell
+    };
+    linkedItems[] =
+    {
+        H_Cap_grn,
+        G_Tactical_clear,
+        V_Pocketed_olive_F,
+        I_UAVTerminal,
+        DefaultManGuerillaLinkedItems
+    };
+    respawnLinkedItems[] =
+    {
+        H_Cap_grn,
+        G_Tactical_clear,
+        V_Pocketed_olive_F,
+        I_UAVTerminal,
+        DefaultManGuerillaLinkedItems
+    };
+    allowedHeadgear[] =
+    {
+        H_Bandanna_gry,
+        H_Bandanna_blu,
+        H_Bandanna_cbr,
+        H_Bandanna_khk,
+        H_Bandanna_khk_hs,
+        H_Bandanna_sgg,
+        H_Bandanna_sand,
+        H_Bandanna_surfer,
+        H_Bandanna_surfer_blk,
+        H_Bandanna_surfer_grn,
+        H_Bandanna_camo,
+        H_Bandanna_camo_hs,
+        H_Watchcap_blk,
+        H_Watchcap_cbr,
+        H_Watchcap_camo,
+        H_Watchcap_khk,
+        H_Watchcap_sgg,
+        H_Watchcap_red,
+        H_Watchcap_blk_hs,
+        H_Watchcap_cbr_hs,
+        H_Watchcap_camo_hs,
+        H_Watchcap_khk_hs,
+        H_Booniehat_khk,
+        H_Booniehat_khk_hs,
+        H_Booniehat_oli,
+        H_Booniehat_tan,
+        H_Booniehat_dgtl,
+        H_Booniehat_mgrn,
+        H_Booniehat_oli_hs,
+        H_Booniehat_dgtl_hs,
+        H_Booniehat_mgrn_hs,
+        H_Cap_blk,
+        H_Cap_grn,
+        H_Cap_khk,
+        H_Cap_oli,
+        H_Cap_oli_hs,
+        H_Cap_tan,
+        H_Cap_blk_Raven,
+        H_Cap_blk_Raven_hs,
+        H_Shemag_olive,
+        H_Shemag_olive_hs,
+        H_ShemagOpen_tan,
+        H_ShemagOpen_khk,
+        H_ShemagOpen_khk_hs,
+        H_ShemagOpen_tan_hs,
+        H_HeadSet_light_F,
+        H_Hat_Safari_sand_F,
+        H_Hat_Safari_olive_F,
+        H_PASGT_basic_black_F,
+        H_PASGT_basic_green_F,
+        H_PASGT_basic_olive_F
+    };
+    headgearList[] =
+    {
+        H_Bandanna_gry,1,
+        H_Bandanna_blu,1,
+        H_Bandanna_cbr,1,
+        H_Bandanna_khk,1,
+        H_Bandanna_khk_hs,1,
+        H_Bandanna_sgg,1,
+        H_Bandanna_sand,1,
+        H_Bandanna_surfer,1,
+        H_Bandanna_surfer_blk,1,
+        H_Bandanna_surfer_grn,1,
+        H_Bandanna_camo,1,
+        H_Bandanna_camo_hs,1,
+        H_Watchcap_blk,1,
+        H_Watchcap_cbr,1,
+        H_Watchcap_camo,1,
+        H_Watchcap_khk,1,
+        H_Watchcap_sgg,1,
+        H_Watchcap_red,1,
+        H_Watchcap_blk_hs,1,
+        H_Watchcap_cbr_hs,1,
+        H_Watchcap_camo_hs,1,
+        H_Watchcap_khk_hs,1,
+        H_Booniehat_khk,1,
+        H_Booniehat_khk_hs,1,
+        H_Booniehat_oli,1,
+        H_Booniehat_tan,1,
+        H_Booniehat_dgtl,1,
+        H_Booniehat_mgrn,1,
+        H_Booniehat_oli_hs,1,
+        H_Booniehat_dgtl_hs,1,
+        H_Booniehat_mgrn_hs,1,
+        H_Cap_blk,1,
+        H_Cap_grn,1,
+        H_Cap_khk,1,
+        H_Cap_oli,1,
+        H_Cap_oli_hs,1,
+        H_Cap_tan,1,
+        H_Cap_blk_Raven,1,
+        H_Cap_blk_Raven_hs,1,
+        H_Shemag_olive,1,
+        H_Shemag_olive_hs,1,
+        H_ShemagOpen_tan,1,
+        H_ShemagOpen_khk,1,
+        H_ShemagOpen_khk_hs,1,
+        H_ShemagOpen_tan_hs,1,
+        H_HeadSet_light_F,1,
+        H_Hat_Safari_sand_F,1,
+        H_Hat_Safari_olive_F,1,
+        H_PASGT_basic_black_F,1,
+        H_PASGT_basic_green_F,1,
+        H_PASGT_basic_olive_F,1,
+        H_FakeHeadgear_F,1
+    };
+};
+class B_G_Soldier_TechSpec_F: I_G_Soldier_TechSpec_F
+{
+    author = $STR_A3_A_Ravenholme;
+    //editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\I_G_Soldier_TechSpec_F.jpg";
+    scope = public;
+    scopeCurator = public;
+    side = TWest;
+    faction = BLU_G_F;
+    modelSides[] =
+    {
+        TWest,
+        TCivilian
+    };
+    uniformClass = U_BG_Guerilla2_2;
+    linkedItems[] =
+    {
+        H_Cap_grn,
+        G_Tactical_clear,
+        V_Pocketed_olive_F,
+        B_UAVTerminal,
+        DefaultManGuerillaLinkedItems
+    };
+    respawnLinkedItems[] =
+    {
+        H_Cap_grn,
+        G_Tactical_clear,
+        V_Pocketed_olive_F,
+        B_UAVTerminal,
+        DefaultManGuerillaLinkedItems
+    };
+};
+class O_G_Soldier_TechSpec_F: I_G_Soldier_TechSpec_F
+{
+    author = $STR_A3_A_Ravenholme;
+    //editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\I_G_Soldier_TechSpec_F.jpg";
+    scope = public;
+    scopeCurator = public;
+    side = TEast;
+    faction = OPF_G_F;
+	modelSides[] =
+	{
+		TEast,
+		TCivilian
+	};
+    uniformClass = U_OG_Guerilla2_2;
+    linkedItems[] =
+    {
+        H_Cap_grn,
+        G_Tactical_clear,
+        V_Pocketed_olive_F,
+        O_UAVTerminal,
+        DefaultManGuerillaLinkedItems
+    };
+    respawnLinkedItems[] =
+    {
+        H_Cap_grn,
+        G_Tactical_clear,
+        V_Pocketed_olive_F,
+        O_UAVTerminal,
+        DefaultManGuerillaLinkedItems
+    };
+};

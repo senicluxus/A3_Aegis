@@ -1772,6 +1772,23 @@
                 <Chinesesimp>无人地面车辆 (UGV) 操作员 (排雷)</Chinesesimp>
                 <Turkish>UGV Operatörü (Mayın Temizleme)</Turkish>
 			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_G_Soldier_TechSpec_F0">
+                <Original>Technical Specialist</Original>
+                <English>Technical Specialist</English>
+                <Czech>Technical Specialist</Czech>
+                <German>Technical Specialist</German>
+                <Russian>Technical Specialist</Russian>
+                <Polish>Technical Specialist</Polish>
+                <Italian>Technical Specialist</Italian>
+                <Spanish>Technical Specialist</Spanish>
+                <French>Technical Specialist</French>
+                <Chinese>Technical Specialist</Chinese>
+                <Japanese>Technical Specialist</Japanese>
+                <Korean>Technical Specialist</Korean>
+                <Portuguese>Technical Specialist</Portuguese>
+                <Chinesesimp>Technical Specialist</Chinesesimp>
+                <Turkish>Technical Specialist</Turkish>
+			</Key>
 			<Container name="Facewear">
 				<Key ID="STR_A3_A_CfgGlasses_G_Balaclava_Skull10">
 					<Original>Balaclava (Skull)</Original>
