@@ -48,7 +48,7 @@ class CfgWeapons
 		aimTransitionSpeed = 1.1;
 		dexterity = 1.4;
 		initSpeed = 870;
-		recoil = recoil_scar;
+		recoil = recoil_sa80;
 		maxZeroing = 800;
 
         /* Slots */
