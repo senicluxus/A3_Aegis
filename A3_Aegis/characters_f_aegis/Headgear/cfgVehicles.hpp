@@ -260,7 +260,7 @@ class CfgVehicles
 	HEADGEAR_HOLDER(H_HelmetSpecter_headset_F,$STR_A3_A_CfgWeapons_H_HelmetSpecter_headset_F0,EdSubcat_Helmets);
 	HEADGEAR_HOLDER(H_HelmetSpecter_black_headset_F,$STR_A3_A_CfgWeapons_H_HelmetSpecter_black_headset_F0,EdSubcat_Helmets);
 	HEADGEAR_HOLDER(H_HelmetSpecter_brown_headset_F,$STR_A3_A_CfgWeapons_H_HelmetSpecter_brown_headset_F0,EdSubcat_Helmets);
-	HEADGEAR_HOLDER(H_MK7_AAF_F,"MK7 [AAF]",EdSubcat_Helmets);
+	HEADGEAR_HOLDER(H_MK7_AAF_F,$STR_A3_A_CfgWeapons_H_MK7_AAF_F_F0,EdSubcat_Helmets);
 	
     /* Deprecated */
     DEPRECATED_CLASS(Headgear_H_HelmetCrew_I_E,Headgear_H_HelmetCrew_I);;

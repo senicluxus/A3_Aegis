@@ -4701,6 +4701,23 @@
 					<Japanese>モジュラーヘルメット（市街）</Japanese>
 					<Turkish>Modüler Miğfer (Şehir)</Turkish>
 				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_MK7_AAF_F_F0">
+					<Original>Service Helmet (Digi)</Original>
+					<Chinese>Service Helmet (Digi)</Chinese>
+					<French>Service Helmet (Digi)</French>
+					<Spanish>Service Helmet (Digi)</Spanish>
+					<Italian>Service Helmet (Digi)</Italian>
+					<Polish>Service Helmet (Digi)</Polish>
+					<Russian>Service Helmet (Digi)</Russian>
+					<German>Service Helmet (Digi)</German>
+					<Czech>Service Helmet (Digi)</Czech>
+					<English>Service Helmet (Digi)</English>
+					<Portuguese>Service Helmet (Digi)</Portuguese>
+					<Korean>Service Helmet (Digi)</Korean>
+					<Chinesesimp>Service Helmet (Digi)</Chinesesimp>
+					<Japanese>Service Helmet (Digi)</Japanese>
+					<Turkish>Service Helmet (Digi)</Turkish>
+				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_O_Helmet_canvas_ghex_F0">
 					<Original>Modular Helmet (Green Hex)</Original>
 					<Chinese>模組化通訊頭盔（綠色六邊形）</Chinese>

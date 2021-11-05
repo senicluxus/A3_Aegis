@@ -2533,7 +2533,7 @@ class CfgWeapons
         author = "Bran Flakes and TacticalDruid";
         scope = protected;
         displayName = "MK7";
-        //picture = "Picture path";
+        picture = "\A3_Aegis\Characters_F_Aegis\Headgear\Data\UI\icon_H_MK7_digi_ca.paa";
         model = "\A3_Aegis\Characters_F_Aegis\Headgear\H_Mk7_F";
         hiddenSelections[] = { "Camo","Camo2","Camo3" };
         hiddenSelectionsTextures[] =
@@ -2593,11 +2593,11 @@ class CfgWeapons
          	"\A3_Aegis\Characters_F_Aegis\Headgear\Data\equip_d_co.paa"
         };
     };*/
-    class H_MK7_AAF_F: H_MK7_Base_F
+    class H_MK7_AAF_F: H_MK7_Base_F // Ingame called the Service Helmet (Digi)
     {
         author = "Bran Flakes and TacticalDruid";
         scope = public;
-        displayName = "MK7 [AAF]";
+        displayName = $STR_A3_A_CfgWeapons_H_MK7_AAF_F_F0;
         //picture = "Picture path";
         model = "\A3_Aegis\Characters_F_Aegis\Headgear\H_Mk7_F";
         hiddenSelections[] = { "Camo","Camo2","Camo3" };
