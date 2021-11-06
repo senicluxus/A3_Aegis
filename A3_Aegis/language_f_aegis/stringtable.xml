@@ -4752,22 +4752,22 @@
 					<Japanese>Service Helmet (Sand)</Japanese>
 					<Turkish>Service Helmet (Sand)</Turkish>
 				</Key>
-				<Key ID="STR_A3_A_CfgWeapons_H_MK7_blue_F0">
-					<Original>Service Helmet (Blue)</Original>
-					<Chinese>Service Helmet (Blue)</Chinese>
-					<French>Service Helmet (Blue)</French>
-					<Spanish>Service Helmet (Blue)</Spanish>
-					<Italian>Service Helmet (Blue)</Italian>
-					<Polish>Service Helmet (Blue)</Polish>
-					<Russian>Service Helmet (Blue)</Russian>
-					<German>Service Helmet (Blue)</German>
-					<Czech>Service Helmet (Blue)</Czech>
-					<English>Service Helmet (Blue)</English>
-					<Portuguese>Service Helmet (Blue)</Portuguese>
-					<Korean>Service Helmet (Blue)</Korean>
-					<Chinesesimp>Service Helmet (Blue)</Chinesesimp>
-					<Japanese>Service Helmet (Blue)</Japanese>
-					<Turkish>Service Helmet (Blue)</Turkish>
+				<Key ID="STR_A3_A_CfgWeapons_H_MK7_UN_F0">
+					<Original>Service Helmet (UN)</Original>
+					<Chinese>Service Helmet (UN)</Chinese>
+					<French>Service Helmet (UN)</French>
+					<Spanish>Service Helmet (UN)</Spanish>
+					<Italian>Service Helmet (UN)</Italian>
+					<Polish>Service Helmet (UN)</Polish>
+					<Russian>Service Helmet (UN)</Russian>
+					<German>Service Helmet (UN)</German>
+					<Czech>Service Helmet (UN)</Czech>
+					<English>Service Helmet (UN)</English>
+					<Portuguese>Service Helmet (UN)</Portuguese>
+					<Korean>Service Helmet (UN)</Korean>
+					<Chinesesimp>Service Helmet (UN)</Chinesesimp>
+					<Japanese>Service Helmet (UN)</Japanese>
+					<Turkish>Service Helmet (UN)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_O_Helmet_canvas_ghex_F0">
 					<Original>Modular Helmet (Green Hex)</Original>
@@ -4785,23 +4785,6 @@
 					<Chinesesimp>标准头盔（绿色六角）</Chinesesimp>
 					<Japanese>モジュラーヘルメット（緑六角形）</Japanese>
 					<Turkish>Modüler Miğfer (Yeşil Hex)</Turkish>
-				</Key>
-				<Key ID="STR_A3_A_CfgWeapons_H_I_Helmet_canvas_Blue_F0">
-					<Original>Modular Helmet (Blue)</Original>
-					<Chinese>模組化通訊頭盔（Blue）</Chinese>
-					<French>Casque modulaire (Blue)</French>
-					<Spanish>Casco modular (Blue)</Spanish>
-					<Italian>Elmetto modulare (Blue)</Italian>
-					<Polish>Hełm modułowy (Blue)</Polish>
-					<Russian>Модульный шлем (Blue)</Russian>
-					<German>Modularer Helm (Blue)</German>
-					<Czech>Modulární přilba (Blue)</Czech>
-					<English>Modular Helmet (Blue)</English>
-					<Portuguese>Capacete modular (Blue)</Portuguese>
-					<Korean>모듈형 헬멧(Blue)</Korean>
-					<Chinesesimp>标准头盔（Blue）</Chinesesimp>
-					<Japanese>モジュラーヘルメット（Blue）</Japanese>
-					<Turkish>Modüler Miğfer (Blue)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_I_Helmet_canvas_UN_F0">
 					<Original>Modular Helmet (UN)</Original>
