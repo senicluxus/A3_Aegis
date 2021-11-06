@@ -90,7 +90,16 @@ class arifle_Katiba_ARCO_pointer_snds_F: arifle_Katiba_F
 };
 class mk20_base_F: Rifle_Base_F
 {
-    class WeaponSlotsInfo;
+    class WeaponSlotsInfo: WeaponSlotsInfo
+    {
+        class CowsSlot: CowsSlot_mk20
+        {
+            compatibleItems[] =
+            {
+                acc_o_FMS
+            };
+        };
+    };
 };
 class arifle_Mk20_F: mk20_base_F
 {

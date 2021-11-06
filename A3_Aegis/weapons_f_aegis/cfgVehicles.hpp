@@ -45,7 +45,8 @@ class CfgVehicles
 	ACC_HOLDER(muzzle_mzls_B,$STR_A3_A_CfgWeapons_muzzle_mzls_B0,EdCat_WeaponAttachments,EdSubcat_FrontSlot,WeaponAccessories);
 	ACC_HOLDER(muzzle_mzls_acp,$STR_A3_A_CfgWeapons_muzzle_mzls_acp0,EdCat_WeaponAttachments,EdSubcat_FrontSlot,WeaponAccessories);
 	ACC_HOLDER(muzzle_mzls_smg_01,$STR_A3_A_CfgWeapons_muzzle_mzls_smg_010,EdCat_WeaponAttachments,EdSubcat_FrontSlot,WeaponAccessories);
-	ACC_HOLDER(acc_flashlight_ir,"IR Flaslight",EdCat_WeaponAttachments,EdSubcat_SideSlot,WeaponAccessories);
+	ACC_HOLDER(acc_o_FMS,"FMS",EdCat_WeaponAttachments,EdSubcat_TopSlot_Optics,WeaponAccessories);
+	ACC_HOLDER(acc_flashlight_ir,"IR Flashlight",EdCat_WeaponAttachments,EdSubcat_SideSlot,WeaponAccessories);
 	/*
     ACC_HOLDER(optic_srs,$STR_A3_A_CfgWeapons_optic_srs0,EdCat_WeaponAttachments,EdSubcat_TopSlot_Collimators,WeaponAccessories);
 	*/

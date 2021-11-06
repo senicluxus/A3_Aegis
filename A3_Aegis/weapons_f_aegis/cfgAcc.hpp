@@ -724,3 +724,70 @@ class acc_flashlight_ir: ItemCore
 	};
 	inertia = 0.1;
 };
+
+class acc_o_FMS: ItemCore
+{
+    author = $STR_A3_A_AveryTheKitty;
+    scope = public; 
+	scopeArsenal = public;
+
+    displayName = $STR_A3_A_acc_o_FMS_dn;
+    descriptionShort = $STR_A3_A_acc_o_FMS_ds;
+	model = "\A3_Aegis\weapons_f_aegis\acc\FMS.p3d";
+	picture = "\A3_Aegis\weapons_f_aegis\acc\Data\UI\icon_acc_o_FMS_ca.paa";
+	weaponInfoType = RscWeaponZeroing;
+
+	class ItemInfo: InventoryOpticsItem_Base_F
+	{
+		opticType = 1; // Medium Range
+		optics = true;
+		modelOptics = "\A3_Aegis\weapons_f_aegis\acc\FMS.p3d";
+    	mass = 5; // 4.62966, but close enough for government work.
+
+		class OpticsModes
+		{
+			class FMSScope
+			{
+				opticsID = 2;
+				useModelOptics = false;
+				memoryPointCamera = opticView;
+                visionMode[] = {};
+
+				//--- FX
+				opticsFlare = true;
+				opticsDisablePeripherialVision = true;
+                opticsPPEffects[] =
+				{
+					OpticsRadialBlur1,
+					OpticsBlur1
+				};
+
+				//--- Zeroing
+				opticsZoomMin = 0.125;
+				opticsZoomMax = 0.125;
+				opticsZoomInit = 0.125;
+				distanceZoomMin = 300;
+				distanceZoomMax = 300;
+			};
+			class FMSIronsights
+			{
+				opticsID = 1;
+				useModelOptics = false;
+				memoryPointCamera = eye;
+				visionMode[] = {};
+
+				//--- FX
+				opticsFlare = false;
+				opticsDisablePeripherialVision = false;
+				opticsPPEffects[] = {Default};
+
+				//--- Zeroing
+				opticsZoomMin = 0.25;
+				opticsZoomMax = 1.25;
+				opticsZoomInit = 0.75;
+				distanceZoomMin = 200;
+				distanceZoomMax = 200;
+			};
+		};
+	};
+};

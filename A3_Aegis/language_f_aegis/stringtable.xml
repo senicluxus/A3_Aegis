@@ -14041,6 +14041,40 @@
 						<Japanese>DCL-120 Collimator Optics&lt;br /&gt;Magnification: 1x</Japanese>
 						<Turkish>DCL-120 Collimator Optics&lt;br /&gt;Magnification: 1x</Turkish>
 					</Key>
+					<Key ID="STR_A3_A_acc_o_FMS_dn">
+						<Original>FMS</Original>
+						<Chinese>FMS</Chinese>
+						<French>FMS</French>
+						<Spanish>FMS</Spanish>
+						<Italian>FMS</Italian>
+						<Polish>FMS</Polish>
+						<Russian>FMS</Russian>
+						<German>FMS</German>
+						<Czech>FMS</Czech>
+						<English>FMS</English>
+						<Portuguese>FMS</Portuguese>
+						<Korean>FMS</Korean>
+						<Chinesesimp>FMS</Chinesesimp>
+						<Japanese>FMS</Japanese>
+						<Turkish>FMS</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_acc_o_FMS_ds">
+						<Original>FMS</Original>
+						<Chinese>FMS</Chinese>
+						<French>FMS</French>
+						<Spanish>FMS</Spanish>
+						<Italian>FMS</Italian>
+						<Polish>FMS</Polish>
+						<Russian>FMS</Russian>
+						<German>FMS</German>
+						<Czech>FMS</Czech>
+						<English>FMS</English>
+						<Portuguese>FMS</Portuguese>
+						<Korean>FMS</Korean>
+						<Chinesesimp>FMS</Chinesesimp>
+						<Japanese>FMS</Japanese>
+						<Turkish>FMS</Turkish>
+					</Key>
 					<Key ID="STR_A3_A_CfgWeapons_optic_ACOG1">
 						<Original>Advanced Combat Optical Gunsights&lt;br /&gt;Magnification: 4x</Original>
 						<Chinese>Advanced Combat Optical Gunsights&lt;br /&gt;Magnification: 4x</Chinese>
