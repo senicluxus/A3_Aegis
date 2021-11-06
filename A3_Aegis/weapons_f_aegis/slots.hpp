@@ -71,12 +71,12 @@ class CowsSlot_AK: CowsSlot
 		optic_pso_F = true;
 	};
 };
-class CowsSlot_mk20: CowsSlot_Rail
+class CowsSlot_F2000: CowsSlot_Rail
 {
-    compatibleItems[] =
-    {
-        acc_o_FMS
-    };
+	class compatibleItems: compatibleItems
+	{
+		acc_o_FMS = true;
+	};
 };
 class PointerSlot_Rail;
 class UnderBarrelSlot_rail;
