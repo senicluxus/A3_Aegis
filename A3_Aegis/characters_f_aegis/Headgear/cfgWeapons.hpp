@@ -2597,7 +2597,7 @@ class CfgWeapons
     {
         author = "Bran Flakes and TacticalDruid";
         scope = public;
-        displayName = $STR_A3_A_CfgWeapons_H_MK7_AAF_F_F0;
+        displayName = $STR_A3_A_CfgWeapons_H_MK7_AAF_F0;
         //picture = "Picture path";
         model = "\A3_Aegis\Characters_F_Aegis\Headgear\H_Mk7_F";
         hiddenSelections[] = { "Camo","Camo2","Camo3" };
@@ -2608,6 +2608,72 @@ class CfgWeapons
          	"\A3_Aegis\Characters_F_Aegis\Headgear\Data\equip_d_co.paa"
         };
     };
+	/*class H_MK7_oli_F: H_MK7_Base_F
+    {
+        author = "Bran Flakes and TacticalDruid";
+        scope = public;
+        displayName = $STR_A3_A_CfgWeapons_H_MK7_oli_F0;
+        //picture = "Picture path";
+        model = "\A3_Aegis\Characters_F_Aegis\Headgear\H_Mk7_F";
+        hiddenSelections[] = { "Camo","Camo2","Camo3" };
+        hiddenSelectionsTextures[] =
+        {
+         	"\A3_Aegis\Characters_F_Aegis\Headgear\Data\MK7_oli.tga",
+         	"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetSpecter_01_brown_CO.paa",
+         	"\A3_Aegis\Characters_F_Aegis\Headgear\Data\equip_d_co.paa"
+        };
+    };
+	class H_MK7_sand_F: H_MK7_Base_F
+    {
+        author = "Bran Flakes and TacticalDruid";
+        scope = public;
+        displayName = $STR_A3_A_CfgWeapons_H_MK7_Sand_F0;
+        //picture = "Picture path";
+        model = "\A3_Aegis\Characters_F_Aegis\Headgear\H_Mk7_F";
+        hiddenSelections[] = { "Camo","Camo2","Camo3" };
+        hiddenSelectionsTextures[] =
+        {
+         	"\A3_Aegis\Characters_F_Aegis\Headgear\Data\MK7_sand.tga",
+         	"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetSpecter_01_brown_CO.paa",
+         	"\A3_Aegis\Characters_F_Aegis\Headgear\Data\equip_d_co.paa"
+        };
+    };
+	class H_MK7_blue_F: H_MK7_Base_F
+    {
+        author = "Bran Flakes and TacticalDruid";
+        scope = public;
+        displayName = $STR_A3_A_CfgWeapons_H_MK7_blue_F0;
+        //picture = "Picture path";
+        model = "\A3_Aegis\Characters_F_Aegis\Headgear\H_Mk7_F";
+        hiddenSelections[] = { "Camo","Camo2","Camo3" };
+        hiddenSelectionsTextures[] =
+        {
+         	"\A3_Aegis\Characters_F_Aegis\Headgear\Data\MK7_blue.tga",
+         	"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetSpecter_01_brown_CO.paa",
+         	"\A3_Aegis\Characters_F_Aegis\Headgear\Data\equip_d_co.paa"
+        };
+    };
+	class H_I_Helmet_canvas_Blue_F: H_HelmetIA
+	{
+	  	author = $STR_A3_A_BranFlakes;
+		displayName = $STR_A3_A_CfgWeapons_H_I_Helmet_canvas_Blue_F0;
+		picture = "\A3_Aegis\Characters_F_Aegis\Headgear\Data\UI\icon_H_I_Helmet_canvas_Blue_CA.paa";
+		hiddenSelectionsTextures[] = {"\A3_Aegis\Characters_F_Aegis\Headgear\Data\headgear_helmet_canvas_Blue_CO.paa"};
+	};
+	class H_I_Helmet_canvas_UN_F: H_HelmetIA
+	{
+	  	author = $STR_A3_A_BranFlakes;
+		displayName = $STR_A3_A_CfgWeapons_H_I_Helmet_canvas_UN_F0;
+		picture = "\A3_Aegis\Characters_F_Aegis\Headgear\Data\UI\icon_H_I_Helmet_canvas_UN_CA.paa";
+		hiddenSelectionsTextures[] = {"\A3_Aegis\Characters_F_Aegis\Headgear\Data\headgear_helmet_canvas_UN_CO.paa"};
+	};
+	class H_I_Helmet_canvas_CBR_F: H_HelmetIA
+	{
+	  	author = $STR_A3_A_BranFlakes;
+		displayName = $STR_A3_A_CfgWeapons_H_I_Helmet_canvas_CBR_F0;
+		picture = "\A3_Aegis\Characters_F_Aegis\Headgear\Data\UI\icon_H_I_Helmet_canvas_CBR_CA.paa";
+		hiddenSelectionsTextures[] = {"\A3_Aegis\Characters_F_Aegis\Headgear\Data\headgear_helmet_canvas_CBR_CO.paa"};
+	};*/
     /* Deprecated */
     #include "deprecated.hpp"
 };
