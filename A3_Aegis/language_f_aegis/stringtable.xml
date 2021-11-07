@@ -4753,21 +4753,21 @@
 					<Turkish>Service Helmet (Sand)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_MK7_UN_F0">
-					<Original>Service Helmet (UN)</Original>
-					<Chinese>Service Helmet (UN)</Chinese>
-					<French>Service Helmet (UN)</French>
-					<Spanish>Service Helmet (UN)</Spanish>
-					<Italian>Service Helmet (UN)</Italian>
-					<Polish>Service Helmet (UN)</Polish>
-					<Russian>Service Helmet (UN)</Russian>
-					<German>Service Helmet (UN)</German>
-					<Czech>Service Helmet (UN)</Czech>
-					<English>Service Helmet (UN)</English>
-					<Portuguese>Service Helmet (UN)</Portuguese>
-					<Korean>Service Helmet (UN)</Korean>
-					<Chinesesimp>Service Helmet (UN)</Chinesesimp>
-					<Japanese>Service Helmet (UN)</Japanese>
-					<Turkish>Service Helmet (UN)</Turkish>
+					<Original>Service Helmet (UNO)</Original>
+					<Chinese>Service Helmet (UNO)</Chinese>
+					<French>Service Helmet (UNO)</French>
+					<Spanish>Service Helmet (UNO)</Spanish>
+					<Italian>Service Helmet (UNO)</Italian>
+					<Polish>Service Helmet (UNO)</Polish>
+					<Russian>Service Helmet (UNO)</Russian>
+					<German>Service Helmet (UNO)</German>
+					<Czech>Service Helmet (UNO)</Czech>
+					<English>Service Helmet (UNO)</English>
+					<Portuguese>Service Helmet (UNO)</Portuguese>
+					<Korean>Service Helmet (UNO)</Korean>
+					<Chinesesimp>Service Helmet (UNO)</Chinesesimp>
+					<Japanese>Service Helmet (UNO)</Japanese>
+					<Turkish>Service Helmet (UNO)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_O_Helmet_canvas_ghex_F0">
 					<Original>Modular Helmet (Green Hex)</Original>
@@ -4787,21 +4787,21 @@
 					<Turkish>Modüler Miğfer (Yeşil Hex)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_I_Helmet_canvas_UN_F0">
-					<Original>Modular Helmet (UN)</Original>
+					<Original>Modular Helmet (UNO)</Original>
 					<Chinese>模組化通訊頭盔（UN）</Chinese>
-					<French>Casque modulaire (UN)</French>
-					<Spanish>Casco modular (UN)</Spanish>
-					<Italian>Elmetto modulare (UN)</Italian>
-					<Polish>Hełm modułowy (UN)</Polish>
-					<Russian>Модульный шлем (UN)</Russian>
-					<German>Modularer Helm (UN)</German>
-					<Czech>Modulární přilba (UN)</Czech>
-					<English>Modular Helmet (UN)</English>
-					<Portuguese>Capacete modular (UN)</Portuguese>
-					<Korean>모듈형 헬멧(UN)</Korean>
+					<French>Casque modulaire (UNO)</French>
+					<Spanish>Casco modular (UNO)</Spanish>
+					<Italian>Elmetto modulare (UNO)</Italian>
+					<Polish>Hełm modułowy (UNO)</Polish>
+					<Russian>Модульный шлем (UNO)</Russian>
+					<German>Modularer Helm (UNO)</German>
+					<Czech>Modulární přilba (UNO)</Czech>
+					<English>Modular Helmet (UNO)</English>
+					<Portuguese>Capacete modular (UNO)</Portuguese>
+					<Korean>모듈형 헬멧(UNO)</Korean>
 					<Chinesesimp>标准头盔（UN）</Chinesesimp>
 					<Japanese>モジュラーヘルメット（UN）</Japanese>
-					<Turkish>Modüler Miğfer (UN)</Turkish>
+					<Turkish>Modüler Miğfer (UNO)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_I_Helmet_canvas_CBR_F0">
 					<Original>Modular Helmet (Coyote)</Original>
