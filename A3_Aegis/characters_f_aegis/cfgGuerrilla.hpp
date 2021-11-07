@@ -2509,7 +2509,7 @@ class O_G_Soldier_CQ_F: I_G_Soldier_CQ_F
 class I_G_Soldier_TechSpec_F: I_G_engineer_F
 {
     author = $STR_A3_A_Ravenholme;
-    //editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\I_G_Soldier_TechSpec_F.jpg";
+    editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\I_G_Soldier_TechSpec_F.jpg";
     scope = public;
     scopeCurator = public;
     displayName = $STR_A3_A_CfgVehicles_I_G_Soldier_TechSpec_F0;
@@ -2670,7 +2670,7 @@ class I_G_Soldier_TechSpec_F: I_G_engineer_F
 class B_G_Soldier_TechSpec_F: I_G_Soldier_TechSpec_F
 {
     author = $STR_A3_A_Ravenholme;
-    //editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\I_G_Soldier_TechSpec_F.jpg";
+    editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\I_G_Soldier_TechSpec_F.jpg";
     scope = public;
     scopeCurator = public;
     side = TWest;
@@ -2701,7 +2701,7 @@ class B_G_Soldier_TechSpec_F: I_G_Soldier_TechSpec_F
 class O_G_Soldier_TechSpec_F: I_G_Soldier_TechSpec_F
 {
     author = $STR_A3_A_Ravenholme;
-    //editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\I_G_Soldier_TechSpec_F.jpg";
+    editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\I_G_Soldier_TechSpec_F.jpg";
     scope = public;
     scopeCurator = public;
     side = TEast;
