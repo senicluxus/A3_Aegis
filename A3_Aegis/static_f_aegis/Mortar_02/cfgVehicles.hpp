@@ -82,7 +82,7 @@ class CfgVehicles
 					maxFov = 0.14;
 					visionMode[] = {"Normal", "NVG"};
 				};
-				minelev = -42;
+				minelev = -27;
 				//maxelev = 21;
 				maxelev = 27;
 				magazines[] = {"8Rnd_82mm_Mo_shells","8Rnd_82mm_Mo_shells","8Rnd_82mm_Mo_shells","8Rnd_82mm_Mo_shells","8Rnd_82mm_Mo_Flare_white","8Rnd_82mm_Mo_Smoke_white"};

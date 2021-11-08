@@ -51,6 +51,7 @@ class CfgWeapons
     class InventoryMuzzleItem_Base_F;
 	class InventoryOpticsItem_Base_F;
 	class InventoryFlashLightItem_Base_F;
+	class mortar_82mm;
 
     /* Arsenal */
     #include "cfgAcc.hpp"
@@ -82,6 +83,7 @@ class CfgWeapons
     #include "cfgPistols.hpp"
     #include "cfgRifles.hpp"
     #include "cfgSMGs.hpp"
+	#include "cfgTurrets.hpp"
 
     /* Accessorized Weapons */
     #include "cfgWeaponsAcc.hpp"
