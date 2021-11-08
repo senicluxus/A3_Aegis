@@ -51,7 +51,7 @@ class CfgVehicles
 				gunnerAction = "Mortar_Gunner";
 				gunnergetInAction = "";
 				gunnergetOutAction = "";
-				weapons[] = {"mortar_82mm"};
+				weapons[] = {"mortar_82mm_m252"};
 				elevationMode = 1;
 				initCamElev = 0;
 				minCamElev = -35;
@@ -83,7 +83,8 @@ class CfgVehicles
 					visionMode[] = {"Normal", "NVG"};
 				};
 				minelev = -42;
-				maxelev = 21;
+				//maxelev = 21;
+				maxelev = 27;
 				magazines[] = {"8Rnd_82mm_Mo_shells","8Rnd_82mm_Mo_shells","8Rnd_82mm_Mo_shells","8Rnd_82mm_Mo_shells","8Rnd_82mm_Mo_Flare_white","8Rnd_82mm_Mo_Smoke_white"};
 				ejectDeadGunner = 1;
 				usepip = 2;
