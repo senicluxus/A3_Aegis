@@ -62,6 +62,15 @@ class CMSmokeEffect
 	};
 };
 
+/*class IRBeacon_Light
+{
+    class Light1
+	{
+		simulation="light";
+		type="IRBeacon";
+	};
+}; */
+
 /* Explosion Refractions */
 #define EXPLOSION_REFRACT(a) \
 	class RefractExp \

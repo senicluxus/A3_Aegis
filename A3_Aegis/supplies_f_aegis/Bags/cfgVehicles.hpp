@@ -657,6 +657,7 @@ class CfgVehicles
     #include "cfgRUS.hpp"           // Russia
     #include "cfgEAF.hpp"           // LDF
     #include "cfgION.hpp"           // ION
+	#include "cfgGuerrilla.hpp"		// FIA
 
 	/* Patreon */
 	#include "patreon.hpp"

@@ -1772,6 +1772,23 @@
                 <Chinesesimp>无人地面车辆 (UGV) 操作员 (排雷)</Chinesesimp>
                 <Turkish>UGV Operatörü (Mayın Temizleme)</Turkish>
 			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_G_Soldier_TechSpec_F0">
+                <Original>Technical Specialist</Original>
+                <English>Technical Specialist</English>
+                <Czech>Technical Specialist</Czech>
+                <German>Technical Specialist</German>
+                <Russian>Technical Specialist</Russian>
+                <Polish>Technical Specialist</Polish>
+                <Italian>Technical Specialist</Italian>
+                <Spanish>Technical Specialist</Spanish>
+                <French>Technical Specialist</French>
+                <Chinese>Technical Specialist</Chinese>
+                <Japanese>Technical Specialist</Japanese>
+                <Korean>Technical Specialist</Korean>
+                <Portuguese>Technical Specialist</Portuguese>
+                <Chinesesimp>Technical Specialist</Chinesesimp>
+                <Turkish>Technical Specialist</Turkish>
+			</Key>
 			<Container name="Facewear">
 				<Key ID="STR_A3_A_CfgGlasses_G_Balaclava_Skull10">
 					<Original>Balaclava (Skull)</Original>
@@ -2440,22 +2457,22 @@
 					<Japanese>レイヴンヘルメット</Japanese>
 					<Turkish>Avcı Miğfer</Turkish>
 				</Key>
-				<Key ID="STR_A3_A_CfgWeapons_H_HelmetSpecter_cover_UNO_F0">
-					<Original>Raven Helmet (Cover UNO)</Original>
-					<Chinese>Raven 頭盔 (Cover UNO)</Chinese>
-					<French>Casque Raven (Cover UNO)</French>
-					<Spanish>Casco de Raven (Cover UNO)</Spanish>
-					<Italian>Elmetto Raven (Cover UNO)</Italian>
-					<Polish>Hełm Raven (Cover UNO)</Polish>
-					<Russian>Шлем Raven (Cover UNO)</Russian>
-					<German>Raven Helm (Cover UNO)</German>
-					<Czech>Přilba Raven (Cover UNO)</Czech>
-					<English>Raven Helmet (Cover UNO)</English>
-					<Portuguese>Capacete Raven (Cover UNO)</Portuguese>
-					<Korean>레이븐 헬멧 (Cover UNO)</Korean>
-					<Chinesesimp>Raven 头盔 (Cover UNO)</Chinesesimp>
-					<Japanese>レイヴンヘルメット (Cover UNO)</Japanese>
-					<Turkish>Avcı Miğfer (Cover UNO)</Turkish>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetSpecter_cover_UN_F0">
+					<Original>Raven Helmet (UN)</Original>
+					<Chinese>Raven 頭盔 (UN)</Chinese>
+					<French>Casque Raven (UN)</French>
+					<Spanish>Casco de Raven (UN)</Spanish>
+					<Italian>Elmetto Raven (UN)</Italian>
+					<Polish>Hełm Raven (UN)</Polish>
+					<Russian>Шлем Raven (UN)</Russian>
+					<German>Raven Helm (UN)</German>
+					<Czech>Přilba Raven (UN)</Czech>
+					<English>Raven Helmet (UN)</English>
+					<Portuguese>Capacete Raven (UN)</Portuguese>
+					<Korean>레이븐 헬멧 (UN)</Korean>
+					<Chinesesimp>Raven 头盔 (UN)</Chinesesimp>
+					<Japanese>レイヴンヘルメット (UN)</Japanese>
+					<Turkish>Avcı Miğfer (UN)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_HelmetSpecter_cover_whex_F0">
 					<Original>Raven Helmet (Cover W)</Original>
@@ -3104,21 +3121,21 @@
 					<Turkish>Boonie Şapka (Siyah)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_Booniehat_oicamo0">
-					<Original>Booniehat (Desert)</Original>
-					<Chinese>登山帽（沙漠）</Chinese>
-					<French>Chapeau de brousse (Désert)</French>
-					<Spanish>Sombrero militar (desierto)</Spanish>
-					<Italian>Cappello militare a falda larga (deserto)</Italian>
-					<Polish>Kapelusz wojskowy (pustynny)</Polish>
-					<Russian>Панама (пустынный)</Russian>
-					<German>Tarnhut (Wüste)</German>
-					<Czech>Klobouk (poušť)</Czech>
-					<English>Booniehat (Desert)</English>
-					<Portuguese>Chapéu tático (Deserto)</Portuguese>
-					<Korean>부니햇(사막)</Korean>
-					<Chinesesimp>郊区（沙漠）</Chinesesimp>
-					<Japanese>ブーニーハット（砂漠）</Japanese>
-					<Turkish>Boonie Şapka (Çöl)</Turkish>
+					<Original>Booniehat (Desert Hex)</Original>
+					<Chinese>登山帽（沙漠妖術）</Chinese>
+					<French>Chapeau de brousse (Hex Désert)</French>
+					<Spanish>Sombrero militar (Hex desierto)</Spanish>
+					<Italian>Cappello militare a falda larga (esag. deserto)</Italian>
+					<Polish>Kapelusz wojskowy (pustynny hex)</Polish>
+					<Russian>Панама (пустынный гекс)</Russian>
+					<German>Tarnhut (Wüste Sechsecke)</German>
+					<Czech>Klobouk (poušť hex)</Czech>
+					<English>Booniehat (Desert Hex)</English>
+					<Portuguese>Chapéu tático (Deserto camuflado)</Portuguese>
+					<Korean>부니햇(사막 헥스)</Korean>
+					<Chinesesimp>郊区（沙漠妖术）</Chinesesimp>
+					<Japanese>ブーニーハット（砂漠六角形）</Japanese>
+					<Turkish>Boonie Şapka (Çöl Hex)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_Booniehat_oli_hs0">
 					<Original>Booniehat (Olive, Headset)</Original>
@@ -3189,21 +3206,21 @@
 					<Turkish>Boonie Şapka (Hex, Mik. Kulaklık)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_Booniehat_oicamo_hs0">
-					<Original>Booniehat (Desert, Headset)</Original>
-					<Chinese>登山帽（沙漠，耳機）</Chinese>
-					<French>Chapeau de brousse (Désert, micro-casque)</French>
-					<Spanish>Sombrero militar (desierto, auricular)</Spanish>
-					<Italian>Cappello militare a falda larga (deserto, cuffia)</Italian>
-					<Polish>Kapelusz wojskowy (pustynny, głowa)</Polish>
-					<Russian>Панама (пустынный, гарнитура)</Russian>
-					<German>Tarnhut (Wüste, Headset)</German>
-					<Czech>Klobouk (poušť, náhlavní souprava)</Czech>
-					<English>Booniehat (Desert, Headset)</English>
-					<Portuguese>Chapéu tático (Deserto, headset)</Portuguese>
-					<Korean>부니햇(사막, 헤드셋)</Korean>
-					<Chinesesimp>郊区（沙漠，头戴式耳机）</Chinesesimp>
-					<Japanese>ブーニーハット（砂漠、ヘッドセット）</Japanese>
-					<Turkish>Boonie Şapka (Çöl, Mik. Kulaklık)</Turkish>
+					<Original>Booniehat (Desert Hex, Headset)</Original>
+					<Chinese>登山帽（沙漠妖術，耳機）</Chinese>
+					<French>Chapeau de brousse (Hex Désert, micro-casque)</French>
+					<Spanish>Sombrero militar (Hex desierto, auricular)</Spanish>
+					<Italian>Cappello militare a falda larga (esag. deserto, cuffia)</Italian>
+					<Polish>Kapelusz wojskowy (pustynny hex, głowa)</Polish>
+					<Russian>Панама (пустынный гекс, гарнитура)</Russian>
+					<German>Tarnhut (Wüste Sechsecke, Headset)</German>
+					<Czech>Klobouk (poušť hex, náhlavní souprava)</Czech>
+					<English>Booniehat (Desert Hex, Headset)</English>
+					<Portuguese>Chapéu tático (Deserto camuflado, headset)</Portuguese>
+					<Korean>부니햇(사막 헥스, 헤드셋)</Korean>
+					<Chinesesimp>郊区（沙漠妖术，头戴式耳机）</Chinesesimp>
+					<Japanese>ブーニーハット（砂漠六角形、ヘッドセット）</Japanese>
+					<Turkish>Boonie Şapka (Çöl Hex, Mik. Kulaklık)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_HelmetSpecB_mcamo0">
 					<Original>Combat Helmet (MTP, Enhanced)</Original>
@@ -3223,21 +3240,21 @@
 					<Turkish>Savaş Miğferi (MTP, Gelişmiş)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_Cap_oicamo0">
-					<Original>Cap (Desert)</Original>
-					<Chinese>棒球帽（沙漠）</Chinese>
-					<French>Casquette (Désert)</French>
-					<Spanish>Gorra (desierto)</Spanish>
-					<Italian>Cappello (deserto)</Italian>
-					<Polish>Czapka (pustynny)</Polish>
-					<Russian>Кепи (пустынный)</Russian>
-					<German>Mütze (Wüste)</German>
-					<Czech>Čepice (poušť)</Czech>
-					<English>Cap (Desert)</English>
-					<Portuguese>Boné (Deserto)</Portuguese>
-					<Korean>모자(사막)</Korean>
-					<Chinesesimp>无檐帽（沙漠）</Chinesesimp>
-					<Japanese>キャップ（砂漠）</Japanese>
-					<Turkish>Şapka (Çöl)</Turkish>
+					<Original>Cap (Desert Hex)</Original>
+					<Chinese>棒球帽（沙漠妖術）</Chinese>
+					<French>Casquette (Hex Désert)</French>
+					<Spanish>Gorra (Hex desierto)</Spanish>
+					<Italian>Cappello (esag. deserto)</Italian>
+					<Polish>Czapka (pustynny hex)</Polish>
+					<Russian>Кепи (пустынный гекс)</Russian>
+					<German>Mütze (Wüste Sechsecke)</German>
+					<Czech>Čepice (poušť hex)</Czech>
+					<English>Cap (Desert Hex)</English>
+					<Portuguese>Boné (Deserto camuflado)</Portuguese>
+					<Korean>모자(사막 헥스)</Korean>
+					<Chinesesimp>无檐帽（沙漠妖术）</Chinesesimp>
+					<Japanese>キャップ（砂漠六角形）</Japanese>
+					<Turkish>Şapka (Çöl Hex)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_Cap_headphones_gry0">
 					<Original>Rangemaster Cap (Grey)</Original>
@@ -3410,21 +3427,21 @@
 					<Turkish>Şapka (ABD Siyah, Baş Giysisi)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_Cap_oicamo_hs0">
-					<Original>Cap (Desert, Headset)</Original>
-					<Chinese>棒球帽（沙漠，耳機）</Chinese>
-					<French>Casquette (Désert, micro-casque)</French>
-					<Spanish>Gorra (desierto, auricular)</Spanish>
-					<Italian>Cappello (deserto, cuffia)</Italian>
-					<Polish>Czapka (pustynny, headset)</Polish>
-					<Russian>Кепи (пустынный, гарнитура)</Russian>
-					<German>Mütze (Wüste, Headset)</German>
-					<Czech>Čepice (poušť, náhlavní souprava)</Czech>
-					<English>Cap (Desert, Headset)</English>
-					<Portuguese>Boné (Deserto, headset)</Portuguese>
-					<Korean>모자(사막, 헤드셋)</Korean>
-					<Chinesesimp>无檐帽（沙漠，头戴式耳机）</Chinesesimp>
-					<Japanese>キャップ（砂漠、ヘッドセット）</Japanese>
-					<Turkish>Şapka (Çöl, Baş Giysisi)</Turkish>
+					<Original>Cap (Desert Hex, Headset)</Original>
+					<Chinese>棒球帽（沙漠妖術，耳機）</Chinese>
+					<French>Casquette (Hex Désert, micro-casque)</French>
+					<Spanish>Gorra (Hes desierto, auricular)</Spanish>
+					<Italian>Cappello (esag. deserto, cuffia)</Italian>
+					<Polish>Czapka (pustynny hex, headset)</Polish>
+					<Russian>Кепи (пустынный гекс, гарнитура)</Russian>
+					<German>Mütze (Wüste Sechsecke, Headset)</German>
+					<Czech>Čepice (poušť hex, náhlavní souprava)</Czech>
+					<English>Cap (Desert Hex, Headset)</English>
+					<Portuguese>Boné (Deserto camuflado, headset)</Portuguese>
+					<Korean>모자(사막 헥스, 헤드셋)</Korean>
+					<Chinesesimp>无檐帽（沙漠妖术，头戴式耳机）</Chinesesimp>
+					<Japanese>キャップ（砂漠六角形、ヘッドセット）</Japanese>
+					<Turkish>Şapka (Çöl Hex, Baş Giysisi)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_HelmetO_blk0">
 					<Original>Protector Helmet (Black)</Original>
@@ -3461,38 +3478,38 @@
 					<Turkish>Muhafız Miğferi (Siyah)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_HelmetO_oicamo0">
-					<Original>Protector Helmet (Desert)</Original>
-					<Chinese>保護者頭盔（沙漠）</Chinese>
-					<French>Casque protecteur (Désert)</French>
-					<Spanish>Casco protector (desierto)</Spanish>
-					<Italian>Elmetto protettivo (deserto)</Italian>
-					<Polish>Hełm ochronny (pustynny)</Polish>
-					<Russian>Шлем Protector (пустынный)</Russian>
-					<German>Schutzhelm (Wüste)</German>
-					<Czech>Přilba Protector (poušť)</Czech>
-					<English>Protector Helmet (Desert)</English>
-					<Portuguese>Capacete protetor (Deserto)</Portuguese>
-					<Korean>프로텍터 헬멧(사막)</Korean>
-					<Chinesesimp>保护者头盔（沙漠）</Chinesesimp>
-					<Japanese>防護ヘルメット（砂漠）</Japanese>
-					<Turkish>Koruyucu Miğfer (Çöl)</Turkish>
+					<Original>Protector Helmet (Desert Hex)</Original>
+					<Chinese>保護者頭盔（沙漠妖術）</Chinese>
+					<French>Casque protecteur (Hex Désert)</French>
+					<Spanish>Casco protector (hex desierto)</Spanish>
+					<Italian>Elmetto protettivo (esag. deserto)</Italian>
+					<Polish>Hełm ochronny (pustynny hex)</Polish>
+					<Russian>Шлем Protector (пустынный гекс)</Russian>
+					<German>Schutzhelm (Wüste Sechsecke)</German>
+					<Czech>Přilba Protector (poušť hex)</Czech>
+					<English>Protector Helmet (Desert Hex)</English>
+					<Portuguese>Capacete protetor (Deserto camuflado)</Portuguese>
+					<Korean>프로텍터 헬멧(사막 헥스)</Korean>
+					<Chinesesimp>保护者头盔（沙漠妖术）</Chinesesimp>
+					<Japanese>防護ヘルメット（砂漠六角形）</Japanese>
+					<Turkish>Koruyucu Miğfer (Çöl Hex)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_HelmetLeaderO_oicamo0">
-					<Original>Defender Helmet (Desert)</Original>
+					<Original>Defender Helmet (Desert Hex)</Original>
 					<Chinese>守護者頭盔（沙漠）</Chinese>
-					<French>Casque de défense (Désert)</French>
-					<Spanish>Casco defensor (desierto)</Spanish>
-					<Italian>Elmetto difensore (deserto)</Italian>
-					<Polish>Hełm obrońcy (pustynny)</Polish>
-					<Russian>Шлем Defender (пустынный)</Russian>
-					<German>Verteidigerhelm (Wüste)</German>
-					<Czech>Přilba Defender (poušť)</Czech>
-					<English>Defender Helmet (Desert)</English>
-					<Portuguese>Capacete Defensor (Deserto)</Portuguese>
-					<Korean>디펜더 헬멧(사막)</Korean>
-					<Chinesesimp>防卫兵头盔（沙漠）</Chinesesimp>
-					<Japanese>防御ヘルメット（砂漠）</Japanese>
-					<Turkish>Muhafız Miğferi (Çöl)</Turkish>
+					<French>Casque de défense (Hex Désert)</French>
+					<Spanish>Casco defensor (hex desierto)</Spanish>
+					<Italian>Elmetto difensore (esag. deserto)</Italian>
+					<Polish>Hełm obrońcy (pustynny hex)</Polish>
+					<Russian>Шлем Defender (пустынный гекс)</Russian>
+					<German>Verteidigerhelm (Wüste Sechsecke)</German>
+					<Czech>Přilba Defender (poušť hex)</Czech>
+					<English>Defender Helmet (Desert Hex)</English>
+					<Portuguese>Capacete Defensor (Deserto camuflado)</Portuguese>
+					<Korean>디펜더 헬멧(사막 헥스)</Korean>
+					<Chinesesimp>防卫兵头盔（沙漠妖术）</Chinesesimp>
+					<Japanese>防御ヘルメット（砂漠六角形）</Japanese>
+					<Turkish>Muhafız Miğferi (Çöl Hex)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_MilCap_tan0">
 					<Original>Military Cap (Tan)</Original>
@@ -3546,21 +3563,21 @@
 					<Turkish>Askeri Kasket (Siyah)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_MilCap_oicamo0">
-					<Original>Military Cap (Desert)</Original>
-					<Chinese>軍用棒球帽（沙漠）</Chinese>
-					<French>Casquette militaire (Désert)</French>
-					<Spanish>Gorra militar (desierto)</Spanish>
-					<Italian>Berretto militare (deserto)</Italian>
-					<Polish>Czapka wojskowa (pustynny)</Polish>
-					<Russian>Армейская кепка (пустынный)</Russian>
-					<German>Militärmütze (Wüste)</German>
-					<Czech>Vojenská čepice (poušť)</Czech>
-					<English>Military Cap (Desert)</English>
-					<Portuguese>Boné militar (Deserto)</Portuguese>
-					<Korean>군용모자(사막)</Korean>
-					<Chinesesimp>军帽（沙漠）</Chinesesimp>
-					<Japanese>ミリタリーキャップ（砂漠）</Japanese>
-					<Turkish>Askeri Kasket (Çöl)</Turkish>
+					<Original>Military Cap (Desert Hex)</Original>
+					<Chinese>軍用棒球帽（沙漠妖術）</Chinese>
+					<French>Casquette militaire (Hex Désert)</French>
+					<Spanish>Gorra militar (hex desierto)</Spanish>
+					<Italian>Berretto militare (esag. deserto)</Italian>
+					<Polish>Czapka wojskowa (pustynny hex)</Polish>
+					<Russian>Армейская кепка (пустынный гекс)</Russian>
+					<German>Militärmütze (Wüste Sechsecke)</German>
+					<Czech>Vojenská čepice (poušť hex)</Czech>
+					<English>Military Cap (Desert Hex)</English>
+					<Portuguese>Boné militar (Deserto camuflado)</Portuguese>
+					<Korean>군용모자(사막 헥스)</Korean>
+					<Chinesesimp>军帽（沙漠妖术）</Chinesesimp>
+					<Japanese>ミリタリーキャップ（砂漠六角形）</Japanese>
+					<Turkish>Askeri Kasket (Çöl Hex)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_HelmetB_light_mcamo0">
 					<Original>Light Combat Helmet (MTP)</Original>
@@ -3716,21 +3733,21 @@
 					<Turkish>Suikastçı Miğferi (Şehir)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_HelmetSpecO_oicamo0">
-					<Original>Assassin Helmet (Desert)</Original>
-					<Chinese>殺手頭盔（沙漠）</Chinese>
-					<French>Casque d'assassin (Désert)</French>
-					<Spanish>Casco de asesino (desierto)</Spanish>
-					<Italian>Elmetto assassino (deserto)</Italian>
-					<Polish>Hełm zabójcy (pustynny)</Polish>
-					<Russian>Шлем Assassin (пустынный)</Russian>
-					<German>Attentäterhelm (Wüste)</German>
-					<Czech>Přilba Assassin (poušť)</Czech>
-					<English>Assassin Helmet (Desert)</English>
-					<Portuguese>Capacete de assassino (Deserto)</Portuguese>
-					<Korean>어새신 헬멧(사막)</Korean>
-					<Chinesesimp>刺客头盔（沙漠）</Chinesesimp>
-					<Japanese>アサシンヘルメット（砂漠）</Japanese>
-					<Turkish>Suikastçı Miğferi (Çöl)</Turkish>
+					<Original>Assassin Helmet (Desert Hex)</Original>
+					<Chinese>殺手頭盔（沙漠妖術）</Chinese>
+					<French>Casque d'assassin (Hex Désert)</French>
+					<Spanish>Casco de asesino (hex desierto)</Spanish>
+					<Italian>Elmetto assassino (esag. deserto)</Italian>
+					<Polish>Hełm zabójcy (pustynny hex)</Polish>
+					<Russian>Шлем Assassin (пустынный гекс)</Russian>
+					<German>Attentäterhelm (Wüste Sechsecke)</German>
+					<Czech>Přilba Assassin (poušť hex)</Czech>
+					<English>Assassin Helmet (Desert Hex)</English>
+					<Portuguese>Capacete de assassino (Deserto camuflado)</Portuguese>
+					<Korean>어새신 헬멧(사막 헥스)</Korean>
+					<Chinesesimp>刺客头盔（사막 헥스）</Chinesesimp>
+					<Japanese>アサシンヘルメット（砂漠六角形）</Japanese>
+					<Turkish>Suikastçı Miğferi (Çöl Hex)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_Bandanna_mcamo_hs0">
 					<Original>Bandana (MTP, Headset)</Original>
@@ -3851,22 +3868,22 @@
 					<Japanese>ベレー帽[AAF]</Japanese>
 					<Turkish>Bere [AAF]</Turkish>
 				</Key>
-				<Key ID="STR_A3_A_CfgWeapons_H_Beret_UNO_01_F0">
-					<Original>Beret (UNO)</Original>
-					<Chinese>貝雷帽（UNO）</Chinese>
-					<French>Béret (UNO)</French>
+				<Key ID="STR_A3_A_CfgWeapons_H_Beret_UN_01_F0">
+					<Original>Beret (UN)</Original>
+					<Chinese>貝雷帽（UN）</Chinese>
+					<French>Béret (UN)</French>
 					<Spanish>Boina (ONU)</Spanish>
 					<Italian>Berretto (Nazioni Unite)</Italian>
-					<Polish>Beret (UNO)</Polish>
+					<Polish>Beret (UN)</Polish>
 					<Russian>Берет (ООН)</Russian>
-					<German>Barett (UNO)</German>
-					<Czech>Baret (UNO)</Czech>
-					<English>Beret (UNO)</English>
+					<German>Barett (UN)</German>
+					<Czech>Baret (UN)</Czech>
+					<English>Beret (UN)</English>
 					<Portuguese>Boina (ONU)</Portuguese>
-					<Korean>베레(UNO)</Korean>
+					<Korean>베레(UN)</Korean>
 					<Chinesesimp>贝雷帽（联合国组织）</Chinesesimp>
-					<Japanese>ベレー帽（UNO）</Japanese>
-					<Turkish>Bere (UNO)</Turkish>
+					<Japanese>ベレー帽（UN）</Japanese>
+					<Turkish>Bere (UN)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_Watchcap_red0">
 					<Original>Beanie (Red)</Original>
@@ -3971,21 +3988,21 @@
 					<Turkish>Hafif Kulaklık</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_HelmetO_ViperSP_oicamo_F0">
-					<Original>Special Purpose Helmet (Desert)</Original>
-					<Chinese>特殊用途頭盔（沙漠）</Chinese>
-					<French>Casque de forces spéciales (Désert)</French>
-					<Spanish>Casco de operaciones especiales (desierto)</Spanish>
-					<Italian>Elmetto per scopi speciali (deserto)</Italian>
-					<Polish>Hełm specjalnego przeznaczenia (pustynny)</Polish>
-					<Russian>Шлем спецназа (пустынный)</Russian>
-					<German>Spezial-Helm (Wüste)</German>
-					<Czech>Přilba pro zvláštní účely (poušť)</Czech>
-					<English>Special Purpose Helmet (Desert)</English>
-					<Portuguese>Capacete da equipe de op. especiais (Deserto)</Portuguese>
-					<Korean>특수목적 헬멧(사막)</Korean>
-					<Chinesesimp>特殊用途头盔（沙漠）</Chinesesimp>
-					<Japanese>特殊目的ヘルメット（砂漠）</Japanese>
-					<Turkish>Özel Amaçlı Kask (Çöl)</Turkish>
+					<Original>Special Purpose Helmet (Desert Hex)</Original>
+					<Chinese>特殊用途頭盔（沙漠妖術）</Chinese>
+					<French>Casque de forces spéciales (Hex Désert)</French>
+					<Spanish>Casco de operaciones especiales (hex desierto)</Spanish>
+					<Italian>Elmetto per scopi speciali (esag. deserto)</Italian>
+					<Polish>Hełm specjalnego przeznaczenia (pustynny hex)</Polish>
+					<Russian>Шлем спецназа (пустынный гекс)</Russian>
+					<German>Spezial-Helm (Wüste Sechsecke)</German>
+					<Czech>Přilba pro zvláštní účely (poušť hex)</Czech>
+					<English>Special Purpose Helmet (Desert Hex)</English>
+					<Portuguese>Capacete da equipe de op. especiais (Deserto camuflado)</Portuguese>
+					<Korean>특수목적 헬멧(사막 헥스)</Korean>
+					<Chinesesimp>特殊用途头盔（沙漠妖术）</Chinesesimp>
+					<Japanese>特殊目的ヘルメット（砂漠六角形）</Japanese>
+					<Turkish>Özel Amaçlı Kask (Çöl Hex)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_HelmetB_Camo_tna_F0">
 					<Original>Combat Helmet (Tropic, Camo)</Original>
@@ -4293,22 +4310,22 @@
 					<Japanese>基本型ヘルメット（砂）</Japanese>
 					<Turkish>Temel Kask (Kum Rengi)</Turkish>
 				</Key>
-				<Key ID="STR_A3_A_CfgWeapons_H_PASGT_basic_UNO_F0">
-					<Original>Basic Helmet (UNO)</Original>
-					<Chinese>基本頭盔（UNO）</Chinese>
-					<French>Casque de base (UNO)</French>
+				<Key ID="STR_A3_A_CfgWeapons_H_PASGT_basic_UN_F0">
+					<Original>Basic Helmet (UN)</Original>
+					<Chinese>基本頭盔（UN）</Chinese>
+					<French>Casque de base (UN)</French>
 					<Spanish>Casco básico (ONU)</Spanish>
 					<Italian>Elmetto base (Nazioni Unite)</Italian>
-					<Polish>Zwykły hełm (UNO)</Polish>
+					<Polish>Zwykły hełm (UN)</Polish>
 					<Russian>Обычный шлем (ООН)</Russian>
-					<German>Standard-Helm (UNO)</German>
-					<Czech>Základní helma (UNO)</Czech>
-					<English>Basic Helmet (UNO)</English>
+					<German>Standard-Helm (UN)</German>
+					<Czech>Základní helma (UN)</Czech>
+					<English>Basic Helmet (UN)</English>
 					<Portuguese>Capacete básico (ONU)</Portuguese>
-					<Korean>기본 헬멧(UNO)</Korean>
+					<Korean>기본 헬멧(UN)</Korean>
 					<Chinesesimp>基本头盔（联合国组织）</Chinesesimp>
-					<Japanese>基本型ヘルメット（UNO）</Japanese>
-					<Turkish>Temel Kask (UNO)</Turkish>
+					<Japanese>基本型ヘルメット（UN）</Japanese>
+					<Turkish>Temel Kask (UN)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_PASGT_neckprot_black_F0">
 					<Original>Basic Helmet (Black, Neck Protection)</Original>
@@ -4684,6 +4701,74 @@
 					<Japanese>モジュラーヘルメット（市街）</Japanese>
 					<Turkish>Modüler Miğfer (Şehir)</Turkish>
 				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_MK7_AAF_F0">
+					<Original>Service Helmet (Digi)</Original>
+					<Chinese>Service Helmet (Digi)</Chinese>
+					<French>Service Helmet (Digi)</French>
+					<Spanish>Service Helmet (Digi)</Spanish>
+					<Italian>Service Helmet (Digi)</Italian>
+					<Polish>Service Helmet (Digi)</Polish>
+					<Russian>Service Helmet (Digi)</Russian>
+					<German>Service Helmet (Digi)</German>
+					<Czech>Service Helmet (Digi)</Czech>
+					<English>Service Helmet (Digi)</English>
+					<Portuguese>Service Helmet (Digi)</Portuguese>
+					<Korean>Service Helmet (Digi)</Korean>
+					<Chinesesimp>Service Helmet (Digi)</Chinesesimp>
+					<Japanese>Service Helmet (Digi)</Japanese>
+					<Turkish>Service Helmet (Digi)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_MK7_oli_F0">
+					<Original>Service Helmet (Olive)</Original>
+					<Chinese>Service Helmet (Olive)</Chinese>
+					<French>Service Helmet (Olive)</French>
+					<Spanish>Service Helmet (Olive)</Spanish>
+					<Italian>Service Helmet (Olive)</Italian>
+					<Polish>Service Helmet (Olive)</Polish>
+					<Russian>Service Helmet (Olive)</Russian>
+					<German>Service Helmet (Olive)</German>
+					<Czech>Service Helmet (Olive)</Czech>
+					<English>Service Helmet (Olive)</English>
+					<Portuguese>Service Helmet (Olive)</Portuguese>
+					<Korean>Service Helmet (Olive)</Korean>
+					<Chinesesimp>Service Helmet (Olive)</Chinesesimp>
+					<Japanese>Service Helmet (Olive)</Japanese>
+					<Turkish>Service Helmet (Olive)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_MK7_sand_F0">
+					<Original>Service Helmet (Sand)</Original>
+					<Chinese>Service Helmet (Sand)</Chinese>
+					<French>Service Helmet (Sand)</French>
+					<Spanish>Service Helmet (Sand)</Spanish>
+					<Italian>Service Helmet (Sand)</Italian>
+					<Polish>Service Helmet (Sand)</Polish>
+					<Russian>Service Helmet (Sand)</Russian>
+					<German>Service Helmet (Sand)</German>
+					<Czech>Service Helmet (Sand)</Czech>
+					<English>Service Helmet (Sand)</English>
+					<Portuguese>Service Helmet (Sand)</Portuguese>
+					<Korean>Service Helmet (Sand)</Korean>
+					<Chinesesimp>Service Helmet (Sand)</Chinesesimp>
+					<Japanese>Service Helmet (Sand)</Japanese>
+					<Turkish>Service Helmet (Sand)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_MK7_UN_F0">
+					<Original>Service Helmet (UN)</Original>
+					<Chinese>Service Helmet (UN)</Chinese>
+					<French>Service Helmet (UN)</French>
+					<Spanish>Service Helmet (UN)</Spanish>
+					<Italian>Service Helmet (UN)</Italian>
+					<Polish>Service Helmet (UN)</Polish>
+					<Russian>Service Helmet (UN)</Russian>
+					<German>Service Helmet (UN)</German>
+					<Czech>Service Helmet (UN)</Czech>
+					<English>Service Helmet (UN)</English>
+					<Portuguese>Service Helmet (UN)</Portuguese>
+					<Korean>Service Helmet (UN)</Korean>
+					<Chinesesimp>Service Helmet (UN)</Chinesesimp>
+					<Japanese>Service Helmet (UN)</Japanese>
+					<Turkish>Service Helmet (UN)</Turkish>
+				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_O_Helmet_canvas_ghex_F0">
 					<Original>Modular Helmet (Green Hex)</Original>
 					<Chinese>模組化通訊頭盔（綠色六邊形）</Chinese>
@@ -4700,6 +4785,40 @@
 					<Chinesesimp>标准头盔（绿色六角）</Chinesesimp>
 					<Japanese>モジュラーヘルメット（緑六角形）</Japanese>
 					<Turkish>Modüler Miğfer (Yeşil Hex)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_I_Helmet_canvas_UN_F0">
+					<Original>Modular Helmet (UN)</Original>
+					<Chinese>模組化通訊頭盔（UN）</Chinese>
+					<French>Casque modulaire (UN)</French>
+					<Spanish>Casco modular (UN)</Spanish>
+					<Italian>Elmetto modulare (UN)</Italian>
+					<Polish>Hełm modułowy (UN)</Polish>
+					<Russian>Модульный шлем (UN)</Russian>
+					<German>Modularer Helm (UN)</German>
+					<Czech>Modulární přilba (UN)</Czech>
+					<English>Modular Helmet (UN)</English>
+					<Portuguese>Capacete modular (UN)</Portuguese>
+					<Korean>모듈형 헬멧(UN)</Korean>
+					<Chinesesimp>标准头盔（UN）</Chinesesimp>
+					<Japanese>モジュラーヘルメット（UN）</Japanese>
+					<Turkish>Modüler Miğfer (UN)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_I_Helmet_canvas_CBR_F0">
+					<Original>Modular Helmet (Coyote)</Original>
+					<Chinese>模組化通訊頭盔（Coyote）</Chinese>
+					<French>Casque modulaire (Coyote)</French>
+					<Spanish>Casco modular (Coyote)</Spanish>
+					<Italian>Elmetto modulare (Coyote)</Italian>
+					<Polish>Hełm modułowy (Coyote)</Polish>
+					<Russian>Модульный шлем (Coyote)</Russian>
+					<German>Modularer Helm (Coyote)</German>
+					<Czech>Modulární přilba (Coyote)</Czech>
+					<English>Modular Helmet (Coyote)</English>
+					<Portuguese>Capacete modular (Coyote)</Portuguese>
+					<Korean>모듈형 헬멧(Coyote)</Korean>
+					<Chinesesimp>标准头盔（Coyote）</Chinesesimp>
+					<Japanese>モジュラーヘルメット（Coyote）</Japanese>
+					<Turkish>Modüler Miğfer (Coyote)</Turkish>
 				</Key>
 			</Container>
 			<Container name="Uniforms">
@@ -5197,38 +5316,38 @@
 					<Turkish>Gerilla Giysisi (Kamuflaj)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_O_CombatUniform_oicamo0">
-					<Original>Fatigues (Desert) [CSAT]</Original>
-					<Chinese>戰鬥服（沙漠）（CSAT）</Chinese>
-					<French>Treillis (Désert) [CSAT]</French>
-					<Spanish>Traje militar (desierto) [CSAT]</Spanish>
-					<Italian>Uniforme (deserto) [CSAT]</Italian>
-					<Polish>Mundur (pustynny) [CSAT]</Polish>
-					<Russian>Форма (пустынный) [CSAT]</Russian>
-					<German>Militäranzug (Wüste) [CSAT]</German>
-					<Czech>Uniforma (poušť) [CSAT]</Czech>
-					<English>Fatigues (Desert) [CSAT]</English>
-					<Portuguese>Fardas (Deserto) [CSAT]</Portuguese>
-					<Korean>전투복(사막)[CSAT]</Korean>
-					<Chinesesimp>军装（沙漠）[CSAT]</Chinesesimp>
-					<Japanese>服（砂漠）</Japanese>
-					<Turkish>Asker Kıyafeti (Çöl) [CSAT]</Turkish>
+					<Original>Fatigues (Desert Hex) [CSAT]</Original>
+					<Chinese>戰鬥服（砂漠六角形）（CSAT）</Chinese>
+					<French>Treillis (Hex désert) [CSAT]</French>
+					<Spanish>Traje militar (hex desierto) [CSAT]</Spanish>
+					<Italian>Uniforme (esag. deserto) [CSAT]</Italian>
+					<Polish>Mundur (pustynny hex) [CSAT]</Polish>
+					<Russian>Форма (пустынный гекс) [CSAT]</Russian>
+					<German>Militäranzug (Wüste Sechsecke) [CSAT]</German>
+					<Czech>Uniforma (poušť hex) [CSAT]</Czech>
+					<English>Fatigues (Desert Hex) [CSAT]</English>
+					<Portuguese>Fardas (Deserto camuflado) [CSAT]</Portuguese>
+					<Korean>전투복(사막 헥스)[CSAT]</Korean>
+					<Chinesesimp>军装（沙漠妖术）[CSAT]</Chinesesimp>
+					<Japanese>服（砂漠六角形）[CSAT]</Japanese>
+					<Turkish>Asker Kıyafeti (Çöl Hex) [CSAT]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_O_OfficerUniform_oicamo0">
-					<Original>Officer Fatigues (Desert) [CSAT]</Original>
-					<Chinese>軍官戰鬥服（沙漠）（CSAT）</Chinese>
-					<French>Treillis d'officier (Désert) [CSAT]</French>
-					<Spanish>Traje de oficial (desierto) [CSAT]</Spanish>
-					<Italian>Uniforme da ufficiale (deserto) [CSAT]</Italian>
-					<Polish>Mundur oficerski (pustynny) [CSAT]</Polish>
-					<Russian>Офицерская форма (пустынный) [CSAT]</Russian>
-					<German>Offizier-Militäranzug (Wüste) [CSAT]</German>
-					<Czech>Důstojnická uniforma (poušť) [CSAT]</Czech>
-					<English>Officer Fatigues (Desert) [CSAT]</English>
-					<Portuguese>Uniforme de oficial (Deserto) [CSAT]</Portuguese>
-					<Korean>장교 전투복(사막)[CSAT]</Korean>
-					<Chinesesimp>军官服（沙漠）[CSAT]</Chinesesimp>
-					<Japanese>士官服（砂漠）[CSAT]</Japanese>
-					<Turkish>Subay Kıyafeti (Çöl) [CSAT]</Turkish>
+					<Original>Officer Fatigues (Desert Hex) [CSAT]</Original>
+					<Chinese>軍官戰鬥服（砂漠六角形）（CSAT）</Chinese>
+					<French>Treillis d'officier (Hex désert) [CSAT]</French>
+					<Spanish>Traje de oficial (hex desierto) [CSAT]</Spanish>
+					<Italian>Uniforme da ufficiale (esag. deserto) [CSAT]</Italian>
+					<Polish>Mundur oficerski (pustynny hex) [CSAT]</Polish>
+					<Russian>Офицерская форма (пустынный гекс) [CSAT]</Russian>
+					<German>Offizier-Militäranzug (Wüste Sechsecke) [CSAT]</German>
+					<Czech>Důstojnická uniforma (poušť hex) [CSAT]</Czech>
+					<English>Officer Fatigues (Desert Hex) [CSAT]</English>
+					<Portuguese>Uniforme de oficial (Deserto camuflado) [CSAT]</Portuguese>
+					<Korean>장교 전투복(사막 헥스)[CSAT]</Korean>
+					<Chinesesimp>军官服（沙漠妖术）[CSAT]</Chinesesimp>
+					<Japanese>士官服（砂漠六角形）[CSAT]</Japanese>
+					<Turkish>Subay Kıyafeti (Çöl Hex) [CSAT]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_O_T_Pilot_F0">
 					<Original>Pilot Coveralls (Green Hex) [CSAT]</Original>
@@ -5248,21 +5367,21 @@
 					<Turkish>Pilot Tulumu (Yeşil Hex) [CSAT]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_O_V_Soldier_Viper_oicamo_F0">
-					<Original>Special Purpose Suit (Desert)</Original>
-					<Chinese>特殊用途服裝（沙漠）</Chinese>
-					<French>Combinaison de forces spéciales (Désert)</French>
-					<Spanish>Traje de operaciones especiales (desierto)</Spanish>
-					<Italian>Tuta mimetica per scopi speciali (deserto)</Italian>
-					<Polish>Strój specjalnego przeznaczenia (pustynny)</Polish>
-					<Russian>Костюм спецназа (пустынный)</Russian>
-					<German>Spezialanzug (Wüste)</German>
-					<Czech>Oblek pro zvláštní účely (poušť)</Czech>
-					<English>Special Purpose Suit (Desert)</English>
-					<Portuguese>Traje da op. especiais (Deserto)</Portuguese>
-					<Korean>특수목적 복장(사막)</Korean>
-					<Chinesesimp>特殊用途套装（沙漠）</Chinesesimp>
-					<Japanese>特殊目的スーツ（砂漠）</Japanese>
-					<Turkish>Özel Amaçlı Kıyafet (Çöl)</Turkish>
+					<Original>Special Purpose Suit (Desert Hex)</Original>
+					<Chinese>特殊用途服裝（砂漠六角形）</Chinese>
+					<French>Combinaison de forces spéciales (Hex désert)</French>
+					<Spanish>Traje de operaciones especiales (hex desierto)</Spanish>
+					<Italian>Tuta mimetica per scopi speciali (esag. deserto)</Italian>
+					<Polish>Strój specjalnego przeznaczenia (pustynny hex)</Polish>
+					<Russian>Костюм спецназа (пустынный гекс)</Russian>
+					<German>Spezialanzug (Wüste Sechsecke)</German>
+					<Czech>Oblek pro zvláštní účely (poušť hex)</Czech>
+					<English>Special Purpose Suit (Desert Hex)</English>
+					<Portuguese>Traje da op. especiais (Deserto camuflado)</Portuguese>
+					<Korean>특수목적 복장(사막 헥스)</Korean>
+					<Chinesesimp>特殊用途套装（沙漠妖术）</Chinesesimp>
+					<Japanese>特殊目的スーツ（砂漠六角形）</Japanese>
+					<Turkish>Özel Amaçlı Kıyafet (Çöl Hex)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_O_officer_noInsignia_urb_F0">
 					<Original>Light Fatigues (Urban)</Original>
@@ -5299,21 +5418,21 @@
 					<Turkish>Hafif Asker Kıyafeti (Yeşil Hex)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_O_officer_noInsignia_oicamo_F0">
-					<Original>Light Fatigues (Desert)</Original>
-					<Chinese>輕型戰鬥服（沙漠）</Chinese>
-					<French>Treillis clair (Désert)</French>
-					<Spanish>Ropa ligera (desierto)</Spanish>
-					<Italian>Uniforme leggera (deserto)</Italian>
-					<Polish>Jasny mundur (pustynny)</Polish>
-					<Russian>Летняя форма (пустынный)</Russian>
-					<German>Leichter Anzug (Wüste)</German>
-					<Czech>Lehká uniforma (poušť)</Czech>
-					<English>Light Fatigues (Desert)</English>
-					<Portuguese>Trajes leves (Deserto)</Portuguese>
-					<Korean>경량 전투복(사막)</Korean>
-					<Chinesesimp>轻便军服（沙漠）</Chinesesimp>
-					<Japanese>軽装野戦服（砂漠）</Japanese>
-					<Turkish>Hafif Asker Kıyafeti (Çöl)</Turkish>
+					<Original>Light Fatigues (Desert Hex)</Original>
+					<Chinese>輕型戰鬥服（沙漠妖術）</Chinese>
+					<French>Treillis clair (Hex désert)</French>
+					<Spanish>Ropa ligera (hex desierto)</Spanish>
+					<Italian>Uniforme leggera (esag. deserto)</Italian>
+					<Polish>Jasny mundur (pustynny hex)</Polish>
+					<Russian>Летняя форма (пустынный гекс)</Russian>
+					<German>Leichter Anzug (Wüste Sechsecke)</German>
+					<Czech>Lehká uniforma (poušť hex)</Czech>
+					<English>Light Fatigues (Desert Hex)</English>
+					<Portuguese>Trajes leves (Deserto camuflado)</Portuguese>
+					<Korean>경량 전투복(사막 헥스)</Korean>
+					<Chinesesimp>轻便军服（沙漠妖术）</Chinesesimp>
+					<Japanese>軽装野戦服（砂漠六角形）</Japanese>
+					<Turkish>Hafif Asker Kıyafeti (Çöl Hex)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_GhillieSuit_wdl_f0">
 					<Original>Ghillie Suit (Woodland) [NATO]</Original>
@@ -12450,21 +12569,21 @@
 					<Turkish>Saldırı Paketi (Ten)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_B_AssaultPack_oicamo0">
-					<Original>Assault Pack (Desert)</Original>
-					<Chinese>突擊背包（沙漠）</Chinese>
-					<French>Paquetage d'assaut (Désert)</French>
-					<Spanish>Mochila de asalto (desierto)</Spanish>
-					<Italian>Pacco da assalto (deserto)</Italian>
-					<Polish>Plecak szturmowy (pustynny)</Polish>
-					<Russian>Штурмовой ранец (пустынный)</Russian>
-					<German>Angriffspack (Wüste)</German>
-					<Czech>Průzkumnický batoh (poušť)</Czech>
-					<English>Assault Pack (Desert)</English>
-					<Portuguese>Mochila de assalto (Deserto)</Portuguese>
-					<Korean>강습군장(사막)</Korean>
-					<Chinesesimp>突击包 (沙漠)</Chinesesimp>
-					<Japanese>アサルトパック（砂漠）</Japanese>
-					<Turkish>Saldırı Paketi (Çöl)</Turkish>
+					<Original>Assault Pack (Desert Hex)</Original>
+					<Chinese>突擊背包（沙漠妖術）</Chinese>
+					<French>Paquetage d'assaut (Hex désert)</French>
+					<Spanish>Mochila de asalto (hex desierto)</Spanish>
+					<Italian>Pacco da assalto (esag. deserto)</Italian>
+					<Polish>Plecak szturmowy (pustynny hex)</Polish>
+					<Russian>Штурмовой ранец (пустынный гекс)</Russian>
+					<German>Angriffspack (Wüste Sechsecke)</German>
+					<Czech>Průzkumnický batoh (poušť hex)</Czech>
+					<English>Assault Pack (Desert Hex)</English>
+					<Portuguese>Mochila de assalto (Deserto camuflado)</Portuguese>
+					<Korean>강습군장(사막 헥스)</Korean>
+					<Chinesesimp>突击包 (沙漠妖术)</Chinesesimp>
+					<Japanese>アサルトパック（砂漠六角形）</Japanese>
+					<Turkish>Saldırı Paketi (Çöl Hex)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_B_Kitbag_khk0">
 					<Original>Kitbag (Khaki)</Original>
@@ -12552,38 +12671,38 @@
 					<Turkish>Taktiksel Sırt Çantası (Adaçayı)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_B_TacticalPack_oicamo0">
-					<Original>Tactical Backpack (Desert)</Original>
-					<Chinese>戰術背包（沙漠）</Chinese>
-					<French>Sac à dos tactique (Désert)</French>
-					<Spanish>Mochila táctica (desierto)</Spanish>
-					<Italian>Zaino tattico (deserto)</Italian>
-					<Polish>Plecak taktyczny (pustynny)</Polish>
-					<Russian>Тактический ранец (пустынный)</Russian>
-					<German>Taktischer Rucksack (Wüste)</German>
-					<Czech>Taktický batoh (poušť)</Czech>
-					<English>Tactical Backpack (Desert)</English>
-					<Portuguese>Mochila tática (Deserto)</Portuguese>
-					<Korean>전술배낭(사막)</Korean>
-					<Chinesesimp>战术背包（沙漠）</Chinesesimp>
-					<Japanese>タクティカルバックパック（砂漠）</Japanese>
-					<Turkish>Taktiksel Sırt Çantası (Çöl)</Turkish>
+					<Original>Tactical Backpack (Desert Hex)</Original>
+					<Chinese>戰術背包（沙漠妖術）</Chinese>
+					<French>Sac à dos tactique (Hex désert)</French>
+					<Spanish>Mochila táctica (hex desierto)</Spanish>
+					<Italian>Zaino tattico (esag. deserto)</Italian>
+					<Polish>Plecak taktyczny (pustynny hex)</Polish>
+					<Russian>Тактический ранец (пустынный гекс)</Russian>
+					<German>Taktischer Rucksack (Wüste Sechsecke)</German>
+					<Czech>Taktický batoh (poušť hex)</Czech>
+					<English>Tactical Backpack (Desert Hex)</English>
+					<Portuguese>Mochila tática (Deserto camuflado)</Portuguese>
+					<Korean>전술배낭(사막 헥스)</Korean>
+					<Chinesesimp>战术背包（沙漠妖术）</Chinesesimp>
+					<Japanese>タクティカルバックパック（砂漠六角形）</Japanese>
+					<Turkish>Taktiksel Sırt Çantası (Çöl Hex)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_B_FieldPack_oicamo0">
-					<Original>Field Pack (Desert)</Original>
-					<Chinese>野戰背包（沙漠）</Chinese>
-					<French>Paquetage de terrain (Désert)</French>
-					<Spanish>Mochila de campo (desierto)</Spanish>
-					<Italian>Zaino da campo (deserto)</Italian>
-					<Polish>Plecak bojowy (pustynny)</Polish>
-					<Russian>Полевой ранец (пустынный)</Russian>
-					<German>Feldpaket (Wüste)</German>
-					<Czech>Polní batoh (poušť)</Czech>
-					<English>Field Pack (Desert)</English>
-					<Portuguese>Mochila de campo (Deserto)</Portuguese>
-					<Korean>야전군장(사막)</Korean>
-					<Chinesesimp>外地包（沙漠）</Chinesesimp>
-					<Japanese>フィールドパック（砂漠）</Japanese>
-					<Turkish>Saha Paketi (Çöl)</Turkish>
+					<Original>Field Pack (Desert Hex)</Original>
+					<Chinese>野戰背包（沙漠妖術）</Chinese>
+					<French>Paquetage de terrain (Hex désert)</French>
+					<Spanish>Mochila de campo (hex desierto)</Spanish>
+					<Italian>Zaino da campo (esag. deserto)</Italian>
+					<Polish>Plecak bojowy (pustynny hex)</Polish>
+					<Russian>Полевой ранец (пустынный гекс)</Russian>
+					<German>Feldpaket (Wüste Sechsecke)</German>
+					<Czech>Polní batoh (poušť hex)</Czech>
+					<English>Field Pack (Desert Hex)</English>
+					<Portuguese>Mochila de campo (Deserto camuflado)</Portuguese>
+					<Korean>야전군장(사막 헥스)</Korean>
+					<Chinesesimp>外地包（沙漠妖术）</Chinesesimp>
+					<Japanese>フィールドパック（砂漠六角形）</Japanese>
+					<Turkish>Saha Paketi (Çöl Hex)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_B_Carryall_blk0">
 					<Original>Carryall Backpack (Black)</Original>
@@ -12603,55 +12722,55 @@
 					<Turkish>Büyük Sırt Çantası (Siyah)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_B_Carryall_oicamo0">
-					<Original>Carryall Backpack (Desert)</Original>
-					<Chinese>全容量大背包（沙漠）</Chinese>
-					<French>Sac à dos multifonction (Désert)</French>
-					<Spanish>Bolsa de viaje (desierto)</Spanish>
-					<Italian>Zaino portatutto (deserto)</Italian>
-					<Polish>Plecak (pustynny)</Polish>
-					<Russian>Рюкзак (пустынный)</Russian>
-					<German>Großer Rucksack (Wüste)</German>
-					<Czech>Torna (poušť)</Czech>
-					<English>Carryall Backpack (Desert)</English>
-					<Portuguese>Mochila de carga (Deserto)</Portuguese>
-					<Korean>다용도배낭(사막)</Korean>
-					<Chinesesimp>大旅行包（沙漠）</Chinesesimp>
-					<Japanese>キャリーオールパック（砂漠）</Japanese>
-					<Turkish>Büyük Sırt Çantası (Çöl)</Turkish>
+					<Original>Carryall Backpack (Desert Hex)</Original>
+					<Chinese>全容量大背包（沙漠妖術）</Chinese>
+					<French>Sac à dos multifonction (Hex désert)</French>
+					<Spanish>Bolsa de viaje (hex desierto)</Spanish>
+					<Italian>Zaino portatutto (esag. deserto)</Italian>
+					<Polish>Plecak (pustynny hex)</Polish>
+					<Russian>Рюкзак (пустынный гекс)</Russian>
+					<German>Großer Rucksack (Wüste Sechsecke)</German>
+					<Czech>Torna (poušť hex)</Czech>
+					<English>Carryall Backpack (Desert Hex)</English>
+					<Portuguese>Mochila de carga (Deserto camuflado)</Portuguese>
+					<Korean>다용도배낭(사막 헥스)</Korean>
+					<Chinesesimp>大旅行包（沙漠妖术）</Chinesesimp>
+					<Japanese>キャリーオールパック（砂漠六角形）</Japanese>
+					<Turkish>Büyük Sırt Çantası (Çöl Hex)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_B_ViperHarness_oicamo_F0">
-					<Original>Viper Harness (Desert)</Original>
-					<Chinese>Viper 吊帶（沙漠）</Chinese>
-					<French>Gilet Viper (Désert)</French>
-					<Spanish>Arnés de Viper (desierto)</Spanish>
-					<Italian>Equipaggiamento Viper (deserto)</Italian>
-					<Polish>Uprząż Viper (pustynny)</Polish>
-					<Russian>Обвязка Viper (пустынный)</Russian>
-					<German>Viper-Harnisch (Wüste)</German>
-					<Czech>Postroj Viper (poušť)</Czech>
-					<English>Viper Harness (Desert)</English>
-					<Portuguese>Arnês Viper (Deserto)</Portuguese>
-					<Korean>Viper 하네스(사막)</Korean>
-					<Chinesesimp>Viper 装束（沙漠）</Chinesesimp>
-					<Japanese>Viper ハーネス（砂漠）</Japanese>
-					<Turkish>Viper Takımı (Çöl)</Turkish>
+					<Original>Viper Harness (Desert Hex)</Original>
+					<Chinese>Viper 吊帶（沙漠妖術）</Chinese>
+					<French>Gilet Viper (Hex désert)</French>
+					<Spanish>Arnés de Viper (hex desierto)</Spanish>
+					<Italian>Equipaggiamento Viper (esag. deserto)</Italian>
+					<Polish>Uprząż Viper (pustynny hex)</Polish>
+					<Russian>Обвязка Viper (пустынный гекс)</Russian>
+					<German>Viper-Harnisch (Wüste Sechsecke)</German>
+					<Czech>Postroj Viper (poušť hex)</Czech>
+					<English>Viper Harness (Desert Hex)</English>
+					<Portuguese>Arnês Viper (Deserto camuflado)</Portuguese>
+					<Korean>Viper 하네스(사막 헥스)</Korean>
+					<Chinesesimp>Viper 装束（沙漠妖术）</Chinesesimp>
+					<Japanese>Viper ハーネス（砂漠六角形）</Japanese>
+					<Turkish>Viper Takımı (Çöl Hex)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_B_ViperLightHarness_oicamo_F0">
-					<Original>Viper Light Harness (Desert)</Original>
-					<Chinese>Viper 輕型吊帶（沙漠）</Chinese>
-					<French>Gilet léger Viper (Désert)</French>
-					<Spanish>Arnés ligero de Viper (desierto)</Spanish>
-					<Italian>Equipaggiamento leggero Viper (deserto)</Italian>
-					<Polish>Lekka uprząż Viper (pustynny)</Polish>
-					<Russian>Легкая обвязка Viper (пустынный)</Russian>
-					<German>Viper-Harnisch Leicht (Wüste)</German>
-					<Czech>Lehký postroj Viper (poušť)</Czech>
-					<English>Viper Light Harness (Desert)</English>
-					<Portuguese>Arnês Viper leve (Deserto)</Portuguese>
-					<Korean>Viper 경량 하네스(사막)</Korean>
-					<Chinesesimp>Viper 轻装（沙漠）</Chinesesimp>
-					<Japanese>Viper 軽量ハーネス（砂漠）</Japanese>
-					<Turkish>Hafif Viper Takımı (Çöl)</Turkish>
+					<Original>Viper Light Harness (Desert Hex)</Original>
+					<Chinese>Viper 輕型吊帶（沙漠妖術）</Chinese>
+					<French>Gilet léger Viper (Hex désert)</French>
+					<Spanish>Arnés ligero de Viper (hex desierto)</Spanish>
+					<Italian>Equipaggiamento leggero Viper (esag. deserto)</Italian>
+					<Polish>Lekka uprząż Viper (pustynny hex)</Polish>
+					<Russian>Легкая обвязка Viper (пустынный гекс)</Russian>
+					<German>Viper-Harnisch Leicht (Wüste Sechsecke)</German>
+					<Czech>Lehký postroj Viper (poušť hex)</Czech>
+					<English>Viper Light Harness (Desert Hex)</English>
+					<Portuguese>Arnês Viper leve (Deserto camuflado)</Portuguese>
+					<Korean>Viper 경량 하네스(사막 헥스)</Korean>
+					<Chinesesimp>Viper 轻装（沙漠妖术）</Chinesesimp>
+					<Japanese>Viper 軽量ハーネス（砂漠六角形）</Japanese>
+					<Turkish>Hafif Viper Takımı (Çöl Hex)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_B_Rangmaster_belt_khk0">
 					<Original>Rangemaster Belt (Khaki)</Original>
@@ -12909,21 +13028,21 @@
 					<Turkish>Radio Pack (Arid) [Russia]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_B_RadioBag_01_oicamo_F0">
-					<Original>Radio Pack (Desert) [CSAT]</Original>
-					<Chinese>Radio Pack (Desert) [CSAT]</Chinese>
-					<French>Radio Pack (Desert) [CSAT]</French>
-					<Spanish>Radio Pack (Desert) [CSAT]</Spanish>
-					<Italian>Radio Pack (Desert) [CSAT]</Italian>
-					<Polish>Radio Pack (Desert) [CSAT]</Polish>
-					<Russian>Radio Pack (Desert) [CSAT]</Russian>
-					<German>Radio Pack (Desert) [CSAT]</German>
-					<Czech>Radio Pack (Desert) [CSAT]</Czech>
-					<English>Radio Pack (Desert) [CSAT]</English>
-					<Portuguese>Radio Pack (Desert) [CSAT]</Portuguese>
-					<Korean>Radio Pack (Desert) [CSAT]</Korean>
-					<Chinesesimp>Radio Pack (Desert) [CSAT]</Chinesesimp>
-					<Japanese>Radio Pack (Desert) [CSAT]</Japanese>
-					<Turkish>Radio Pack (Desert) [CSAT]</Turkish>
+					<Original>Radio Pack (Desert Hex) [CSAT]</Original>
+					<Chinese>Radio Pack (Desert Hex) [CSAT]</Chinese>
+					<French>Radio Pack (Desert Hex) [CSAT]</French>
+					<Spanish>Radio Pack (Desert Hex) [CSAT]</Spanish>
+					<Italian>Radio Pack (Desert Hex) [CSAT]</Italian>
+					<Polish>Radio Pack (Desert Hex) [CSAT]</Polish>
+					<Russian>Radio Pack (Desert Hex) [CSAT]</Russian>
+					<German>Radio Pack (Desert Hex) [CSAT]</German>
+					<Czech>Radio Pack (Desert Hex) [CSAT]</Czech>
+					<English>Radio Pack (Desert Hex) [CSAT]</English>
+					<Portuguese>Radio Pack (Desert Hex) [CSAT]</Portuguese>
+					<Korean>Radio Pack (Desert Hex) [CSAT]</Korean>
+					<Chinesesimp>Radio Pack (Desert Hex) [CSAT]</Chinesesimp>
+					<Japanese>Radio Pack (Desert Hex) [CSAT]</Japanese>
+					<Turkish>Radio Pack (Desert Hex) [CSAT]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_B_Bergen_eaf_F0">
 					<Original>Bergen Backpack (Geometric)</Original>
@@ -13274,7 +13393,7 @@
 					<Chinese>集結點</Chinese>
 					<French>Point de ralliement</French>
 					<Spanish>Punto de reunión</Spanish>
-					<Italian>Punto di raduno</Italian>
+					<Italian>Punto di radUN</Italian>
 					<Polish>Punkt rajdowy</Polish>
 					<Russian>Точка ралли</Russian>
 					<German>Sammelpunkt</German>
@@ -13291,7 +13410,7 @@
 					<Chinese>集結點（NATO）</Chinese>
 					<French>Point de ralliement [OTAN]</French>
 					<Spanish>Punto de reunión [OTAN]</Spanish>
-					<Italian>Punto di raduno [NATO]</Italian>
+					<Italian>Punto di radUN [NATO]</Italian>
 					<Polish>Punkt rajdowy [NATO]</Polish>
 					<Russian>Точка ралли [НАТО]</Russian>
 					<German>Sammelpunkt [NATO]</German>
@@ -13308,7 +13427,7 @@
 					<Chinese>集結點（綠色）（NATO）</Chinese>
 					<French>Point de ralliement (vert) [OTAN]</French>
 					<Spanish>Punto de reunión (verde) [OTAN]</Spanish>
-					<Italian>Punto di raduno (verde) [NATO]</Italian>
+					<Italian>Punto di radUN (verde) [NATO]</Italian>
 					<Polish>Punkt rajdowy (zielony) [NATO]</Polish>
 					<Russian>Точка ралли (зеленая) [НАТО]</Russian>
 					<German>Sammelpunkt (Grün) [NATO]</German>
@@ -13325,7 +13444,7 @@
 					<Chinese>集結點（CSAT）</Chinese>
 					<French>Point de ralliement [CSAT]</French>
 					<Spanish>Punto de reunión [CSAT]</Spanish>
-					<Italian>Punto di raduno [CSAT]</Italian>
+					<Italian>Punto di radUN [CSAT]</Italian>
 					<Polish>Punkt rajdowy [CSAT]</Polish>
 					<Russian>Точка ралли [CSAT]</Russian>
 					<German>Sammelpunkt [CSAT]</German>
@@ -13342,7 +13461,7 @@
 					<Chinese>集結點（AAF）</Chinese>
 					<French>Point de ralliement [AAF]</French>
 					<Spanish>Punto de reunión [AAF]</Spanish>
-					<Italian>Punto di raduno [AAF]</Italian>
+					<Italian>Punto di radUN [AAF]</Italian>
 					<Polish>Punkt rajdowy [AAF]</Polish>
 					<Russian>Точка ралли [AAF]</Russian>
 					<German>Sammelpunkt [AAF]</German>
@@ -13359,7 +13478,7 @@
 					<Chinese>集結點（LDF）</Chinese>
 					<French>Point de ralliement [LDF]</French>
 					<Spanish>Punto de reunión [LDF]</Spanish>
-					<Italian>Punto di raduno [LDF]</Italian>
+					<Italian>Punto di radUN [LDF]</Italian>
 					<Polish>Punkt rajdowy [LDF]</Polish>
 					<Russian>Точка ралли [LDF]</Russian>
 					<German>Sammelpunkt [LDF]</German>
@@ -13376,7 +13495,7 @@
 					<Chinese>集結點（俄國）</Chinese>
 					<French>Point de ralliement [Russie]</French>
 					<Spanish>Punto de reunión [Rusia]</Spanish>
-					<Italian>Punto di raduno [Russia]</Italian>
+					<Italian>Punto di radUN [Russia]</Italian>
 					<Polish>Punkt rajdowy [Rosja]</Polish>
 					<Russian>Точка ралли [Россия]</Russian>
 					<German>Sammelpunkt [Russland]</German>
@@ -14023,6 +14142,40 @@
 						<Chinesesimp>DCL-120 Collimator Optics&lt;br /&gt;Magnification: 1x</Chinesesimp>
 						<Japanese>DCL-120 Collimator Optics&lt;br /&gt;Magnification: 1x</Japanese>
 						<Turkish>DCL-120 Collimator Optics&lt;br /&gt;Magnification: 1x</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_acc_o_FMS_dn">
+						<Original>FMS</Original>
+						<Chinese>FMS</Chinese>
+						<French>FMS</French>
+						<Spanish>FMS</Spanish>
+						<Italian>FMS</Italian>
+						<Polish>FMS</Polish>
+						<Russian>FMS</Russian>
+						<German>FMS</German>
+						<Czech>FMS</Czech>
+						<English>FMS</English>
+						<Portuguese>FMS</Portuguese>
+						<Korean>FMS</Korean>
+						<Chinesesimp>FMS</Chinesesimp>
+						<Japanese>FMS</Japanese>
+						<Turkish>FMS</Turkish>
+					</Key>
+					<Key ID="STR_A3_A_acc_o_FMS_ds">
+						<Original>FMS</Original>
+						<Chinese>FMS</Chinese>
+						<French>FMS</French>
+						<Spanish>FMS</Spanish>
+						<Italian>FMS</Italian>
+						<Polish>FMS</Polish>
+						<Russian>FMS</Russian>
+						<German>FMS</German>
+						<Czech>FMS</Czech>
+						<English>FMS</English>
+						<Portuguese>FMS</Portuguese>
+						<Korean>FMS</Korean>
+						<Chinesesimp>FMS</Chinesesimp>
+						<Japanese>FMS</Japanese>
+						<Turkish>FMS</Turkish>
 					</Key>
 					<Key ID="STR_A3_A_CfgWeapons_optic_ACOG1">
 						<Original>Advanced Combat Optical Gunsights&lt;br /&gt;Magnification: 4x</Original>

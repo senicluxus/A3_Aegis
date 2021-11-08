@@ -19,4 +19,5 @@ class CfgVehicles
     #include "cfgIDAP.hpp"          // IDAP
     #include "cfgEAF.hpp"           // LDF
     #include "cfgRUS.hpp"           // Russia
+    #include "cfgION.hpp"           // ION
 };

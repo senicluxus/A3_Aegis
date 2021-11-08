@@ -90,7 +90,17 @@ class arifle_Katiba_ARCO_pointer_snds_F: arifle_Katiba_F
 };
 class mk20_base_F: Rifle_Base_F
 {
-    class WeaponSlotsInfo;
+    class WeaponSlotsInfo: WeaponSlotsInfo
+    {
+        class CowsSlot: CowsSlot_F2000
+		{
+			iconPosition[] =
+			{// X       Y
+				0.45,   0.25
+			};
+			iconScale = 0.2;
+		};
+    };
 };
 class arifle_Mk20_F: mk20_base_F
 {
@@ -106,6 +116,14 @@ class arifle_Mk20_F: mk20_base_F
             };
             iconScale = 0.2;
         };
+        class CowsSlot: CowsSlot_F2000
+		{
+			iconPosition[] =
+			{// X       Y
+				0.45,   0.25
+			};
+			iconScale = 0.2;
+		};
     };
 };
 class arifle_Mk20_plain_F: arifle_Mk20_F
@@ -126,6 +144,14 @@ class arifle_Mk20C_F: mk20_base_F
             };
             iconScale = 0.2;
         };
+        class CowsSlot: CowsSlot_F2000
+		{
+			iconPosition[] =
+			{// X       Y
+				0.45,   0.25
+			};
+			iconScale = 0.2;
+		};
     };
 };
 class arifle_Mk20C_plain_F: arifle_Mk20C_F
@@ -146,6 +172,14 @@ class arifle_Mk20_GL_F: mk20_base_F
             };
             iconScale = 0.2;
         };
+        class CowsSlot: CowsSlot_F2000
+		{
+			iconPosition[] =
+			{// X       Y
+				0.45,   0.25
+			};
+			iconScale = 0.2;
+		};
     };
 };
 class arifle_Mk20_GL_plain_F: arifle_Mk20_GL_F
