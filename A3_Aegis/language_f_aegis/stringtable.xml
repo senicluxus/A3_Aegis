@@ -2457,22 +2457,22 @@
 					<Japanese>レイヴンヘルメット</Japanese>
 					<Turkish>Avcı Miğfer</Turkish>
 				</Key>
-				<Key ID="STR_A3_A_CfgWeapons_H_HelmetSpecter_cover_UNO_F0">
-					<Original>Raven Helmet (Cover UNO)</Original>
-					<Chinese>Raven 頭盔 (Cover UNO)</Chinese>
-					<French>Casque Raven (Cover UNO)</French>
-					<Spanish>Casco de Raven (Cover UNO)</Spanish>
-					<Italian>Elmetto Raven (Cover UNO)</Italian>
-					<Polish>Hełm Raven (Cover UNO)</Polish>
-					<Russian>Шлем Raven (Cover UNO)</Russian>
-					<German>Raven Helm (Cover UNO)</German>
-					<Czech>Přilba Raven (Cover UNO)</Czech>
-					<English>Raven Helmet (Cover UNO)</English>
-					<Portuguese>Capacete Raven (Cover UNO)</Portuguese>
-					<Korean>레이븐 헬멧 (Cover UNO)</Korean>
-					<Chinesesimp>Raven 头盔 (Cover UNO)</Chinesesimp>
-					<Japanese>レイヴンヘルメット (Cover UNO)</Japanese>
-					<Turkish>Avcı Miğfer (Cover UNO)</Turkish>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetSpecter_cover_UN_F0">
+					<Original>Raven Helmet (UN)</Original>
+					<Chinese>Raven 頭盔 (UN)</Chinese>
+					<French>Casque Raven (UN)</French>
+					<Spanish>Casco de Raven (UN)</Spanish>
+					<Italian>Elmetto Raven (UN)</Italian>
+					<Polish>Hełm Raven (UN)</Polish>
+					<Russian>Шлем Raven (UN)</Russian>
+					<German>Raven Helm (UN)</German>
+					<Czech>Přilba Raven (UN)</Czech>
+					<English>Raven Helmet (UN)</English>
+					<Portuguese>Capacete Raven (UN)</Portuguese>
+					<Korean>레이븐 헬멧 (UN)</Korean>
+					<Chinesesimp>Raven 头盔 (UN)</Chinesesimp>
+					<Japanese>レイヴンヘルメット (UN)</Japanese>
+					<Turkish>Avcı Miğfer (UN)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_HelmetSpecter_cover_whex_F0">
 					<Original>Raven Helmet (Cover W)</Original>
@@ -3868,22 +3868,22 @@
 					<Japanese>ベレー帽[AAF]</Japanese>
 					<Turkish>Bere [AAF]</Turkish>
 				</Key>
-				<Key ID="STR_A3_A_CfgWeapons_H_Beret_UNO_01_F0">
-					<Original>Beret (UNO)</Original>
-					<Chinese>貝雷帽（UNO）</Chinese>
-					<French>Béret (UNO)</French>
+				<Key ID="STR_A3_A_CfgWeapons_H_Beret_UN_01_F0">
+					<Original>Beret (UN)</Original>
+					<Chinese>貝雷帽（UN）</Chinese>
+					<French>Béret (UN)</French>
 					<Spanish>Boina (ONU)</Spanish>
 					<Italian>Berretto (Nazioni Unite)</Italian>
-					<Polish>Beret (UNO)</Polish>
+					<Polish>Beret (UN)</Polish>
 					<Russian>Берет (ООН)</Russian>
-					<German>Barett (UNO)</German>
-					<Czech>Baret (UNO)</Czech>
-					<English>Beret (UNO)</English>
+					<German>Barett (UN)</German>
+					<Czech>Baret (UN)</Czech>
+					<English>Beret (UN)</English>
 					<Portuguese>Boina (ONU)</Portuguese>
-					<Korean>베레(UNO)</Korean>
+					<Korean>베레(UN)</Korean>
 					<Chinesesimp>贝雷帽（联合国组织）</Chinesesimp>
-					<Japanese>ベレー帽（UNO）</Japanese>
-					<Turkish>Bere (UNO)</Turkish>
+					<Japanese>ベレー帽（UN）</Japanese>
+					<Turkish>Bere (UN)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_Watchcap_red0">
 					<Original>Beanie (Red)</Original>
@@ -4310,22 +4310,22 @@
 					<Japanese>基本型ヘルメット（砂）</Japanese>
 					<Turkish>Temel Kask (Kum Rengi)</Turkish>
 				</Key>
-				<Key ID="STR_A3_A_CfgWeapons_H_PASGT_basic_UNO_F0">
-					<Original>Basic Helmet (UNO)</Original>
-					<Chinese>基本頭盔（UNO）</Chinese>
-					<French>Casque de base (UNO)</French>
+				<Key ID="STR_A3_A_CfgWeapons_H_PASGT_basic_UN_F0">
+					<Original>Basic Helmet (UN)</Original>
+					<Chinese>基本頭盔（UN）</Chinese>
+					<French>Casque de base (UN)</French>
 					<Spanish>Casco básico (ONU)</Spanish>
 					<Italian>Elmetto base (Nazioni Unite)</Italian>
-					<Polish>Zwykły hełm (UNO)</Polish>
+					<Polish>Zwykły hełm (UN)</Polish>
 					<Russian>Обычный шлем (ООН)</Russian>
-					<German>Standard-Helm (UNO)</German>
-					<Czech>Základní helma (UNO)</Czech>
-					<English>Basic Helmet (UNO)</English>
+					<German>Standard-Helm (UN)</German>
+					<Czech>Základní helma (UN)</Czech>
+					<English>Basic Helmet (UN)</English>
 					<Portuguese>Capacete básico (ONU)</Portuguese>
-					<Korean>기본 헬멧(UNO)</Korean>
+					<Korean>기본 헬멧(UN)</Korean>
 					<Chinesesimp>基本头盔（联合国组织）</Chinesesimp>
-					<Japanese>基本型ヘルメット（UNO）</Japanese>
-					<Turkish>Temel Kask (UNO)</Turkish>
+					<Japanese>基本型ヘルメット（UN）</Japanese>
+					<Turkish>Temel Kask (UN)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_PASGT_neckprot_black_F0">
 					<Original>Basic Helmet (Black, Neck Protection)</Original>
@@ -4753,21 +4753,21 @@
 					<Turkish>Service Helmet (Sand)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_MK7_UN_F0">
-					<Original>Service Helmet (UNO)</Original>
-					<Chinese>Service Helmet (UNO)</Chinese>
-					<French>Service Helmet (UNO)</French>
-					<Spanish>Service Helmet (UNO)</Spanish>
-					<Italian>Service Helmet (UNO)</Italian>
-					<Polish>Service Helmet (UNO)</Polish>
-					<Russian>Service Helmet (UNO)</Russian>
-					<German>Service Helmet (UNO)</German>
-					<Czech>Service Helmet (UNO)</Czech>
-					<English>Service Helmet (UNO)</English>
-					<Portuguese>Service Helmet (UNO)</Portuguese>
-					<Korean>Service Helmet (UNO)</Korean>
-					<Chinesesimp>Service Helmet (UNO)</Chinesesimp>
-					<Japanese>Service Helmet (UNO)</Japanese>
-					<Turkish>Service Helmet (UNO)</Turkish>
+					<Original>Service Helmet (UN)</Original>
+					<Chinese>Service Helmet (UN)</Chinese>
+					<French>Service Helmet (UN)</French>
+					<Spanish>Service Helmet (UN)</Spanish>
+					<Italian>Service Helmet (UN)</Italian>
+					<Polish>Service Helmet (UN)</Polish>
+					<Russian>Service Helmet (UN)</Russian>
+					<German>Service Helmet (UN)</German>
+					<Czech>Service Helmet (UN)</Czech>
+					<English>Service Helmet (UN)</English>
+					<Portuguese>Service Helmet (UN)</Portuguese>
+					<Korean>Service Helmet (UN)</Korean>
+					<Chinesesimp>Service Helmet (UN)</Chinesesimp>
+					<Japanese>Service Helmet (UN)</Japanese>
+					<Turkish>Service Helmet (UN)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_O_Helmet_canvas_ghex_F0">
 					<Original>Modular Helmet (Green Hex)</Original>
@@ -4787,21 +4787,21 @@
 					<Turkish>Modüler Miğfer (Yeşil Hex)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_I_Helmet_canvas_UN_F0">
-					<Original>Modular Helmet (UNO)</Original>
+					<Original>Modular Helmet (UN)</Original>
 					<Chinese>模組化通訊頭盔（UN）</Chinese>
-					<French>Casque modulaire (UNO)</French>
-					<Spanish>Casco modular (UNO)</Spanish>
-					<Italian>Elmetto modulare (UNO)</Italian>
-					<Polish>Hełm modułowy (UNO)</Polish>
-					<Russian>Модульный шлем (UNO)</Russian>
-					<German>Modularer Helm (UNO)</German>
-					<Czech>Modulární přilba (UNO)</Czech>
-					<English>Modular Helmet (UNO)</English>
-					<Portuguese>Capacete modular (UNO)</Portuguese>
-					<Korean>모듈형 헬멧(UNO)</Korean>
+					<French>Casque modulaire (UN)</French>
+					<Spanish>Casco modular (UN)</Spanish>
+					<Italian>Elmetto modulare (UN)</Italian>
+					<Polish>Hełm modułowy (UN)</Polish>
+					<Russian>Модульный шлем (UN)</Russian>
+					<German>Modularer Helm (UN)</German>
+					<Czech>Modulární přilba (UN)</Czech>
+					<English>Modular Helmet (UN)</English>
+					<Portuguese>Capacete modular (UN)</Portuguese>
+					<Korean>모듈형 헬멧(UN)</Korean>
 					<Chinesesimp>标准头盔（UN）</Chinesesimp>
 					<Japanese>モジュラーヘルメット（UN）</Japanese>
-					<Turkish>Modüler Miğfer (UNO)</Turkish>
+					<Turkish>Modüler Miğfer (UN)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_I_Helmet_canvas_CBR_F0">
 					<Original>Modular Helmet (Coyote)</Original>
@@ -13376,7 +13376,7 @@
 					<Chinese>集結點</Chinese>
 					<French>Point de ralliement</French>
 					<Spanish>Punto de reunión</Spanish>
-					<Italian>Punto di raduno</Italian>
+					<Italian>Punto di radUN</Italian>
 					<Polish>Punkt rajdowy</Polish>
 					<Russian>Точка ралли</Russian>
 					<German>Sammelpunkt</German>
@@ -13393,7 +13393,7 @@
 					<Chinese>集結點（NATO）</Chinese>
 					<French>Point de ralliement [OTAN]</French>
 					<Spanish>Punto de reunión [OTAN]</Spanish>
-					<Italian>Punto di raduno [NATO]</Italian>
+					<Italian>Punto di radUN [NATO]</Italian>
 					<Polish>Punkt rajdowy [NATO]</Polish>
 					<Russian>Точка ралли [НАТО]</Russian>
 					<German>Sammelpunkt [NATO]</German>
@@ -13410,7 +13410,7 @@
 					<Chinese>集結點（綠色）（NATO）</Chinese>
 					<French>Point de ralliement (vert) [OTAN]</French>
 					<Spanish>Punto de reunión (verde) [OTAN]</Spanish>
-					<Italian>Punto di raduno (verde) [NATO]</Italian>
+					<Italian>Punto di radUN (verde) [NATO]</Italian>
 					<Polish>Punkt rajdowy (zielony) [NATO]</Polish>
 					<Russian>Точка ралли (зеленая) [НАТО]</Russian>
 					<German>Sammelpunkt (Grün) [NATO]</German>
@@ -13427,7 +13427,7 @@
 					<Chinese>集結點（CSAT）</Chinese>
 					<French>Point de ralliement [CSAT]</French>
 					<Spanish>Punto de reunión [CSAT]</Spanish>
-					<Italian>Punto di raduno [CSAT]</Italian>
+					<Italian>Punto di radUN [CSAT]</Italian>
 					<Polish>Punkt rajdowy [CSAT]</Polish>
 					<Russian>Точка ралли [CSAT]</Russian>
 					<German>Sammelpunkt [CSAT]</German>
@@ -13444,7 +13444,7 @@
 					<Chinese>集結點（AAF）</Chinese>
 					<French>Point de ralliement [AAF]</French>
 					<Spanish>Punto de reunión [AAF]</Spanish>
-					<Italian>Punto di raduno [AAF]</Italian>
+					<Italian>Punto di radUN [AAF]</Italian>
 					<Polish>Punkt rajdowy [AAF]</Polish>
 					<Russian>Точка ралли [AAF]</Russian>
 					<German>Sammelpunkt [AAF]</German>
@@ -13461,7 +13461,7 @@
 					<Chinese>集結點（LDF）</Chinese>
 					<French>Point de ralliement [LDF]</French>
 					<Spanish>Punto de reunión [LDF]</Spanish>
-					<Italian>Punto di raduno [LDF]</Italian>
+					<Italian>Punto di radUN [LDF]</Italian>
 					<Polish>Punkt rajdowy [LDF]</Polish>
 					<Russian>Точка ралли [LDF]</Russian>
 					<German>Sammelpunkt [LDF]</German>
@@ -13478,7 +13478,7 @@
 					<Chinese>集結點（俄國）</Chinese>
 					<French>Point de ralliement [Russie]</French>
 					<Spanish>Punto de reunión [Rusia]</Spanish>
-					<Italian>Punto di raduno [Russia]</Italian>
+					<Italian>Punto di radUN [Russia]</Italian>
 					<Polish>Punkt rajdowy [Rosja]</Polish>
 					<Russian>Точка ралли [Россия]</Russian>
 					<German>Sammelpunkt [Russland]</German>
