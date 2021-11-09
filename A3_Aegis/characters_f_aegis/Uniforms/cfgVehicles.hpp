@@ -61,6 +61,7 @@ class CfgVehicles
 
 	/* From "cfgIndep.hpp" */
 	UNIFORM_HOLDER(U_I_CombatUniform_tshirt,$STR_A3_A_CfgWeapons_U_I_CombatUniform_tshirt0);
+	UNIFORM_HOLDER(U_I_Uniform_01_tanktop_F,$STR_A3_A_CfgWeapons_U_I_Uniform_01_tanktop_F0);
 
 	/* From "cfgCivil.hpp" */
 	class Item_U_C_Commoner1_1: Item_Base_F

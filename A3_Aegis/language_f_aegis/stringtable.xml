@@ -4907,6 +4907,23 @@
 					<Japanese>戦闘服[AAF]（Tシャツ）</Japanese>
 					<Turkish>Askeri Savaş Kıyafeti [AAF] (Tişört)</Turkish>
 				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_U_I_Uniform_01_tanktop_F0">
+					<Original>Combat Fatigues [AAF] (Tanktop)</Original>
+					<Chinese>Combat Fatigues [AAF] (Tanktop)</Chinese>
+					<French>Combat Fatigues [AAF] (Tanktop)</French>
+					<Spanish>Combat Fatigues [AAF] (Tanktop)</Spanish>
+					<Italian>Combat Fatigues [AAF] (Tanktop)</Italian>
+					<Polish>Combat Fatigues [AAF] (Tanktop)</Polish>
+					<Russian>Combat Fatigues [AAF] (Tanktop)</Russian>
+					<German>Combat Fatigues [AAF] (Tanktop)</German>
+					<Czech>Combat Fatigues [AAF] (Tanktop)</Czech>
+					<English>Combat Fatigues [AAF] (Tanktop)</English>
+					<Portuguese>Combat Fatigues [AAF] (Tanktop)</Portuguese>
+					<Korean>Combat Fatigues [AAF] (Tanktop)</Korean>
+					<Chinesesimp>Combat Fatigues [AAF] (Tanktop)</Chinesesimp>
+					<Japanese>Combat Fatigues [AAF] (Tanktop)</Japanese>
+					<Turkish>Combat Fatigues [AAF] (Tanktop)</Turkish>
+				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_NikosBody0">
 					<Original>Profiteer Suit (Nikos)</Original>
 					<Chinese>投機者的衣服（Nikos）</Chinese>
