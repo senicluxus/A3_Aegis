@@ -18,15 +18,15 @@ class CfgVehicles
 			};
 		};
 	};
-	class Mortar_02_base_F: StaticMortar
+	class Mortar_03_base_F: StaticMortar
 	{
 		features = "Randomization: No						<br />Camo selections: 1 - the whole weapon with pod						<br />Script door sources: None						<br />Script animations: None						<br />Executed scripts: None						<br />Firing from vehicles: Just the weapon						<br />Slingload: No						<br />Cargo proxy indexes: None";
 		author = $STR_A3_Heliotrope;
 		scope = protected;
-		displayname = $STR_A3_CfgVehicles_Mortar_02_Base0;
+		displayname = $STR_A3_CfgVehicles_Mortar_03_Base0;
 		class Library
 		{
-			libTextDesc = "$STR_A3_CfgVehicles_Mortar_02_Base_Library0";
+			libTextDesc = "$STR_A3_CfgVehicles_Mortar_03_Base_Library0";
 		};
 		transportSoldier = 0;
 		cargoAction[] = {"Mortar_Gunner"};
@@ -34,15 +34,15 @@ class CfgVehicles
 		getOutAction = "GetOutLow";
 		unitInfoType = "RscUnitInfoMortar";
 		editorSubcategory = "EdSubcat_Turrets";
-		//picture = "A3_Aegis\static_f_aegis\Mortar_02\Data\m252_81mm_ca.paa";
-		//icon = "A3_Aegis\static_f_aegis\Mortar_02\Data\m252_81mm_CA.paa";
+		//picture = "A3_Aegis\static_f_aegis\Mortar_03\Data\podnos_2b14_82mm_ca.paa";
+		//icon = "A3_Aegis\static_f_aegis\Mortar_03\Data\podnos_2b14_82mm_CA.paa";
 		cost = 200000;
 		accuracy = 0.25;
 		EPEImpulseDamageCoef = 5;
 		class Damage
 		{
 			tex[] = {};
-			mat[] = {"A3_Aegis\static_f_aegis\Mortar_02\Data\m252_81mm.rvmat","A3_Aegis\static_f_aegis\Mortar_02\Data\m252_81mm_damage.rvmat","A3_Aegis\static_f_aegis\Mortar_02\Data\m252_81mm_destruct.rvmat"};
+			mat[] = {"A3_Aegis\static_f_aegis\Mortar_03\Data\podnos_2b14_82mm.rvmat","A3_Aegis\static_f_aegis\Mortar_03\Data\podnos_2b14_82mm_damage.rvmat","A3_Aegis\static_f_aegis\Mortar_03\Data\podnos_2b14_82mm_destruct.rvmat"};
 		};
 		class Turrets: Turrets
 		{
@@ -112,20 +112,20 @@ class CfgVehicles
 				lifeTime = 5;
 			};
 		};
-		model = "A3_Aegis\static_f_aegis\Mortar_02\81Mortar.p3d";
+		model = "A3_Aegis\static_f_aegis\Mortar_03\podnos_2b14_82mm.p3d";
 		artilleryScanner = 1;
 		class assembleInfo
 		{
 			primary = 0;
 			base = "";
 			assembleTo = "";
-			dissasembleTo[] = {"B_Mortar_02_weapon_F","B_Mortar_02_support_F"};
+			dissasembleTo[] = {"B_Mortar_03_weapon_F","B_Mortar_03_support_F"};
 			displayName = "";
 		};
 		hiddenSelections[] = {"Camo"};
-		hiddenSelectionsTextures[] = {"A3_Aegis\static_f_aegis\Mortar_02\data\m252_81mm_co.paa"};
+		hiddenSelectionsTextures[] = {"A3_Aegis\static_f_aegis\Mortar_03\data\podnos_2b14_82mm_co.paa"};
 	};
-	class B_Mortar_02_F: Mortar_02_base_F
+	class B_Mortar_03_F: Mortar_03_base_F
 	{
 		author = $STR_A3_Heliotrope;
 		class SimpleObject
