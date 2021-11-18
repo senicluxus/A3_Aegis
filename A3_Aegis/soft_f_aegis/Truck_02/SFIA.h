@@ -1,5 +1,6 @@
 class I_SFIA_Truck_02_transport_lxWS: O_Truck_02_transport_F
 {
+	hiddenSelections[] = {camo1, camo2, camo3, camo4};
 	hiddenSelectionsTextures[] =
 	{
 		"lxws\vehicles_f_lxws\data\Truck_02\Truck_02_kab_sfia_CO.paa",
@@ -52,6 +53,7 @@ class I_SFIA_Truck_02_covered_lxWS: O_Truck_02_covered_F
 };
 class I_SFIA_Truck_02_box_lxWS: Truck_02_box_base_lxWS
 {
+    hiddenSelections[] = {camo1, camo2, camo3, camo4, camo9};
 	hiddenSelectionsTextures[] =
 	{
 		"lxws\vehicles_f_lxws\data\Truck_02\Truck_02_kab_sfia_CO.paa",
@@ -63,6 +65,7 @@ class I_SFIA_Truck_02_box_lxWS: Truck_02_box_base_lxWS
 };
 class I_SFIA_Truck_02_Ammo_lxWS: Truck_02_Ammo_base_lxWS
 {
+    hiddenSelections[] = {camo1, camo2, camo3, camo4, camo9};
 	hiddenSelectionsTextures[] =
 	{
 		"lxws\vehicles_f_lxws\data\Truck_02\Truck_02_kab_sfia_CO.paa",
@@ -74,6 +77,7 @@ class I_SFIA_Truck_02_Ammo_lxWS: Truck_02_Ammo_base_lxWS
 };
 class I_SFIA_Truck_02_MRL_lxWS: I_Truck_02_MRL_F
 {
+	hiddenSelections[] 	= {camo1, camo2, camo3, camo4};
 	hiddenSelectionsTextures[] =
 	{
 		"lxws\vehicles_f_lxws\data\Truck_02\Truck_02_kab_sfia_CO.paa",
@@ -98,6 +102,7 @@ class I_SFIA_Truck_02_MRL_lxWS: I_Truck_02_MRL_F
 };
 class I_SFIA_Truck_02_fuel_lxWS: O_Truck_02_fuel_F
 {
+	hiddenSelections[] = {camo1, camo2, camo3, camo4};
 	hiddenSelectionsTextures[] =
 	{
 		"lxws\vehicles_f_lxws\data\Truck_02\Truck_02_kab_sfia_CO.paa",

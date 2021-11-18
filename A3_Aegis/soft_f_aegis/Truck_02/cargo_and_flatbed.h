@@ -27,7 +27,7 @@ class I_Truck_02_cargo_lxWS: Truck_02_cargo_base_lxWS
 {
 	hiddenSelectionsTextures[] 	= {
 									"\A3\soft_f_beta\Truck_02\Data\Truck_02_kab_indp_co.paa",
-									"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_olive_CO.paa",
+									"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_indp_CO.paa",
 									"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
 									"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_INDP_CO.paa",
 									"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
@@ -37,7 +37,7 @@ class I_Truck_02_flatbed_lxWS: Truck_02_flatbed_base_lxWS
 {
 	hiddenSelectionsTextures[] 	= {
 									"\A3\soft_f_beta\Truck_02\Data\Truck_02_kab_indp_co.paa",
-									"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_olive_CO.paa",
+									"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_indp_CO.paa",
 									"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
 									"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_INDP_CO.paa",
 									"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
@@ -47,7 +47,7 @@ class I_A_Truck_02_aa_lxWS: Truck_02_aa_base_lxWS
 {
 	hiddenSelectionsTextures[] 	= {
 									"\A3\soft_f_beta\Truck_02\Data\Truck_02_kab_indp_co.paa",
-									"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_olive_CO.paa",
+									"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_indp_CO.paa",
 									"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
 									"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_INDP_CO.paa",
 									"lxws\vehicles_f_lxws\zu23\data\zu23_base_green_co.paa",
@@ -157,9 +157,10 @@ DEPRECATED_CLASS(C_Truck_02_flatbed_F,C_Truck_02_flatbed_lxWS);
 ////////////////////////////////////////////////////////
 class O_T_Truck_02_cargo_lxWS: O_Truck_02_cargo_lxWS
 {
+    hiddenSelections[] 			= {camo1, camo2, camo3, camo4, camo9};
 	hiddenSelectionsTextures[] 	= {
 									"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_kab_ghex_CO.paa",
-									"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_black_CO.paa",
+									"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_cargo_ghex_CO.paa",
 									"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_int_CO.paa",
 									"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_chassis_ghex_CO.paa",
 									"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
@@ -167,9 +168,10 @@ class O_T_Truck_02_cargo_lxWS: O_Truck_02_cargo_lxWS
 };
 class O_T_Truck_02_flatbed_lxWS: O_Truck_02_flatbed_lxWS
 {
+    hiddenSelections[] 			= {camo1, camo2, camo3, camo4, camo9};
 	hiddenSelectionsTextures[] 	= {
 									"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_kab_ghex_CO.paa",
-									"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_black_CO.paa",
+									"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_cargo_ghex_CO.paa",
 									"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_int_CO.paa",
 									"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_chassis_ghex_CO.paa",
 									"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
@@ -223,6 +225,7 @@ DEPRECATED_CLASS(C_IDAP_Truck_02_flatbed_F,C_IDAP_Truck_02_flatbed_lxWS);
 ////////////////////////////////////////////////////////
 class I_E_Truck_02_cargo_lxWS: I_Truck_02_cargo_lxWS
 {
+    hiddenSelections[] 			= {camo1, camo2, camo3, camo4, camo9};
 	hiddenSelectionsTextures[] 	= {
 									"\A3\soft_f_Enoch\Truck_02\Data\Truck_02_kab_EAF_co.paa",
 									"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_EAF_CO.paa",
@@ -233,6 +236,7 @@ class I_E_Truck_02_cargo_lxWS: I_Truck_02_cargo_lxWS
 };
 class I_E_Truck_02_flatbed_lxWS: I_Truck_02_flatbed_lxWS
 {
+    hiddenSelections[] 			= {camo1, camo2, camo3, camo4, camo9};
 	hiddenSelectionsTextures[] 	= {
 									"\A3\soft_f_Enoch\Truck_02\Data\Truck_02_kab_EAF_co.paa",
 									"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_EAF_CO.paa",
@@ -263,7 +267,7 @@ class O_R_Truck_02_cargo_F: O_Truck_02_cargo_lxWS
 	hiddenSelectionsTextures[] =
 	{
 		"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_kab_RUkhk_CO.paa",
-		"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_olive_CO.paa",
+		"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_cargo_RUkhk_CO.paa",
 		"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_int_RUkhk_CO.paa",
 		"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_chassis_RUkhk_CO.paa",
 		"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
@@ -283,7 +287,7 @@ class O_R_Truck_02_flatbed_F: O_Truck_02_flatbed_lxWS
 	hiddenSelectionsTextures[] =
 	{
 		"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_kab_RUkhk_CO.paa",
-		"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_olive_CO.paa",
+		"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_cargo_RUkhk_CO.paa",
 		"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_int_RUkhk_CO.paa",
 		"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_chassis_RUkhk_CO.paa",
 		"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
@@ -303,7 +307,7 @@ class Aegis_O_R_Truck_02_aa_F: Truck_02_aa_base_lxWS
 	hiddenSelectionsTextures[] =
 	{
 		"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_kab_RUkhk_CO.paa",
-		"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_olive_CO.paa",
+		"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_cargo_RUkhk_CO.paa",
 		"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_int_RUkhk_CO.paa",
 		"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_chassis_RUkhk_CO.paa",
 		"lxws\vehicles_f_lxws\zu23\data\zu23_base_green_co.paa",

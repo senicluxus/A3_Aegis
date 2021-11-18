@@ -684,7 +684,7 @@ class CfgVehicles
 				textures[] =
 				{
 					"\A3\soft_f_beta\Truck_02\Data\Truck_02_kab_indp_co.paa",
-					"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_olive_CO.paa",
+					"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_indp_CO.paa",
 					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
 					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_INDP_CO.paa",
 					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
@@ -696,7 +696,7 @@ class CfgVehicles
 				textures[] =
 				{
 					"\A3\soft_f_beta\Truck_02\Data\Truck_02_kab_opfor_co.paa",
-					"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_black_CO.paa",
+					"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_opfor_CO.paa",
 					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
 					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_OPFOR_CO.paa",
 					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
@@ -708,7 +708,7 @@ class CfgVehicles
 				textures[] =
 				{
 					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_kab_ghex_CO.paa",
-					"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_black_CO.paa",
+					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_cargo_ghex_CO.paa",
 					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_int_CO.paa",
 					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_chassis_ghex_CO.paa",
 					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
@@ -854,7 +854,7 @@ class CfgVehicles
 				textures[] =
 				{
 					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_kab_RUkhk_CO.paa",
-					"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_olive_CO.paa",
+					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_cargo_RUkhk_CO.paa",
 					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_int_RUkhk_CO.paa",
 					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_chassis_RUkhk_CO.paa",
 					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
@@ -1131,7 +1131,7 @@ class CfgVehicles
 				textures[] =
 				{
 					"\A3\soft_f_beta\Truck_02\Data\Truck_02_kab_indp_co.paa",
-					"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_olive_CO.paa",
+					"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_indp_CO.paa",
 					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
 					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_INDP_CO.paa",
 					"lxws\vehicles_f_lxws\zu23\data\zu23_base_green_co.paa",
@@ -1147,9 +1147,27 @@ class CfgVehicles
 				textures[] =
 				{
 					"\A3\soft_f_beta\Truck_02\Data\Truck_02_kab_opfor_co.paa",
-					"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_black_CO.paa",
+					"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_opfor_CO.paa",
 					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
 					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_OPFOR_CO.paa",
+					"lxws\vehicles_f_lxws\zu23\data\zu23_base_green_co.paa",
+					"lxws\vehicles_f_lxws\zu23\data\zu23_green_co.paa",
+					"lxws\vehicles_f_lxws\zu23\data\zu23_addon_1_green_co.paa",
+					"lxws\vehicles_f_lxws\zu23\data\zu23_addon_2_green_co.paa",
+					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
+				};
+				factions[] = {};
+			};
+			class GreenHex
+			{
+				displayName = $STR_A3_TEXTURESOURCES_GREENHEX0;
+				author = $STR_A3_A_AveryTheKitty;
+				textures[] =
+				{
+					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_kab_ghex_CO.paa",
+					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_cargo_ghex_CO.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_int_CO.paa",
+					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_chassis_ghex_CO.paa",
 					"lxws\vehicles_f_lxws\zu23\data\zu23_base_green_co.paa",
 					"lxws\vehicles_f_lxws\zu23\data\zu23_green_co.paa",
 					"lxws\vehicles_f_lxws\zu23\data\zu23_addon_1_green_co.paa",
@@ -1197,7 +1215,7 @@ class CfgVehicles
 				textures[] =
 				{
 					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_kab_RUkhk_CO.paa",
-					"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_olive_CO.paa",
+					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_cargo_RUkhk_CO.paa",
 					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_int_RUkhk_CO.paa",
 					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_chassis_RUkhk_CO.paa",
 					"lxws\vehicles_f_lxws\zu23\data\zu23_base_green_co.paa",
