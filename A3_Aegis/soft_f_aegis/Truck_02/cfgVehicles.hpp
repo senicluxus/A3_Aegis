@@ -122,6 +122,30 @@ class CfgVehicles
 				};
 				factions[] = {};
 			};
+			class SFIA
+			{
+				displayName = $STR_LXWS_FACTION_SFIA;
+				textures[] =
+				{
+					"lxws\vehicles_f_lxws\data\Truck_02\Truck_02_kab_sfia_CO.paa",
+					"lxws\vehicles_f_lxws\data\Truck_02\truck_02_kuz_africa_brown_CO.paa",
+					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_OPFOR_CO.paa"
+				};
+				factions[] = {};
+			};
+			class Black
+			{
+				displayName = $STR_A3_TEXTURESOURCES_BLACK0;
+				textures[] =
+				{
+					"\lxws\vehicles_f_lxws\data\Truck_02\Truck_02_kab_black_CO.paa",
+					"\a3\soft_f_beta\Truck_02\data\truck_02_kuz_olive_co.paa",
+					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_CO.paa"
+				};
+				factions[] = {};
+			};
 		};
 
         /* Scripts */
@@ -208,6 +232,30 @@ class CfgVehicles
 					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_kuz_RUkhk_CO.paa",
 					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_int_RUkhk_CO.paa",
 					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_chassis_RUkhk_CO.paa"
+				};
+				factions[] = {};
+			};
+			class SFIA
+			{
+				displayName = $STR_LXWS_FACTION_SFIA;
+				textures[] =
+				{
+					"lxws\vehicles_f_lxws\data\Truck_02\Truck_02_kab_sfia_CO.paa",
+					"lxws\vehicles_f_lxws\data\Truck_02\truck_02_kuz_africa_brown_CO.paa",
+					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_OPFOR_CO.paa"
+				};
+				factions[] = {};
+			};
+			class Black
+			{
+				displayName = $STR_A3_TEXTURESOURCES_BLACK0;
+				textures[] =
+				{
+					"\lxws\vehicles_f_lxws\data\Truck_02\Truck_02_kab_black_CO.paa",
+					"\a3\soft_f_beta\Truck_02\data\truck_02_kuz_olive_co.paa",
+					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_CO.paa"
 				};
 				factions[] = {};
 			};
@@ -304,6 +352,18 @@ class CfgVehicles
 				};
 				factions[] = {};
 			};
+			class SFIA
+			{
+				displayName = $STR_LXWS_FACTION_SFIA;
+				textures[] =
+				{
+					"lxws\vehicles_f_lxws\data\Truck_02\Truck_02_kab_sfia_CO.paa",
+					"lxws\vehicles_f_lxws\data\Truck_02\zamak_repair_africa_co.paa",
+					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_OPFOR_CO.paa"
+				};
+				factions[] = {};
+			};
 		};
 	};
 	class Truck_02_medical_base_F: Truck_02_box_base_F
@@ -357,6 +417,18 @@ class CfgVehicles
 				};
 				factions[] = {};
 			};
+			class SFIA
+			{
+				displayName = $STR_LXWS_FACTION_SFIA;
+				textures[] =
+				{
+					"lxws\vehicles_f_lxws\data\Truck_02\Truck_02_kab_sfia_CO.paa",
+					"lxws\vehicles_f_lxws\data\Truck_02\truck_02_kuz_africa_brown_CO.paa",
+					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_OPFOR_CO.paa"
+				};
+				factions[] = {};
+			};
 		};
 	};
 	class Truck_02_Ammo_base_F: Truck_02_base_F
@@ -407,6 +479,18 @@ class CfgVehicles
 					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_repair_RUkhk_CO.paa",
 					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_int_RUkhk_CO.paa",
 					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_chassis_RUkhk_CO.paa"
+				};
+				factions[] = {};
+			};
+			class SFIA
+			{
+				displayName = $STR_LXWS_FACTION_SFIA;
+				textures[] =
+				{
+					"lxws\vehicles_f_lxws\data\Truck_02\Truck_02_kab_sfia_CO.paa",
+					"lxws\vehicles_f_lxws\data\Truck_02\zamak_repair_africa_co.paa",
+					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_OPFOR_CO.paa"
 				};
 				factions[] = {};
 			};
@@ -493,6 +577,18 @@ class CfgVehicles
 				};
 				factions[] = {};
 			};
+			class SFIA
+			{
+				displayName = $STR_LXWS_FACTION_SFIA;
+				textures[] =
+				{
+					"lxws\vehicles_f_lxws\data\Truck_02\Truck_02_kab_sfia_CO.paa",
+					"lxws\vehicles_f_lxws\data\Truck_02\truck_02_fuel_sfia_co.paa",
+					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_OPFOR_CO.paa"
+				};
+				factions[] = {};
+			};
 		};
 	};
 	class Truck_02_MRL_base_F: Truck_02_base_F
@@ -563,284 +659,552 @@ class CfgVehicles
 				};
                 factions[] = {};
 			};
+			class SFIA
+			{
+				displayName = $STR_LXWS_FACTION_SFIA;
+				textures[] =
+				{
+					"lxws\vehicles_f_lxws\data\Truck_02\Truck_02_kab_sfia_CO.paa",
+					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
+					"lxws\vehicles_f_lxws\data\Truck_02\zamak_mrl_brown_co.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_OPFOR_CO.paa"
+				};
+				factions[] = {};
+			};
 		};
 	};
 	class Truck_02_water_base_F;
-	class Truck_02_viv_base_F: Truck_02_base_F
-    {
-		accuracy = 0.9;
-		castCargoShadow = true;
-		transportSoldier = 2;
-		cargoProxyIndexes[] =
-        {
-            1,
-            2
-        };
-		cargoAction[] =
-		{
-			passenger_apc_narrow_generic01_ns,
-			passenger_apc_narrow_generic03still_ns
-		};
-		driverAction = Truck_02_Driver;
-
-        /* Inventory */
-		class TransportItems
-		{
-			item_xx(FirstAidKit,4);
-		};
-        
-        /* ViV */
-		class VehicleTransport
-		{
-			class Carrier
-			{
-				cargoBayDimensions[] =
-				{
-					VVT_cargo_1,
-					VVT_cargo_2
-				};
-				disableHeightLimit = true;
-				maxLoadMass = 45000;
-				cargoAlignment[] =
-				{
-					center,
-					front
-				};
-				cargoSpacing[] = {0,0,0};
-				exits[] = {VVT_exit};
-				unloadingInterval = 2;
-				loadingDistance = 5;
-				loadingAngle = 60;
-				parachuteClassDefault = B_Parachute_02_F;
-				parachuteHeightLimitDefault = 5;
-			};
-		};
-    };
-	class Truck_02_cargo_base_F: Truck_02_viv_base_F
+	class Truck_02_cargo_base_lxWS: Truck_02_Base_F
 	{
-		model = "\A3_Aegis\Soft_F_Aegis\Truck_02\Truck_02_cargo_F.p3d";
-		picture = "\A3_Aegis\Soft_F_Aegis\Truck_02\Data\UI\Truck_02_cargo_CA.paa";
-		icon = "\A3\Soft_F_Beta\Truck_02\Data\UI\Map_Truck_02_dump_CA.paa";
-
-        /* Liveries */
-		class TextureSources
+      	hiddenSelections[] = {camo1, camo2, camo3, camo4, camo9};
+		class TextureSources: TextureSources
 		{
 			class Indep
 			{
-				displayName = $STR_A3_TEXTURESOURCES_INDEP0;
-				author = $STR_A3_A_AveryTheKitty;
 				textures[] =
 				{
-					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_kab_INDP_CO.paa",
-					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_kuz_INDP_CO.paa",
-					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_int_CO.paa",
-					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_INDP_CO.paa"
+					"\A3\soft_f_beta\Truck_02\Data\Truck_02_kab_indp_co.paa",
+					"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_olive_CO.paa",
+					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_INDP_CO.paa",
+					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
 				};
 				factions[] = {};
 			};
 			class Opfor
 			{
-				displayName = $STR_A3_TEXTURESOURCES_OPFOR0;
-				author = $STR_A3_A_AveryTheKitty;
 				textures[] =
 				{
-					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_kab_OPFOR_CO.paa",
-					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_kuz_OPFOR_CO.paa",
-					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_int_CO.paa",
-					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_OPFOR_CO.paa"
+					"\A3\soft_f_beta\Truck_02\Data\Truck_02_kab_opfor_co.paa",
+					"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_black_CO.paa",
+					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_OPFOR_CO.paa",
+					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
 				};
 				factions[] = {};
 			};
-			class Orange
-			{
-				displayName = $STR_A3_TEXTURESOURCES_ORANGE0;
-				author = $STR_A3_A_AveryTheKitty;
-				textures[] =
-				{
-					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_kab_CO.paa",
-					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_kuz_CO.paa",
-					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_int_CO.paa",
-					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_CO.paa"
-				};
-				factions[] = {CIV_F};
-			};
-			class Blue
-			{
-				displayName = $STR_A3_TEXTURESOURCES_BLUE0;
-				author = $STR_A3_A_AveryTheKitty;
-				textures[] =
-				{
-					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_kab_blue_CO.paa",
-					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_kuz_CO.paa",
-					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_int_CO.paa",
-					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_CO.paa"
-				};
-				factions[] = {CIV_F};
-			};
 			class GreenHex
 			{
-				displayName = $STR_A3_TEXTURESOURCES_GREENHEX0;
-				author = $STR_A3_A_AveryTheKitty;
 				textures[] =
 				{
 					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_kab_ghex_CO.paa",
-					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_kuz_ghex_CO.paa",
+					"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_black_CO.paa",
 					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_int_CO.paa",
-					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_chassis_ghex_CO.paa"
+					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_chassis_ghex_CO.paa",
+					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
+				};
+				factions[] = {};
+			};
+			class SFIA
+			{
+				textures[] =
+				{
+					"lxws\vehicles_f_lxws\data\Truck_02\Truck_02_kab_sfia_CO.paa",
+					"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_olive_CO.paa",
+					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_OPFOR_CO.paa",
+					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
+				};
+				factions[] = {};
+			};
+			class Brown
+			{
+				textures[] =
+				{
+					"lxws\vehicles_f_lxws\data\Truck_02\Truck_02_kab_brown_CO.paa",
+					"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_black_CO.paa",
+					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_CO.paa",
+					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
 				};
 				factions[] = {};
 			};
 			class IDAP
 			{
-				displayName = $STR_A3_CfgFactionClasses_CIV_IDAP_F0;
-				author = $STR_A3_A_AveryTheKitty;
 				textures[] =
 				{
-					"\A3\Soft_F_Orange\Truck_02\Data\Truck_02_kab_IDAP_CO.paa",
-					"\A3\Soft_F_Orange\Truck_02\Data\Truck_02_kuz_IDAP_CO.paa",
-					"\A3\Soft_F_Orange\Truck_02\Data\Truck_02_int_IDAP_CO.paa",
-					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_CO.paa"
+					"\A3\soft_f_orange\Truck_02\Data\Truck_02_kab_IDAP_co.paa",
+					"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_idap_CO.paa",
+					"\A3\soft_f_orange\Truck_02\Data\Truck_02_int_IDAP_co.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_CO.paa",
+					"lxws\vehicles_f_lxws\Truck_02\data\addons_white_co.paa"
 				};
-				factions[] = {CIV_IDAP_F};
+				factions[] = {};
 			};
-			class EAF
+			class Orange
 			{
-				displayName = $STR_A3_C_CfgVehicles_Offroad_01_civil_base_F_TextureSources_EAF0;
-				author = $STR_A3_A_AveryTheKitty;
 				textures[] =
 				{
-					"\A3\Soft_F_Enoch\Truck_02\Data\Truck_02_kab_EAF_CO.paa",
-					"\A3\Soft_F_Enoch\Truck_02\Data\Truck_02_kuz_EAF_CO.paa",
-					"\A3\Soft_F_Enoch\Truck_02\Data\Truck_02_int_EAF_CO.paa",
-					"\A3\Soft_F_Enoch\Truck_02\Data\Truck_02_chassis_EAF_CO.paa"
+					"\a3\soft_f_beta\Truck_02\data\truck_02_kab_co.paa",
+					"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_black_CO.paa",
+					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_CO.paa",
+					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
+				};
+				factions[] = {};
+			};
+			class Blue
+			{
+				textures[] =
+				{
+					"\a3\soft_f_beta\Truck_02\data\truck_02_kab_blue_CO.paa",
+					"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_yellow_CO.paa",
+					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_CO.paa",
+					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
+				};
+				factions[] = {};
+			};
+			class Black
+			{
+				textures[] =
+				{
+					"\lxws\vehicles_f_lxws\data\Truck_02\Truck_02_kab_black_CO.paa",
+					"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_black_CO.paa",
+					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_CO.paa",
+					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
+				};
+				factions[] = {};
+			};
+			class Daltgreen
+			{
+				textures[] =
+				{
+					"\lxws\vehicles_f_lxws\data\Truck_02\Truck_02_kab_daltgreen_CO.paa",
+					"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_olive_CO.paa",
+					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_CO.paa",
+					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
 				};
 				factions[] = {};
 			};
 			class Green
+			{
+				textures[] =
+				{
+					"\lxws\vehicles_f_lxws\data\Truck_02\Truck_02_kab_lime_CO.paa",
+					"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_olive_CO.paa",
+					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_CO.paa",
+					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
+				};
+				factions[] = {};
+			};
+			class Yellow
+			{
+				textures[] =
+				{
+					"\lxws\vehicles_f_lxws\data\Truck_02\Truck_02_kab_yellow_CO.paa",
+					"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_yellow_CO.paa",
+					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_CO.paa",
+					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
+				};
+				factions[] = {};
+			};
+			class Sand
+			{
+				textures[] =
+				{
+					"\lxws\vehicles_f_lxws\data\Truck_02\Truck_02_kab_sand_CO.paa",
+					"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_olive_CO.paa",
+					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_CO.paa",
+					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
+				};
+				factions[] = {};
+			};
+			class EAF
+			{
+				textures[] =
+				{
+					"\A3\soft_f_Enoch\Truck_02\Data\Truck_02_kab_EAF_co.paa",
+					"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_EAF_CO.paa",
+					"\A3\soft_f_Enoch\Truck_02\Data\Truck_02_int_EAF_co.paa",
+					"\A3\soft_f_Enoch\Truck_02\Data\Truck_02_chassis_EAF_co.paa",
+					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
+				};
+				factions[] = {};
+			};
+			class RUS
 			{
 				displayName = $STR_A3_TEXTURESOURCES_GREEN0;
 				author = $STR_A3_A_AveryTheKitty;
 				textures[] =
 				{
 					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_kab_RUkhk_CO.paa",
-					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_kuz_RUkhk_CO.paa",
+					"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_olive_CO.paa",
 					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_int_RUkhk_CO.paa",
-					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_chassis_RUkhk_CO.paa"
+					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_chassis_RUkhk_CO.paa",
+					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
 				};
 				factions[] = {};
 			};
 		};
 	};
-	class Truck_02_flatbed_base_F: Truck_02_viv_base_F
+	class Truck_02_box_base_lxWS: Truck_02_Base_F
 	{
-		model = "\A3_Aegis\Soft_F_Aegis\Truck_02\Truck_02_flatbed_F.p3d";
-		picture = "\A3_Aegis\Soft_F_Aegis\Truck_02\Data\UI\Truck_02_flatbed_CA.paa";
-		icon = "\A3_Aegis\Soft_F_Aegis\Truck_02\Data\UI\Map_Truck_02_flatbed_CA.paa";
-
-        /* Liveries */
-		class TextureSources
+      	hiddenSelections[] = {camo1, camo2, camo3, camo4, camo9};
+		class TextureSources: TextureSources
 		{
 			class Indep
 			{
-				displayName = $STR_A3_TEXTURESOURCES_INDEP0;
-				author = $STR_A3_A_AveryTheKitty;
 				textures[] =
 				{
-					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_kab_INDP_CO.paa",
-					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_kuz_INDP_CO.paa",
-					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_int_CO.paa",
-					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_INDP_CO.paa"
+					"\A3\soft_f_beta\Truck_02\Data\Truck_02_kab_indp_co.paa",
+					"\A3\soft_f_beta\Truck_02\Data\Truck_02_repair_indp_co.paa",
+					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_INDP_CO.paa",
+					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
 				};
 				factions[] = {};
 			};
 			class Opfor
 			{
-				displayName = $STR_A3_TEXTURESOURCES_OPFOR0;
-				author = $STR_A3_A_AveryTheKitty;
 				textures[] =
 				{
-					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_kab_OPFOR_CO.paa",
-					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_kuz_OPFOR_CO.paa",
-					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_int_CO.paa",
-					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_OPFOR_CO.paa"
+					"\A3\soft_f_beta\Truck_02\Data\Truck_02_kab_opfor_co.paa",
+					"\A3\soft_f_beta\Truck_02\Data\Truck_02_repair_opfor_co.paa",
+					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_OPFOR_CO.paa",
+					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
 				};
 				factions[] = {};
 			};
-			class Orange
-			{
-				displayName = $STR_A3_TEXTURESOURCES_ORANGE0;
-				author = $STR_A3_A_AveryTheKitty;
-				textures[] =
-				{
-					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_kab_CO.paa",
-					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_kuz_CO.paa",
-					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_int_CO.paa",
-					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_CO.paa"
-				};
-				factions[] = {CIV_F};
-			};
-			class Blue
-			{
-				displayName = $STR_A3_TEXTURESOURCES_BLUE0;
-				author = $STR_A3_A_AveryTheKitty;
-				textures[] =
-				{
-					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_kab_blue_CO.paa",
-					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_kuz_CO.paa",
-					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_int_CO.paa",
-					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_CO.paa"
-				};
-				factions[] = {CIV_F};
-			};
 			class GreenHex
 			{
-				displayName = $STR_A3_TEXTURESOURCES_GREENHEX0;
-				author = $STR_A3_A_AveryTheKitty;
 				textures[] =
 				{
 					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_kab_ghex_CO.paa",
-					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_kuz_ghex_CO.paa",
+					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_repair_ghex_CO.paa",
 					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_int_CO.paa",
-					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_chassis_ghex_CO.paa"
+					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_chassis_ghex_CO.paa",
+					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
+				};
+				factions[] = {};
+			};
+			class SFIA
+			{
+				textures[] =
+				{
+					"lxws\vehicles_f_lxws\data\Truck_02\Truck_02_kab_sfia_CO.paa",
+					"lxws\vehicles_f_lxws\data\Truck_02\zamak_repair_africa_co.paa",
+					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_OPFOR_CO.paa",
+					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
+				};
+				factions[] = {};
+			};
+			class Brown
+			{
+				textures[] =
+				{
+					"lxws\vehicles_f_lxws\data\Truck_02\Truck_02_kab_brown_CO.paa",
+					"lxws\vehicles_f_lxws\data\Truck_02\zamak_repair_brown_co.paa",
+					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_CO.paa",
+					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
+				};
+				factions[] = {};
+			};
+			class OrangeOrange
+			{
+				textures[] =
+				{
+					"\a3\soft_f_beta\Truck_02\data\truck_02_kab_co.paa",
+					"\a3\soft_f_beta\Truck_02\data\truck_02_repair_co.paa",
+					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_CO.paa",
+					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
+				};
+				factions[] = {};
+			};
+			class OrangeGreen
+			{
+				textures[] =
+				{
+					"\a3\soft_f_beta\Truck_02\data\truck_02_kab_co.paa",
+					"\a3\soft_f_beta\Truck_02\data\truck_02_repair_green_co.paa",
+					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_CO.paa",
+					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
+				};
+				factions[] = {};
+			};
+			class BlueOrange
+			{
+				textures[] =
+				{
+					"\a3\soft_f_beta\Truck_02\data\truck_02_kab_blue_co.paa",
+					"\a3\soft_f_beta\Truck_02\data\truck_02_repair_co.paa",
+					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_CO.paa",
+					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
+				};
+				factions[] = {};
+			};
+			class BlueGreen
+			{
+				textures[] =
+				{
+					"\a3\soft_f_beta\Truck_02\data\truck_02_kab_blue_co.paa",
+					"\a3\soft_f_beta\Truck_02\data\truck_02_repair_green_co.paa",
+					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_CO.paa",
+					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
 				};
 				factions[] = {};
 			};
 			class IDAP
 			{
-				displayName = $STR_A3_CfgFactionClasses_CIV_IDAP_F0;
-				author = $STR_A3_A_AveryTheKitty;
 				textures[] =
 				{
-					"\A3\Soft_F_Orange\Truck_02\Data\Truck_02_kab_IDAP_CO.paa",
-					"\A3\Soft_F_Orange\Truck_02\Data\Truck_02_kuz_IDAP_CO.paa",
-					"\A3\Soft_F_Orange\Truck_02\Data\Truck_02_int_IDAP_CO.paa",
-					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_CO.paa"
-				};
-				factions[] = {CIV_IDAP_F};
-			};
-			class EAF
-			{
-				displayName = $STR_A3_C_CfgVehicles_Offroad_01_civil_base_F_TextureSources_EAF0;
-				author = $STR_A3_A_AveryTheKitty;
-				textures[] =
-				{
-					"\A3\Soft_F_Enoch\Truck_02\Data\Truck_02_kab_EAF_CO.paa",
-					"\A3\Soft_F_Enoch\Truck_02\Data\Truck_02_kuz_EAF_CO.paa",
-					"\A3\Soft_F_Enoch\Truck_02\Data\Truck_02_int_EAF_CO.paa",
-					"\A3\Soft_F_Enoch\Truck_02\Data\Truck_02_chassis_EAF_CO.paa"
+					"\A3\soft_f_orange\Truck_02\Data\Truck_02_kab_IDAP_co.paa",
+					"lxws\vehicles_f_lxws\data\Truck_02\zamak_repair_idap_co.paa",
+					"\A3\soft_f_orange\Truck_02\Data\Truck_02_int_IDAP_co.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_CO.paa",
+					"lxws\vehicles_f_lxws\Truck_02\data\addons_white_co.paa"
 				};
 				factions[] = {};
 			};
-			class Green
+			class Daltgreen
+			{
+				textures[] =
+				{
+					"\lxws\vehicles_f_lxws\data\Truck_02\Truck_02_kab_daltgreen_CO.paa",
+					"\lxws\vehicles_f_lxws\data\Truck_02\Truck_02_repair_daltgreen_CO.paa",
+					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_CO.paa",
+					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
+				};
+				factions[] = {};
+			};
+			class EAF
+			{
+				textures[] =
+				{
+					"\A3\soft_f_Enoch\Truck_02\Data\Truck_02_kab_EAF_co.paa",
+					"\A3\soft_f_Enoch\Truck_02\Data\Truck_02_repair_EAF_co.paa",
+					"\A3\soft_f_Enoch\Truck_02\Data\Truck_02_int_EAF_co.paa",
+					"\A3\soft_f_Enoch\Truck_02\Data\Truck_02_chassis_EAF_co.paa",
+					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
+				};
+				factions[] = {};
+			};
+			class RUS
 			{
 				displayName = $STR_A3_TEXTURESOURCES_GREEN0;
 				author = $STR_A3_A_AveryTheKitty;
 				textures[] =
 				{
 					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_kab_RUkhk_CO.paa",
-					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_kuz_RUkhk_CO.paa",
+					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_repair_RUkhk_CO.paa",
 					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_int_RUkhk_CO.paa",
-					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_chassis_RUkhk_CO.paa"
+					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_chassis_RUkhk_CO.paa",
+					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
+				};
+				factions[] = {};
+			};
+		};
+	};
+	class Truck_02_Ammo_base_lxWS: Truck_02_Base_F
+	{
+      	hiddenSelections[] = {camo1, camo2, camo3, camo4, camo9};
+		class TextureSources: TextureSources
+		{
+			class Indep
+			{
+				textures[] =
+				{
+					"\A3\soft_f_beta\Truck_02\Data\Truck_02_kab_indp_co.paa",
+					"\A3\soft_f_beta\Truck_02\Data\Truck_02_repair_indp_co.paa",
+					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_INDP_CO.paa",
+					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
+				};
+				factions[] = {};
+			};
+			class Opfor
+			{
+				textures[] =
+				{
+					"\A3\soft_f_beta\Truck_02\Data\Truck_02_kab_opfor_co.paa",
+					"\A3\soft_f_beta\Truck_02\Data\Truck_02_repair_OPFOR_co.paa",
+					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_OPFOR_CO.paa",
+					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
+				};
+				factions[] = {};
+			};
+			class GreenHex
+			{
+				textures[] =
+				{
+					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_kab_ghex_CO.paa",
+					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_repair_ghex_CO.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_int_CO.paa",
+					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_chassis_ghex_CO.paa",
+					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
+				};
+				factions[] = {};
+			};
+			class SFIA
+			{
+				textures[] =
+				{
+					"lxws\vehicles_f_lxws\data\Truck_02\Truck_02_kab_sfia_CO.paa",
+					"lxws\vehicles_f_lxws\data\Truck_02\zamak_repair_africa_co.paa",
+					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_OPFOR_CO.paa",
+               		"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
+				};
+				factions[] = {};
+			};
+			class EAF
+			{
+				textures[] =
+				{
+					"\A3\soft_f_Enoch\Truck_02\Data\Truck_02_kab_EAF_co.paa",
+					"\A3\soft_f_Enoch\Truck_02\Data\Truck_02_repair_EAF_co.paa",
+					"\A3\soft_f_Enoch\Truck_02\Data\Truck_02_int_EAF_co.paa",
+					"\A3\soft_f_Enoch\Truck_02\Data\Truck_02_chassis_EAF_co.paa",
+					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
+				};
+				factions[] = {};
+			};
+			class RUS
+			{
+				displayName = $STR_A3_TEXTURESOURCES_GREEN0;
+				author = $STR_A3_A_AveryTheKitty;
+				textures[] =
+				{
+					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_kab_RUkhk_CO.paa",
+					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_repair_RUkhk_CO.paa",
+					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_int_RUkhk_CO.paa",
+					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_chassis_RUkhk_CO.paa",
+					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
+				};
+				factions[] = {};
+			};
+		};
+	};
+	class Truck_02_flatbed_base_lxWS: Truck_02_cargo_base_lxWS{};
+	class Truck_02_aa_base_lxWS: Truck_02_Base_F
+	{
+		hiddenSelections[] = {camo1, camo2, camo3, camo4, camo5, camo6, camo7, camo8, camo9};
+		hiddenSelectionsTextures[] = 
+		{
+			"lxws\vehicles_f_lxws\data\Truck_02\Truck_02_kab_sfia_CO.paa",
+			"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_olive_CO.paa",
+			"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
+			"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_OPFOR_CO.paa",
+			"lxws\vehicles_f_lxws\zu23\data\zu23_base_sfia_co.paa",
+			"lxws\vehicles_f_lxws\zu23\data\zu23_sfia_co.paa",
+			"lxws\vehicles_f_lxws\zu23\data\zu23_addon_1_sfia_co.paa",
+			"lxws\vehicles_f_lxws\zu23\data\zu23_addon_2_sfia_co.paa"
+		};
+		class TextureSources
+		{
+			class Indep
+			{
+				textures[] =
+				{
+					"\A3\soft_f_beta\Truck_02\Data\Truck_02_kab_indp_co.paa",
+					"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_olive_CO.paa",
+					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_INDP_CO.paa",
+					"lxws\vehicles_f_lxws\zu23\data\zu23_base_green_co.paa",
+					"lxws\vehicles_f_lxws\zu23\data\zu23_green_co.paa",
+					"lxws\vehicles_f_lxws\zu23\data\zu23_addon_1_green_co.paa",
+					"lxws\vehicles_f_lxws\zu23\data\zu23_addon_2_green_co.paa",
+					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
+				};
+				factions[] = {};
+			};
+			class Opfor
+			{
+				textures[] =
+				{
+					"\A3\soft_f_beta\Truck_02\Data\Truck_02_kab_opfor_co.paa",
+					"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_black_CO.paa",
+					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_OPFOR_CO.paa",
+					"lxws\vehicles_f_lxws\zu23\data\zu23_base_green_co.paa",
+					"lxws\vehicles_f_lxws\zu23\data\zu23_green_co.paa",
+					"lxws\vehicles_f_lxws\zu23\data\zu23_addon_1_green_co.paa",
+					"lxws\vehicles_f_lxws\zu23\data\zu23_addon_2_green_co.paa",
+					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
+				};
+				factions[] = {};
+			};
+			class SFIA
+			{
+				textures[] =
+				{
+					"lxws\vehicles_f_lxws\data\Truck_02\Truck_02_kab_sfia_CO.paa",
+					"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_olive_CO.paa",
+					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_OPFOR_CO.paa",
+					"lxws\vehicles_f_lxws\zu23\data\zu23_base_sfia_co.paa",
+					"lxws\vehicles_f_lxws\zu23\data\zu23_sfia_co.paa",
+					"lxws\vehicles_f_lxws\zu23\data\zu23_addon_1_sfia_co.paa",
+					"lxws\vehicles_f_lxws\zu23\data\zu23_addon_2_sfia_co.paa",
+					"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
+				};
+				factions[] = {};
+			};
+			class Brown
+			{
+				textures[] = 
+				{
+               		"lxws\vehicles_f_lxws\data\Truck_02\Truck_02_kab_brown_CO.paa",
+					"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_olive_CO.paa",
+					"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
+					"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_CO.paa",
+					"lxws\vehicles_f_lxws\zu23\data\zu23_base_green_co.paa",
+					"lxws\vehicles_f_lxws\zu23\data\zu23_green_co.paa",
+					"lxws\vehicles_f_lxws\zu23\data\zu23_addon_1_green_co.paa",
+					"lxws\vehicles_f_lxws\zu23\data\zu23_addon_2_green_co.paa",
+               		"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
+				};
+				factions[] = {};
+			};
+			class RUS
+			{
+				displayName = $STR_A3_TEXTURESOURCES_GREEN0;
+				author = $STR_A3_A_AveryTheKitty;
+				textures[] =
+				{
+					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_kab_RUkhk_CO.paa",
+					"\lxws\vehicles_f_lxws\Truck_02\data\truck_02_cargo_olive_CO.paa",
+					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_int_RUkhk_CO.paa",
+					"\A3_Aegis\Soft_F_Aegis\Truck_02\Data\Truck_02_chassis_RUkhk_CO.paa",
+					"lxws\vehicles_f_lxws\zu23\data\zu23_base_green_co.paa",
+					"lxws\vehicles_f_lxws\zu23\data\zu23_green_co.paa",
+					"lxws\vehicles_f_lxws\zu23\data\zu23_addon_1_green_co.paa",
+					"lxws\vehicles_f_lxws\zu23\data\zu23_addon_2_green_co.paa",
+               		"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
 				};
 				factions[] = {};
 			};
@@ -852,6 +1216,9 @@ class CfgVehicles
     #include "cfgIndep.hpp" // AAF
     #include "cfgCivil.hpp" // Civilians
     #include "cfgIDAP.hpp"  // IDAP
-    #include "cfgEAF.hpp"   // LDF
     #include "cfgRUS.hpp"   // Russia
+	
+    #include "ION.h"
+    #include "SFIA.h"
+	#include "cargo_and_flatbed.h"
 };
