@@ -2457,7 +2457,7 @@
 					<Japanese>レイヴンヘルメット</Japanese>
 					<Turkish>Avcı Miğfer</Turkish>
 				</Key>
-				<Key ID="STR_A3_A_CfgWeapons_H_HelmetSpecter_cover_UN_F0">
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetSpecter_cover_UNO_F0">
 					<Original>Raven Helmet (UN)</Original>
 					<Chinese>Raven 頭盔 (UN)</Chinese>
 					<French>Casque Raven (UN)</French>
@@ -3868,7 +3868,7 @@
 					<Japanese>ベレー帽[AAF]</Japanese>
 					<Turkish>Bere [AAF]</Turkish>
 				</Key>
-				<Key ID="STR_A3_A_CfgWeapons_H_Beret_UN_01_F0">
+				<Key ID="STR_A3_A_CfgWeapons_H_Beret_UNO_01_F0">
 					<Original>Beret (UN)</Original>
 					<Chinese>貝雷帽（UN）</Chinese>
 					<French>Béret (UN)</French>
@@ -4259,6 +4259,23 @@
 					<Japanese>ヘッドセット（砂色）</Japanese>
 					<Turkish>Mik. Kulaklık (Kum)</Turkish>
 				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_lxWS_H_PASGT_goggles_green_F0">
+					<Original>Basic Helmet (Goggles, Green)</Original>
+					<Chinese>Basic Helmet (Goggles, Green)</Chinese>
+					<French>Basic Helmet (Goggles, Green)</French>
+					<Spanish>Basic Helmet (Goggles, Green)</Spanish>
+					<Italian>Basic Helmet (Goggles, Green)</Italian>
+					<Polish>Basic Helmet (Goggles, Green)</Polish>
+					<Russian>Basic Helmet (Goggles, Green)</Russian>
+					<German>Basic Helmet (Goggles, Green)</German>
+					<Czech>Basic Helmet (Goggles, Green)</Czech>
+					<English>Basic Helmet (Goggles, Green)</English>
+					<Portuguese>Basic Helmet (Goggles, Green)</Portuguese>
+					<Korean>Basic Helmet (Goggles, Green)</Korean>
+					<Chinesesimp>Basic Helmet (Goggles, Green)</Chinesesimp>
+					<Japanese>Basic Helmet (Goggles, Green)</Japanese>
+					<Turkish>Basic Helmet (Goggles, Green)</Turkish>
+				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_HeadSet_olive_F0">
 					<Original>Headset (Olive)</Original>
 					<Chinese>頭戴式耳機（橄欖色）</Chinese>
@@ -4310,7 +4327,7 @@
 					<Japanese>基本型ヘルメット（砂）</Japanese>
 					<Turkish>Temel Kask (Kum Rengi)</Turkish>
 				</Key>
-				<Key ID="STR_A3_A_CfgWeapons_H_PASGT_basic_UN_F0">
+				<Key ID="STR_A3_A_CfgWeapons_H_PASGT_basic_UNO_F0">
 					<Original>Basic Helmet (UN)</Original>
 					<Chinese>基本頭盔（UN）</Chinese>
 					<French>Casque de base (UN)</French>
@@ -4326,6 +4343,23 @@
 					<Chinesesimp>基本头盔（联合国组织）</Chinesesimp>
 					<Japanese>基本型ヘルメット（UN）</Japanese>
 					<Turkish>Temel Kask (UN)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_PASGT_goggles_UNO_F0">
+					<Original>Basic Helmet (Goggles, UN)</Original>
+					<Chinese>基本頭盔（Goggles, UN）</Chinese>
+					<French>Casque de base (Goggles, UN)</French>
+					<Spanish>Casco básico (Goggles, ONU)</Spanish>
+					<Italian>Elmetto base (Goggles, Nazioni Unite)</Italian>
+					<Polish>Zwykły hełm (Goggles, UN)</Polish>
+					<Russian>Обычный шлем (Goggles, ООН)</Russian>
+					<German>Standard-Helm (Goggles, UN)</German>
+					<Czech>Základní helma (Goggles, UN)</Czech>
+					<English>Basic Helmet (Goggles, UN)</English>
+					<Portuguese>Capacete básico (Goggles, ONU)</Portuguese>
+					<Korean>기본 헬멧(Goggles, UN)</Korean>
+					<Chinesesimp>基本头盔（Goggles, 联合国组织）</Chinesesimp>
+					<Japanese>基本型ヘルメット（Goggles, UN）</Japanese>
+					<Turkish>Temel Kask (Goggles, UN)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_PASGT_neckprot_black_F0">
 					<Original>Basic Helmet (Black, Neck Protection)</Original>
