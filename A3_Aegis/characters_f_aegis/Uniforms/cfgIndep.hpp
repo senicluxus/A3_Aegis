@@ -18,7 +18,7 @@ class U_I_Uniform_01_tanktop_F: Uniform_Base
 	author = $STR_A3_A_Ravenholme;
 	scope = public;
 	displayName = $STR_A3_A_CfgWeapons_U_I_Uniform_01_tanktop_F0;
-	//picture = "\A3_Aegis\Characters_F_Aegis\Uniforms\Data\UI\icon_U_I_Uniform_01_tanktop_CA.paa";
+	picture = "\A3_Aegis\Characters_F_Aegis\Uniforms\Data\UI\icon_U_I_Uniform_01_tanktop_F_ca.paa";
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 	hiddenSelections[] = {camo};
 	hiddenSelectionsTextures[] = {"\A3\Characters_F\Common\Suitpacks\Data\suitpack_soldier_indep_CO.paa"};
