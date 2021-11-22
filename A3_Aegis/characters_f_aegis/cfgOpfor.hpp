@@ -5312,7 +5312,10 @@ class O_A_soldier_base_F: O_officer_F
     identityTypes[] =
     {
         LanguageFRE_F,
+        Head_TK,
         Head_African,
+        lxWS_Head_African,
+        G_IRAN_officer,
         G_IRAN_african
     };
     hiddenSelectionsTextures[] = {"\A3\Characters_F\OPFOR\Data\Officer_noInsignia_hex_CO.paa"};
@@ -5329,7 +5332,7 @@ class O_A_soldier_base_F: O_officer_F
         tex[] = {};
     };
     faction = OPF_A_F;
-    genericNames = AfroMen;
+    genericNames = lxWS_WSaharaMen;
 };
 class O_A_soldier_A_F: O_A_soldier_base_F
 {
@@ -6121,4 +6124,41 @@ class O_A_RadioOperator_F: O_A_soldier_F
         mag_2(SmokeShell)
     };
     role = RadioOperator;
+};
+
+/* Argana - Conscripts (West Sahara) */
+class O_A_officer_lxWS : O_officer_F
+{
+    faction = OPF_A_F;
+    editorSubcategory = EdSubcat_Personnel_Conscripts;
+};
+class O_A_Soldier_TL_lxWS : O_Soldier_TL_F
+{
+    faction = OPF_A_F;
+    editorSubcategory = EdSubcat_Personnel_Conscripts;
+};
+class O_A_Soldier_lxWS : O_Soldier_F
+{
+    faction = OPF_A_F;
+    editorSubcategory = EdSubcat_Personnel_Conscripts;
+};
+class O_A_Soldier_GL_lxWS : O_Soldier_GL_F
+{
+    faction = OPF_A_F;
+    editorSubcategory = EdSubcat_Personnel_Conscripts;
+};
+class O_A_medic_lxWS : O_medic_F
+{
+    faction = OPF_A_F;
+    editorSubcategory = EdSubcat_Personnel_Conscripts;
+};
+class O_A_crew_lxWS : O_crew_F
+{
+    faction = OPF_A_F;
+    editorSubcategory = EdSubcat_Personnel_Conscripts;
+};
+class O_A_Soldier_AR_lxWS : O_Soldier_AR_F
+{
+    faction = OPF_A_F;
+    editorSubcategory = EdSubcat_Personnel_Conscripts;
 };
