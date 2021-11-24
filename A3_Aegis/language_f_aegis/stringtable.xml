@@ -2148,21 +2148,21 @@
 					<Turkish>Savaş Gözlüğü (Siyah)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgGlasses_G_O_R_Diving0">
-					<Original>Diving Goggles [Russia]</Original>
+					<Original>Diving Goggles [RU]</Original>
 					<Chinese>潛水目鏡（俄羅斯）</Chinese>
-					<French>Lunettes de plongée [Russie]</French>
-					<Spanish>Gafas de buceo [Rusia]</Spanish>
-					<Italian>Occhiali da immersione [Russia]</Italian>
-					<Polish>Gogle do nurkowania [rosyjska]</Polish>
-					<Russian>Очки для ныряния [российское]</Russian>
-					<German>Taucherbrille [Russland]</German>
-					<Czech>Potápěčské brýle [ruská]</Czech>
-					<English>Diving Goggles [Russia]</English>
-					<Portuguese>Óculos de mergulho [russo]</Portuguese>
+					<French>Lunettes de plongée [RU]</French>
+					<Spanish>Gafas de buceo [RU]</Spanish>
+					<Italian>Occhiali da immersione [RU]</Italian>
+					<Polish>Gogle do nurkowania [RU]</Polish>
+					<Russian>Очки для ныряния [RU]</Russian>
+					<German>Taucherbrille [RU]</German>
+					<Czech>Potápěčské brýle [RU]</Czech>
+					<English>Diving Goggles [RU]</English>
+					<Portuguese>Óculos de mergulho [RU]</Portuguese>
 					<Korean>잠수안경[러시아]</Korean>
 					<Chinesesimp>潜水护目镜 [俄罗斯]</Chinesesimp>
 					<Japanese>ダイビングゴーグル[ロシア]</Japanese>
-					<Turkish>Dalış Gözlüğü [Rusya]</Turkish>
+					<Turkish>Dalış Gözlüğü [RU]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgGlasses_G_Shemag_red0">
 					<Original>Shemag (Red)</Original>
@@ -4652,55 +4652,55 @@
 					<Turkish>Hafif Savaş Miğferi (Ağaçlık, Gelişmiş)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_PilotHelmetFighter_O_R0">
-					<Original>Pilot Helmet [Russia]</Original>
+					<Original>Pilot Helmet [RU]</Original>
 					<Chinese>飛行員頭盔（俄羅斯）</Chinese>
-					<French>Casque de pilote [Russie]</French>
-					<Spanish>Casco de piloto de helicóptero [Rusia]</Spanish>
-					<Italian>Casco da pilota [Russia]</Italian>
-					<Polish>Hełm pilota [rosyjska]</Polish>
-					<Russian>Летный шлем [российское]</Russian>
-					<German>Helipilotenhelm [Russland]</German>
-					<Czech>Přilba pilota [ruská]</Czech>
-					<English>Pilot Helmet [Russia]</English>
-					<Portuguese>Capacete de piloto [russo]</Portuguese>
+					<French>Casque de pilote [RU]</French>
+					<Spanish>Casco de piloto de helicóptero [RU]</Spanish>
+					<Italian>Casco da pilota [RU]</Italian>
+					<Polish>Hełm pilota [RU]</Polish>
+					<Russian>Летный шлем [RU]</Russian>
+					<German>Helipilotenhelm [RU]</German>
+					<Czech>Přilba pilota [RU]</Czech>
+					<English>Pilot Helmet [RU]</English>
+					<Portuguese>Capacete de piloto [RU]</Portuguese>
 					<Korean>조종사 헬멧[러시아]</Korean>
 					<Chinesesimp>飞行员头盔 [俄罗斯]</Chinesesimp>
 					<Japanese>パイロットヘルメット[ロシア]</Japanese>
-					<Turkish>Pilot Kaskı [Rusya]</Turkish>
+					<Turkish>Pilot Kaskı [RU]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_CrewHelmetHeli_O_R0">
-					<Original>Heli Crew Helmet [Russia]</Original>
+					<Original>Heli Crew Helmet [RU]</Original>
 					<Chinese>直升機隊員頭盔（俄羅斯）</Chinese>
-					<French>Casque d'équipage d'hélico [Russie]</French>
-					<Spanish>Casco de tripulación de helicóptero [Rusia]</Spanish>
-					<Italian>Casco equipaggio elicottero [Russia]</Italian>
-					<Polish>Hełm załogi śmigłowca [rosyjska]</Polish>
-					<Russian>Шлем члена экипажа вертолёта [российское]</Russian>
-					<German>Helicrew-Helm [Russland]</German>
-					<Czech>Přilba posádky helikoptéry [ruská]</Czech>
-					<English>Heli Crew Helmet [Russia]</English>
-					<Portuguese>Capacete de tripulação de helicóptero [russo]</Portuguese>
+					<French>Casque d'équipage d'hélico [RU]</French>
+					<Spanish>Casco de tripulación de helicóptero [RU]</Spanish>
+					<Italian>Casco equipaggio elicottero [RU]</Italian>
+					<Polish>Hełm załogi śmigłowca [RU]</Polish>
+					<Russian>Шлем члена экипажа вертолёта [RU]</Russian>
+					<German>Helicrew-Helm [RU]</German>
+					<Czech>Přilba posádky helikoptéry [RU]</Czech>
+					<English>Heli Crew Helmet [RU]</English>
+					<Portuguese>Capacete de tripulação de helicóptero [RU]</Portuguese>
 					<Korean>헬기 승무원 헬멧[러시아]</Korean>
 					<Chinesesimp>直升机机组人员头盔 [俄罗斯]</Chinesesimp>
 					<Japanese>ヘリ乗員ヘルメット[ロシア]</Japanese>
-					<Turkish>Helikopter Mürettebat Kaskı [Rusya]</Turkish>
+					<Turkish>Helikopter Mürettebat Kaskı [RU]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_PilotHelmetHeli_O_R0">
-					<Original>Heli Pilot Helmet [Russia]</Original>
+					<Original>Heli Pilot Helmet [RU]</Original>
 					<Chinese>直升機飛行員頭盔（俄羅斯）</Chinese>
-					<French>Casque de pilote d'hélico [Russie]</French>
-					<Spanish>Casco de piloto de helicóptero [Rusia]</Spanish>
-					<Italian>Casco da elicotterista [Russia]</Italian>
-					<Polish>Hełm pilota śmigłowca [rosyjska]</Polish>
-					<Russian>Шлем пилота вертолёта [российское]</Russian>
-					<German>Helipilotenhelm [Russland]</German>
-					<Czech>Přilba pilota helikoptéry [ruská]</Czech>
-					<English>Heli Pilot Helmet [Russia]</English>
-					<Portuguese>Capacete de piloto de helicóptero [russo]</Portuguese>
+					<French>Casque de pilote d'hélico [RU]</French>
+					<Spanish>Casco de piloto de helicóptero [RU]</Spanish>
+					<Italian>Casco da elicotterista [RU]</Italian>
+					<Polish>Hełm pilota śmigłowca [RU]</Polish>
+					<Russian>Шлем пилота вертолёта [RU]</Russian>
+					<German>Helipilotenhelm [RU]</German>
+					<Czech>Přilba pilota helikoptéry [RU]</Czech>
+					<English>Heli Pilot Helmet [RU]</English>
+					<Portuguese>Capacete de piloto de helicóptero [RU]</Portuguese>
 					<Korean>헬기 조종사 헬멧[러시아]</Korean>
 					<Chinesesimp>直升机飞行员头盔 [俄罗斯]</Chinesesimp>
 					<Japanese>ヘリパイロットヘルメット[ロシア]</Japanese>
-					<Turkish>Helikopter Pilotu Kaskı [Rusya]</Turkish>
+					<Turkish>Helikopter Pilotu Kaskı [RU]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_O_Helmet_canvas_ocamo0">
 					<Original>Modular Helmet (Hex)</Original>
@@ -5521,123 +5521,123 @@
 					<Turkish>Full Ghillie (Ağaçlık) [NATO]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_O_R_CombatUniform_taiga_F0">
-					<Original>Fatigues (Taiga) [Russia]</Original>
-					<Chinese>戰鬥服（Taiga）（俄國）</Chinese>
-					<French>Treillis (taïga) [Russie]</French>
-					<Spanish>Traje militar (taiga) [Rusia]</Spanish>
-					<Italian>Fatigues (taiga) [Russia]</Italian>
-					<Polish>Mundur (tajga) [Rosja]</Polish>
-					<Russian>Форма (таежная) [Россия]</Russian>
-					<German>Militäranzug (Taiga) [Russland]</German>
-					<Czech>Uniforma (tajga) [Rusko]</Czech>
-					<English>Fatigues (Taiga) [Russia]</English>
-					<Portuguese>Fardas (taiga) [Rússia]</Portuguese>
+					<Original>Fatigues [RU] (Taiga)</Original>
+					<Chinese>戰鬥服（俄國）（Taiga）</Chinese>
+					<French>Treillis [RU] (taïga)</French>
+					<Spanish>Traje militar [RU] (taiga)</Spanish>
+					<Italian>Fatigues [RU] (taiga)</Italian>
+					<Polish>Mundur [RU] (tajga)</Polish>
+					<Russian>Форма [RU] (таежная)</Russian>
+					<German>Militäranzug [RU] (Taiga)</German>
+					<Czech>Uniforma [RU] (tajga)</Czech>
+					<English>Fatigues [RU] (Taiga)</English>
+					<Portuguese>Fardas [RU] (taiga)</Portuguese>
 					<Korean>전투복(침엽수림)[러시아]</Korean>
 					<Chinesesimp>军装（针叶林）[俄国]</Chinesesimp>
 					<Japanese>服（タイガ）[ロシア]</Japanese>
-					<Turkish>Asker Kıyafeti (Tayga) [Rusya]</Turkish>
+					<Turkish>Asker Kıyafeti [RU] (Tayga)</Turkish>
 				</Key>
 				<Key ID="STR_A3_O_CfgWeapons_U_O_R_CombatUniform_tshirt_taiga_F0">
-					<Original>Fatigues (Taiga, Tee) [Russia]</Original>
-					<Chinese>戰鬥服（Taiga, Tee）（俄國）</Chinese>
-					<French>Treillis (taïga, Tee) [Russie]</French>
-					<Spanish>Traje militar (taiga, Tee) [Rusia]</Spanish>
-					<Italian>Fatigues (taiga, Tee) [Russia]</Italian>
-					<Polish>Mundur (tajga, Tee) [Rosja]</Polish>
-					<Russian>Форма (таежная, Tee) [Россия]</Russian>
-					<German>Militäranzug (Taiga, Tee) [Russland]</German>
-					<Czech>Uniforma (tajga, Tee) [Rusko]</Czech>
-					<English>Fatigues (Taiga, Tee) [Russia]</English>
-					<Portuguese>Fardas (taiga, Tee) [Rússia]</Portuguese>
+					<Original>Fatigues [RU] (Taiga, Tee)</Original>
+					<Chinese>戰鬥服（俄國）（Taiga, Tee）</Chinese>
+					<French>Treillis [RU] (taïga, Tee)</French>
+					<Spanish>Traje militar [RU] (taiga, Tee)</Spanish>
+					<Italian>Fatigues [RU] (taiga, Tee)</Italian>
+					<Polish>Mundur [RU] (tajga, Tee)</Polish>
+					<Russian>Форма [RU] (таежная, Tee)</Russian>
+					<German>Militäranzug [RU] (Taiga, Tee)</German>
+					<Czech>Uniforma [RU] (tajga, Tee)</Czech>
+					<English>Fatigues [RU] (Taiga, Tee)</English>
+					<Portuguese>Fardas [RU] (taiga, Tee)</Portuguese>
 					<Korean>전투복(침엽수림)[러시아, Tee]</Korean>
 					<Chinesesimp>军装（针叶林）[俄国, Tee]</Chinesesimp>
 					<Japanese>服（タイガ）[ロシア, Tee]</Japanese>
-					<Turkish>Asker Kıyafeti (Tayga, Tee) [Rusya]</Turkish>
+					<Turkish>Asker Kıyafeti [RU] (Tayga, Tee)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_O_R_GhillieSuit_taiga_F0">
-					<Original>Ghillie Suit (Taiga) [Russia]</Original>
-					<Chinese>偽裝服（Taiga）（俄國）</Chinese>
-					<French>Combinaison de camouflage (taïga) [Russie]</French>
-					<Spanish>Traje de camuflaje (taiga) [Rusia]</Spanish>
-					<Italian>Mimetica da cecchino (taiga) [Russia]</Italian>
-					<Polish>Ghillie (tajga) [Rosja]</Polish>
-					<Russian>Маскировочный костюм (таежная) [Россия]</Russian>
-					<German>Ghillie-Anzug (Taiga) [Russland]</German>
-					<Czech>Hejkal (tajga) [Rusko]</Czech>
-					<English>Ghillie Suit (Taiga) [Russia]</English>
-					<Portuguese>Traje ghillie (taiga) [Rússia]</Portuguese>
+					<Original>Ghillie Suit [RU] (Taiga)</Original>
+					<Chinese>偽裝服（俄國）（Taiga）</Chinese>
+					<French>Combinaison de camouflage [RU] (taïga)</French>
+					<Spanish>Traje de camuflaje [RU] (taiga)</Spanish>
+					<Italian>Mimetica da cecchino [RU] (taiga)</Italian>
+					<Polish>Ghillie [RU] (tajga)</Polish>
+					<Russian>Маскировочный костюм [RU] (таежная)</Russian>
+					<German>Ghillie-Anzug [RU] (Taiga)</German>
+					<Czech>Hejkal [RU] (tajga)</Czech>
+					<English>Ghillie Suit [RU] (Taiga)</English>
+					<Portuguese>Traje ghillie [RU] (taiga)</Portuguese>
 					<Korean>위장복(침엽수림)[러시아]</Korean>
 					<Chinesesimp>吉利服（针叶林）[俄国]</Chinesesimp>
 					<Japanese>ギリースーツ（タイガ）[ロシア]</Japanese>
-					<Turkish>Ghillie Kostümü (Tayga) [Rusya]</Turkish>
+					<Turkish>Ghillie Kostümü [RU] (Tayga)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_O_R_PilotCoveralls0">
-					<Original>Pilot Coveralls [Russia]</Original>
+					<Original>Pilot Coveralls [RU]</Original>
 					<Chinese>飛行員連身服（俄國）</Chinese>
-					<French>Combinaison de pilote [Russie]</French>
-					<Spanish>Mono de piloto [Rusia]</Spanish>
-					<Italian>Tuta da pilota [Russia]</Italian>
-					<Polish>Mundur pilota [Rosja]</Polish>
-					<Russian>Летный комбинезон [Россия]</Russian>
-					<German>Pilotenoverall [Russland]</German>
-					<Czech>Pilotní kombinéza [Rusko]</Czech>
-					<English>Pilot Coveralls [Russia]</English>
-					<Portuguese>Macacão de piloto [Rússia]</Portuguese>
+					<French>Combinaison de pilote [RU]</French>
+					<Spanish>Mono de piloto [RU]</Spanish>
+					<Italian>Tuta da pilota [RU]</Italian>
+					<Polish>Mundur pilota [RU]</Polish>
+					<Russian>Летный комбинезон [RU]</Russian>
+					<German>Pilotenoverall [RU]</German>
+					<Czech>Pilotní kombinéza [RU]</Czech>
+					<English>Pilot Coveralls [RU]</English>
+					<Portuguese>Macacão de piloto [RU]</Portuguese>
 					<Korean>조종사 비행복[러시아]</Korean>
 					<Chinesesimp>飞行员服 [俄国]</Chinesesimp>
 					<Japanese>パイロットカバーオール[ロシア]</Japanese>
-					<Turkish>Pilot Tulumu [Rusya]</Turkish>
+					<Turkish>Pilot Tulumu [RU]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_O_R_Wetsuit0">
-					<Original>Wetsuit [Russia]</Original>
+					<Original>Wetsuit [RU]</Original>
 					<Chinese>潛水衣（俄國）</Chinese>
-					<French>Combinaison de plongée [Russie]</French>
-					<Spanish>Traje de buzo [Rusia]</Spanish>
-					<Italian>Muta [Russia]</Italian>
-					<Polish>Pianka [Rosja]</Polish>
-					<Russian>Гидрокостюм [Россия]</Russian>
-					<German>Taucheranzug [Russland]</German>
-					<Czech>Potápěčský oblek [Rusko]</Czech>
-					<English>Wetsuit [Russia]</English>
-					<Portuguese>Roupa de Mergulho [Rússia]</Portuguese>
+					<French>Combinaison de plongée [RU]</French>
+					<Spanish>Traje de buzo [RU]</Spanish>
+					<Italian>Muta [RU]</Italian>
+					<Polish>Pianka [RU]</Polish>
+					<Russian>Гидрокостюм [RU]</Russian>
+					<German>Taucheranzug [RU]</German>
+					<Czech>Potápěčský oblek [RU]</Czech>
+					<English>Wetsuit [RU]</English>
+					<Portuguese>Roupa de Mergulho [RU]</Portuguese>
 					<Korean>잠수복[러시아]</Korean>
 					<Chinesesimp>潜水服 [俄国]</Chinesesimp>
 					<Japanese>ウェットスーツ[ロシア]</Japanese>
-					<Turkish>Dalış Giysisi [Rusya]</Turkish>
+					<Turkish>Dalış Giysisi [RU]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_O_R_FullGhillie_wdl_F0">
-					<Original>Full Ghillie (Woodland) [Russia]</Original>
-					<Chinese>全套偽裝服（森林）（俄國）</Chinese>
-					<French>Camouflage complet (Boisé) [Russie]</French>
-					<Spanish>Camuflaje completo (bosque) [Rusia]</Spanish>
-					<Italian>Ghillie completa (boschi) [Russia]</Italian>
-					<Polish>Pełny Ghillie (leśny) [Rosja]</Polish>
-					<Russian>Маскировочный костюм (лес) [Россия]</Russian>
-					<German>Vollständiger Ghillie-Anzug (Wald) [Russland]</German>
-					<Czech>Kompletní hejkal (woodland) [Rusko]</Czech>
-					<English>Full Ghillie (Woodland) [Russia]</English>
-					<Portuguese>Ghillie completo (Floresta) [Rússia]</Portuguese>
+					<Original>Full Ghillie [RU] (Woodland)</Original>
+					<Chinese>全套偽裝服（俄國）（森林）</Chinese>
+					<French>Camouflage complet [RU] (Boisé)</French>
+					<Spanish>Camuflaje completo [RU] (bosque)</Spanish>
+					<Italian>Ghillie completa [RU] (boschi)</Italian>
+					<Polish>Pełny Ghillie [RU] (leśny)</Polish>
+					<Russian>Маскировочный костюм [RU] (лес)</Russian>
+					<German>Vollständiger Ghillie-Anzug [RU] (Wald)</German>
+					<Czech>Kompletní hejkal [RU] (woodland)</Czech>
+					<English>Full Ghillie [RU] (Woodland)</English>
+					<Portuguese>Ghillie completo [RU] (Floresta)</Portuguese>
 					<Korean>전신 위장복 (산악) [러시아]</Korean>
 					<Chinesesimp>吉利套装（林地）[俄国]</Chinesesimp>
 					<Japanese>フル・ギーリー（森林）[ロシア]</Japanese>
-					<Turkish>Full Ghillie (Ağaçlık) [Rusya]</Turkish>
+					<Turkish>Full Ghillie [RU] (Ağaçlık)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_O_R_OfficerUniform_taiga_F0">
-					<Original>Officer Fatigues (Taiga) [Russia]</Original>
-					<Chinese>軍官戰鬥服（Taiga）（俄國）</Chinese>
-					<French>Treillis d'officier (taïga) [Russie]</French>
-					<Spanish>Traje de oficial (taiga) [Rusia]</Spanish>
-					<Italian>Uniforme da ufficiale (taiga) [Russia]</Italian>
-					<Polish>Mundur oficerski (tajga) [Rosja]</Polish>
-					<Russian>Офицерская форма (таежная) [Россия]</Russian>
-					<German>Offizier-Militäranzug (Taiga) [Russland]</German>
-					<Czech>Důstojnická uniforma (tajga) [Rusko]</Czech>
-					<English>Officer Fatigues (Taiga) [Russia]</English>
-					<Portuguese>Uniforme de oficial (taiga) [Rússia]</Portuguese>
+					<Original>Officer Fatigues [RU] (Taiga)</Original>
+					<Chinese>軍官戰鬥服（俄國）（Taiga）</Chinese>
+					<French>Treillis d'officier [RU] (taïga)</French>
+					<Spanish>Traje de oficial [RU] (taiga)</Spanish>
+					<Italian>Uniforme da ufficiale [RU] (taiga)</Italian>
+					<Polish>Mundur oficerski [RU] (tajga)</Polish>
+					<Russian>Офицерская форма [RU] (таежная)</Russian>
+					<German>Offizier-Militäranzug [RU] (Taiga)</German>
+					<Czech>Důstojnická uniforma [RU] (tajga)</Czech>
+					<English>Officer Fatigues [RU] (Taiga)</English>
+					<Portuguese>Uniforme de oficial [RU] (taiga)</Portuguese>
 					<Korean>장교 전투복(침엽수림)[러시아]</Korean>
 					<Chinesesimp>军官服（针叶林）[俄国]</Chinesesimp>
 					<Japanese>士官服（タイガ）[ロシア]</Japanese>
-					<Turkish>Subay Kıyafeti (Tayga) [Rusya]</Turkish>
+					<Turkish>Subay Kıyafeti [RU] (Tayga)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_O_R_officer_noInsignia_taiga_F0">
 					<Original>Light Fatigues (Taiga)</Original>
@@ -5657,123 +5657,123 @@
 					<Turkish>Hafif Asker Kıyafeti (Tayga)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_O_R_CombatUniform_arid_F0">
-					<Original>Fatigues (Arid) [Russia]</Original>
-					<Chinese>戰鬥服（乾燥氣候）（俄國）</Chinese>
-					<French>Treillis (désert) [Russie]</French>
-					<Spanish>Traje militar (árido) [Rusia]</Spanish>
-					<Italian>Fatigues (arido) [Russia]</Italian>
-					<Polish>Mundur (region suchy) [Rosja]</Polish>
-					<Russian>Форма (пустынный) [Россия]</Russian>
-					<German>Militäranzug (Karg) [Russland]</German>
-					<Czech>Uniforma (suchý) [Rusko]</Czech>
-					<English>Fatigues (Arid) [Russia]</English>
-					<Portuguese>Fardas (árido) [Rússia]</Portuguese>
+					<Original>Fatigues [RU] (Arid)</Original>
+					<Chinese>戰鬥服（俄國）（乾燥氣候）</Chinese>
+					<French>Treillis [RU] (désert)</French>
+					<Spanish>Traje militar [RU] (árido)</Spanish>
+					<Italian>Fatigues [RU] (arido)</Italian>
+					<Polish>Mundur [RU] (region suchy)</Polish>
+					<Russian>Форма [RU] (пустынный)</Russian>
+					<German>Militäranzug [RU] (Karg)</German>
+					<Czech>Uniforma [RU] (suchý)</Czech>
+					<English>Fatigues [RU] (Arid)</English>
+					<Portuguese>Fardas [RU] (árido)</Portuguese>
 					<Korean>전투복(황폐)[러시아]</Korean>
 					<Chinesesimp>军装（干旱）[俄国]</Chinesesimp>
 					<Japanese>服（乾燥地帯）[ロシア]</Japanese>
-					<Turkish>Asker Kıyafeti (Kurak) [Rusya]</Turkish>
+					<Turkish>Asker Kıyafeti [RU] (Kurak)</Turkish>
 				</Key>
 				<Key ID="STR_A3_O_CfgWeapons_U_O_R_CombatUniform_tshirt_arid_F0">
-					<Original>Fatigues (Arid, Tee) [Russia]</Original>
-					<Chinese>戰鬥服（乾燥氣候, Tee）（俄國）</Chinese>
-					<French>Treillis (désert, Tee) [Russie]</French>
-					<Spanish>Traje militar (árido, Tee) [Rusia]</Spanish>
-					<Italian>Fatigues (arido, Tee) [Russia]</Italian>
-					<Polish>Mundur (region suchy, Tee) [Rosja]</Polish>
-					<Russian>Форма (пустынный, Tee) [Россия]</Russian>
-					<German>Militäranzug (Karg, Tee) [Russland]</German>
-					<Czech>Uniforma (suchý, Tee) [Rusko]</Czech>
-					<English>Fatigues (Arid, Tee) [Russia]</English>
-					<Portuguese>Fardas (árido, Tee) [Rússia]</Portuguese>
+					<Original>Fatigues [RU] (Arid, Tee)</Original>
+					<Chinese>戰鬥服（俄國）（乾燥氣候, Tee）</Chinese>
+					<French>Treillis [RU] (désert, Tee)</French>
+					<Spanish>Traje militar [RU] (árido, Tee)</Spanish>
+					<Italian>Fatigues [RU] (arido, Tee)</Italian>
+					<Polish>Mundur [RU] (region suchy, Tee)</Polish>
+					<Russian>Форма [RU] (пустынный, Tee)</Russian>
+					<German>Militäranzug [RU] (Karg, Tee)</German>
+					<Czech>Uniforma [RU] (suchý, Tee)</Czech>
+					<English>Fatigues [RU] (Arid, Tee)</English>
+					<Portuguese>Fardas [RU] (árido, Tee)</Portuguese>
 					<Korean>전투복(황폐, Tee)[러시아]</Korean>
 					<Chinesesimp>军装（干旱, Tee）[俄国]</Chinesesimp>
 					<Japanese>服（乾燥地帯, Tee）[ロシア]</Japanese>
-					<Turkish>Asker Kıyafeti (Kurak, Tee) [Rusya]</Turkish>
+					<Turkish>Asker Kıyafeti [RU] (Kurak, Tee)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_O_R_GhillieSuit_arid_F0">
-					<Original>Ghillie Suit (Arid) [Russia]</Original>
-					<Chinese>偽裝服（乾燥氣候）（俄國）</Chinese>
-					<French>Combinaison de camouflage (désert) [Russie]</French>
-					<Spanish>Traje de camuflaje (árido) [Rusia]</Spanish>
-					<Italian>Mimetica da cecchino (arido) [Russia]</Italian>
-					<Polish>Ghillie (region suchy) [Rosja]</Polish>
-					<Russian>Маскировочный костюм (пустынный) [Россия]</Russian>
-					<German>Ghillie-Anzug (Karg) [Russland]</German>
-					<Czech>Hejkal (suchý) [Rusko]</Czech>
-					<English>Ghillie Suit (Arid) [Russia]</English>
-					<Portuguese>Traje ghillie (árido) [Rússia]</Portuguese>
+					<Original>Ghillie Suit [RU] (Arid)</Original>
+					<Chinese>偽裝服（俄國）（乾燥氣候）</Chinese>
+					<French>Combinaison de camouflage [RU] (désert)</French>
+					<Spanish>Traje de camuflaje [RU] (árido)</Spanish>
+					<Italian>Mimetica da cecchino [RU] (arido)</Italian>
+					<Polish>Ghillie [RU] (region suchy)</Polish>
+					<Russian>Маскировочный костюм [RU] (пустынный)</Russian>
+					<German>Ghillie-Anzug [RU] (Karg)</German>
+					<Czech>Hejkal [RU] (suchý)</Czech>
+					<English>Ghillie Suit [RU] (Arid)</English>
+					<Portuguese>Traje ghillie [RU] (árido)</Portuguese>
 					<Korean>위장복(황폐)[러시아]</Korean>
 					<Chinesesimp>吉利服（干旱）[俄国]</Chinesesimp>
 					<Japanese>ギリースーツ（乾燥地帯）[ロシア]</Japanese>
-					<Turkish>Ghillie Kostümü (Kurak) [Rusya]</Turkish>
+					<Turkish>Ghillie Kostümü [RU] (Kurak)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_O_R_FullGhillie_ard_F0">
-					<Original>Full Ghillie (Arid) [Russia]</Original>
-					<Chinese>全套偽裝服（乾燥氣候）（俄國）</Chinese>
-					<French>Camouflage complet (Aride) [Russie]</French>
-					<Spanish>Camuflaje completo (árido) [Rusia]</Spanish>
-					<Italian>Ghillie completa (arido) [Russia]</Italian>
-					<Polish>Pełny Ghillie (region suchy) [Rosja]</Polish>
-					<Russian>Маскировочный костюм (пустынный) [Россия]</Russian>
-					<German>Vollständiger Ghillie-Anzug (Trocken) [Russland]</German>
-					<Czech>Kompletní hejkal (suchý porost) [Rusko]</Czech>
-					<English>Full Ghillie (Arid) [Russia]</English>
-					<Portuguese>Ghillie completo (Árido) [Rússia]</Portuguese>
+					<Original>Full Ghillie [RU] (Arid)</Original>
+					<Chinese>全套偽裝服（俄國）（乾燥氣候）</Chinese>
+					<French>Camouflage complet [RU] (Aride)</French>
+					<Spanish>Camuflaje completo [RU] (árido)</Spanish>
+					<Italian>Ghillie completa [RU] (arido)</Italian>
+					<Polish>Pełny Ghillie [RU] (region suchy)</Polish>
+					<Russian>Маскировочный костюм [RU] (пустынный)</Russian>
+					<German>Vollständiger Ghillie-Anzug [RU] (Trocken)</German>
+					<Czech>Kompletní hejkal [RU] (suchý porost)</Czech>
+					<English>Full Ghillie [RU] (Arid)</English>
+					<Portuguese>Ghillie completo [RU] (Árido)</Portuguese>
 					<Korean>전신 위장복 (건조) [러시아]</Korean>
 					<Chinesesimp>吉利套装（干旱）[俄国]</Chinesesimp>
 					<Japanese>フル・ギーリー（乾燥地帯）[ロシア]</Japanese>
-					<Turkish>Full Ghillie (Kurak) [Rusya]</Turkish>
+					<Turkish>Full Ghillie [RU] (Kurak)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_O_R_FullGhillie_lsh_F0">
-					<Original>Full Ghillie (Lush) [Russia]</Original>
-					<Chinese>全套偽裝服（草木茂盛）（俄國）</Chinese>
-					<French>Camouflage complet (Luxuriant) [Russie]</French>
-					<Spanish>Camuflaje completo (exuberante) [Rusia]</Spanish>
-					<Italian>Ghillie completa (verdeggiante) [Russia]</Italian>
-					<Polish>Pełny Ghillie (region z bujną roślinnością) [Rosja]</Polish>
-					<Russian>Маскировочный костюм (болотный) [Россия]</Russian>
-					<German>Vollständiger Ghillie-Anzug (Grün) [Russland]</German>
-					<Czech>Kompletní hejkal (bujný porost) [Rusko]</Czech>
-					<English>Full Ghillie (Lush) [Russia]</English>
-					<Portuguese>Ghillie completo (Exuberante) [Rússia]</Portuguese>
+					<Original>Full Ghillie [RU] (Lush)</Original>
+					<Chinese>全套偽裝服（俄國）（草木茂盛）</Chinese>
+					<French>Camouflage complet [RU] (Luxuriant)</French>
+					<Spanish>Camuflaje completo [RU] (exuberante)</Spanish>
+					<Italian>Ghillie completa [RU] (verdeggiante)</Italian>
+					<Polish>Pełny Ghillie [RU] (region z bujną roślinnością)</Polish>
+					<Russian>Маскировочный костюм [RU] (болотный)</Russian>
+					<German>Vollständiger Ghillie-Anzug [RU] (Grün)</German>
+					<Czech>Kompletní hejkal [RU] (bujný porost)</Czech>
+					<English>Full Ghillie [RU] (Lush)</English>
+					<Portuguese>Ghillie completo [RU] (Exuberante)</Portuguese>
 					<Korean>전신 위장복 (초목) [러시아]</Korean>
 					<Chinesesimp>吉利套装（繁茂）[俄国]</Chinesesimp>
 					<Japanese>フル・ギーリー（緑地）[ロシア]</Japanese>
-					<Turkish>Full Ghillie (Gür) [Rusya]</Turkish>
+					<Turkish>Full Ghillie [RU] (Gür)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_O_R_FullGhillie_sard_F0">
-					<Original>Full Ghillie (Semi-Arid) [Russia]</Original>
-					<Chinese>全套偽裝服（半乾燥氣候）（俄國）</Chinese>
-					<French>Camouflage complet (Semi-Aride) [Russie]</French>
-					<Spanish>Camuflaje completo (semiárido) [Rusia]</Spanish>
-					<Italian>Ghillie completa (semi-arido) [Russia]</Italian>
-					<Polish>Pełny Ghillie (region półsuchy) [Rosja]</Polish>
-					<Russian>Маскировочный костюм (полузасушливая местность) [Россия]</Russian>
-					<German>Vollständiger Ghillie-Anzug (Halbtrocken) [Russland]</German>
-					<Czech>Kompletní hejkal (polosuchý porost) [Rusko]</Czech>
-					<English>Full Ghillie (Semi-Arid) [Russia]</English>
-					<Portuguese>Ghillie completo (Semiárido) [Rússia]</Portuguese>
+					<Original>Full Ghillie [RU] (Semi-Arid) [Russia]</Original>
+					<Chinese>全套偽裝服（俄國）（半乾燥氣候）</Chinese>
+					<French>Camouflage complet [RU] (Semi-Aride) [Russie]</French>
+					<Spanish>Camuflaje completo [RU] (semiárido) [Rusia]</Spanish>
+					<Italian>Ghillie completa [RU] (semi-arido) [Russia]</Italian>
+					<Polish>Pełny Ghillie [RU] (region półsuchy) [Rosja]</Polish>
+					<Russian>Маскировочный костюм [RU] (полузасушливая местность) [Россия]</Russian>
+					<German>Vollständiger Ghillie-Anzug [RU] (Halbtrocken) [Russland]</German>
+					<Czech>Kompletní hejkal [RU] (polosuchý porost) [Rusko]</Czech>
+					<English>Full Ghillie [RU] (Semi-Arid) [Russia]</English>
+					<Portuguese>Ghillie completo [RU] (Semiárido) [Rússia]</Portuguese>
 					<Korean>전신 위장복 (반건조) [러시아]</Korean>
 					<Chinesesimp>吉利套装（半干旱）[俄国]</Chinesesimp>
 					<Japanese>フル・ギーリー（半乾燥地帯）[ロシア]</Japanese>
-					<Turkish>Full Ghillie (Yarı Kurak) [Rusya]</Turkish>
+					<Turkish>Full Ghillie [RU] (Yarı Kurak) [Rusya]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_O_R_OfficerUniform_arid_F0">
-					<Original>Officer Fatigues (Arid) [Russia]</Original>
-					<Chinese>軍官戰鬥服（乾燥氣候）（俄國）</Chinese>
-					<French>Treillis d'officier (désert) [Russie]</French>
-					<Spanish>Traje de oficial (árido) [Rusia]</Spanish>
-					<Italian>Uniforme da ufficiale (arido) [Russia]</Italian>
-					<Polish>Mundur oficerski (region suchy) [Rosja]</Polish>
-					<Russian>Офицерская форма (пустынный) [Россия]</Russian>
-					<German>Offizier-Militäranzug (Karg) [Russland]</German>
-					<Czech>Důstojnická uniforma (suchý) [Rusko]</Czech>
-					<English>Officer Fatigues (Arid) [Russia]</English>
-					<Portuguese>Uniforme de oficial (árido) [Rússia]</Portuguese>
+					<Original>Officer Fatigues [RU] (Arid)</Original>
+					<Chinese>軍官戰鬥服（俄國）（乾燥氣候）</Chinese>
+					<French>Treillis d'officier [RU] (désert)</French>
+					<Spanish>Traje de oficial [RU] (árido)</Spanish>
+					<Italian>Uniforme da ufficiale [RU] (arido)</Italian>
+					<Polish>Mundur oficerski [RU] (region suchy)</Polish>
+					<Russian>Офицерская форма [RU] (пустынный)</Russian>
+					<German>Offizier-Militäranzug [RU] (Karg)</German>
+					<Czech>Důstojnická uniforma [RU] (suchý)</Czech>
+					<English>Officer Fatigues [RU] (Arid)</English>
+					<Portuguese>Uniforme de oficial [RU] (árido)</Portuguese>
 					<Korean>장교 전투복(황폐)[러시아]</Korean>
 					<Chinesesimp>军官服（干旱）[俄国]</Chinesesimp>
 					<Japanese>士官服（乾燥地帯）[ロシア]</Japanese>
-					<Turkish>Subay Kıyafeti (Kurak) [Rusya]</Turkish>
+					<Turkish>Subay Kıyafeti [RU] (Kurak)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_O_R_officer_noInsignia_arid_F0">
 					<Original>Light Fatigues (Arid)</Original>
@@ -7053,21 +7053,21 @@
 					<Turkish>Taktiksel Yelek (Yeşil)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_V_RebreatherRU0">
-					<Original>Rebreather [Russia]</Original>
+					<Original>Rebreather [RU]</Original>
 					<Chinese>循環呼吸器（俄國）</Chinese>
-					<French>Recycleur [Russie]</French>
-					<Spanish>Mascarilla [Rusia]</Spanish>
-					<Italian>Rebreather [Russia]</Italian>
-					<Polish>Aparat oddechowy [Rosja]</Polish>
-					<Russian>Ребризер [Россия]</Russian>
-					<German>Tauchgerät [Russland]</German>
-					<Czech>Dýchací přístroj [Rusko]</Czech>
-					<English>Rebreather [Russia]</English>
-					<Portuguese>Rebreather [Rússia]</Portuguese>
+					<French>Recycleur [RU]</French>
+					<Spanish>Mascarilla [RU]</Spanish>
+					<Italian>Rebreather [RU]</Italian>
+					<Polish>Aparat oddechowy [RU]</Polish>
+					<Russian>Ребризер [RU]</Russian>
+					<German>Tauchgerät [RU]</German>
+					<Czech>Dýchací přístroj [RU]</Czech>
+					<English>Rebreather [RU]</English>
+					<Portuguese>Rebreather [RU]</Portuguese>
 					<Korean>수중호흡기[러시아]</Korean>
 					<Chinesesimp>呼吸器 [俄国]</Chinesesimp>
 					<Japanese>リブリーザー[ロシア]</Japanese>
-					<Turkish>Yeniden Solunum Sistemi [Rusya]</Turkish>
+					<Turkish>Yeniden Solunum Sistemi [RU]</Turkish>
 				</Key>
 			</Container>
 		</Container>
@@ -13097,38 +13097,38 @@
 					<Turkish>Radio Pack (Sage)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_B_RadioBag_01_taiga_F0">
-					<Original>Radio Pack (Taiga) [Russia]</Original>
-					<Chinese>Radio Pack (Taiga) [Russia]</Chinese>
-					<French>Radio Pack (Taiga) [Russia]</French>
-					<Spanish>Radio Pack (Taiga) [Russia]</Spanish>
-					<Italian>Radio Pack (Taiga) [Russia]</Italian>
-					<Polish>Radio Pack (Taiga) [Russia]</Polish>
-					<Russian>Radio Pack (Taiga) [Russia]</Russian>
-					<German>Radio Pack (Taiga) [Russia]</German>
-					<Czech>Radio Pack (Taiga) [Russia]</Czech>
-					<English>Radio Pack (Taiga) [Russia]</English>
-					<Portuguese>Radio Pack (Taiga) [Russia]</Portuguese>
-					<Korean>Radio Pack (Taiga) [Russia]</Korean>
-					<Chinesesimp>Radio Pack (Taiga) [Russia]</Chinesesimp>
-					<Japanese>Radio Pack (Taiga) [Russia]</Japanese>
-					<Turkish>Radio Pack (Taiga) [Russia]</Turkish>
+					<Original>Radio Pack [RU] (Taiga)</Original>
+					<Chinese>Radio Pack [RU] (Taiga)</Chinese>
+					<French>Radio Pack [RU] (Taiga)</French>
+					<Spanish>Radio Pack [RU] (Taiga)</Spanish>
+					<Italian>Radio Pack [RU] (Taiga)</Italian>
+					<Polish>Radio Pack [RU] (Taiga)</Polish>
+					<Russian>Radio Pack [RU] (Taiga)</Russian>
+					<German>Radio Pack [RU] (Taiga)</German>
+					<Czech>Radio Pack [RU] (Taiga)</Czech>
+					<English>Radio Pack [RU] (Taiga)</English>
+					<Portuguese>Radio Pack [RU] (Taiga)</Portuguese>
+					<Korean>Radio Pack [RU] (Taiga)</Korean>
+					<Chinesesimp>Radio Pack [RU] (Taiga)</Chinesesimp>
+					<Japanese>Radio Pack [RU] (Taiga)</Japanese>
+					<Turkish>Radio Pack [RU] (Taiga)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_B_RadioBag_01_arid_F0">
-					<Original>Radio Pack (Arid) [Russia]</Original>
-					<Chinese>Radio Pack (Arid) [Russia]</Chinese>
-					<French>Radio Pack (Arid) [Russia]</French>
-					<Spanish>Radio Pack (Arid) [Russia]</Spanish>
-					<Italian>Radio Pack (Arid) [Russia]</Italian>
-					<Polish>Radio Pack (Arid) [Russia]</Polish>
-					<Russian>Radio Pack (Arid) [Russia]</Russian>
-					<German>Radio Pack (Arid) [Russia]</German>
-					<Czech>Radio Pack (Arid) [Russia]</Czech>
-					<English>Radio Pack (Arid) [Russia]</English>
-					<Portuguese>Radio Pack (Arid) [Russia]</Portuguese>
-					<Korean>Radio Pack (Arid) [Russia]</Korean>
-					<Chinesesimp>Radio Pack (Arid) [Russia]</Chinesesimp>
-					<Japanese>Radio Pack (Arid) [Russia]</Japanese>
-					<Turkish>Radio Pack (Arid) [Russia]</Turkish>
+					<Original>Radio Pack [RU] (Arid)</Original>
+					<Chinese>Radio Pack [RU] (Arid)</Chinese>
+					<French>Radio Pack [RU] (Arid)</French>
+					<Spanish>Radio Pack [RU] (Arid)</Spanish>
+					<Italian>Radio Pack [RU] (Arid)</Italian>
+					<Polish>Radio Pack [RU] (Arid)</Polish>
+					<Russian>Radio Pack [RU] (Arid)</Russian>
+					<German>Radio Pack [RU] (Arid)</German>
+					<Czech>Radio Pack [RU] (Arid)</Czech>
+					<English>Radio Pack [RU] (Arid)</English>
+					<Portuguese>Radio Pack [RU] (Arid)</Portuguese>
+					<Korean>Radio Pack [RU] (Arid)</Korean>
+					<Chinesesimp>Radio Pack [RU] (Arid)</Chinesesimp>
+					<Japanese>Radio Pack [RU] (Arid)</Japanese>
+					<Turkish>Radio Pack [RU] (Arid)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_B_RadioBag_01_oicamo_F0">
 					<Original>Radio Pack (Desert Hex) [CSAT]</Original>

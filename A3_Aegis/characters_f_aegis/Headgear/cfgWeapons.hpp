@@ -1204,6 +1204,10 @@ class CfgWeapons
     {
 		displayName = "Soft Crew Helmet (Black)";
     };
+	class lxWS_H_Tank_tan_F : HelmetBase
+	{
+		displayName = "Soft Crew Helmet (Tan)";
+	};
 	class H_HelmetHBK_base_F;
 	class H_HelmetHBK_headset_base_F;
 	class H_HelmetHBK_ear_base_F;
