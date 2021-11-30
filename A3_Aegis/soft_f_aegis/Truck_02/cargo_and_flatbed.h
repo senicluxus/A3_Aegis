@@ -76,7 +76,7 @@ class C_Truck_02_racing_lxWS: Truck_02_box_base_lxWS
 				"\lxws\vehicles_f_lxws\data\Truck_02\Truck_02_kab_racing_red_CO.paa",
 				"\lxws\vehicles_f_lxws\data\Truck_02\zamak_racing_red_co.paa",
 				"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
-        		"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_CO.paa"
+        		"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_CO.paa",
 				"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
 			};
 			factions[] = {};
@@ -88,7 +88,7 @@ class C_Truck_02_racing_lxWS: Truck_02_box_base_lxWS
 				"\lxws\vehicles_f_lxws\data\Truck_02\Truck_02_kab_racing_green_CO.paa",
 				"\lxws\vehicles_f_lxws\data\Truck_02\zamak_racing_green_co.paa",
 				"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
-        		"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_CO.paa"
+        		"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_CO.paa",
 				"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
 			};
 			factions[] = {};
@@ -100,7 +100,7 @@ class C_Truck_02_racing_lxWS: Truck_02_box_base_lxWS
 				"\lxws\vehicles_f_lxws\data\Truck_02\Truck_02_kab_racing_blue_CO.paa",
 				"\lxws\vehicles_f_lxws\data\Truck_02\zamak_racing_blue_co.paa",
 				"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
-        		"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_CO.paa"
+        		"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_CO.paa",
 				"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
 			};
 			factions[] = {};
@@ -112,7 +112,7 @@ class C_Truck_02_racing_lxWS: Truck_02_box_base_lxWS
 				"\lxws\vehicles_f_lxws\data\Truck_02\Truck_02_kab_racing_vrana_CO.paa",
 				"\lxws\vehicles_f_lxws\data\Truck_02\zamak_racing_vrana_co.paa",
 				"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
-        		"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_CO.paa"
+        		"\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_CO.paa",
 				"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
 			};
 			factions[] = {};
@@ -123,7 +123,7 @@ class C_Truck_02_racing_lxWS: Truck_02_box_base_lxWS
 		"\lxws\vehicles_f_lxws\data\Truck_02\Truck_02_kab_racing_red_CO.paa",
 		"\lxws\vehicles_f_lxws\data\Truck_02\zamak_racing_red_co.paa",
 		"\a3\soft_f_beta\truck_02\data\truck_02_int_co.paa",
-        "\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_CO.paa"
+        "\A3\Soft_F_Beta\Truck_02\Data\Truck_02_chassis_CO.paa",
 		"lxws\vehicles_f_lxws\Truck_02\data\addons_black_co.paa"
 	};
 };
@@ -256,7 +256,6 @@ DEPRECATED_CLASS(I_E_Truck_02_flatbed_F,I_E_Truck_02_flatbed_lxWS);
 class O_R_Truck_02_cargo_F: O_Truck_02_cargo_lxWS
 {
 	author = $STR_A3_A_AveryTheKitty;
-	SIMPLE_OBJECT;
 	scope = public;
 	scopeCurator = public;
 	side = TEast;
@@ -276,7 +275,6 @@ class O_R_Truck_02_cargo_F: O_Truck_02_cargo_lxWS
 class O_R_Truck_02_flatbed_F: O_Truck_02_flatbed_lxWS
 {
 	author = $STR_A3_A_AveryTheKitty;
-	SIMPLE_OBJECT;
 	scope = public;
 	scopeCurator = public;
 	side = TEast;
@@ -296,7 +294,6 @@ class O_R_Truck_02_flatbed_F: O_Truck_02_flatbed_lxWS
 class Aegis_O_R_Truck_02_aa_F: Truck_02_aa_base_lxWS
 {
 	author = $STR_A3_A_AveryTheKitty;
-	SIMPLE_OBJECT;
 	scope = public;
 	scopeCurator = public;
 	side = TEast;
@@ -320,7 +317,6 @@ class Aegis_O_R_Truck_02_aa_F: Truck_02_aa_base_lxWS
 class O_R_Truck_02_cargo_ard_F: O_R_Truck_02_cargo_F
 {
 	author = $STR_A3_A_AveryTheKitty;
-	SIMPLE_OBJECT;
 	faction = OPF_R_ard_F;
 	crew = O_R_Soldier_ard_F;
 	typicalCargo[] = {O_R_Soldier_ard_F};
@@ -328,7 +324,6 @@ class O_R_Truck_02_cargo_ard_F: O_R_Truck_02_cargo_F
 class O_R_Truck_02_flatbed_ard_F: O_R_Truck_02_flatbed_F
 {
 	author = $STR_A3_A_AveryTheKitty;
-	SIMPLE_OBJECT;
 	faction = OPF_R_ard_F;
 	crew = O_R_Soldier_ard_F;
 	typicalCargo[] = {O_R_Soldier_ard_F};
@@ -336,7 +331,6 @@ class O_R_Truck_02_flatbed_ard_F: O_R_Truck_02_flatbed_F
 class Aegis_O_R_Truck_02_aa_ard_F: Aegis_O_R_Truck_02_aa_F
 {
 	author = $STR_A3_A_AveryTheKitty;
-	SIMPLE_OBJECT;
 	faction = OPF_R_ard_F;
 	crew = O_R_Soldier_ard_F;
 	typicalCargo[] = {O_R_Soldier_ard_F};
