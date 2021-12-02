@@ -291,8 +291,6 @@ class CfgVehicles
 		//memoryPointLDust = "pos_dust_l";
 		//memoryPointRDust = "pos_dust_r";
 		memoryPointDriverOptics = "pilotview";
-		//memoryPointCM[] = {"pos_flare_launcher1","pos_flare_launcher2"};
-		//memoryPointCMDir[] = {"pos_flare_launcher1_dir","pos_flare_launcher2_dir"};
 		//slingLoadCargoMemoryPoints[] = {"pos_SlingLoadCargo1","pos_SlingLoadCargo2","pos_SlingLoadCargo3","pos_SlingLoadCargo4"};
 		extCameraPosition[] = {0.0,1.5,-15.0};
 		driverOpticsModel = "A3\drones_f\Weapons_F_Gamma\Reticle\UGV_01_Optics_Driver_F.p3d";
@@ -371,28 +369,28 @@ class CfgVehicles
 		};
 		maxSpeed = 300;
 		landingAoa = "5*3.1415/180";
-		landingSpeed = 105;
+		landingSpeed = 90;  // I'm just going to randomly change numbers, and hope for the best!
 		stallSpeed = 100;
 		stallWarningTreshold = 0.05;
 		wheelSteeringSensitivity = 0.8;
 		airBrake = 1;
 		flaps = 1;
-		flapsFrictionCoef = 0.3;
+		flapsFrictionCoef = 0.3;  
 		angleOfIndicence = "1.5*3.1415/180";
 		envelope[] = {0,0.05,0.3,2.8,6.0,6.2,6.3,6.4,6.4,6.5,6.5,6.5,1.0};
 		altNoForce = 10000;
 		altFullForce = 7000;
 		thrustCoef[] = {1.48,1.45,1.4,1.35,1.3,1.24,1.17,1.1,0.9,0.7,0.3,0.0,0.0,0.0,0.0,0.0};
-		aileronSensitivity = 1.1;
+		aileronSensitivity = 0.75; // was 1.1
 		aileronCoef[] = {0.0,0.8,1.0,1.1,1.2,1.2,1.2};
-		elevatorSensitivity = 0.75;
+		elevatorSensitivity = 0.65; // was 0.75
 		elevatorCoef[] = {0.0,0.13,0.2,0.26,0.32,0.38,0.43,0.48,0.54,0.58,0.53};
 		rudderInfluence = 0.7071;
 		rudderCoef[] = {0.0,0.8,1.5,1.8,2.1,2.3,2.4,2.4,2.4,2.3,2.2};
-		aileronControlsSensitivityCoef = 4.0;
+		aileronControlsSensitivityCoef = 2.0; // was 4
 		elevatorControlsSensitivityCoef = 3.0;
 		rudderControlsSensitivityCoef = 4.0;
-		draconicForceXCoef = 9.0;
+		draconicForceXCoef = 9.0; // what is a draconic???? dragons?????!?!?!?!?! and why is it at 9
 		draconicForceYCoef = 1.0;
 		draconicForceZCoef = 1.0;
 		draconicTorqueXCoef[] = {7.5,4.0,3.5,3.2,3.0,3.4,4.0,5.5,6.0,7.5,9.0};
@@ -405,7 +403,7 @@ class CfgVehicles
 			{
 				boneName = "Wheel_1_1";
 				steering = 0;
-				side = "left";
+				side = "left"; // no fucking clue, its a centered wheel
 				center = "Wheel_1_1_center";
 				boundary = "Wheel_1_1_boundary";
 				width = 0.16;
@@ -420,7 +418,7 @@ class CfgVehicles
 				suspForceAppPointOffset = "Wheel_1_1_center";
 				tireForceAppPointOffset = "Wheel_1_1_center";
 				maxCompression = 0.5;
-				maxDroop = 0.5;
+				maxDroop = 0.2; // was 0.5
 				sprungMass = 144;
 				springStrength = 14366;
 				springDamperRate = 3448;
@@ -456,8 +454,6 @@ class CfgVehicles
 			};
 		};
 		gunAimDown = 0.0;
-		weapons[] = {"CMFlareLauncher"};
-		magazines[] = {"120Rnd_CMFlare_Chaff_Magazine"};
 		radarTargetSize = 0.75;
 		visualTargetSize = 0.8;
 		irTargetSize = 0.5;
@@ -579,7 +575,7 @@ class CfgVehicles
 					class pylons1
 					{
 						hardpoints[] = {"B_BOMB_PYLON","B_MISSILE_PYLON"};
-						attachment = "PylonRack_3Rnd_LG_scalpel";
+						attachment = "PylonRack_2Rnd_LG_scalpel";
 						priority = 5;
 						turret[] = {0};
 						maxweight = 345;
@@ -611,7 +607,7 @@ class CfgVehicles
 					class default
 					{
 						displayName = "Default";
-						attachment[] = {"PylonRack_3Rnd_LG_scalpel","PylonRack_3Rnd_LG_scalpel","PylonRack_3Rnd_LG_scalpel"};
+						attachment[] = {"PylonRack_2Rnd_LG_scalpel","PylonRack_2Rnd_LG_scalpel","PylonRack_2Rnd_LG_scalpel"};
 					};
 					class CAS
 					{
@@ -765,13 +761,13 @@ class CfgVehicles
 				inGunnerMayFire = 1;
 				commanding = -1;
 				body = "mainTurret";
-				gun = "mainGun";
+				gun = "MainGun";
 				animationSourceBody = "mainTurret";
-				animationSourceGun = "mainGun";
+				animationSourceGun = "MainGun";
 				memoryPointGun = "laserstart";
-				memoryPointGunnerOptics = "commanderview";
-				gunBeg = "commanderview";
-				gunEnd = "laserstart";
+				memoryPointGunnerOptics = "gunnerView";
+				gunBeg = "laser_start";
+				gunEnd = "laser_end";
 				gunnerOpticsModel = "A3\drones_f\Weapons_F_Gamma\Reticle\UGV_01_Optics_Gunner_F.p3d";
 				gunnerForceOptics = 1;
 				turretInfoType = "RscOptics_UAV_gunner";
@@ -934,6 +930,6 @@ class CfgVehicles
 		side = 2;
 		faction = "IND_F";
 		accuracy = 1;
-		displayName = "$STR_A3_CfgVehicles_UAV_05";
+		displayName = "MQ-9 Reaper";
 	};
 };
