@@ -37,7 +37,7 @@
 				<Turkish>PO-30</Turkish>
 			</Key>
 			<Key ID="STR_A3_A_CfgVehicles_Heli_Transport_01_medevac_base_F0">
-				<Original>UH-80 Ghost Hawk (Medical)</Original>
+				<Original>UH-80 MEV</Original>
 				<Chinese>UH-80 Ghost Hawk（醫療用）</Chinese>
 				<French>UH-80 Ghost Hawk (médical)</French>
 				<Spanish>UH-80 Ghost Hawk (médico)</Spanish>
@@ -46,7 +46,7 @@
 				<Russian>UH-80 Ghost Hawk (медицинский)</Russian>
 				<German>UH-80 Ghost Hawk (Medizin)</German>
 				<Czech>UH-80 Ghost Hawk (zdravotnický)</Czech>
-				<English>UH-80 Ghost Hawk (Medical)</English>
+				<English>UH-80 MEV</English>
 				<Portuguese>UH-80 Ghost Hawk (médico)</Portuguese>
 				<Korean>UH-80 Ghost Hawk (의료)</Korean>
 				<Chinesesimp>UH-80 Ghost Hawk（医疗）</Chinesesimp>
@@ -275,7 +275,7 @@
 				<Turkish>Shukhov AR-2</Turkish>
 			</Key>
 			<Key ID="STR_A3_A_CfgVehicles_O_R_UAV_01_backpack_F0">
-				<Original>UAV Bag (AR-2) [Russia]</Original>
+				<Original>UAV Bag [RU] (AR-2)</Original>
 				<Chinese>無人機袋子（AR-2）（俄國）</Chinese>
 				<French>Sac drone (AR-2) [Russie]</French>
 				<Spanish>Bolsa de VANT (AR-2) [Rusia]</Spanish>
@@ -284,7 +284,7 @@
 				<Russian>Сумка для БПЛА (AR-2) [Россия]</Russian>
 				<German>UAV-Tasche (AR-2) [Russland]</German>
 				<Czech>UAV vak (AR-2) [Rusko]</Czech>
-				<English>UAV Bag (AR-2) [Russia]</English>
+				<English>UAV Bag [RU] (AR-2)</English>
 				<Portuguese>Compartimento de VANT (AR-2) [Rússia]</Portuguese>
 				<Korean>UAV 가방 (AR-2) [러시아]</Korean>
 				<Chinesesimp>UAV 包（AR-2）[俄国]</Chinesesimp>
@@ -360,7 +360,7 @@
 				<Turkish>Sokol 3T</Turkish>
 			</Key>
 			<Key ID="STR_A3_A_CfgVehicles_C_IDAP_UAV_06_medical_backpack_F0">
-				<Original>UAV Bag (Utility, Medical) [IDAP]</Original>
+				<Original>UAV Bag [IDAP] (Utility, Medical)</Original>
 				<Chinese>無人機袋子（通用，醫療用）（IDAP）</Chinese>
 				<French>Sac drone (utilitaire, médical) [IDAP]</French>
 				<Spanish>Bolsa de VANT (apoyo, médico) [IDAP]</Spanish>
@@ -369,7 +369,7 @@
 				<Russian>Сумка для БПЛА (служ., мед.) [IDAP]</Russian>
 				<German>UAV-Tasche (Versorgung, Medizin) [IDAP]</German>
 				<Czech>UAV vak (užitkový, zdravotnický) [IDAP]</Czech>
-				<English>UAV Bag (Utility, Medical) [IDAP]</English>
+				<English>UAV Bag [IDAP] (Utility, Medical)</English>
 				<Portuguese>Bolsa VANT (utilidade, médica) [IDAP]</Portuguese>
 				<Korean>UAV 가방 (다목적, 의료) [IDAP]</Korean>
 				<Chinesesimp>UAV 包（多用途，医疗）[IDAP]</Chinesesimp>
@@ -445,7 +445,7 @@
 				<Turkish>AL-6 Çantası [CSAT Pasifik]</Turkish>
 			</Key>
 			<Key ID="STR_A3_A_CfgVehicles_Box_O_R_UAV_06_F0">
-				<Original>AL-6 Case [Russia]</Original>
+				<Original>AL-6 Case [RU]</Original>
 				<Chinese>AL-6 外箱（俄國）</Chinese>
 				<French>Mallette AL-6 [Russie]</French>
 				<Spanish>Compartimento de AL-6 [Rusia]</Spanish>
@@ -454,7 +454,7 @@
 				<Russian>AL-6 Case [Россия]</Russian>
 				<German>AL-6-Koffer [Russland]</German>
 				<Czech>Bedna na AL-6 [Rusko]</Czech>
-				<English>AL-6 Case [Russia]</English>
+				<English>AL-6 Case [RU]</English>
 				<Portuguese>Caixa de AL-6 [Rússia]</Portuguese>
 				<Korean>AL-6 Case [러시아]</Korean>
 				<Chinesesimp>AL-6 箱 [俄国]</Chinesesimp>
@@ -462,7 +462,7 @@
 				<Turkish>AL-6 Çantası [Rusya]</Turkish>
 			</Key>
 			<Key ID="STR_A3_A_CfgVehicles_Box_B_A_UAV_06_F0">
-				<Original>AL-6 Case [NATO British]</Original>
+				<Original>AL-6 Case [BAF]</Original>
 				<Chinese>AL-6 外箱（NATO 英國的）</Chinese>
 				<French>Mallette AL-6 [OTAN Britanique]</French>
 				<Spanish>Compartimento de AL-6 [OTAN, Británico]</Spanish>
@@ -471,7 +471,7 @@
 				<Russian>AL-6 Case [НАТО, Британская]</Russian>
 				<German>AL-6-Koffer [NATO Britisch]</German>
 				<Czech>Bedna na AL-6 [NATO Britský]</Czech>
-				<English>AL-6 Case [NATO British]</English>
+				<English>AL-6 Case [BAF]</English>
 				<Portuguese>Caixa de AL-6 [OTAN Britânico]</Portuguese>
 				<Korean>AL-6 Case [NATO 영국인]</Korean>
 				<Chinesesimp>AL-6 箱 [北约英国的]</Chinesesimp>
@@ -547,7 +547,7 @@
 				<Turkish>AL-6 Çantası (Sıhhiye) [Rusya]</Turkish>
 			</Key>
 			<Key ID="STR_A3_A_CfgVehicles_Box_B_A_UAV_06_medical_F0">
-				<Original>AL-6 Case (Medical) [NATO British]</Original>
+				<Original>AL-6 Case (Medical) [BAF]</Original>
 				<Chinese>AL-6 外箱（醫療用）（NATO 英國的）</Chinese>
 				<French>Mallette AL-6 (médical) [OTAN Britanique]</French>
 				<Spanish>Compartimento de AL-6 (médico) [OTAN, Británico]</Spanish>
@@ -556,7 +556,7 @@
 				<Russian>AL-6 Case (медицинский) [НАТО, Британская]</Russian>
 				<German>AL-6-Koffer (Medizin) [NATO Britisch]</German>
 				<Czech>Bedna na AL-6 (zdravotnický) [NATO Britský]</Czech>
-				<English>AL-6 Case (Medical) [NATO British]</English>
+				<English>AL-6 Case (Medical) [BAF]</English>
 				<Portuguese>Caixa de AL-6 (médico) [OTAN Britânico]</Portuguese>
 				<Korean>AL-6 Case (의무) [NATO 영국인]</Korean>
 				<Chinesesimp>AL-6 箱（医疗）[北约英国的]</Chinesesimp>
@@ -12245,7 +12245,7 @@
 					<Turkish>İkmal Kutusu [Rusya]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_Box_A_NATO_Equip_F0">
-					<Original>Equipment Box [NATO British]</Original>
+					<Original>Equipment Box [BAF]</Original>
 					<Chinese>裝備盒（NATO 英國的）</Chinese>
 					<French>Caisse d'équipement [OTAN Britanique]</French>
 					<Spanish>Caja de equipamiento [OTAN, Británico]</Spanish>
@@ -12254,7 +12254,7 @@
 					<Russian>Ящик со снаряжением [НАТО, Британская]</Russian>
 					<German>Ausrüstungskiste [NATO Britisch]</German>
 					<Czech>Bedna s vybavením [NATO Britský]</Czech>
-					<English>Equipment Box [NATO British]</English>
+					<English>Equipment Box [BAF]</English>
 					<Portuguese>Caixa de Equipamentos [OTAN Britânico]</Portuguese>
 					<Korean>장비 상자[NATO 영국인]</Korean>
 					<Chinesesimp>设备箱 [北约英国的]</Chinesesimp>
@@ -12262,7 +12262,7 @@
 					<Turkish>Ekipman Kutusu [NATO İngiliz]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_Box_A_NATO_Uniforms_F0">
-					<Original>Uniforms Box [NATO British]</Original>
+					<Original>Uniforms Box [BAF]</Original>
 					<Chinese>制服盒（NATO 英國的）</Chinese>
 					<French>Caisse d'uniformes [OTAN Britanique]</French>
 					<Spanish>Caja de uniformes [OTAN, Británico]</Spanish>
@@ -12271,7 +12271,7 @@
 					<Russian>Ящик с формой [НАТО, Британская]</Russian>
 					<German>Uniformen-Kiste [NATO Britisch]</German>
 					<Czech>Bedna s uniformami [NATO Britský]</Czech>
-					<English>Uniforms Box [NATO British]</English>
+					<English>Uniforms Box [BAF]</English>
 					<Portuguese>Caixa de Uniformes [OTAN Britânico]</Portuguese>
 					<Korean>군복 상자[NATO 영국인]</Korean>
 					<Chinesesimp>制服箱 [北约英国的]</Chinesesimp>
@@ -12279,7 +12279,7 @@
 					<Turkish>Üniforma Kutusu [NATO İngiliz]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_Box_A_NATO_Wps_F0">
-					<Original>Basic Weapons [NATO British]</Original>
+					<Original>Basic Weapons [BAF]</Original>
 					<Chinese>基本武器（NATO 英國的）</Chinese>
 					<French>Armes standard [OTAN Britanique]</French>
 					<Spanish>Armas básicas [OTAN, Británico]</Spanish>
@@ -12288,7 +12288,7 @@
 					<Russian>Основное оружие [НАТО, Британская]</Russian>
 					<German>Standardwaffen [NATO Britisch]</German>
 					<Czech>Základní zbraně [NATO Britský]</Czech>
-					<English>Basic Weapons [NATO British]</English>
+					<English>Basic Weapons [BAF]</English>
 					<Portuguese>Armas Básicas [OTAN Britânico]</Portuguese>
 					<Korean>기본무기[NATO 영국인]</Korean>
 					<Chinesesimp>基本武器 [北约英国的]</Chinesesimp>
@@ -12296,7 +12296,7 @@
 					<Turkish>Temel Silahlar [NATO İngiliz]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_Box_A_NATO_WpsSpecial_F0">
-					<Original>Special Weapons [NATO British]</Original>
+					<Original>Special Weapons [BAF]</Original>
 					<Chinese>特殊武器（NATO 英國的）</Chinese>
 					<French>Armes spéciales [OTAN Britanique]</French>
 					<Spanish>Armas especiales [OTAN, Británico]</Spanish>
@@ -12305,7 +12305,7 @@
 					<Russian>Специальное оружие [НАТО, Британская]</Russian>
 					<German>Spezialwaffen [NATO Britisch]</German>
 					<Czech>Speciální zbraně [NATO Britský]</Czech>
-					<English>Special Weapons [NATO British]</English>
+					<English>Special Weapons [BAF]</English>
 					<Portuguese>Armas Especiais [OTAN Britânico]</Portuguese>
 					<Korean>특수무기[NATO 영국인]</Korean>
 					<Chinesesimp>特殊武器 [北约英国的]</Chinesesimp>
@@ -12313,7 +12313,7 @@
 					<Turkish>Özel Silahlar [NATO İngiliz]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_Box_A_NATO_Ammo_F0">
-					<Original>Basic Ammo [NATO British]</Original>
+					<Original>Basic Ammo [BAF]</Original>
 					<Chinese>基本彈藥（NATO 英國的）</Chinese>
 					<French>Munitions standard [OTAN Britanique]</French>
 					<Spanish>Munición básica [OTAN, Británico]</Spanish>
@@ -12322,7 +12322,7 @@
 					<Russian>Основные боеприпасы [НАТО, Британская]</Russian>
 					<German>Basismunition [NATO Britisch]</German>
 					<Czech>Základní munice [NATO Britský]</Czech>
-					<English>Basic Ammo [NATO British]</English>
+					<English>Basic Ammo [BAF]</English>
 					<Portuguese>Munição básica [OTAN Britânico]</Portuguese>
 					<Korean>기본탄약[NATO 영국인]</Korean>
 					<Chinesesimp>基本弹药 [北约英国的]</Chinesesimp>
@@ -12330,7 +12330,7 @@
 					<Turkish>Temel Mühimmat [NATO İngiliz]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_Box_A_NATO_AmmoOrd_F0">
-					<Original>Explosives [NATO British]</Original>
+					<Original>Explosives [BAF]</Original>
 					<Chinese>爆裂物（NATO 英國的）</Chinese>
 					<French>Explosifs [OTAN Britanique]</French>
 					<Spanish>Explosivos [OTAN, Británico]</Spanish>
@@ -12339,7 +12339,7 @@
 					<Russian>Взрывчатка [НАТО, Британская]</Russian>
 					<German>Sprengladungen [NATO Britisch]</German>
 					<Czech>Výbušniny [NATO Britský]</Czech>
-					<English>Explosives [NATO British]</English>
+					<English>Explosives [BAF]</English>
 					<Portuguese>Explosivos [OTAN Britânico]</Portuguese>
 					<Korean>폭발물[NATO 영국인]</Korean>
 					<Chinesesimp>炸药 [北约英国的]</Chinesesimp>
@@ -12347,7 +12347,7 @@
 					<Turkish>Patlayıcılar [NATO İngiliz]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_Box_A_NATO_Grenades_F0">
-					<Original>Grenades [NATO British]</Original>
+					<Original>Grenades [BAF]</Original>
 					<Chinese>手榴彈（NATO 英國的）</Chinese>
 					<French>Grenades [OTAN Britanique]</French>
 					<Spanish>Granadas [OTAN, Británico]</Spanish>
@@ -12356,7 +12356,7 @@
 					<Russian>Гранаты [НАТО, Британская]</Russian>
 					<German>Granaten [NATO Britisch]</German>
 					<Czech>Granáty [NATO Britský]</Czech>
-					<English>Grenades [NATO British]</English>
+					<English>Grenades [BAF]</English>
 					<Portuguese>Granadas [OTAN Britânico]</Portuguese>
 					<Korean>유탄[NATO 영국인]</Korean>
 					<Chinesesimp>枪榴弹 [北约英国的]</Chinesesimp>
@@ -12364,7 +12364,7 @@
 					<Turkish>El Bombaları [NATO İngiliz]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_Box_A_NATO_Support_F0">
-					<Original>Support [NATO British]</Original>
+					<Original>Support [BAF]</Original>
 					<Chinese>後勤物資（NATO 英國的）</Chinese>
 					<French>Appui [OTAN Britanique]</French>
 					<Spanish>Apoyo [OTAN, Británico]</Spanish>
@@ -12373,7 +12373,7 @@
 					<Russian>Поддержка [НАТО, Британская]</Russian>
 					<German>Unterstützung [NATO Britisch]</German>
 					<Czech>Podpora [NATO Britský]</Czech>
-					<English>Support [NATO British]</English>
+					<English>Support [BAF]</English>
 					<Portuguese>Suporte [OTAN Britânico]</Portuguese>
 					<Korean>지원[NATO 영국인]</Korean>
 					<Chinesesimp>支援 [北约英国的]</Chinesesimp>
@@ -12381,7 +12381,7 @@
 					<Turkish>Destek [NATO İngiliz]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_Box_A_NATO_WpsLaunch_F0">
-					<Original>Launchers [NATO British]</Original>
+					<Original>Launchers [BAF]</Original>
 					<Chinese>發射器（NATO 英國的）</Chinese>
 					<French>Lanceurs [OTAN Britanique]</French>
 					<Spanish>Lanzadores [OTAN, Británico]</Spanish>
@@ -12390,7 +12390,7 @@
 					<Russian>Пусковые установки [НАТО, Британская]</Russian>
 					<German>Werfer [NATO Britisch]</German>
 					<Czech>Raketomety [NATO Britský]</Czech>
-					<English>Launchers [NATO British]</English>
+					<English>Launchers [BAF]</English>
 					<Portuguese>Lançadores [OTAN Britânico]</Portuguese>
 					<Korean>발사기[NATO 영국인]</Korean>
 					<Chinesesimp>发射器 [北约英国的]</Chinesesimp>
@@ -12398,7 +12398,7 @@
 					<Turkish>Fırlatıcılar [NATO İngiliz]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_Box_A_NATO_AmmoVeh_F0">
-					<Original>Vehicle Ammo [NATO British]</Original>
+					<Original>Vehicle Ammo [BAF]</Original>
 					<Chinese>載具彈藥（NATO 英國的）</Chinese>
 					<French>Munitions pour véhicules [OTAN Britanique]</French>
 					<Spanish>Munición de vehículo [OTAN, Británico]</Spanish>
@@ -12407,7 +12407,7 @@
 					<Russian>Боеприпасы для техники [НАТО, Британская]</Russian>
 					<German>Fahrzeug-Munition [NATO Britisch]</German>
 					<Czech>Munice pro vozidla [NATO Britský]</Czech>
-					<English>Vehicle Ammo [NATO British]</English>
+					<English>Vehicle Ammo [BAF]</English>
 					<Portuguese>Munição veicular [OTAN Britânico]</Portuguese>
 					<Korean>차량 탄약[NATO 영국인]</Korean>
 					<Chinesesimp>车辆弹药 [北约英国的]</Chinesesimp>
@@ -12415,7 +12415,7 @@
 					<Turkish>Araç Mühimmatı [NATO İngiliz]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_B_A_supplyCrate_F0">
-					<Original>Supply Box [NATO British]</Original>
+					<Original>Supply Box [BAF]</Original>
 					<Chinese>補給盒（NATO 英國的）</Chinese>
 					<French>Caisse de ravitaillements [OTAN Britanique]</French>
 					<Spanish>Caja de suministros [OTAN, Británico]</Spanish>
@@ -12424,7 +12424,7 @@
 					<Russian>Ящик с припасами [НАТО, Британская]</Russian>
 					<German>Nachschubkiste [NATO Britisch]</German>
 					<Czech>Bedna se zásobami [NATO Britský]</Czech>
-					<English>Supply Box [NATO British]</English>
+					<English>Supply Box [BAF]</English>
 					<Portuguese>Caixa de Suprimentos [OTAN Britânico]</Portuguese>
 					<Korean>보급상자[NATO 영국인]</Korean>
 					<Chinesesimp>供给箱 [北约英国的]</Chinesesimp>
@@ -13439,7 +13439,7 @@
 					<Turkish>Kargo Ağı [Rusya]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_B_A_CargoNet_01_ammo_F0">
-					<Original>Cargo Net [NATO British]</Original>
+					<Original>Cargo Net [BAF]</Original>
 					<Chinese>吊貨網（NATO 英國的）</Chinese>
 					<French>Filet de levage [OTAN Britanique]</French>
 					<Spanish>Red de carga [OTAN, Británico]</Spanish>
@@ -13448,7 +13448,7 @@
 					<Russian>Грузовая сетка [НАТО, Британская]</Russian>
 					<German>Transportnetz [NATO Britisch]</German>
 					<Czech>Nákladní síť [NATO Britský]</Czech>
-					<English>Cargo Net [NATO British]</English>
+					<English>Cargo Net [BAF]</English>
 					<Portuguese>Rede de carga [OTAN Britânico]</Portuguese>
 					<Korean>하역망 [NATO 영국인]</Korean>
 					<Chinesesimp>吊货网 [北约英国的]</Chinesesimp>
