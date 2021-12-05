@@ -69,7 +69,7 @@ class I_Raven_UAV_01_backpack_F: Weapon_Bag_Base
 	mapSize = 0.6;
 	scope = public;
 	scopeCurator = public;
-	displayName = $STR_A3_A_CfgVehicles_O_R_UAV_01_backpack_F0;
+	displayName = $STR_A3_A_CfgVehicles_I_Raven_UAV_01_backpack_F0;
 	model = "\A3\Drones_F\Weapons_F_Gamma\Ammoboxes\Bags\UAV_backpack_F.p3d";
 	editorCategory = EdCat_Equipment;
 	editorSubcategory = EdSubcat_Backpacks;
