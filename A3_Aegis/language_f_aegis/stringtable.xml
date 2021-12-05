@@ -291,6 +291,23 @@
 				<Japanese>UAV バッグ（AR-2）[ロシア]</Japanese>
 				<Turkish>İHA Çantası (AR-2) [Rusya]</Turkish>
 			</Key>
+			<Key ID="STR_A3_A_CfgVehicles_I_Raven_UAV_01_backpack_F0">
+				<Original>UAV Bag [Raven] (AR-2)</Original>
+				<Chinese>無人機袋子（AR-2）（Raven）</Chinese>
+				<French>Sac drone (AR-2) [Raven]</French>
+				<Spanish>Bolsa de VANT (AR-2) [Raven]</Spanish>
+				<Italian>Borsa UAV (AR-2) [Raven]</Italian>
+				<Polish>Torba na drona (AR-2) [Raven]</Polish>
+				<Russian>Сумка для БПЛА (AR-2) [Raven]</Russian>
+				<German>UAV-Tasche (AR-2) [Raven]</German>
+				<Czech>UAV vak (AR-2) [Raven]</Czech>
+				<English>UAV Bag [Raven] (AR-2)</English>
+				<Portuguese>Compartimento de VANT (AR-2) [Raven]</Portuguese>
+				<Korean>UAV 가방 (AR-2) [Raven]</Korean>
+				<Chinesesimp>UAV 包（AR-2）[Raven]</Chinesesimp>
+				<Japanese>UAV バッグ（AR-2）[Raven]</Japanese>
+				<Turkish>İHA Çantası (AR-2) [Raven]</Turkish>
+			</Key>
 			<Key ID="STR_A3_A_CfgVehicles_O_R_UAV_01_backpack_F_assembleInfo0">
 				<Original>Shukhov AR-2</Original>
 				<Chinese>Shukhov AR-2</Chinese>
