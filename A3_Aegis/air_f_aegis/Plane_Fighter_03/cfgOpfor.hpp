@@ -200,7 +200,7 @@ class O_Plane_Fighter_03_dynamicLoadout_F: Plane_Fighter_03_dynamicLoadout_base_
                     UIposition[] =
                     {
                         0.33,   // X
-                        0.3     // Y
+                        0.38     // Y
                     };
                     mirroredMissilePos = 3;
                 };
@@ -209,7 +209,7 @@ class O_Plane_Fighter_03_dynamicLoadout_F: Plane_Fighter_03_dynamicLoadout_base_
                     UIposition[] =
                     {
                         0.33,   // X
-                        0.35    // Y
+                        0.43    // Y
                     };
                     mirroredMissilePos = 2;
                 };
@@ -218,7 +218,7 @@ class O_Plane_Fighter_03_dynamicLoadout_F: Plane_Fighter_03_dynamicLoadout_base_
                     UIposition[] =
                     {
                         0.34,   // X
-                        0.4     // Y
+                        0.48     // Y
                     };
                     mirroredMissilePos = 1;
                 };

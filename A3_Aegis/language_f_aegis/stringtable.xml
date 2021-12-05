@@ -37,7 +37,7 @@
 				<Turkish>PO-30</Turkish>
 			</Key>
 			<Key ID="STR_A3_A_CfgVehicles_Heli_Transport_01_medevac_base_F0">
-				<Original>UH-80 Ghost Hawk (Medical)</Original>
+				<Original>UH-80 MEV</Original>
 				<Chinese>UH-80 Ghost Hawk（醫療用）</Chinese>
 				<French>UH-80 Ghost Hawk (médical)</French>
 				<Spanish>UH-80 Ghost Hawk (médico)</Spanish>
@@ -46,7 +46,7 @@
 				<Russian>UH-80 Ghost Hawk (медицинский)</Russian>
 				<German>UH-80 Ghost Hawk (Medizin)</German>
 				<Czech>UH-80 Ghost Hawk (zdravotnický)</Czech>
-				<English>UH-80 Ghost Hawk (Medical)</English>
+				<English>UH-80 MEV</English>
 				<Portuguese>UH-80 Ghost Hawk (médico)</Portuguese>
 				<Korean>UH-80 Ghost Hawk (의료)</Korean>
 				<Chinesesimp>UH-80 Ghost Hawk（医疗）</Chinesesimp>
@@ -275,7 +275,7 @@
 				<Turkish>Shukhov AR-2</Turkish>
 			</Key>
 			<Key ID="STR_A3_A_CfgVehicles_O_R_UAV_01_backpack_F0">
-				<Original>UAV Bag (AR-2) [Russia]</Original>
+				<Original>UAV Bag [RU] (AR-2)</Original>
 				<Chinese>無人機袋子（AR-2）（俄國）</Chinese>
 				<French>Sac drone (AR-2) [Russie]</French>
 				<Spanish>Bolsa de VANT (AR-2) [Rusia]</Spanish>
@@ -284,7 +284,7 @@
 				<Russian>Сумка для БПЛА (AR-2) [Россия]</Russian>
 				<German>UAV-Tasche (AR-2) [Russland]</German>
 				<Czech>UAV vak (AR-2) [Rusko]</Czech>
-				<English>UAV Bag (AR-2) [Russia]</English>
+				<English>UAV Bag [RU] (AR-2)</English>
 				<Portuguese>Compartimento de VANT (AR-2) [Rússia]</Portuguese>
 				<Korean>UAV 가방 (AR-2) [러시아]</Korean>
 				<Chinesesimp>UAV 包（AR-2）[俄国]</Chinesesimp>
@@ -360,7 +360,7 @@
 				<Turkish>Sokol 3T</Turkish>
 			</Key>
 			<Key ID="STR_A3_A_CfgVehicles_C_IDAP_UAV_06_medical_backpack_F0">
-				<Original>UAV Bag (Utility, Medical) [IDAP]</Original>
+				<Original>UAV Bag [IDAP] (Utility, Medical)</Original>
 				<Chinese>無人機袋子（通用，醫療用）（IDAP）</Chinese>
 				<French>Sac drone (utilitaire, médical) [IDAP]</French>
 				<Spanish>Bolsa de VANT (apoyo, médico) [IDAP]</Spanish>
@@ -369,7 +369,7 @@
 				<Russian>Сумка для БПЛА (служ., мед.) [IDAP]</Russian>
 				<German>UAV-Tasche (Versorgung, Medizin) [IDAP]</German>
 				<Czech>UAV vak (užitkový, zdravotnický) [IDAP]</Czech>
-				<English>UAV Bag (Utility, Medical) [IDAP]</English>
+				<English>UAV Bag [IDAP] (Utility, Medical)</English>
 				<Portuguese>Bolsa VANT (utilidade, médica) [IDAP]</Portuguese>
 				<Korean>UAV 가방 (다목적, 의료) [IDAP]</Korean>
 				<Chinesesimp>UAV 包（多用途，医疗）[IDAP]</Chinesesimp>
@@ -445,7 +445,7 @@
 				<Turkish>AL-6 Çantası [CSAT Pasifik]</Turkish>
 			</Key>
 			<Key ID="STR_A3_A_CfgVehicles_Box_O_R_UAV_06_F0">
-				<Original>AL-6 Case [Russia]</Original>
+				<Original>AL-6 Case [RU]</Original>
 				<Chinese>AL-6 外箱（俄國）</Chinese>
 				<French>Mallette AL-6 [Russie]</French>
 				<Spanish>Compartimento de AL-6 [Rusia]</Spanish>
@@ -454,7 +454,7 @@
 				<Russian>AL-6 Case [Россия]</Russian>
 				<German>AL-6-Koffer [Russland]</German>
 				<Czech>Bedna na AL-6 [Rusko]</Czech>
-				<English>AL-6 Case [Russia]</English>
+				<English>AL-6 Case [RU]</English>
 				<Portuguese>Caixa de AL-6 [Rússia]</Portuguese>
 				<Korean>AL-6 Case [러시아]</Korean>
 				<Chinesesimp>AL-6 箱 [俄国]</Chinesesimp>
@@ -462,7 +462,7 @@
 				<Turkish>AL-6 Çantası [Rusya]</Turkish>
 			</Key>
 			<Key ID="STR_A3_A_CfgVehicles_Box_B_A_UAV_06_F0">
-				<Original>AL-6 Case [NATO British]</Original>
+				<Original>AL-6 Case [BAF]</Original>
 				<Chinese>AL-6 外箱（NATO 英國的）</Chinese>
 				<French>Mallette AL-6 [OTAN Britanique]</French>
 				<Spanish>Compartimento de AL-6 [OTAN, Británico]</Spanish>
@@ -471,7 +471,7 @@
 				<Russian>AL-6 Case [НАТО, Британская]</Russian>
 				<German>AL-6-Koffer [NATO Britisch]</German>
 				<Czech>Bedna na AL-6 [NATO Britský]</Czech>
-				<English>AL-6 Case [NATO British]</English>
+				<English>AL-6 Case [BAF]</English>
 				<Portuguese>Caixa de AL-6 [OTAN Britânico]</Portuguese>
 				<Korean>AL-6 Case [NATO 영국인]</Korean>
 				<Chinesesimp>AL-6 箱 [北约英国的]</Chinesesimp>
@@ -547,7 +547,7 @@
 				<Turkish>AL-6 Çantası (Sıhhiye) [Rusya]</Turkish>
 			</Key>
 			<Key ID="STR_A3_A_CfgVehicles_Box_B_A_UAV_06_medical_F0">
-				<Original>AL-6 Case (Medical) [NATO British]</Original>
+				<Original>AL-6 Case (Medical) [BAF]</Original>
 				<Chinese>AL-6 外箱（醫療用）（NATO 英國的）</Chinese>
 				<French>Mallette AL-6 (médical) [OTAN Britanique]</French>
 				<Spanish>Compartimento de AL-6 (médico) [OTAN, Británico]</Spanish>
@@ -556,7 +556,7 @@
 				<Russian>AL-6 Case (медицинский) [НАТО, Британская]</Russian>
 				<German>AL-6-Koffer (Medizin) [NATO Britisch]</German>
 				<Czech>Bedna na AL-6 (zdravotnický) [NATO Britský]</Czech>
-				<English>AL-6 Case (Medical) [NATO British]</English>
+				<English>AL-6 Case (Medical) [BAF]</English>
 				<Portuguese>Caixa de AL-6 (médico) [OTAN Britânico]</Portuguese>
 				<Korean>AL-6 Case (의무) [NATO 영국인]</Korean>
 				<Chinesesimp>AL-6 箱（医疗）[北约英国的]</Chinesesimp>
@@ -4857,8 +4857,75 @@
 				</Key>
 			</Container>
 			<Container name="Uniforms">
+				<Key ID="STR_LXWS_UNIFORM_nato_cfatiguesRecon">
+					<Original>Combat Fatigues [US] (Desert, Rolled-Up)</Original>
+					<English>Combat Fatigues [US] (Desert, Rolled-Up)</English>
+					<French>Uniforme de reconnaissance (désert)</French>
+					<German>Aufklärer-Anzug (Wüste)</German>
+					<Italian>Uniforme da ricognizione (deserto)</Italian>
+					<Portuguese>Uniforme de batedor (Deserto)</Portuguese>
+					<Spanish>Uniforme de reconocimiento (desierto)</Spanish>
+					<Chinesesimp>侦察兵服（沙漠）</Chinesesimp>
+					<Russian>Форма разведки (пустыня)</Russian>
+				</Key>*/
+				<Key ID="STR_LXWS_UNIFORM_nato_cfatigues">
+					<Original>Combat Fatigues [US] (Desert)</Original>
+					<English>Combat Fatigues [US] (Desert)</English>
+					<French>Uniforme de combat (désert)</French>
+					<German>Kampfanzug (Wüste)</German>
+					<Italian>Uniforme da combattimento (deserto)</Italian>
+					<Portuguese>Uniforme de combate (Deserto)</Portuguese>
+					<Spanish>Uniforme de combate (desierto)</Spanish>
+					<Chinesesimp>作战服（沙漠）</Chinesesimp>
+					<Russian>Полевая форма (пустыня)</Russian>
+				</Key>
+				<Key ID="STR_LXWS_UNIFORM_nato_cfatiguesTee">
+					<Original>Combat Fatigues [US] (Desert, Tee)</Original>
+					<English>Combat Fatigues [US] (Desert, Tee)</English>
+					<French>Uniforme de combat (désert) (t-shirt)</French>
+					<German>Kampfanzug (Wüste, T-Shirt)</German>
+					<Italian>Uniforme da combattimento (deserto) (maniche corte)</Italian>
+					<Portuguese>Uniforme de combate (Deserto, camiseta)</Portuguese>
+					<Spanish>Uniforme de combate (desierto, camiseta)</Spanish>
+					<Chinesesimp>作战服（沙漠）（T 恤）</Chinesesimp>
+					<Russian>Полевая форма (пустыня) (футболка)</Russian>
+				</Key>
+				<Key ID="STR_A3_uniform_stavrou0">
+					<Original>Guerilla Fatigues (Stavrou)</Original>
+					<Chinese>戰鬥服（Stavrou）</Chinese>
+					<French>Treillis (Stavrou)</French>
+					<Spanish>Traje de combate (Stavrou)</Spanish>
+					<Italian>Uniforme da combattimento (Stavrou)</Italian>
+					<Polish>Kombinezon bojowy (Stavrou)</Polish>
+					<Russian>Боевая форма (Ставру)</Russian>
+					<German>Kampfanzug (Stavrou)</German>
+					<Czech>Bojová uniforma (Stavrou)</Czech>
+					<English>Guerilla Fatigues (Stavrou)</English>
+					<Portuguese>Uniforme de combate (Stavrou)</Portuguese>
+					<Korean>전투병 전투복(스타브로우)</Korean>
+					<Chinesesimp>作战服 (Stavrou)</Chinesesimp>
+					<Japanese>戦闘服（スタヴロウ）</Japanese>
+					<Turkish>Savaş Asker Kıyafeti (Stavrou)</Turkish>
+				</Key>
+				<Key ID="str_a3_combat_fatigues">
+					<Original>Combat Fatigues [US] (MTP)</Original>
+					<Chinese>作戰戰鬥服（多地形共用）</Chinese>
+					<French>Treillis (MTP)</French>
+					<Spanish>Traje de combate (MTP)</Spanish>
+					<Italian>Uniforme da combattimento (mimetico MTP)</Italian>
+					<Polish>Mundur bojowy (MTP)</Polish>
+					<Russian>Боевая форма (MTP)</Russian>
+					<German>Kampfanzug (MTP)</German>
+					<Czech>Bojová uniforma (MTP)</Czech>
+					<English>Combat Fatigues [US] (MTP)</English>
+					<Portuguese>Uniforme de combate (MTP)</Portuguese>
+					<Korean>전투병 전투복(MTP)</Korean>
+					<Chinesesimp>作战服（MTP）</Chinesesimp>
+					<Japanese>戦闘服（MTP）</Japanese>
+					<Turkish>Savaş Asker Kıyafeti (MTP)</Turkish>
+				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_CombatUniform_mcam_tshirt0">
-					<Original>Combat Fatigues (MTP, Tee)</Original>
+					<Original>Combat Fatigues [US] (MTP, Tee)</Original>
 					<Chinese>作戰戰鬥服（多地形共用，T 恤）</Chinese>
 					<French>Treillis (MTP, T-shirt)</French>
 					<Spanish>Traje de combate (MTP, camiseta)</Spanish>
@@ -4867,7 +4934,7 @@
 					<Russian>Боевая форма (MTP, Tee)</Russian>
 					<German>Kampfanzug (MTP, T-Shirt)</German>
 					<Czech>Bojová uniforma (MTP, triko)</Czech>
-					<English>Combat Fatigues (MTP, Tee)</English>
+					<English>Combat Fatigues [US] (MTP, Tee)</English>
 					<Portuguese>Uniforme de combate (MTP, camisa)</Portuguese>
 					<Korean>전투병 전투복(MTP, 티)</Korean>
 					<Chinesesimp>作战服（MTP，T 字形）</Chinesesimp>
@@ -4875,7 +4942,7 @@
 					<Turkish>Savaş Asker Kıyafeti (MTP, Tişört)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_CombatUniform_mcam_vest0">
-					<Original>Combat Fatigues (MTP, Rolled-up)</Original>
+					<Original>Combat Fatigues [US] (MTP, Rolled-up)</Original>
 					<Chinese>作戰戰鬥服（多地形共用，捲起）</Chinese>
 					<French>Treillis de combat (MTP, manches retroussées)</French>
 					<Spanish>Traje de combate (MTP, arremangado)</Spanish>
@@ -4884,7 +4951,7 @@
 					<Russian>Полевая форма (MTP, рукава)</Russian>
 					<German>Kampfanzug (MTP, Hochgekrempelt)</German>
 					<Czech>Bojová uniforma (MTP, vyhrnutá)</Czech>
-					<English>Combat Fatigues (MTP, Rolled-up)</English>
+					<English>Combat Fatigues [US] (MTP, Rolled-up)</English>
 					<Portuguese>Trajes de combate (MTP, manga dobrada)</Portuguese>
 					<Korean>전투병 전투복(MTP, 롤업)</Korean>
 					<Chinesesimp>战斗迷彩服（MTP，卷起）</Chinesesimp>
@@ -5028,7 +5095,7 @@
 					<Turkish>Giyilmiş Kıyafetler (Sarı)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_T_Soldier_SL_F0">
-					<Original>Combat Fatigues (Tropic, Rolled-up)</Original>
+					<Original>Combat Fatigues [US] (MTP-T, Rolled-up)</Original>
 					<Chinese>作戰戰鬥服（熱帶，捲起）</Chinese>
 					<French>Treillis de combat (tropiques, manches retroussées)</French>
 					<Spanish>Traje de combate (tropical, arremangado)</Spanish>
@@ -5037,7 +5104,7 @@
 					<Russian>Полевая форма (тропики, рукава)</Russian>
 					<German>Kampfanzug (tropisch, Hochgekrempelt)</German>
 					<Czech>Bojová uniforma (tropická, vyhrnutá)</Czech>
-					<English>Combat Fatigues (Tropic, Rolled-up)</English>
+					<English>Combat Fatigues [US] (MTP-T, Rolled-up)</English>
 					<Portuguese>Trajes de combate (tropical, manga dobrada)</Portuguese>
 					<Korean>전투병 전투복(열대, 롤업)</Korean>
 					<Chinesesimp>战斗迷彩服（热带，卷起）</Chinesesimp>
@@ -5131,23 +5198,57 @@
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_CTRG_Soldier_3_Black_F0">
 					<Original>CTRG Stealth Uniform (Black, Rolled-up)</Original>
-					<Chinese>CTRG 潛行制服（Black，捲起）</Chinese>
-					<French>Uniforme furtif CTRG (Black, manches retroussées)</French>
-					<Spanish>Uniforme de sigilo de CTRG (Black, arremangado)</Spanish>
-					<Italian>Uniforme stealth CTRG (Black, maniche arrotolate)</Italian>
-					<Polish>Mundur maskujący CTRG (Black, podwinięty)</Polish>
-					<Russian>Камуфляж. форма CTRG (Black, рукава)</Russian>
-					<German>CTRG-Tarn-Uniform (Black, Hochgekrempelt)</German>
-					<Czech>Uniforma CTRG na skrytou činnost (Black, vyhrnutá)</Czech>
+					<Chinese>CTRG 潛行制服（Black，T 恤）</Chinese>
+					<French>Uniforme furtif CTRG (Black, t-shirt)</French>
+					<Spanish>Uniforme de sigilo de CTRG (Black, camiseta)</Spanish>
+					<Italian>Uniforme stealth CTRG (Black, maniche corte)</Italian>
+					<Polish>Mundur maskujący CTRG (Black, podkoszulek)</Polish>
+					<Russian>Камуфляж. форма CTRG (Black, футболка)</Russian>
+					<German>CTRG-Tarn-Uniform (Black, T-Shirt)</German>
+					<Czech>Uniforma CTRG na skrytou činnost (Black, triko)</Czech>
 					<English>CTRG Stealth Uniform (Black, Rolled-up)</English>
-					<Portuguese>Uniforme urbano camuflado CTRG (Black, manga dobrada)</Portuguese>
-					<Korean>CTRG 은신 유니폼(Black, 롤업)</Korean>
-					<Chinesesimp>CTRG 隐形制服（Black，卷起）</Chinesesimp>
-					<Japanese>CTRGステルス戦闘服（Black、袖まくり）</Japanese>
-					<Turkish>CTRG Gizlilik Üniforması (Black, Kolları Kıvrık)</Turkish>
+					<Portuguese>Uniforme urbano camuflado CTRG (Black, camiseta)</Portuguese>
+					<Korean>CTRG 은신 유니폼(Black, 티)</Korean>
+					<Chinesesimp>CTRG 隐形制服（Black，T 恤）</Chinesesimp>
+					<Japanese>CTRGステルス戦闘服（Black、Tシャツ）</Japanese>
+					<Turkish>CTRG Gizlilik Üniforması (Black, Tişört)</Turkish>
 				</Key>
-				<Key ID="STR_A3_A_CfgWeapons_U_B_CombatUniform_vest_mcam_wdl_f0">
-					<Original>Combat Fatigues (Woodland, Rolled-up)</Original>
+				<Key ID="str_a3_c_cfgweapons_u_b_combatuniform_tshirt_mcam_wdl_f0">
+					<Original>Combat Fatigues [US] (MTP-W, Tee)</Original>
+					<English>Combat Fatigues [US] (MTP-W, Tee)</English>
+					<Czech>Bojová uniforma (lesní, tričko)</Czech>
+					<German>Kampfanzug (Waldtarn, T-Shirt)</German>
+					<Russian>Полевая форма (лесная, футболка)</Russian>
+					<Polish>Mundur polowy (leśny, podkoszulek)</Polish>
+					<Italian>Unif. combattimento (bosco, man. corte)</Italian>
+					<Spanish>Ropa de combate (bosque, camiseta)</Spanish>
+					<French>Uniforme de combat (forêt, t-shirt)</French>
+					<Chinese>偵查戰鬥服（林地，T 恤）</Chinese>
+					<Japanese>戦闘服（森林、T シャツ）</Japanese>
+					<Korean>전투복 (삼림, 티셔츠)</Korean>
+					<Portuguese>Uniforme de combate (floresta, camiseta)</Portuguese>
+					<Chinesesimp>作战服（林地，T 恤）</Chinesesimp>
+					<Turkish>Savaş Asker Kıyafeti (Orman, Tişört)</Turkish>
+				</Key>
+					<Key ID="str_a3_c_cfgweapons_u_b_combatuniform_mcam_wdl_f0">
+					<Original>Combat Fatigues [US] (MTP-W)</Original>
+					<English>Combat Fatigues [US] (MTP-W)</English>
+					<Czech>Bojová uniforma (lesní)</Czech>
+					<German>Kampfanzug (Waldtarn)</German>
+					<Russian>Полевая форма (лесная)</Russian>
+					<Polish>Mundur polowy (leśny)</Polish>
+					<Italian>Uniforme da combattimento (bosco)</Italian>
+					<Spanish>Ropa de combate (bosque)</Spanish>
+					<French>Uniforme de combat (forêt)</French>
+					<Chinese>作戰戰鬥服（林地）</Chinese>
+					<Japanese>戦闘服（森林）</Japanese>
+					<Korean>전투복 (삼림)</Korean>
+					<Portuguese>Uniforme de combate (floresta)</Portuguese>
+					<Chinesesimp>作战服（林地）</Chinesesimp>
+					<Turkish>Savaş Asker Kıyafeti (Orman)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_U_B_CombatUniform_tshirt_mcam_wdl_f0">
+					<Original>Combat Fatigues [US] (MTP-W, Tee)</Original>
 					<Chinese>作戰戰鬥服（森林，捲起）</Chinese>
 					<French>Treillis de combat (forêt, manches retroussées)</French>
 					<Spanish>Traje de combate (bosque, arremangado)</Spanish>
@@ -5156,12 +5257,63 @@
 					<Russian>Полевая форма (лес, рукава)</Russian>
 					<German>Kampfanzug (Waldland, Hochgekrempelt)</German>
 					<Czech>Bojová uniforma (woodland, vyhrnutá)</Czech>
-					<English>Combat Fatigues (Woodland, Rolled-up)</English>
+					<English>Combat Fatigues [US] (MTP-W, Tee)</English>
 					<Portuguese>Trajes de combate (floresta, manga dobrada)</Portuguese>
 					<Korean>전투병 전투복(산악, 롤업)</Korean>
 					<Chinesesimp>战斗迷彩服（林地，卷起）</Chinesesimp>
 					<Japanese>戦闘服（森林、袖まくり）</Japanese>
 					<Turkish>Savaş Asker Kıyafeti (Ağaçlık, Kolları Kıvrık)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_U_B_CombatUniform_vest_mcam_wdl_f0">
+					<Original>Combat Fatigues [US] (MTP-W, Rolled-up)</Original>
+					<Chinese>作戰戰鬥服（森林，捲起）</Chinese>
+					<French>Treillis de combat (forêt, manches retroussées)</French>
+					<Spanish>Traje de combate (bosque, arremangado)</Spanish>
+					<Italian>Uniforme da combattimento (boschi, maniche arrotolate)</Italian>
+					<Polish>Mundur bojowy (las, podwinięty)</Polish>
+					<Russian>Полевая форма (лес, рукава)</Russian>
+					<German>Kampfanzug (Waldland, Hochgekrempelt)</German>
+					<Czech>Bojová uniforma (woodland, vyhrnutá)</Czech>
+					<English>Combat Fatigues [US] (MTP-W, Rolled-up)</English>
+					<Portuguese>Trajes de combate (floresta, manga dobrada)</Portuguese>
+					<Korean>전투병 전투복(산악, 롤업)</Korean>
+					<Chinesesimp>战斗迷彩服（林地，卷起）</Chinesesimp>
+					<Japanese>戦闘服（森林、袖まくり）</Japanese>
+					<Turkish>Savaş Asker Kıyafeti (Ağaçlık, Kolları Kıvrık)</Turkish>
+				</Key>
+				<Key ID="str_a3_u_bt_soldier_f_0">
+					<Original>Combat Fatigues [US] (MTP-T)</Original>
+					<Chinese>作戰戰鬥服（熱帶）</Chinese>
+					<French>Treillis de combat (tropiques)</French>
+					<Spanish>Traje de combate (tropical)</Spanish>
+					<Italian>Uniforme da combattimento (tropicale)</Italian>
+					<Polish>Mundur bojowy (tropik)</Polish>
+					<Russian>Полевая форма (тропики)</Russian>
+					<German>Kampfanzug (tropisch)</German>
+					<Czech>Bojová uniforma (tropická)</Czech>
+					<English>Combat Fatigues [US] (MTP-T)</English>
+					<Portuguese>Trajes de combate (tropical)</Portuguese>
+					<Korean>전투병 전투복(열대)</Korean>
+					<Chinesesimp>战斗迷彩服（热带）</Chinesesimp>
+					<Japanese>戦闘服（熱帯）</Japanese>
+					<Turkish>Savaş Asker Kıyafeti (Tropik)</Turkish>
+				</Key>
+					<Key ID="str_a3_u_bt_soldier_ar_f_0">
+					<Original>Combat Fatigues [US] (MTP-T, Tee)</Original>
+					<Chinese>作戰戰鬥服（熱帶，T 恤）</Chinese>
+					<French>Treillis de combat (tropiques, t-shirt)</French>
+					<Spanish>Traje de combate (tropical, camiseta)</Spanish>
+					<Italian>Uniforme da combattimento (tropicale, maniche corte)</Italian>
+					<Polish>Mundur bojowy (tropik, koszulka)</Polish>
+					<Russian>Полевая форма (тропики, футболка)</Russian>
+					<German>Kampfanzug (tropisch, T-Shirt)</German>
+					<Czech>Bojová uniforma (tropická, triko)</Czech>
+					<English>Combat Fatigues [US] (MTP-T, Tee)</English>
+					<Portuguese>Trajes de combate (tropical, camiseta)</Portuguese>
+					<Korean>전투병 전투복(열대, 티)</Korean>
+					<Chinesesimp>战斗迷彩服（热带，T 恤）</Chinesesimp>
+					<Japanese>戦闘服（熱帯、Tシャツ）</Japanese>
+					<Turkish>Savaş Asker Kıyafeti (Tropik, Tişört)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_O_R_Gorka_01_black_F0">
 					<Original>Granit-S Suit</Original>
@@ -5487,7 +5639,7 @@
 					<Turkish>Hafif Asker Kıyafeti (Çöl Hex)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_GhillieSuit_wdl_f0">
-					<Original>Ghillie Suit (Woodland) [NATO]</Original>
+					<Original>Ghillie Suit [US] (MTP-W)</Original>
 					<Chinese>偽裝服（森林）（NATO）</Chinese>
 					<French>Combinaison de camouflage (Boisé) [OTAN]</French>
 					<Spanish>Camuflaje completo (bosque) [OTAN]</Spanish>
@@ -5496,7 +5648,7 @@
 					<Russian>Маскхалат (лес) [НАТО]</Russian>
 					<German>Ghillie-Anzug (Wald) [NATO]</German>
 					<Czech>Hejkal (woodland) [NATO]</Czech>
-					<English>Ghillie Suit (Woodland) [NATO]</English>
+					<English>Ghillie Suit [US] (MTP-W)</English>
 					<Portuguese>Traje ghillie (Floresta) [OTAN]</Portuguese>
 					<Korean>위장복(산악)[NATO]</Korean>
 					<Chinesesimp>吉利服（林地）[北约]</Chinesesimp>
@@ -5895,7 +6047,7 @@
           			<Turkish>Savaş Asker Kıyafeti [LDF] (Subay)</Turkish>
         		</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_UBACS_mtp_f0">
-					<Original>UBACS Combat Uniform (MTP)</Original>
+					<Original>Combat Uniform [BAF] (MTP)</Original>
 					<Chinese>UBACS 作戰服（多地形共用）</Chinese>
 					<French>Uniforme de combat UBACS (MTP)</French>
 					<Spanish>Uniforme de combate del UBACS (MTP)</Spanish>
@@ -5904,7 +6056,7 @@
 					<Russian>Боевая форма UBACS (MTP)</Russian>
 					<German>UBACS-Kampfuniform (MTP)</German>
 					<Czech>Bojová uniforma UBACS (MTP)</Czech>
-					<English>UBACS Combat Uniform (MTP)</English>
+					<English>Combat Uniform [BAF] (MTP)</English>
 					<Portuguese>Uniforme de combate UBACS (MTP)</Portuguese>
 					<Korean>UBACS 군복(MTP)</Korean>
 					<Chinesesimp>UBACS 作战服（MTP）</Chinesesimp>
@@ -5912,7 +6064,7 @@
 					<Turkish>UBACS Savaş Üniforması (MTP)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_UBACS_tshirt_mtp_f0">
-					<Original>UBACS Combat Uniform (MTP, Tee)</Original>
+					<Original>Combat Uniform [BAF] (MTP, Tee)</Original>
 					<Chinese>UBACS 作戰服（多地形共用，T 恤）</Chinese>
 					<French>Uniforme de combat UBACS (MTP, t-shirt)</French>
 					<Spanish>Uniforme de combate del UBACS (MTP, camiseta)</Spanish>
@@ -5921,7 +6073,7 @@
 					<Russian>Боевая форма UBACS (MTP, футболка)</Russian>
 					<German>UBACS-Kampfuniform (MTP, T-Shirt)</German>
 					<Czech>Bojová uniforma UBACS (MTP, triko)</Czech>
-					<English>UBACS Combat Uniform (MTP, Tee)</English>
+					<English>Combat Uniform [BAF] (MTP, Tee)</English>
 					<Portuguese>Uniforme de combate UBACS (MTP, camiseta)</Portuguese>
 					<Korean>UBACS 군복(MTP, 티셔츠)</Korean>
 					<Chinesesimp>UBACS 作战服（MTP，T 恤）</Chinesesimp>
@@ -5929,7 +6081,7 @@
 					<Turkish>UBACS Savaş Üniforması (MTP, Tişört)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_UBACS_vest_mtp_f0">
-					<Original>UBACS Combat Uniform (MTP, Rolled-up)</Original>
+					<Original>Combat Uniform [BAF] (MTP, Rolled-up)</Original>
 					<Chinese>UBACS 作戰服（多地形共用，捲袖）</Chinese>
 					<French>Uniforme de combat UBACS (MTP, manches retroussées)</French>
 					<Spanish>Uniforme de combate del UBACS (MTP, remangado)</Spanish>
@@ -5938,7 +6090,7 @@
 					<Russian>Боевая форма UBACS (MTP, закатанные рукава)</Russian>
 					<German>UBACS-Kampfuniform (MTP, hochgerollt)</German>
 					<Czech>Bojová uniforma UBACS (MTP, vyhrnutá)</Czech>
-					<English>UBACS Combat Uniform (MTP, Rolled-up)</English>
+					<English>Combat Uniform [BAF] (MTP, Rolled-up)</English>
 					<Portuguese>Uniforme de combate UBACS (MTP, manga dobrada)</Portuguese>
 					<Korean>UBACS 군복(MTP, 팔 걷음)</Korean>
 					<Chinesesimp>UBACS 作战服（MTP，卷起）</Chinesesimp>
@@ -5946,7 +6098,7 @@
 					<Turkish>UBACS Savaş Üniforması (MTP, Kolları Kıvrık)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_UBACS_tna_f0">
-					<Original>UBACS Combat Uniform (Tropic)</Original>
+					<Original>Combat Uniform [BAF] (MTP-T)</Original>
 					<Chinese>UBACS 作戰服（熱帶）</Chinese>
 					<French>Uniforme de combat UBACS (tropiques)</French>
 					<Spanish>Uniforme de combate del UBACS (tropical)</Spanish>
@@ -5955,7 +6107,7 @@
 					<Russian>Боевая форма UBACS (тропики)</Russian>
 					<German>UBACS-Kampfuniform (tropisch)</German>
 					<Czech>Bojová uniforma UBACS (tropický)</Czech>
-					<English>UBACS Combat Uniform (Tropic)</English>
+					<English>Combat Uniform [BAF] (MTP-T)</English>
 					<Portuguese>Uniforme de combate UBACS (tropical)</Portuguese>
 					<Korean>UBACS 군복(열대)</Korean>
 					<Chinesesimp>UBACS 作战服（热带）</Chinesesimp>
@@ -5963,7 +6115,7 @@
 					<Turkish>UBACS Savaş Üniforması (Tropik)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_UBACS_tshirt_tna_f0">
-					<Original>UBACS Combat Uniform (Tropic, Tee)</Original>
+					<Original>Combat Uniform [BAF] (MTP-T, Tee)</Original>
 					<Chinese>UBACS 作戰服（熱帶，T 恤）</Chinese>
 					<French>Uniforme de combat UBACS (tropiques, t-shirt)</French>
 					<Spanish>Uniforme de combate del UBACS (tropical, camiseta)</Spanish>
@@ -5972,7 +6124,7 @@
 					<Russian>Боевая форма UBACS (тропики, футболка)</Russian>
 					<German>UBACS-Kampfuniform (tropisch, T-Shirt)</German>
 					<Czech>Bojová uniforma UBACS (tropický, triko)</Czech>
-					<English>UBACS Combat Uniform (Tropic, Tee)</English>
+					<English>Combat Uniform [BAF] (MTP-T, Tee)</English>
 					<Portuguese>Uniforme de combate UBACS (tropical, camiseta)</Portuguese>
 					<Korean>UBACS 군복(열대, 티셔츠)</Korean>
 					<Chinesesimp>UBACS 作战服（热带，T 恤）</Chinesesimp>
@@ -5980,7 +6132,7 @@
 					<Turkish>UBACS Savaş Üniforması (Tropik, Tişört)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_UBACS_vest_tna_f0">
-					<Original>UBACS Combat Uniform (Tropic, Rolled-up)</Original>
+					<Original>Combat Uniform [BAF] (MTP-T, Rolled-up)</Original>
 					<Chinese>UBACS 作戰服（熱帶，捲袖）</Chinese>
 					<French>Uniforme de combat UBACS (tropiques, manches retroussées)</French>
 					<Spanish>Uniforme de combate del UBACS (tropical, remangado)</Spanish>
@@ -5989,7 +6141,7 @@
 					<Russian>Боевая форма UBACS (тропики, закатанные рукава)</Russian>
 					<German>UBACS-Kampfuniform (tropisch, hochgerollt)</German>
 					<Czech>Bojová uniforma UBACS (tropický, vyhrnutá)</Czech>
-					<English>UBACS Combat Uniform (Tropic, Rolled-up)</English>
+					<English>Combat Uniform [BAF] (MTP-T, Rolled-up)</English>
 					<Portuguese>Uniforme de combate UBACS (tropical, manga dobrada)</Portuguese>
 					<Korean>UBACS 군복(열대, 팔 걷음)</Korean>
 					<Chinesesimp>UBACS 作战服（热带，卷起）</Chinesesimp>
@@ -5997,7 +6149,7 @@
 					<Turkish>UBACS Savaş Üniforması (Tropik, Kolları Kıvrık)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_UBACS_wdl_f0">
-					<Original>UBACS Combat Uniform (Woodland)</Original>
+					<Original>Combat Uniform [BAF] (MTP-W)</Original>
 					<Chinese>UBACS 作戰服（森林）</Chinese>
 					<French>Uniforme de combat UBACS (forêt)</French>
 					<Spanish>Uniforme de combate del UBACS (bosque)</Spanish>
@@ -6006,7 +6158,7 @@
 					<Russian>Боевая форма UBACS (лес)</Russian>
 					<German>UBACS-Kampfuniform (Waldland)</German>
 					<Czech>Bojová uniforma UBACS (woodland)</Czech>
-					<English>UBACS Combat Uniform (Woodland)</English>
+					<English>Combat Uniform [BAF] (MTP-W)</English>
 					<Portuguese>Uniforme de combate UBACS (floresta)</Portuguese>
 					<Korean>UBACS 군복(산악)</Korean>
 					<Chinesesimp>UBACS 作战服（林地）</Chinesesimp>
@@ -6014,7 +6166,7 @@
 					<Turkish>UBACS Savaş Üniforması (Ağaçlık)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_UBACS_tshirt_wdl_f0">
-					<Original>UBACS Combat Uniform (Woodland, Tee)</Original>
+					<Original>Combat Uniform [BAF] (MTP-W, Tee)</Original>
 					<Chinese>UBACS 作戰服（森林，T 恤）</Chinese>
 					<French>Uniforme de combat UBACS (forêt, t-shirt)</French>
 					<Spanish>Uniforme de combate del UBACS (bosque, camiseta)</Spanish>
@@ -6023,7 +6175,7 @@
 					<Russian>Боевая форма UBACS (лес, футболка)</Russian>
 					<German>UBACS-Kampfuniform (Waldland, T-Shirt)</German>
 					<Czech>Bojová uniforma UBACS (woodland, triko)</Czech>
-					<English>UBACS Combat Uniform (Woodland, Tee)</English>
+					<English>Combat Uniform [BAF] (MTP-W, Tee)</English>
 					<Portuguese>Uniforme de combate UBACS (floresta, camiseta)</Portuguese>
 					<Korean>UBACS 군복(산악, 티셔츠)</Korean>
 					<Chinesesimp>UBACS 作战服（林地，T 恤）</Chinesesimp>
@@ -6031,7 +6183,7 @@
 					<Turkish>UBACS Savaş Üniforması (Ağaçlık, Tişört)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_UBACS_vest_wdl_f0">
-					<Original>UBACS Combat Uniform (Woodland, Rolled-up)</Original>
+					<Original>Combat Uniform [BAF] (MTP-W, Rolled-up)</Original>
 					<Chinese>UBACS 作戰服（森林，捲袖）</Chinese>
 					<French>Uniforme de combat UBACS (forêt, manches retroussées)</French>
 					<Spanish>Uniforme de combate del UBACS (bosque, remangado)</Spanish>
@@ -6040,7 +6192,7 @@
 					<Russian>Боевая форма UBACS (лес, закатанные рукава)</Russian>
 					<German>UBACS-Kampfuniform (Waldland, hochgerollt)</German>
 					<Czech>Bojová uniforma UBACS (woodland, vyhrnutá)</Czech>
-					<English>UBACS Combat Uniform (Woodland, Rolled-up)</English>
+					<English>Combat Uniform [BAF] (MTP-W, Rolled-up)</English>
 					<Portuguese>Uniforme de combate UBACS (floresta, manga dobrada)</Portuguese>
 					<Korean>UBACS 군복(산악, 팔 걷음)</Korean>
 					<Chinesesimp>UBACS 作战服（林地，卷起）</Chinesesimp>
@@ -6048,7 +6200,7 @@
 					<Turkish>UBACS Savaş Üniforması (Ağaçlık, Kolları Kıvrık)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_UBACS_blk_f0">
-					<Original>UBACS Combat Uniform (Black)</Original>
+					<Original>Combat Uniform [BAF] (Black)</Original>
 					<Chinese>UBACS 作戰服（黑）</Chinese>
 					<French>Uniforme de combat UBACS (Noir)</French>
 					<Spanish>Uniforme de combate del UBACS (Black)</Spanish>
@@ -6057,7 +6209,7 @@
 					<Russian>Боевая форма UBACS (черный)</Russian>
 					<German>UBACS-Kampfuniform (schwarz)</German>
 					<Czech>Bojová uniforma UBACS (černá)</Czech>
-					<English>UBACS Combat Uniform (Black)</English>
+					<English>Combat Uniform [BAF] (Black)</English>
 					<Portuguese>Uniforme de combate UBACS (Preto)</Portuguese>
 					<Korean>UBACS 군복(흑색)</Korean>
 					<Chinesesimp>UBACS 作战服（黑色）</Chinesesimp>
@@ -6065,7 +6217,7 @@
 					<Turkish>UBACS Savaş Üniforması (Siyah)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_UBACS_tshirt_blk_f0">
-					<Original>UBACS Combat Uniform (Black, Tee)</Original>
+					<Original>Combat Uniform [BAF] (Black, Tee)</Original>
 					<Chinese>UBACS 作戰服（黑，T 恤）</Chinese>
 					<French>Uniforme de combat UBACS (Noir, t-shirt)</French>
 					<Spanish>Uniforme de combate del UBACS (Black, camiseta)</Spanish>
@@ -6074,7 +6226,7 @@
 					<Russian>Боевая форма UBACS (черный, футболка)</Russian>
 					<German>UBACS-Kampfuniform (schwarz, T-Shirt)</German>
 					<Czech>Bojová uniforma UBACS (černá, triko)</Czech>
-					<English>UBACS Combat Uniform (Black, Tee)</English>
+					<English>Combat Uniform [BAF] (Black, Tee)</English>
 					<Portuguese>Uniforme de combate UBACS (Preto, camiseta)</Portuguese>
 					<Korean>UBACS 군복(흑색, 티셔츠)</Korean>
 					<Chinesesimp>UBACS 作战服（黑色，T 恤）</Chinesesimp>
@@ -6082,7 +6234,7 @@
 					<Turkish>UBACS Savaş Üniforması (Siyah, Tişört)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_U_B_UBACS_vest_blk_f0">
-					<Original>UBACS Combat Uniform (Black, Rolled-up)</Original>
+					<Original>Combat Uniform [BAF] (Black, Rolled-up)</Original>
 					<Chinese>UBACS 作戰服（黑，捲袖）</Chinese>
 					<French>Uniforme de combat UBACS (Noir, manches retroussées)</French>
 					<Spanish>Uniforme de combate del UBACS (Black, remangado)</Spanish>
@@ -6091,7 +6243,7 @@
 					<Russian>Боевая форма UBACS (черный, закатанные рукава)</Russian>
 					<German>UBACS-Kampfuniform (schwarz, hochgerollt)</German>
 					<Czech>Bojová uniforma UBACS (černá, vyhrnutá)</Czech>
-					<English>UBACS Combat Uniform (Black, Rolled-up)</English>
+					<English>Combat Uniform [BAF] (Black, Rolled-up)</English>
 					<Portuguese>Uniforme de combate UBACS (Preto, manga dobrada)</Portuguese>
 					<Korean>UBACS 군복(흑색, 팔 걷음)</Korean>
 					<Chinesesimp>UBACS 作战服（黑色，卷起）</Chinesesimp>
@@ -6354,6 +6506,159 @@
 					<Chinesesimp>轻便背心（MTP）</Chinesesimp>
 					<Japanese>キャリア・ライト（MTP）</Japanese>
 					<Turkish>Hafif Taşıyıcı (MTP)</Turkish>
+				</Key>
+				<Key ID="str_a3_v_platecarrierspec_tna_f0">
+					<Original>Carrier Special Rig (MTP-T)</Original>
+					<Chinese>負載特製外掛（熱帶）</Chinese>
+					<French>Gilet modulable spécial (tropiques)</French>
+					<Spanish>Cartuchera especial (tropical)</Spanish>
+					<Italian>Equipaggiamento speciale (tropicale)</Italian>
+					<Polish>Kamizelka specjalna (tropik)</Polish>
+					<Russian>Специальный жилет (тропики)</Russian>
+					<German>Träger-Spezial-Aufsatz (Tropen)</German>
+					<Czech>Nosič plátů speciální (tropický)</Czech>
+					<English>Carrier Special Rig (MTP-T)</English>
+					<Portuguese>Traje transportador especial (tropical)</Portuguese>
+					<Korean>캐리어 스페셜 리그(열대)</Korean>
+					<Chinesesimp>航母专用装备（热带）</Chinesesimp>
+					<Japanese>キャリア特殊リグ（熱帯）</Japanese>
+					<Turkish>Taşıyıcı Özel Yelek (Tropik)</Turkish>
+				</Key>
+					<Key ID="str_a3_v_platecarriergl_tna_f0">
+					<Original>Carrier GL Rig (MTP-T)</Original>
+					<Chinese>GL 負載外掛（熱帶）</Chinese>
+					<French>Gilet modulable pour grenadier (tropiques)</French>
+					<Spanish>Cartuchera de GL (tropical)</Spanish>
+					<Italian>Equipaggiamento per lanciagranate (tropicale)</Italian>
+					<Polish>Uprząż grenadiera (tropik)</Polish>
+					<Russian>Жилет гранатометчика (тропики)</Russian>
+					<German>Träger-GL-Aufsatz (Tropen)</German>
+					<Czech>Nosič plátů GL (tropický)</Czech>
+					<English>Carrier GL Rig (MTP-T)</English>
+					<Portuguese>Traje transportador de LG (tropical)</Portuguese>
+					<Korean>캐리어 GL 리그(열대)</Korean>
+					<Chinesesimp>航母 GL 装备（热带）</Chinesesimp>
+					<Japanese>キャリアGLリグ（熱帯）</Japanese>
+					<Turkish>Taşıyıcı GL Yelek (Tropik)</Turkish>
+				</Key>
+				<Key ID="str_a3_u_bt_sniper_f0">
+					<Original>Ghillie Suit [US] (MTP-T)</Original>
+					<Chinese>偽裝服（熱帶）（NATO）</Chinese>
+					<French>Combinaison de camouflage (tropicale) [OTAN]</French>
+					<Spanish>Camuflaje completo (tropical) [OTAN]</Spanish>
+					<Italian>Tuta mimetica ghillie (tropicale) [NATO]</Italian>
+					<Polish>Ghillie (tropik) [NATO]</Polish>
+					<Russian>Маскхалат (тропики) [НАТО]</Russian>
+					<German>Ghillie-Anzug (Tropen) [NATO]</German>
+					<Czech>Hejkal (tropický) [NATO]</Czech>
+					<English>Ghillie Suit [US] (MTP-T)</English>
+					<Portuguese>Traje ghillie (tropical) [OTAN]</Portuguese>
+					<Korean>위장복(열대)[NATO]</Korean>
+					<Chinesesimp>吉利服（热带）[北约]</Chinesesimp>
+					<Japanese>ギリースーツ（熱帯）[NATO]</Japanese>
+					<Turkish>Ghillie Kostümü (Tropik) [NATO]</Turkish>
+				</Key>
+				<Key ID="str_a3_ghillie_suit">
+					<Original>Ghillie Suit [US] (MTP)</Original>
+					<Chinese>偽裝服（NATO）</Chinese>
+					<French>Combinaison de camouflage [OTAN]</French>
+					<Spanish>Traje de camuflaje [OTAN]</Spanish>
+					<Italian>Mimetica da cecchino [NATO]</Italian>
+					<Polish>Ghillie [NATO]</Polish>
+					<Russian>Маскировочный костюм [НАТО]</Russian>
+					<German>Ghillie-Anzug [NATO]</German>
+					<Czech>Hejkal [NATO]</Czech>
+					<English>Ghillie Suit [US] (MTP)</English>
+					<Portuguese>Traje ghillie [OTAN]</Portuguese>
+					<Korean>위장복[NATO]</Korean>
+					<Chinesesimp>吉利服 [NATO]</Chinesesimp>
+					<Japanese>ギリースーツ[NATO]</Japanese>
+					<Turkish>Ghillie Kostümü [NATO]</Turkish>
+				</Key>
+					<Key ID="str_a3_v_platecarrier1_tna0">
+					<Original>Carrier Lite (MTP-T)</Original>
+					<Chinese>輕型負載背心（熱帶）</Chinese>
+					<French>Gilet léger (tropiques)</French>
+					<Spanish>Cartuchera ligera (tropical)</Spanish>
+					<Italian>Equipaggiamento leggero (tropicale)</Italian>
+					<Polish>Lekka kamizelka (tropik)</Polish>
+					<Russian>Облегченный жилет (тропики)</Russian>
+					<German>Träger Leicht (Tropen)</German>
+					<Czech>Lehký nosič plátů (tropický)</Czech>
+					<English>Carrier Lite (MTP-T)</English>
+					<Portuguese>Transportador leve (tropical)</Portuguese>
+					<Korean>캐리어 라이트(열대)</Korean>
+					<Chinesesimp>航母轻装（热带）</Chinesesimp>
+					<Japanese>キャリア・ライト（熱帯）</Japanese>
+					<Turkish>Hafif Taşıyıcı (Tropik)</Turkish>
+				</Key>
+				<Key ID="str_a3_c_cfgweapons_v_platecarrierspec_wdl0">
+					<Original>Carrier Special Rig (MTP-W)</Original>
+					<English>Carrier Special Rig (MTP-W)</English>
+					<Czech>Nosič plátů speciální (lesní)</Czech>
+					<German>Spezieller Tragegurt (Waldtarn)</German>
+					<Russian>Специальный жилет (лесной)</Russian>
+					<Polish>Kamizelka specjalna (leśna)</Polish>
+					<Italian>Gilet tattico speciale (bosco)</Italian>
+					<Spanish>Cartuchera especial (bosque)</Spanish>
+					<French>Gilet modulable spécial (forêt)</French>
+					<Chinese>負載特製外掛（林地）</Chinese>
+					<Japanese>キャリア特殊リグ（森林）</Japanese>
+					<Korean>캐리어 특수 리그 (삼림)</Korean>
+					<Portuguese>Colete tático especial (floresta)</Portuguese>
+					<Chinesesimp>背心特殊装备（林地）</Chinesesimp>
+					<Turkish>Taşıyıcı Özel Yelek (Orman)</Turkish>
+				</Key>
+					<Key ID="str_a3_c_cfgweapons_v_platecarriergl_wdl0">
+					<Original>Carrier GL Rig (MTP-W)</Original>
+					<English>Carrier GL Rig (MTP-W)</English>
+					<Czech>Nosič plátů GL (lesní)</Czech>
+					<German>Granatwerfer-Tragegurt (Waldtarn)</German>
+					<Russian>Жилет гранатометчика (лесной)</Russian>
+					<Polish>Kamizelka grenadiera (leśna)</Polish>
+					<Italian>Gilet tattico GL (bosco)</Italian>
+					<Spanish>Cartuchera de GL (bosque)</Spanish>
+					<French>Gilet modulable grenadier (forêt)</French>
+					<Chinese>GL 負載外掛（林地）</Chinese>
+					<Japanese>キャリア GL リグ（森林）</Japanese>
+					<Korean>캐리어 GL 리그 (삼림)</Korean>
+					<Portuguese>Colete tático grande (floresta)</Portuguese>
+					<Chinesesimp>背心 GL 装备（林地）</Chinesesimp>
+					<Turkish>Taşıyıcı GL Yelek (Orman)</Turkish>
+				</Key>
+					<Key ID="str_a3_c_cfgweapons_v_platecarrier2_wdl0">
+					<Original>Carrier Rig (MTP-W)</Original>
+					<English>Carrier Rig (MTP-W)</English>
+					<Czech>Nosič plátů (lesní)</Czech>
+					<German>Tragegurt (Waldtarn)</German>
+					<Russian>Разгрузочный жилет (лесной)</Russian>
+					<Polish>Kamizelka taktyczna (leśna)</Polish>
+					<Italian>Gilet tattico (bosco)</Italian>
+					<Spanish>Cartuchera (bosque)</Spanish>
+					<French>Gilet modulable (forêt)</French>
+					<Chinese>負載外掛（林地）</Chinese>
+					<Japanese>キャリアリグ（森林）</Japanese>
+					<Korean>캐리어 리그 (삼림)</Korean>
+					<Portuguese>Colete tático (floresta)</Portuguese>
+					<Chinesesimp>背心装备（林地）</Chinesesimp>
+					<Turkish>Taşıyıcı Yelek (Orman)</Turkish>
+				</Key>
+					<Key ID="str_a3_c_cfgweapons_v_platecarrier1_wdl0">
+					<Original>Carrier Lite (MTP-W)</Original>
+					<English>Carrier Lite (MTP-W)</English>
+					<Czech>Lehký nosič plátů (lesní)</Czech>
+					<German>Leichter Tragegurt (Waldtarn)</German>
+					<Russian>Облегченный жилет (лесной)</Russian>
+					<Polish>Lekka kamizelka (leśna)</Polish>
+					<Italian>Equipaggiamento leggero (bosco)</Italian>
+					<Spanish>Cartuchera ligera (bosque)</Spanish>
+					<French>Gilet léger (forêt)</French>
+					<Chinese>輕型負載背心（林地）</Chinese>
+					<Japanese>キャリア・ライト（森林）</Japanese>
+					<Korean>캐리어 라이트 (삼림)</Korean>
+					<Portuguese>Colete tático leve (floresta)</Portuguese>
+					<Chinesesimp>轻便背心（林地）</Chinesesimp>
+					<Turkish>Hafif Taşıyıcı (Orman)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_V_PlateCarrier2_mtp0">
 					<Original>Carrier Rig (MTP)</Original>
@@ -12245,7 +12550,7 @@
 					<Turkish>İkmal Kutusu [Rusya]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_Box_A_NATO_Equip_F0">
-					<Original>Equipment Box [NATO British]</Original>
+					<Original>Equipment Box [BAF]</Original>
 					<Chinese>裝備盒（NATO 英國的）</Chinese>
 					<French>Caisse d'équipement [OTAN Britanique]</French>
 					<Spanish>Caja de equipamiento [OTAN, Británico]</Spanish>
@@ -12254,7 +12559,7 @@
 					<Russian>Ящик со снаряжением [НАТО, Британская]</Russian>
 					<German>Ausrüstungskiste [NATO Britisch]</German>
 					<Czech>Bedna s vybavením [NATO Britský]</Czech>
-					<English>Equipment Box [NATO British]</English>
+					<English>Equipment Box [BAF]</English>
 					<Portuguese>Caixa de Equipamentos [OTAN Britânico]</Portuguese>
 					<Korean>장비 상자[NATO 영국인]</Korean>
 					<Chinesesimp>设备箱 [北约英国的]</Chinesesimp>
@@ -12262,7 +12567,7 @@
 					<Turkish>Ekipman Kutusu [NATO İngiliz]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_Box_A_NATO_Uniforms_F0">
-					<Original>Uniforms Box [NATO British]</Original>
+					<Original>Uniforms Box [BAF]</Original>
 					<Chinese>制服盒（NATO 英國的）</Chinese>
 					<French>Caisse d'uniformes [OTAN Britanique]</French>
 					<Spanish>Caja de uniformes [OTAN, Británico]</Spanish>
@@ -12271,7 +12576,7 @@
 					<Russian>Ящик с формой [НАТО, Британская]</Russian>
 					<German>Uniformen-Kiste [NATO Britisch]</German>
 					<Czech>Bedna s uniformami [NATO Britský]</Czech>
-					<English>Uniforms Box [NATO British]</English>
+					<English>Uniforms Box [BAF]</English>
 					<Portuguese>Caixa de Uniformes [OTAN Britânico]</Portuguese>
 					<Korean>군복 상자[NATO 영국인]</Korean>
 					<Chinesesimp>制服箱 [北约英国的]</Chinesesimp>
@@ -12279,7 +12584,7 @@
 					<Turkish>Üniforma Kutusu [NATO İngiliz]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_Box_A_NATO_Wps_F0">
-					<Original>Basic Weapons [NATO British]</Original>
+					<Original>Basic Weapons [BAF]</Original>
 					<Chinese>基本武器（NATO 英國的）</Chinese>
 					<French>Armes standard [OTAN Britanique]</French>
 					<Spanish>Armas básicas [OTAN, Británico]</Spanish>
@@ -12288,7 +12593,7 @@
 					<Russian>Основное оружие [НАТО, Британская]</Russian>
 					<German>Standardwaffen [NATO Britisch]</German>
 					<Czech>Základní zbraně [NATO Britský]</Czech>
-					<English>Basic Weapons [NATO British]</English>
+					<English>Basic Weapons [BAF]</English>
 					<Portuguese>Armas Básicas [OTAN Britânico]</Portuguese>
 					<Korean>기본무기[NATO 영국인]</Korean>
 					<Chinesesimp>基本武器 [北约英国的]</Chinesesimp>
@@ -12296,7 +12601,7 @@
 					<Turkish>Temel Silahlar [NATO İngiliz]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_Box_A_NATO_WpsSpecial_F0">
-					<Original>Special Weapons [NATO British]</Original>
+					<Original>Special Weapons [BAF]</Original>
 					<Chinese>特殊武器（NATO 英國的）</Chinese>
 					<French>Armes spéciales [OTAN Britanique]</French>
 					<Spanish>Armas especiales [OTAN, Británico]</Spanish>
@@ -12305,7 +12610,7 @@
 					<Russian>Специальное оружие [НАТО, Британская]</Russian>
 					<German>Spezialwaffen [NATO Britisch]</German>
 					<Czech>Speciální zbraně [NATO Britský]</Czech>
-					<English>Special Weapons [NATO British]</English>
+					<English>Special Weapons [BAF]</English>
 					<Portuguese>Armas Especiais [OTAN Britânico]</Portuguese>
 					<Korean>특수무기[NATO 영국인]</Korean>
 					<Chinesesimp>特殊武器 [北约英国的]</Chinesesimp>
@@ -12313,7 +12618,7 @@
 					<Turkish>Özel Silahlar [NATO İngiliz]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_Box_A_NATO_Ammo_F0">
-					<Original>Basic Ammo [NATO British]</Original>
+					<Original>Basic Ammo [BAF]</Original>
 					<Chinese>基本彈藥（NATO 英國的）</Chinese>
 					<French>Munitions standard [OTAN Britanique]</French>
 					<Spanish>Munición básica [OTAN, Británico]</Spanish>
@@ -12322,7 +12627,7 @@
 					<Russian>Основные боеприпасы [НАТО, Британская]</Russian>
 					<German>Basismunition [NATO Britisch]</German>
 					<Czech>Základní munice [NATO Britský]</Czech>
-					<English>Basic Ammo [NATO British]</English>
+					<English>Basic Ammo [BAF]</English>
 					<Portuguese>Munição básica [OTAN Britânico]</Portuguese>
 					<Korean>기본탄약[NATO 영국인]</Korean>
 					<Chinesesimp>基本弹药 [北约英国的]</Chinesesimp>
@@ -12330,7 +12635,7 @@
 					<Turkish>Temel Mühimmat [NATO İngiliz]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_Box_A_NATO_AmmoOrd_F0">
-					<Original>Explosives [NATO British]</Original>
+					<Original>Explosives [BAF]</Original>
 					<Chinese>爆裂物（NATO 英國的）</Chinese>
 					<French>Explosifs [OTAN Britanique]</French>
 					<Spanish>Explosivos [OTAN, Británico]</Spanish>
@@ -12339,7 +12644,7 @@
 					<Russian>Взрывчатка [НАТО, Британская]</Russian>
 					<German>Sprengladungen [NATO Britisch]</German>
 					<Czech>Výbušniny [NATO Britský]</Czech>
-					<English>Explosives [NATO British]</English>
+					<English>Explosives [BAF]</English>
 					<Portuguese>Explosivos [OTAN Britânico]</Portuguese>
 					<Korean>폭발물[NATO 영국인]</Korean>
 					<Chinesesimp>炸药 [北约英国的]</Chinesesimp>
@@ -12347,7 +12652,7 @@
 					<Turkish>Patlayıcılar [NATO İngiliz]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_Box_A_NATO_Grenades_F0">
-					<Original>Grenades [NATO British]</Original>
+					<Original>Grenades [BAF]</Original>
 					<Chinese>手榴彈（NATO 英國的）</Chinese>
 					<French>Grenades [OTAN Britanique]</French>
 					<Spanish>Granadas [OTAN, Británico]</Spanish>
@@ -12356,7 +12661,7 @@
 					<Russian>Гранаты [НАТО, Британская]</Russian>
 					<German>Granaten [NATO Britisch]</German>
 					<Czech>Granáty [NATO Britský]</Czech>
-					<English>Grenades [NATO British]</English>
+					<English>Grenades [BAF]</English>
 					<Portuguese>Granadas [OTAN Britânico]</Portuguese>
 					<Korean>유탄[NATO 영국인]</Korean>
 					<Chinesesimp>枪榴弹 [北约英国的]</Chinesesimp>
@@ -12364,7 +12669,7 @@
 					<Turkish>El Bombaları [NATO İngiliz]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_Box_A_NATO_Support_F0">
-					<Original>Support [NATO British]</Original>
+					<Original>Support [BAF]</Original>
 					<Chinese>後勤物資（NATO 英國的）</Chinese>
 					<French>Appui [OTAN Britanique]</French>
 					<Spanish>Apoyo [OTAN, Británico]</Spanish>
@@ -12373,7 +12678,7 @@
 					<Russian>Поддержка [НАТО, Британская]</Russian>
 					<German>Unterstützung [NATO Britisch]</German>
 					<Czech>Podpora [NATO Britský]</Czech>
-					<English>Support [NATO British]</English>
+					<English>Support [BAF]</English>
 					<Portuguese>Suporte [OTAN Britânico]</Portuguese>
 					<Korean>지원[NATO 영국인]</Korean>
 					<Chinesesimp>支援 [北约英国的]</Chinesesimp>
@@ -12381,7 +12686,7 @@
 					<Turkish>Destek [NATO İngiliz]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_Box_A_NATO_WpsLaunch_F0">
-					<Original>Launchers [NATO British]</Original>
+					<Original>Launchers [BAF]</Original>
 					<Chinese>發射器（NATO 英國的）</Chinese>
 					<French>Lanceurs [OTAN Britanique]</French>
 					<Spanish>Lanzadores [OTAN, Británico]</Spanish>
@@ -12390,7 +12695,7 @@
 					<Russian>Пусковые установки [НАТО, Британская]</Russian>
 					<German>Werfer [NATO Britisch]</German>
 					<Czech>Raketomety [NATO Britský]</Czech>
-					<English>Launchers [NATO British]</English>
+					<English>Launchers [BAF]</English>
 					<Portuguese>Lançadores [OTAN Britânico]</Portuguese>
 					<Korean>발사기[NATO 영국인]</Korean>
 					<Chinesesimp>发射器 [北约英国的]</Chinesesimp>
@@ -12398,7 +12703,7 @@
 					<Turkish>Fırlatıcılar [NATO İngiliz]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_Box_A_NATO_AmmoVeh_F0">
-					<Original>Vehicle Ammo [NATO British]</Original>
+					<Original>Vehicle Ammo [BAF]</Original>
 					<Chinese>載具彈藥（NATO 英國的）</Chinese>
 					<French>Munitions pour véhicules [OTAN Britanique]</French>
 					<Spanish>Munición de vehículo [OTAN, Británico]</Spanish>
@@ -12407,7 +12712,7 @@
 					<Russian>Боеприпасы для техники [НАТО, Британская]</Russian>
 					<German>Fahrzeug-Munition [NATO Britisch]</German>
 					<Czech>Munice pro vozidla [NATO Britský]</Czech>
-					<English>Vehicle Ammo [NATO British]</English>
+					<English>Vehicle Ammo [BAF]</English>
 					<Portuguese>Munição veicular [OTAN Britânico]</Portuguese>
 					<Korean>차량 탄약[NATO 영국인]</Korean>
 					<Chinesesimp>车辆弹药 [北约英国的]</Chinesesimp>
@@ -12415,7 +12720,7 @@
 					<Turkish>Araç Mühimmatı [NATO İngiliz]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_B_A_supplyCrate_F0">
-					<Original>Supply Box [NATO British]</Original>
+					<Original>Supply Box [BAF]</Original>
 					<Chinese>補給盒（NATO 英國的）</Chinese>
 					<French>Caisse de ravitaillements [OTAN Britanique]</French>
 					<Spanish>Caja de suministros [OTAN, Británico]</Spanish>
@@ -12424,7 +12729,7 @@
 					<Russian>Ящик с припасами [НАТО, Британская]</Russian>
 					<German>Nachschubkiste [NATO Britisch]</German>
 					<Czech>Bedna se zásobami [NATO Britský]</Czech>
-					<English>Supply Box [NATO British]</English>
+					<English>Supply Box [BAF]</English>
 					<Portuguese>Caixa de Suprimentos [OTAN Britânico]</Portuguese>
 					<Korean>보급상자[NATO 영국인]</Korean>
 					<Chinesesimp>供给箱 [北约英国的]</Chinesesimp>
@@ -13439,7 +13744,7 @@
 					<Turkish>Kargo Ağı [Rusya]</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_B_A_CargoNet_01_ammo_F0">
-					<Original>Cargo Net [NATO British]</Original>
+					<Original>Cargo Net [BAF]</Original>
 					<Chinese>吊貨網（NATO 英國的）</Chinese>
 					<French>Filet de levage [OTAN Britanique]</French>
 					<Spanish>Red de carga [OTAN, Británico]</Spanish>
@@ -13448,7 +13753,7 @@
 					<Russian>Грузовая сетка [НАТО, Британская]</Russian>
 					<German>Transportnetz [NATO Britisch]</German>
 					<Czech>Nákladní síť [NATO Britský]</Czech>
-					<English>Cargo Net [NATO British]</English>
+					<English>Cargo Net [BAF]</English>
 					<Portuguese>Rede de carga [OTAN Britânico]</Portuguese>
 					<Korean>하역망 [NATO 영국인]</Korean>
 					<Chinesesimp>吊货网 [北约英国的]</Chinesesimp>
