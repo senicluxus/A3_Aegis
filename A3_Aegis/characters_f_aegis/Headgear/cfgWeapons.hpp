@@ -2352,7 +2352,7 @@ class CfgWeapons
 			"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetSpecter_01_cover_autumn_CO.paa"
 		};
 	};
-	/*class H_HelmetSpecter_cover_whex_CO: H_HelmetSpecter_cover_base_F
+	class H_HelmetSpecter_cover_whex_CO: H_HelmetSpecter_cover_base_F
 	{
 		author = $STR_A3_A_AveryTheKitty_Deathstruck_and_Midnas;
 		scope = protected;
@@ -2363,7 +2363,7 @@ class CfgWeapons
 			"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetSpecter_01_CO.paa",
 			"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetSpecter_cover_whex_CO.paa"
 		};
-	};*/
+	};
 	class H_HelmetSpecter_cover_khaki_F: H_HelmetSpecter_cover_base_F
 	{
 		author = $STR_A3_A_AveryTheKitty_Deathstruck_and_Midnas;
