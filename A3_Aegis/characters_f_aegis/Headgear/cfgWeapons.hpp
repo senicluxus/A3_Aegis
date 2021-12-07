@@ -2086,12 +2086,6 @@ class CfgWeapons
 		picture = "\A3_Aegis\Characters_F_Aegis\Headgear\Data\UI\icon_H_HeadSet_olive_F_CA.paa";
 		hiddenSelectionsTextures[] = {"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_Construction_Olive_CO.paa"};
 	};
-	class lxWS_H_PASGT_basic_UN_F: HelmetBase
-	{
-		displayName = $STR_A3_A_CfgWeapons_H_PASGT_basic_UNO_F0;
-		picture = "\A3_Aegis\Characters_F_Aegis\Headgear\Data\UI\icon_H_PASGT_basic_UNO_F_CA.paa";
-		hiddenSelectionsTextures[] = {"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_PASGT_UNO_CO.paa"};
-	};
 	class lxWS_H_PASGT_goggles_UN_F: HelmetBase
 	{
 		displayName = $STR_A3_A_CfgWeapons_H_PASGT_goggles_UNO_F0;
@@ -2099,6 +2093,12 @@ class CfgWeapons
 		hiddenSelectionsTextures[]= {
       	"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_PASGT_UNO_CO.paa",
       	"\lxws\characters_f_lxws\headgear\pmc\data\goggles_tactical_lxws_ca.paa"};
+	};
+	class lxWS_H_PASGT_basic_UN_F: HelmetBase
+	{
+		displayName = $STR_A3_A_CfgWeapons_H_PASGT_basic_UNO_F0;
+		picture = "\A3_Aegis\Characters_F_Aegis\Headgear\Data\UI\icon_H_PASGT_basic_UNO_F_CA.paa";
+		hiddenSelectionsTextures[] = {"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_PASGT_UNO_CO.paa"};
 	};
 	class lxWS_H_PASGT_goggles_olive_F : lxWS_H_PASGT_goggles_UN_F
 	{
@@ -2116,6 +2116,15 @@ class CfgWeapons
 		scope = public;
 		hiddenSelectionsTextures[] = {
 			"\A3\Characters_F_Orange\Headgear\Data\H_PASGT_olive_CO.paa",
+			"\lxws\characters_f_lxws\headgear\pmc\data\goggles_tactical_lxws_ca.paa"};
+	};
+	class H_PASGT_goggles_sand_F : lxWS_H_PASGT_goggles_UN_F
+	{
+		//picture = "\A3_Aegis\characters_f_aegis\headgear\data\UI\icon_H_PASGT_goggles_sand_F.paa";
+		displayName = $STR_A3_A_CfgWeapons_H_PASGT_goggles_sand_F0;
+		scope = public;
+		hiddenSelectionsTextures[] = {
+			"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_PASGT_sand_CO.paa",
 			"\lxws\characters_f_lxws\headgear\pmc\data\goggles_tactical_lxws_ca.paa"};
 	};
 	class H_PASGT_basic_green_F: H_PASGT_basic_base_F

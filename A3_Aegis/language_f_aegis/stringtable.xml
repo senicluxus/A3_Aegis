@@ -4345,6 +4345,23 @@
 					<Japanese>基本型ヘルメット（砂）</Japanese>
 					<Turkish>Temel Kask (Kum Rengi)</Turkish>
 				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_PASGT_goggles_sand_F0">
+					<Original>Basic Helmet (Sand, Goggles)</Original>
+					<Chinese>基本頭盔（沙色, Goggles）</Chinese>
+					<French>Casque de base (Sable, Goggles)</French>
+					<Spanish>Casco básico (arena, Goggles)</Spanish>
+					<Italian>Elmetto base (sabbia, Goggles)</Italian>
+					<Polish>Zwykły hełm (piaskowy, Goggles)</Polish>
+					<Russian>Обычный шлем (песочный, Goggles)</Russian>
+					<German>Standard-Helm (sandfarben, Goggles)</German>
+					<Czech>Základní helma (písek, Goggles)</Czech>
+					<English>Basic Helmet (Sand, Goggles)</English>
+					<Portuguese>Capacete básico (Areia, Goggles)</Portuguese>
+					<Korean>기본 헬멧(모래, Goggles)</Korean>
+					<Chinesesimp>基本头盔（沙色, Goggles）</Chinesesimp>
+					<Japanese>基本型ヘルメット（砂, Goggles）</Japanese>
+					<Turkish>Temel Kask (Kum Rengi, Goggles)</Turkish>
+				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_PASGT_basic_UNO_F0">
 					<Original>Basic Helmet (UN)</Original>
 					<Chinese>基本頭盔（UN）</Chinese>
