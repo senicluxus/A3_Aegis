@@ -4875,8 +4875,8 @@
 			</Container>
 			<Container name="Uniforms">
 				<Key ID="STR_LXWS_UNIFORM_nato_cfatiguesRecon">
-					<Original>Combat Fatigues [US] (Desert, Rolled-Up)</Original>
-					<English>Combat Fatigues [US] (Desert, Rolled-Up)</English>
+					<Original>Combat Fatigues [US] (MCU-D, Rolled-Up)</Original>
+					<English>Combat Fatigues [US] (MCU-D, Rolled-Up)</English>
 					<French>Uniforme de reconnaissance (désert)</French>
 					<German>Aufklärer-Anzug (Wüste)</German>
 					<Italian>Uniforme da ricognizione (deserto)</Italian>
@@ -4886,8 +4886,8 @@
 					<Russian>Форма разведки (пустыня)</Russian>
 				</Key>*/
 				<Key ID="STR_LXWS_UNIFORM_nato_cfatigues">
-					<Original>Combat Fatigues [US] (Desert)</Original>
-					<English>Combat Fatigues [US] (Desert)</English>
+					<Original>Combat Fatigues [US] (MCU-D)</Original>
+					<English>Combat Fatigues [US] (MCU-D)</English>
 					<French>Uniforme de combat (désert)</French>
 					<German>Kampfanzug (Wüste)</German>
 					<Italian>Uniforme da combattimento (deserto)</Italian>
@@ -4897,8 +4897,8 @@
 					<Russian>Полевая форма (пустыня)</Russian>
 				</Key>
 				<Key ID="STR_LXWS_UNIFORM_nato_cfatiguesTee">
-					<Original>Combat Fatigues [US] (Desert, Tee)</Original>
-					<English>Combat Fatigues [US] (Desert, Tee)</English>
+					<Original>Combat Fatigues [US] (MCU-D, Tee)</Original>
+					<English>Combat Fatigues [US] (MCU-D, Tee)</English>
 					<French>Uniforme de combat (désert) (t-shirt)</French>
 					<German>Kampfanzug (Wüste, T-Shirt)</German>
 					<Italian>Uniforme da combattimento (deserto) (maniche corte)</Italian>
@@ -6507,6 +6507,50 @@
 					<Japanese>バトルベルト（Olive）</Japanese>
 					<Turkish>Savaş kemeri (Zeytin Yeşili)</Turkish>
 				</Key>
+				<Key ID="STR_LXWS_CarrierGL_NATO">
+					<Original>Carrier GL Rig (MCU-D)</Original>
+					<English>Carrier GL Rig (MCU-D)</English>
+					<French>Gilet modulable grenadier (désert)</French>
+					<German>Granatwerfer-Tragegurt (Wüste)</German>
+					<Italian>Gilet tattico GL (deserto)</Italian>
+					<Portuguese>Colete tático GL (Deserto)</Portuguese>
+					<Spanish>Chaleco de carga LG (desierto)</Spanish>
+					<Chinesesimp>GL 胸挂携板背心（沙漠）</Chinesesimp>
+					<Russian>Жилет гранатометчика (пустыня)</Russian>
+				</Key>
+				<Key ID="STR_LXWS_CarrierLite_NATO">
+					<Original>Carrier Lite (MCU-D)</Original>
+					<English>Carrier Lite (MCU-D)</English>
+					<French>Gilet léger (désert)</French>
+					<German>Leichter Tragegurt (Wüste)</German>
+					<Italian>Equipaggiamento leggero (deserto)</Italian>
+					<Portuguese>Colete tático leve (Floresta)</Portuguese>
+					<Spanish>Chaleco de carga ligero (desierto)</Spanish>
+					<Chinesesimp>轻型携板背心（沙漠）</Chinesesimp>
+					<Russian>Облегченный жилет (пустыня)</Russian>
+				</Key>
+				<Key ID="STR_LXWS_CarrierRig_NATO">
+					<Original>Carrier Rig (MCU-D)</Original>
+					<English>Carrier Rig (MCU-D)</English>
+					<French>Gilet modulable léger (désert)</French>
+					<German>Tragegurt (Wüste)</German>
+					<Italian>Gilet tattico (deserto)</Italian>
+					<Portuguese>Colete tático (Floresta)</Portuguese>
+					<Spanish>Chaleco de carga (desierto)</Spanish>
+					<Chinesesimp>胸挂携板背心（沙漠）</Chinesesimp>
+					<Russian>Разгрузочный жилет (пустыня)</Russian>
+				</Key>
+				<Key ID="STR_LXWS_CarrierSpecial_NATO">
+					<Original>Carrier Special Rig (MCU-D)</Original>
+					<English>Carrier Special Rig (MCU-D)</English>
+					<French>Gilet modulable spécial (désert)</French>
+					<German>Spezieller Tragegurt (Wüste)</German>
+					<Italian>Gilet tattico speciale (deserto)</Italian>
+					<Portuguese>Colete tático especial (Deserto)</Portuguese>
+					<Spanish>Chaleco de carga especial (desierto)</Spanish>
+					<Chinesesimp>特殊胸挂携板背心（沙漠）</Chinesesimp>
+					<Russian>Специальный жилет (пустыня)</Russian>
+				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_V_PlateCarrier1_mtp0">
 					<Original>Carrier Lite (MTP)</Original>
 					<Chinese>輕型負載背心（多地形共用）</Chinese>
@@ -7838,6 +7882,17 @@
 					<Chinesesimp>美国</Chinesesimp>
 					<Japanese>米国</Japanese>
 					<Turkish>ABD</Turkish>
+				</Key>
+				<Key ID="STR_LXWS_FACTION_NATO_Desert">
+					<Original>USMC (Desert)</Original>
+					<English>USMC (Desert)</English>
+					<French>USMC (Desert)</French>
+					<German>USMC (Desert)</German>
+					<Italian>USMC (Desert)</Italian>
+					<Portuguese>OTAN (Deserto)</Portuguese>
+					<Spanish>USMC (Desert)</Spanish>
+					<Chinesesimp>USMC (Desert)</Chinesesimp>
+					<Russian>USMC (Desert)</Russian>
 				</Key>
 				<Key ID="STR_A3_A_CfgFactionClasses_OPF_F0">
                     <Original>Iran</Original>
@@ -12976,6 +13031,39 @@
 				</Key>
 			</Container>
 			<Container name="Bags">
+				<Key ID="STR_LXWS_KITHBACK_Desert">
+					<Original>Kitbag (MCU-D)</Original>
+					<English>Kitbag (MCU-D)</English>
+					<French>Paquetage de terrain (désert)</French>
+					<German>Seesack (Wüste)</German>
+					<Italian>Zaino (deserto)</Italian>
+					<Portuguese>Mochila tubular (Deserto)</Portuguese>
+					<Spanish>Petate (desierto)</Spanish>
+					<Chinesesimp>工具包（沙漠）</Chinesesimp>
+					<Russian>Вещевой мешок (пустыня)</Russian>
+				</Key>
+				<Key ID="STR_LXWS_ASSAULTPACK_Desert">
+					<Original>Assault Pack (MCU-D)</Original>
+					<English>Assault Pack (MCU-D)</English>
+					<French>Paquetage d'assaut (désert)</French>
+					<German>Sturmrucksack (Wüste)</German>
+					<Italian>Zaino d’assalto (deserto)</Italian>
+					<Portuguese>Pacote de assalto (Deserto)</Portuguese>
+					<Spanish>Mochila de asalto (desierto)</Spanish>
+					<Chinesesimp>突击背包（沙漠）</Chinesesimp>
+					<Russian>Штурмовой ранец (пустыня)</Russian>
+				</Key>
+				<Key ID="STR_LXWS_CARRYALL_Desert">
+					<Original>Carryall Backpack (MCU-D)</Original>
+					<English>Carryall Backpack (MCU-D)</English>
+					<French>Sac à dos multifonction (désert)</French>
+					<German>Carryall-Rucksack (Wüste)</German>
+					<Italian>Zaino portatutto (deserto)</Italian>
+					<Portuguese>Mochilão (Deserto)</Portuguese>
+					<Spanish>Mochila para todo (desierto)</Spanish>
+					<Chinesesimp>大背包（沙漠）</Chinesesimp>
+					<Russian>Рюкзак (пустыня)</Russian>
+				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_B_AssaultPack_tan0">
 					<Original>Assault Pack (Tan)</Original>
 					<Chinese>突擊背包（棕褐色）</Chinese>
