@@ -436,7 +436,24 @@ class B_Carryall_cbr_USMCAmmo_F: B_Carryall_cbr
 		item_xx(FirstAidKit,4);
 	};
 };
-class B_AssaultPack_cbr_USMCAA_F: B_Kitbag_cbr
+class B_Carryall_cbr_USMCAAA_F: B_Carryall_cbr
+{
+	scope = protected;
+	class TransportMagazines
+	{
+		mag_xx(Titan_AA,3);
+	};
+};
+class B_Carryall_cbr_USMCAAT_F: B_Carryall_cbr
+{
+	scope = protected;
+	class TransportMagazines
+	{
+		mag_xx(Titan_AT,2);
+		mag_xx(Titan_AP,2);
+	};
+};
+class B_AssaultPack_cbr_USMCAA_F: B_AssaultPackSpec_cbr
 {
 	author = $STR_A3_A_AveryTheKitty;
 	scope = protected;
@@ -445,7 +462,16 @@ class B_AssaultPack_cbr_USMCAA_F: B_Kitbag_cbr
 		mag_xx(Titan_AA,2);
 	};
 };
-class B_AssaultPack_cbr_USMCAT_F: B_Kitbag_cbr
+class B_AssaultPack_cbr_USMCRepair_F: B_AssaultPackSpec_cbr
+{
+	author = $STR_A3_A_AveryTheKitty;
+	scope = protected;
+	class TransportMagazines
+	{
+		mag_xx(Toolkit,1);
+	};
+};
+class B_AssaultPack_cbr_USMCAT_F: B_AssaultPackSpec_cbr
 {
 	author = $STR_A3_A_AveryTheKitty;
 	scope = protected;
@@ -454,7 +480,7 @@ class B_AssaultPack_cbr_USMCAT_F: B_Kitbag_cbr
 		mag_xx(Titan_AT,2);
 	};
 };
-class B_Kitbag_cbr_USMCEng_F: B_Kitbag_cbr
+class B_TacticalPack_khk_USMCEng_F: B_TacticalPack_khk
 {
 	author = $STR_A3_A_AveryTheKitty;
 	scope = protected;
@@ -469,7 +495,16 @@ class B_Kitbag_cbr_USMCEng_F: B_Kitbag_cbr
 		item_xx(MineDetector,1);
 	};
 };
-class B_AssaultPack_cbr_USMCLAT_F: B_AssaultPack_cbr
+class B_AssaultPack_cbr_USMCLAT_F: B_AssaultPackSpec_cbr
+{
+	author = $STR_A3_A_AveryTheKitty;
+	scope = protected;
+	class TransportMagazines
+	{
+		mag_xx(NLAW_F,2);
+	};
+};
+class B_AssaultPack_cbr_USMCLAT2_F: B_AssaultPackSpec_cbr
 {
 	author = $STR_A3_A_AveryTheKitty;
 	scope = protected;
@@ -479,7 +514,7 @@ class B_AssaultPack_cbr_USMCLAT_F: B_AssaultPack_cbr
 		mag_xx(MRAWS_HE_F,1);
 	};
 };
-class B_AssaultPack_cbr_USMCMedic_F: B_AssaultPack_cbr
+class B_AssaultPack_cbr_USMCMedic_F: B_AssaultPackSpec_cbr
 {
 	author = $STR_A3_A_AveryTheKitty;
 	scope = protected;
@@ -489,7 +524,7 @@ class B_AssaultPack_cbr_USMCMedic_F: B_AssaultPack_cbr
 		item_xx(FirstAidKit,10);
 	};
 };
-class B_Kitbag_cbr_USMCAAR: B_Kitbag_cbr
+class B_TacticalPack_khk_USMCAAR: B_TacticalPack_khk
 {
 	class TransportMagazines
 	{
@@ -502,7 +537,46 @@ class B_Kitbag_cbr_USMCAAR: B_Kitbag_cbr
 		item_xx(optic_tws_mg,1);
 		item_xx(bipod_01_F_blk,1);
 		item_xx(muzzle_snds_338_black,1);
-		delete _xx_muzzle_snds_H;
 		item_xx(muzzle_snds_H,1);
+	};
+};
+class B_Carryall_cbr_USMCExp_F: B_Carryall_cbr
+{
+	scope = protected;
+	class TransportMagazines
+	{
+		class _xx_APERSBoundingMine_Range_Mag
+		{
+			magazine = "APERSBoundingMine_Range_Mag";
+			count = 3;
+		};
+		class _xx_ClaymoreDirectionalMine_Remote_Mag
+		{
+			magazine = "ClaymoreDirectionalMine_Remote_Mag";
+			count = 2;
+		};
+		class _xx_SLAMDirectionalMine_Wire_Mag
+		{
+			magazine = "SLAMDirectionalMine_Wire_Mag";
+			count = 2;
+		};
+		class _xx_Democharge_Remote_Mag
+		{
+			magazine = "Democharge_Remote_Mag";
+			count = 1;
+		};
+	};
+	class TransportItems
+	{
+		class _xx_ToolKit
+		{
+			name = "ToolKit";
+			count = 1;
+		};
+		class _xx_MineDetector
+		{
+			name = "MineDetector";
+			count = 1;
+		};
 	};
 };
