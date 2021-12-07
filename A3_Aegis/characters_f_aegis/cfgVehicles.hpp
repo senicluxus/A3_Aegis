@@ -48,6 +48,7 @@ class CfgVehicles
     #include "cfgLooters.hpp"       // Looters
     #include "cfgION.hpp"           // ION
     #include "cfgRaven.hpp"         // Raven Security
+    #include "cfgUSMC.hpp"          // US Marines
 
     /* Uniforms */
 	#include "cfgUniforms.hpp"
