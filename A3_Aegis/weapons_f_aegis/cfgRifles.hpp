@@ -5,6 +5,7 @@ class arifle_Katiba_Base_F: Rifle_Base_F
 };
 class arifle_Katiba_F: arifle_Katiba_Base_F
 {
+    INITSPEED_RIFLE;
     class WeaponSlotsInfo: WeaponSlotsInfo
     {
         class MuzzleSlot: asdg_MuzzleSlot_65
@@ -20,6 +21,7 @@ class arifle_Katiba_F: arifle_Katiba_Base_F
 };
 class arifle_Katiba_C_F: arifle_Katiba_Base_F
 {
+    INITSPEED_CARBINE;
     class WeaponSlotsInfo: WeaponSlotsInfo
     {
         class MuzzleSlot: asdg_MuzzleSlot_65
@@ -35,6 +37,7 @@ class arifle_Katiba_C_F: arifle_Katiba_Base_F
 };
 class arifle_Katiba_GL_F: arifle_Katiba_Base_F
 {
+    INITSPEED_RIFLE;
     class WeaponSlotsInfo: WeaponSlotsInfo
     {
         class MuzzleSlot: asdg_MuzzleSlot_65
@@ -104,6 +107,7 @@ class mk20_base_F: Rifle_Base_F
 };
 class arifle_Mk20_F: mk20_base_F
 {
+    INITSPEED_RIFLE;
     displayName = $STR_A3_A_CfgWeapons_arifle_Mk20_F0;
     class WeaponSlotsInfo: WeaponSlotsInfo
     {
@@ -132,6 +136,7 @@ class arifle_Mk20_plain_F: arifle_Mk20_F
 };
 class arifle_Mk20C_F: mk20_base_F
 {
+    INITSPEED_CARBINE;
     displayName = $STR_A3_A_CfgWeapons_arifle_Mk20C_F0;
     class WeaponSlotsInfo: WeaponSlotsInfo
     {
@@ -160,6 +165,7 @@ class arifle_Mk20C_plain_F: arifle_Mk20C_F
 };
 class arifle_Mk20_GL_F: mk20_base_F
 {
+    INITSPEED_RIFLE;
     displayName = $STR_A3_A_CfgWeapons_arifle_Mk20_GL_F0;
     class WeaponSlotsInfo: WeaponSlotsInfo
     {
@@ -197,6 +203,7 @@ class arifle_MX_Base_F: Rifle_Base_F
 };
 class arifle_MXC_F: arifle_MX_Base_F
 {
+    INITSPEED_CARBINE;
     hiddenSelections[] = {camo1};
     hiddenSelectionsTextures[] = {"\A3_Aegis\Weapons_F_Aegis\Rifles\MX\Data\XMX_Short_CO.paa"};
     class WeaponSlotsInfo: WeaponSlotsInfo
@@ -223,6 +230,7 @@ class arifle_MXC_F: arifle_MX_Base_F
 };
 class arifle_MX_F: arifle_MX_Base_F
 {
+    INITSPEED_RIFLE;
     hiddenSelections[] =
     {
         camo1,
@@ -257,6 +265,7 @@ class arifle_MX_F: arifle_MX_Base_F
 };
 class arifle_MX_GL_F: arifle_MX_Base_F
 {
+    INITSPEED_RIFLE;
     hiddenSelections[] =
     {
         camo1,
@@ -291,6 +300,7 @@ class arifle_MX_GL_F: arifle_MX_Base_F
 };
 class arifle_MX_SW_F: arifle_MX_Base_F
 {
+    INITSPEED_AR;
     UiPicture = "\A3\Weapons_F\Data\UI\icon_regular_CA.paa";
     cursor = arifle;
     hiddenSelections[] = {camo1};
@@ -330,6 +340,7 @@ class arifle_MX_SW_F: arifle_MX_Base_F
 };
 class arifle_MXM_F: arifle_MX_Base_F
 {
+    INITSPEED_MR;
     hiddenSelections[] = {camo1};
     hiddenSelectionsTextures[] = {"\A3_Aegis\Weapons_F_Aegis\Rifles\MX\Data\XMX_Long_CO.paa"};
     class WeaponSlotsInfo: WeaponSlotsInfo
@@ -461,6 +472,7 @@ class Tavor_base_F: Rifle_Base_F
 };
 class arifle_TRG21_F: Tavor_base_F
 {
+    INITSPEED_RIFLE;
     hiddenSelections[] = {camo};
     class WeaponSlotsInfo: WeaponSlotsInfo
     {
@@ -477,6 +489,7 @@ class arifle_TRG21_F: Tavor_base_F
 };
 class arifle_TRG20_F: Tavor_base_F
 {
+    INITSPEED_CARBINE;
     class WeaponSlotsInfo: WeaponSlotsInfo
     {
         class MuzzleSlot: asdg_MuzzleSlot_556
@@ -500,6 +513,7 @@ class arifle_TRG20_F: Tavor_base_F
 };
 class arifle_TRG21_GL_F: Tavor_base_F
 {
+    INITSPEED_RIFLE;
     class WeaponSlotsInfo: WeaponSlotsInfo
     {
         class MuzzleSlot: asdg_MuzzleSlot_556

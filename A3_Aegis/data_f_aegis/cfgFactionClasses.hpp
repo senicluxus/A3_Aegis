@@ -119,4 +119,12 @@ class CfgFactionClasses
 		icon = "\A3_Aegis\Data_F_Aegis\FactionIcons\CfgFactionClasses_IND_R_CA.paa";
 		flag = "\A3_Aegis\Data_F_Aegis\Flags\flag_RUS_CO.paa";
 	};
+	class OPF_Raven_F
+	{
+		displayName = $STR_A3_A_CfgFactionClasses_IND_Raven_F0;
+		priority = 3;
+		side = TEast;
+		icon = "\A3_Aegis\Data_F_Aegis\FactionIcons\CfgFactionClasses_IND_R_CA.paa";
+		flag = "\A3_Aegis\Data_F_Aegis\Flags\flag_RUS_CO.paa";
+	};
 };

@@ -297,6 +297,10 @@ ItemRadio \
 #define RPM_950 0.063
 #define RPM_1000 0.06
 
+#define INITSPEED_CARBINE initSpeed = -0.91
+#define INITSPEED_RIFLE initSpeed = -1.00
+#define INITSPEED_AR initSpeed = -1.10
+#define INITSPEED_MR initSpeed = -1.15
 
 
 #define DEPRECATED_CLASS(old,new) \
