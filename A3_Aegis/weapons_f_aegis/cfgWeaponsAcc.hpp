@@ -302,6 +302,14 @@ class arifle_MX_SW_Hamr_pointer_snds_F: arifle_MX_SW_F
         LINKED_UNDERBARREL(bipod_01_F_snd);
 	};
 };
+class arifle_MX_SW_black_Hamr_pointer_rifle_F: arifle_MX_SW_Black_Rifle_F
+{
+	class LinkedItems
+	{
+        LINKED_TOP(optic_Hamr);
+        LINKED_SIDE(acc_pointer_IR);
+	};
+};
 class arifle_MXM_MOS_LP_BI_F: arifle_MXM_F
 {
 	class LinkedItems

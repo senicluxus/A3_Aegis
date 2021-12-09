@@ -453,6 +453,49 @@ class arifle_MX_SW_Black_Hamr_pointer_F: arifle_MX_SW_Black_F
         LINKED_UNDERBARREL(bipod_01_F_blk);
     };
 };
+class arifle_MX_SW_Black_Rifle_F: arifle_MX_SW_Black_F
+{
+    class manual;
+    class close: manual
+    {
+        burst = 5;
+        aiBurstTerminable = 1;
+        aiRateOfFire = 0.5;
+        aiRateOfFireDistance = 50;
+        minRange = 0;
+        minRangeProbab = 0.05;
+        midRange = 20;
+        midRangeProbab = 0.7;
+        maxRange = 50;
+        maxRangeProbab = 0.04;
+        showToPlayer = 0;
+    };
+    class short: close
+    {
+        burst = 3;
+        aiBurstTerminable = 1;
+        aiRateOfFire = 2;
+        aiRateOfFireDistance = 300;
+        minRange = 50;
+        minRangeProbab = 0.05;
+        midRange = 150;
+        midRangeProbab = 0.7;
+        maxRange = 300;
+        maxRangeProbab = 0.04;
+    };
+    class medium: close
+    {
+        burst = 3;
+        aiRateOfFire = 4;
+        aiRateOfFireDistance = 600;
+        minRange = 200;
+        minRangeProbab = 0.05;
+        midRange = 300;
+        midRangeProbab = 0.7;
+        maxRange = 500;
+        maxRangeProbab = 0.1;
+    };
+};
 class arifle_MXM_Black_F;
 class SDAR_base_F: Rifle_Base_F
 {
