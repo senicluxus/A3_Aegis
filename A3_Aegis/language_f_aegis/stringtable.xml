@@ -853,6 +853,57 @@
 					<Japanese>F-35F Lightning II（クラスター）</Japanese>
 					<Turkish>F-35F Lightning II (Parça Tesirli)</Turkish>
 				</Key>
+				<Key ID="str_a3_cfgvehicles_vtol_01_armed_base_f0">
+					<Original>AV-44 X Blackfish</Original>
+					<Chinese>AV-44 X Blackfish</Chinese>
+					<French>AV-44 X Blackfish</French>
+					<Spanish>AV-44 X Blackfish</Spanish>
+					<Italian>AV-44 X Blackfish</Italian>
+					<Polish>AV-44 X Blackfish</Polish>
+					<Russian>AV-44 X Blackfish</Russian>
+					<German>AV-44 X Blackfish</German>
+					<Czech>AV-44 X Blackfish</Czech>
+					<English>AV-44 X Blackfish</English>
+					<Portuguese>AV-44 X Blackfish</Portuguese>
+					<Korean>AV-44 X Blackfish</Korean>
+					<Chinesesimp>AV-44 X Blackfish</Chinesesimp>
+					<Japanese>AV-44 X Blackfish</Japanese>
+					<Turkish>AV-44 X Blackfish</Turkish>
+				</Key>
+				<Key ID="str_a3_cfgvehicles_vtol_01_infantry_marines_f0">
+					<Original>MV-44 X Blackfish (Infantry Transport)</Original>
+					<Chinese>MV-44 X Blackfish（運送步兵）</Chinese>
+					<French>MV-44 X Blackfish (transport d'infanterie)</French>
+					<Spanish>MV-44 X Blackfish (transporte de infantería)</Spanish>
+					<Italian>MV-44 X Blackfish (trasporto di fanteria)</Italian>
+					<Polish>MV-44 X Blackfish (transport piechoty)</Polish>
+					<Russian>MV-44 X Blackfish (пехота)</Russian>
+					<German>MV-44 X Blackfish (Infanterie-Unterstützung)</German>
+					<Czech>MV-44 X Blackfish (přeprava pěchoty)</Czech>
+					<English>MV-44 X Blackfish (Infantry Transport)</English>
+					<Portuguese>MV-44 X Blackfish (transp. de infantaria)</Portuguese>
+					<Korean>MV-44 X Blackfish(보병 수송)</Korean>
+					<Chinesesimp>MV-44 X Blackfish（步兵运输）</Chinesesimp>
+					<Japanese>MV-44 X Blackfish（歩兵輸送）</Japanese>
+					<Turkish>MV-44 X Blackfish (Piyade Nakli)</Turkish>
+				</Key>
+				<Key ID="str_a3_cfgvehicles_vtol_01_vehicle_marines_f0">
+					<Original>MV-44 X Blackfish (Vehicle Transport)</Original>
+					<Chinese>MV-44 X Blackfish（輸送載具）</Chinese>
+					<French>MV-44 X Blackfish (transport de véhicules)</French>
+					<Spanish>MV-44 X Blackfish (transporte de vehículos)</Spanish>
+					<Italian>MV-44 X Blackfish (trasporto di veicoli)</Italian>
+					<Polish>MV-44 X Blackfish (transport pojazdów)</Polish>
+					<Russian>MV-44 X Blackfish (автотранспорт)</Russian>
+					<German>MV-44 X Blackfish (Fahrzeug-Transporter)</German>
+					<Czech>MV-44 X Blackfish (přeprava vozidel)</Czech>
+					<English>MV-44 X Blackfish (Vehicle Transport)</English>
+					<Portuguese>MV-44 X Blackfish (veículo de transporte)</Portuguese>
+					<Korean>MV-44 X Blackfish(차량 수송)</Korean>
+					<Chinesesimp>MV-44 X Blackfish（车辆运输）</Chinesesimp>
+					<Japanese>MV-44 X Blackfish（車両輸送）</Japanese>
+					<Turkish>MV-44 X Blackfish (Araç Nakli)</Turkish>
+				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_Plane_Transport_01_base_F0">
 					<Original>C-192 Samson</Original>
 					<Chinese>C-192 Samson</Chinese>

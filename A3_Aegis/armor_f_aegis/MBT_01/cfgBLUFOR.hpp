@@ -882,3 +882,16 @@ class B_W_MBT_01_TUSK_F: B_MBT_01_TUSK_F
 		"\A3\Armor_F\Data\camonet_NATO_Green_CO.paa"
 	};
 };
+
+/* US Marines */
+class B_D_MBT_01_cannon_lxWS : B_MBT_01_cannon_F
+{
+   scope = protected;
+   scopeCurator = protected;
+};
+
+class B_D_MBT_01_TUSK_lxWS : B_MBT_01_TUSK_F
+{
+   scope = protected;
+   scopeCurator = protected;
+};
