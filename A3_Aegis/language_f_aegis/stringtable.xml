@@ -752,55 +752,106 @@
 					<Turkish>AH-1 Navajo</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_Plane_Fighter_05_base_F0">
-					<Original>F-38C Peregrine</Original>
-					<Chinese>F-38C Peregrine</Chinese>
-					<French>F-38C Peregrine</French>
-					<Spanish>F-38C Peregrine</Spanish>
-					<Italian>F-38C Peregrine</Italian>
-					<Polish>F-38C Peregrine</Polish>
-					<Russian>F-38C Peregrine</Russian>
-					<German>F-38C Peregrine</German>
-					<Czech>F-38C Peregrine</Czech>
-					<English>F-38C Peregrine</English>
-					<Portuguese>F-38C Peregrine</Portuguese>
-					<Korean>F-38C Peregrine</Korean>
-					<Chinesesimp>F-38C Peregrine</Chinesesimp>
-					<Japanese>F-38C Peregrine</Japanese>
-					<Turkish>F-38C Peregrine</Turkish>
+					<Original>F-35F Peregrine</Original>
+					<Chinese>F-35F Peregrine</Chinese>
+					<French>F-35F Peregrine</French>
+					<Spanish>F-35F Peregrine</Spanish>
+					<Italian>F-35F Peregrine</Italian>
+					<Polish>F-35F Peregrine</Polish>
+					<Russian>F-35F Peregrine</Russian>
+					<German>F-35F Peregrine</German>
+					<Czech>F-35F Peregrine</Czech>
+					<English>F-35F Peregrine</English>
+					<Portuguese>F-35F Peregrine</Portuguese>
+					<Korean>F-35F Peregrine</Korean>
+					<Chinesesimp>F-35F Peregrine</Chinesesimp>
+					<Japanese>F-35F Peregrine</Japanese>
+					<Turkish>F-35F Peregrine</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_Plane_Fighter_05_Stealth_F0">
-					<Original>F-38C Peregrine (Stealth)</Original>
-					<Chinese>F-38C Peregrine (隱形)</Chinese>
-					<French>F-38C Peregrine (Furtif)</French>
-					<Spanish>F-38C Peregrine (Sigilo)</Spanish>
-					<Italian>F-38C Peregrine (Invisibile)</Italian>
-					<Polish>F-38C Peregrine (Podstęp)</Polish>
-					<Russian>F-38C Peregrine (хитрость)</Russian>
-					<German>F-38C Peregrine (Heimlichkeit)</German>
-					<Czech>F-38C Peregrine (Stealth)</Czech>
-					<English>F-38C Peregrine (Stealth)</English>
-					<Portuguese>F-38C Peregrine (Furtividade)</Portuguese>
-					<Korean>F-38C Peregrine (몰래 하기)</Korean>
-					<Chinesesimp>F-38C Peregrine (隐形)</Chinesesimp>
-					<Japanese>F-38C Peregrine（ステルス）</Japanese>
-					<Turkish>F-38C Peregrine (gizlilik)</Turkish>
+					<Original>F-35F Peregrine (Stealth)</Original>
+					<Chinese>F-35F Peregrine (隱形)</Chinese>
+					<French>F-35F Peregrine (Furtif)</French>
+					<Spanish>F-35F Peregrine (Sigilo)</Spanish>
+					<Italian>F-35F Peregrine (Invisibile)</Italian>
+					<Polish>F-35F Peregrine (Podstęp)</Polish>
+					<Russian>F-35F Peregrine (хитрость)</Russian>
+					<German>F-35F Peregrine (Heimlichkeit)</German>
+					<Czech>F-35F Peregrine (Stealth)</Czech>
+					<English>F-35F Peregrine (Stealth)</English>
+					<Portuguese>F-35F Peregrine (Furtividade)</Portuguese>
+					<Korean>F-35F Peregrine (몰래 하기)</Korean>
+					<Chinesesimp>F-35F Peregrine (隐形)</Chinesesimp>
+					<Japanese>F-35F Peregrine（ステルス）</Japanese>
+					<Turkish>F-35F Peregrine (gizlilik)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_Plane_Fighter_05_Cluster_F0">
-					<Original>F-38C Peregrine (Cluster)</Original>
-					<Chinese>F-38C Peregrine (集束)</Chinese>
-					<French>F-38C Peregrine (sous-munitions)</French>
-					<Spanish>F-38C Peregrine (racimo)</Spanish>
-					<Italian>F-38C Peregrine (munizioni a grappolo)</Italian>
-					<Polish>F-38C Peregrine (kasetowy)</Polish>
-					<Russian>F-38C Peregrine (кассетный боеприпас)</Russian>
-					<German>F-38C Peregrine (Cluster)</German>
-					<Czech>F-38C Peregrine (kazeta)</Czech>
-					<English>F-38C Peregrine (Cluster)</English>
-					<Portuguese>F-38C Peregrine (fragmentação)</Portuguese>
-					<Korean>F-38C Peregrine (더미)</Korean>
-					<Chinesesimp>F-38C Peregrine (集束)</Chinesesimp>
-					<Japanese>F-38C Peregrine（クラスター）</Japanese>
-					<Turkish>F-38C Peregrine (Parça Tesirli)</Turkish>
+					<Original>F-35F Peregrine (Cluster)</Original>
+					<Chinese>F-35F Peregrine (集束)</Chinese>
+					<French>F-35F Peregrine (sous-munitions)</French>
+					<Spanish>F-35F Peregrine (racimo)</Spanish>
+					<Italian>F-35F Peregrine (munizioni a grappolo)</Italian>
+					<Polish>F-35F Peregrine (kasetowy)</Polish>
+					<Russian>F-35F Peregrine (кассетный боеприпас)</Russian>
+					<German>F-35F Peregrine (Cluster)</German>
+					<Czech>F-35F Peregrine (kazeta)</Czech>
+					<English>F-35F Peregrine (Cluster)</English>
+					<Portuguese>F-35F Peregrine (fragmentação)</Portuguese>
+					<Korean>F-35F Peregrine (더미)</Korean>
+					<Chinesesimp>F-35F Peregrine (集束)</Chinesesimp>
+					<Japanese>F-35F Peregrine（クラスター）</Japanese>
+					<Turkish>F-35F Peregrine (Parça Tesirli)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Plane_Fighter_05_base_US_F0">
+					<Original>F-35F Lightning II</Original>
+					<Chinese>F-35F Lightning II</Chinese>
+					<French>F-35F Lightning II</French>
+					<Spanish>F-35F Lightning II</Spanish>
+					<Italian>F-35F Lightning II</Italian>
+					<Polish>F-35F Lightning II</Polish>
+					<Russian>F-35F Lightning II</Russian>
+					<German>F-35F Lightning II</German>
+					<Czech>F-35F Lightning II</Czech>
+					<English>F-35F Lightning II</English>
+					<Portuguese>F-35F Lightning II</Portuguese>
+					<Korean>F-35F Lightning II</Korean>
+					<Chinesesimp>F-35F Lightning II</Chinesesimp>
+					<Japanese>F-35F Lightning II</Japanese>
+					<Turkish>F-35F Lightning II</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Plane_Fighter_05_Stealth_US_F0">
+					<Original>F-35F Lightning II (Stealth)</Original>
+					<Chinese>F-35F Lightning II (隱形)</Chinese>
+					<French>F-35F Lightning II (Furtif)</French>
+					<Spanish>F-35F Lightning II (Sigilo)</Spanish>
+					<Italian>F-35F Lightning II (Invisibile)</Italian>
+					<Polish>F-35F Lightning II (Podstęp)</Polish>
+					<Russian>F-35F Lightning II (хитрость)</Russian>
+					<German>F-35F Lightning II (Heimlichkeit)</German>
+					<Czech>F-35F Lightning II (Stealth)</Czech>
+					<English>F-35F Lightning II (Stealth)</English>
+					<Portuguese>F-35F Lightning II (Furtividade)</Portuguese>
+					<Korean>F-35F Lightning II (몰래 하기)</Korean>
+					<Chinesesimp>F-35F Lightning II (隐形)</Chinesesimp>
+					<Japanese>F-35F Lightning II（ステルス）</Japanese>
+					<Turkish>F-35F Lightning II (gizlilik)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_Plane_Fighter_05_Cluster_US_F0">
+					<Original>F-35F Lightning II (Cluster)</Original>
+					<Chinese>F-35F Lightning II (集束)</Chinese>
+					<French>F-35F Lightning II (sous-munitions)</French>
+					<Spanish>F-35F Lightning II (racimo)</Spanish>
+					<Italian>F-35F Lightning II (munizioni a grappolo)</Italian>
+					<Polish>F-35F Lightning II (kasetowy)</Polish>
+					<Russian>F-35F Lightning II (кассетный боеприпас)</Russian>
+					<German>F-35F Lightning II (Cluster)</German>
+					<Czech>F-35F Lightning II (kazeta)</Czech>
+					<English>F-35F Lightning II (Cluster)</English>
+					<Portuguese>F-35F Lightning II (fragmentação)</Portuguese>
+					<Korean>F-35F Lightning II (더미)</Korean>
+					<Chinesesimp>F-35F Lightning II (集束)</Chinesesimp>
+					<Japanese>F-35F Lightning II（クラスター）</Japanese>
+					<Turkish>F-35F Lightning II (Parça Tesirli)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_Plane_Transport_01_base_F0">
 					<Original>C-192 Samson</Original>
@@ -907,21 +958,21 @@
 					<Turkish>The AH-1 Navajo is an attack helicopter based on the AH-64 Apache produced under license by Italy. However, in the aftermath of the economic shocks of the 2020s, much of the military equipment of European nations such as Italy was sold off or dismantled in austerity measures. Thus, the AH-1 Navajo is somewhat commonly seen being operated by second-hand owners, who purchased the vehicles at low prices.</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_Plane_Fighter_05_base_F_Library0">
-					<Original>The F-38C Peregrine is a fifth-generation, single-seat, single-engine, all-weather, stealth multi-role aircraft. Development started in the early 21st century by a consortium of Western aircraft and avionics manufacturers. Despite controversy over the development of the aircraft and an incredibly high development cost, it emerged a combat-capable aircraft available at relativly low costs, and as such was adopted by numerous countries to replace previous generation fighters. It exists in a variety of models, and the F-38C particularly is fitted with the necessary equipment for carrier operations, and includes a datalink to interface with friendly units in the field. It is also capable of mounting external pylons to further increase its payload, at a detriment to its stealth capability.</Original>
-					<Chinese>The F-38C Peregrine is a fifth-generation, single-seat, single-engine, all-weather, stealth multi-role aircraft. Development started in the early 21st century by a consortium of Western aircraft and avionics manufacturers. Despite controversy over the development of the aircraft and an incredibly high development cost, it emerged a combat-capable aircraft available at relativly low costs, and as such was adopted by numerous countries to replace previous generation fighters. It exists in a variety of models, and the F-38C particularly is fitted with the necessary equipment for carrier operations, and includes a datalink to interface with friendly units in the field. It is also capable of mounting external pylons to further increase its payload, at a detriment to its stealth capability.</Chinese>
-					<French>The F-38C Peregrine is a fifth-generation, single-seat, single-engine, all-weather, stealth multi-role aircraft. Development started in the early 21st century by a consortium of Western aircraft and avionics manufacturers. Despite controversy over the development of the aircraft and an incredibly high development cost, it emerged a combat-capable aircraft available at relativly low costs, and as such was adopted by numerous countries to replace previous generation fighters. It exists in a variety of models, and the F-38C particularly is fitted with the necessary equipment for carrier operations, and includes a datalink to interface with friendly units in the field. It is also capable of mounting external pylons to further increase its payload, at a detriment to its stealth capability.</French>
-					<Spanish>The F-38C Peregrine is a fifth-generation, single-seat, single-engine, all-weather, stealth multi-role aircraft. Development started in the early 21st century by a consortium of Western aircraft and avionics manufacturers. Despite controversy over the development of the aircraft and an incredibly high development cost, it emerged a combat-capable aircraft available at relativly low costs, and as such was adopted by numerous countries to replace previous generation fighters. It exists in a variety of models, and the F-38C particularly is fitted with the necessary equipment for carrier operations, and includes a datalink to interface with friendly units in the field. It is also capable of mounting external pylons to further increase its payload, at a detriment to its stealth capability.</Spanish>
-					<Italian>The F-38C Peregrine is a fifth-generation, single-seat, single-engine, all-weather, stealth multi-role aircraft. Development started in the early 21st century by a consortium of Western aircraft and avionics manufacturers. Despite controversy over the development of the aircraft and an incredibly high development cost, it emerged a combat-capable aircraft available at relativly low costs, and as such was adopted by numerous countries to replace previous generation fighters. It exists in a variety of models, and the F-38C particularly is fitted with the necessary equipment for carrier operations, and includes a datalink to interface with friendly units in the field. It is also capable of mounting external pylons to further increase its payload, at a detriment to its stealth capability.</Italian>
-					<Polish>The F-38C Peregrine is a fifth-generation, single-seat, single-engine, all-weather, stealth multi-role aircraft. Development started in the early 21st century by a consortium of Western aircraft and avionics manufacturers. Despite controversy over the development of the aircraft and an incredibly high development cost, it emerged a combat-capable aircraft available at relativly low costs, and as such was adopted by numerous countries to replace previous generation fighters. It exists in a variety of models, and the F-38C particularly is fitted with the necessary equipment for carrier operations, and includes a datalink to interface with friendly units in the field. It is also capable of mounting external pylons to further increase its payload, at a detriment to its stealth capability.</Polish>
-					<Russian>The F-38C Peregrine is a fifth-generation, single-seat, single-engine, all-weather, stealth multi-role aircraft. Development started in the early 21st century by a consortium of Western aircraft and avionics manufacturers. Despite controversy over the development of the aircraft and an incredibly high development cost, it emerged a combat-capable aircraft available at relativly low costs, and as such was adopted by numerous countries to replace previous generation fighters. It exists in a variety of models, and the F-38C particularly is fitted with the necessary equipment for carrier operations, and includes a datalink to interface with friendly units in the field. It is also capable of mounting external pylons to further increase its payload, at a detriment to its stealth capability.</Russian>
-					<German>The F-38C Peregrine is a fifth-generation, single-seat, single-engine, all-weather, stealth multi-role aircraft. Development started in the early 21st century by a consortium of Western aircraft and avionics manufacturers. Despite controversy over the development of the aircraft and an incredibly high development cost, it emerged a combat-capable aircraft available at relativly low costs, and as such was adopted by numerous countries to replace previous generation fighters. It exists in a variety of models, and the F-38C particularly is fitted with the necessary equipment for carrier operations, and includes a datalink to interface with friendly units in the field. It is also capable of mounting external pylons to further increase its payload, at a detriment to its stealth capability.</German>
-					<Czech>The F-38C Peregrine is a fifth-generation, single-seat, single-engine, all-weather, stealth multi-role aircraft. Development started in the early 21st century by a consortium of Western aircraft and avionics manufacturers. Despite controversy over the development of the aircraft and an incredibly high development cost, it emerged a combat-capable aircraft available at relativly low costs, and as such was adopted by numerous countries to replace previous generation fighters. It exists in a variety of models, and the F-38C particularly is fitted with the necessary equipment for carrier operations, and includes a datalink to interface with friendly units in the field. It is also capable of mounting external pylons to further increase its payload, at a detriment to its stealth capability.</Czech>
-					<English>The F-38C Peregrine is a fifth-generation, single-seat, single-engine, all-weather, stealth multi-role aircraft. Development started in the early 21st century by a consortium of Western aircraft and avionics manufacturers. Despite controversy over the development of the aircraft and an incredibly high development cost, it emerged a combat-capable aircraft available at relativly low costs, and as such was adopted by numerous countries to replace previous generation fighters. It exists in a variety of models, and the F-38C particularly is fitted with the necessary equipment for carrier operations, and includes a datalink to interface with friendly units in the field. It is also capable of mounting external pylons to further increase its payload, at a detriment to its stealth capability.</English>
-					<Portuguese>The F-38C Peregrine is a fifth-generation, single-seat, single-engine, all-weather, stealth multi-role aircraft. Development started in the early 21st century by a consortium of Western aircraft and avionics manufacturers. Despite controversy over the development of the aircraft and an incredibly high development cost, it emerged a combat-capable aircraft available at relativly low costs, and as such was adopted by numerous countries to replace previous generation fighters. It exists in a variety of models, and the F-38C particularly is fitted with the necessary equipment for carrier operations, and includes a datalink to interface with friendly units in the field. It is also capable of mounting external pylons to further increase its payload, at a detriment to its stealth capability.</Portuguese>
-					<Korean>The F-38C Peregrine is a fifth-generation, single-seat, single-engine, all-weather, stealth multi-role aircraft. Development started in the early 21st century by a consortium of Western aircraft and avionics manufacturers. Despite controversy over the development of the aircraft and an incredibly high development cost, it emerged a combat-capable aircraft available at relativly low costs, and as such was adopted by numerous countries to replace previous generation fighters. It exists in a variety of models, and the F-38C particularly is fitted with the necessary equipment for carrier operations, and includes a datalink to interface with friendly units in the field. It is also capable of mounting external pylons to further increase its payload, at a detriment to its stealth capability.</Korean>
-					<Chinesesimp>The F-38C Peregrine is a fifth-generation, single-seat, single-engine, all-weather, stealth multi-role aircraft. Development started in the early 21st century by a consortium of Western aircraft and avionics manufacturers. Despite controversy over the development of the aircraft and an incredibly high development cost, it emerged a combat-capable aircraft available at relativly low costs, and as such was adopted by numerous countries to replace previous generation fighters. It exists in a variety of models, and the F-38C particularly is fitted with the necessary equipment for carrier operations, and includes a datalink to interface with friendly units in the field. It is also capable of mounting external pylons to further increase its payload, at a detriment to its stealth capability.</Chinesesimp>
-					<Japanese>The F-38C Peregrine is a fifth-generation, single-seat, single-engine, all-weather, stealth multi-role aircraft. Development started in the early 21st century by a consortium of Western aircraft and avionics manufacturers. Despite controversy over the development of the aircraft and an incredibly high development cost, it emerged a combat-capable aircraft available at relativly low costs, and as such was adopted by numerous countries to replace previous generation fighters. It exists in a variety of models, and the F-38C particularly is fitted with the necessary equipment for carrier operations, and includes a datalink to interface with friendly units in the field. It is also capable of mounting external pylons to further increase its payload, at a detriment to its stealth capability.</Japanese>
-					<Turkish>The F-38C Peregrine is a fifth-generation, single-seat, single-engine, all-weather, stealth multi-role aircraft. Development started in the early 21st century by a consortium of Western aircraft and avionics manufacturers. Despite controversy over the development of the aircraft and an incredibly high development cost, it emerged a combat-capable aircraft available at relativly low costs, and as such was adopted by numerous countries to replace previous generation fighters. It exists in a variety of models, and the F-38C particularly is fitted with the necessary equipment for carrier operations, and includes a datalink to interface with friendly units in the field. It is also capable of mounting external pylons to further increase its payload, at a detriment to its stealth capability.</Turkish>
+					<Original>The F-35F Peregrine is a fifth-generation, single-seat, single-engine, all-weather, stealth multi-role aircraft. Development started in the early 21st century by a consortium of Western aircraft and avionics manufacturers. Despite controversy over the development of the aircraft and an incredibly high development cost, it emerged a combat-capable aircraft available at relativly low costs, and as such was adopted by numerous countries to replace previous generation fighters. It exists in a variety of models, and the F-35F particularly is fitted with the necessary equipment for carrier operations, and includes a datalink to interface with friendly units in the field. It is also capable of mounting external pylons to further increase its payload, at a detriment to its stealth capability.</Original>
+					<Chinese>The F-35F Peregrine is a fifth-generation, single-seat, single-engine, all-weather, stealth multi-role aircraft. Development started in the early 21st century by a consortium of Western aircraft and avionics manufacturers. Despite controversy over the development of the aircraft and an incredibly high development cost, it emerged a combat-capable aircraft available at relativly low costs, and as such was adopted by numerous countries to replace previous generation fighters. It exists in a variety of models, and the F-35F particularly is fitted with the necessary equipment for carrier operations, and includes a datalink to interface with friendly units in the field. It is also capable of mounting external pylons to further increase its payload, at a detriment to its stealth capability.</Chinese>
+					<French>The F-35F Peregrine is a fifth-generation, single-seat, single-engine, all-weather, stealth multi-role aircraft. Development started in the early 21st century by a consortium of Western aircraft and avionics manufacturers. Despite controversy over the development of the aircraft and an incredibly high development cost, it emerged a combat-capable aircraft available at relativly low costs, and as such was adopted by numerous countries to replace previous generation fighters. It exists in a variety of models, and the F-35F particularly is fitted with the necessary equipment for carrier operations, and includes a datalink to interface with friendly units in the field. It is also capable of mounting external pylons to further increase its payload, at a detriment to its stealth capability.</French>
+					<Spanish>The F-35F Peregrine is a fifth-generation, single-seat, single-engine, all-weather, stealth multi-role aircraft. Development started in the early 21st century by a consortium of Western aircraft and avionics manufacturers. Despite controversy over the development of the aircraft and an incredibly high development cost, it emerged a combat-capable aircraft available at relativly low costs, and as such was adopted by numerous countries to replace previous generation fighters. It exists in a variety of models, and the F-35F particularly is fitted with the necessary equipment for carrier operations, and includes a datalink to interface with friendly units in the field. It is also capable of mounting external pylons to further increase its payload, at a detriment to its stealth capability.</Spanish>
+					<Italian>The F-35F Peregrine is a fifth-generation, single-seat, single-engine, all-weather, stealth multi-role aircraft. Development started in the early 21st century by a consortium of Western aircraft and avionics manufacturers. Despite controversy over the development of the aircraft and an incredibly high development cost, it emerged a combat-capable aircraft available at relativly low costs, and as such was adopted by numerous countries to replace previous generation fighters. It exists in a variety of models, and the F-35F particularly is fitted with the necessary equipment for carrier operations, and includes a datalink to interface with friendly units in the field. It is also capable of mounting external pylons to further increase its payload, at a detriment to its stealth capability.</Italian>
+					<Polish>The F-35F Peregrine is a fifth-generation, single-seat, single-engine, all-weather, stealth multi-role aircraft. Development started in the early 21st century by a consortium of Western aircraft and avionics manufacturers. Despite controversy over the development of the aircraft and an incredibly high development cost, it emerged a combat-capable aircraft available at relativly low costs, and as such was adopted by numerous countries to replace previous generation fighters. It exists in a variety of models, and the F-35F particularly is fitted with the necessary equipment for carrier operations, and includes a datalink to interface with friendly units in the field. It is also capable of mounting external pylons to further increase its payload, at a detriment to its stealth capability.</Polish>
+					<Russian>The F-35F Peregrine is a fifth-generation, single-seat, single-engine, all-weather, stealth multi-role aircraft. Development started in the early 21st century by a consortium of Western aircraft and avionics manufacturers. Despite controversy over the development of the aircraft and an incredibly high development cost, it emerged a combat-capable aircraft available at relativly low costs, and as such was adopted by numerous countries to replace previous generation fighters. It exists in a variety of models, and the F-35F particularly is fitted with the necessary equipment for carrier operations, and includes a datalink to interface with friendly units in the field. It is also capable of mounting external pylons to further increase its payload, at a detriment to its stealth capability.</Russian>
+					<German>The F-35F Peregrine is a fifth-generation, single-seat, single-engine, all-weather, stealth multi-role aircraft. Development started in the early 21st century by a consortium of Western aircraft and avionics manufacturers. Despite controversy over the development of the aircraft and an incredibly high development cost, it emerged a combat-capable aircraft available at relativly low costs, and as such was adopted by numerous countries to replace previous generation fighters. It exists in a variety of models, and the F-35F particularly is fitted with the necessary equipment for carrier operations, and includes a datalink to interface with friendly units in the field. It is also capable of mounting external pylons to further increase its payload, at a detriment to its stealth capability.</German>
+					<Czech>The F-35F Peregrine is a fifth-generation, single-seat, single-engine, all-weather, stealth multi-role aircraft. Development started in the early 21st century by a consortium of Western aircraft and avionics manufacturers. Despite controversy over the development of the aircraft and an incredibly high development cost, it emerged a combat-capable aircraft available at relativly low costs, and as such was adopted by numerous countries to replace previous generation fighters. It exists in a variety of models, and the F-35F particularly is fitted with the necessary equipment for carrier operations, and includes a datalink to interface with friendly units in the field. It is also capable of mounting external pylons to further increase its payload, at a detriment to its stealth capability.</Czech>
+					<English>The F-35F Peregrine is a fifth-generation, single-seat, single-engine, all-weather, stealth multi-role aircraft. Development started in the early 21st century by a consortium of Western aircraft and avionics manufacturers. Despite controversy over the development of the aircraft and an incredibly high development cost, it emerged a combat-capable aircraft available at relativly low costs, and as such was adopted by numerous countries to replace previous generation fighters. It exists in a variety of models, and the F-35F particularly is fitted with the necessary equipment for carrier operations, and includes a datalink to interface with friendly units in the field. It is also capable of mounting external pylons to further increase its payload, at a detriment to its stealth capability.</English>
+					<Portuguese>The F-35F Peregrine is a fifth-generation, single-seat, single-engine, all-weather, stealth multi-role aircraft. Development started in the early 21st century by a consortium of Western aircraft and avionics manufacturers. Despite controversy over the development of the aircraft and an incredibly high development cost, it emerged a combat-capable aircraft available at relativly low costs, and as such was adopted by numerous countries to replace previous generation fighters. It exists in a variety of models, and the F-35F particularly is fitted with the necessary equipment for carrier operations, and includes a datalink to interface with friendly units in the field. It is also capable of mounting external pylons to further increase its payload, at a detriment to its stealth capability.</Portuguese>
+					<Korean>The F-35F Peregrine is a fifth-generation, single-seat, single-engine, all-weather, stealth multi-role aircraft. Development started in the early 21st century by a consortium of Western aircraft and avionics manufacturers. Despite controversy over the development of the aircraft and an incredibly high development cost, it emerged a combat-capable aircraft available at relativly low costs, and as such was adopted by numerous countries to replace previous generation fighters. It exists in a variety of models, and the F-35F particularly is fitted with the necessary equipment for carrier operations, and includes a datalink to interface with friendly units in the field. It is also capable of mounting external pylons to further increase its payload, at a detriment to its stealth capability.</Korean>
+					<Chinesesimp>The F-35F Peregrine is a fifth-generation, single-seat, single-engine, all-weather, stealth multi-role aircraft. Development started in the early 21st century by a consortium of Western aircraft and avionics manufacturers. Despite controversy over the development of the aircraft and an incredibly high development cost, it emerged a combat-capable aircraft available at relativly low costs, and as such was adopted by numerous countries to replace previous generation fighters. It exists in a variety of models, and the F-35F particularly is fitted with the necessary equipment for carrier operations, and includes a datalink to interface with friendly units in the field. It is also capable of mounting external pylons to further increase its payload, at a detriment to its stealth capability.</Chinesesimp>
+					<Japanese>The F-35F Peregrine is a fifth-generation, single-seat, single-engine, all-weather, stealth multi-role aircraft. Development started in the early 21st century by a consortium of Western aircraft and avionics manufacturers. Despite controversy over the development of the aircraft and an incredibly high development cost, it emerged a combat-capable aircraft available at relativly low costs, and as such was adopted by numerous countries to replace previous generation fighters. It exists in a variety of models, and the F-35F particularly is fitted with the necessary equipment for carrier operations, and includes a datalink to interface with friendly units in the field. It is also capable of mounting external pylons to further increase its payload, at a detriment to its stealth capability.</Japanese>
+					<Turkish>The F-35F Peregrine is a fifth-generation, single-seat, single-engine, all-weather, stealth multi-role aircraft. Development started in the early 21st century by a consortium of Western aircraft and avionics manufacturers. Despite controversy over the development of the aircraft and an incredibly high development cost, it emerged a combat-capable aircraft available at relativly low costs, and as such was adopted by numerous countries to replace previous generation fighters. It exists in a variety of models, and the F-35F particularly is fitted with the necessary equipment for carrier operations, and includes a datalink to interface with friendly units in the field. It is also capable of mounting external pylons to further increase its payload, at a detriment to its stealth capability.</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgVehicles_Plane_Transport_01_base_F_Library0">
 					<Original>The C-192 Samson is an updated successor to the American C-130 designed for export. Though outdated compared to its modern counterparts, its four-engine turbo-prop design allows it to transport a variety of cargo, or up to 52 passengers, with a range of over 5,000 km at a maximum speed of 650 kph. It has become a common sight among military organizations throughout the world - including CSAT, which produces its own copy, labeled the Iran-150.</Original>

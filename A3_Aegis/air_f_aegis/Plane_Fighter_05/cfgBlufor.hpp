@@ -23,13 +23,13 @@ class B_Plane_Fighter_05_F: Plane_Fighter_05_Base_F
 	};
 	author = $STR_A3_A_AveryTheKitty_and_OlliKoskelainen;
 	scope = public;
-	displayName = $STR_A3_A_CfgVehicles_Plane_Fighter_05_Base_F0;
+	displayName = $STR_A3_A_CfgVehicles_Plane_Fighter_05_Base_US_F0;
 };
 class B_Plane_Fighter_05_Stealth_F: Plane_Fighter_05_Base_F
 {
 	author = $STR_A3_A_AveryTheKitty_and_OlliKoskelainen;
 	scope = public;
-	displayName = $STR_A3_A_CfgVehicles_Plane_Fighter_05_Stealth_F0;
+	displayName = $STR_A3_A_CfgVehicles_Plane_Fighter_05_Stealth_US_F0;
 	radarTargetSize = 0.4;
 
     /* Animation Sources */
@@ -375,6 +375,7 @@ class B_W_Ejection_Seat_Plane_Fighter_05_F: Ejection_Seat_Plane_Fighter_05_base_
 class B_A_Plane_Fighter_05_F: B_Plane_Fighter_05_F
 {
 	author = $STR_A3_A_AveryTheKitty_and_OlliKoskelainen;
+	displayName = $STR_A3_A_CfgVehicles_Plane_Fighter_05_Base_F0;
 	editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_A_Plane_Fighter_05_F.jpg";
 	scope = public;
 	scopeCurator = public;
@@ -426,6 +427,7 @@ class B_A_Plane_Fighter_05_Stealth_F: B_Plane_Fighter_05_Stealth_F
 	scopeCurator = public;
 	side = TWest;
 	faction = BLU_A_F;
+	displayName = $STR_A3_A_CfgVehicles_Plane_Fighter_05_Stealth_F0;
 	crew = B_A_Fighter_Pilot_F;
 	typicalCargo[] = {B_A_Fighter_Pilot_F};
 	textureList[] = {DarkGrey,1};
