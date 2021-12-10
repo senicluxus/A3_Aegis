@@ -31,7 +31,12 @@ class CfgPatches
 
             /* From "cfgEAF.hpp" */
             I_E_APC_Wheeled_01_cannon_v3_F,
-            I_E_APC_Wheeled_01_medical_F
+            I_E_APC_Wheeled_01_medical_F,
+
+            /* From "WS_Compat.hpp" */
+            B_D_APC_Wheeled_01_cannon_lxWS_v2,
+            B_D_APC_Wheeled_01_atgm_lxWS_v2,
+            B_T_APC_Wheeled_01_atgm_lxWS
         };
 		weapons[] = {/* Automated */};
 	};

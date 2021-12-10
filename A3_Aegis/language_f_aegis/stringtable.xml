@@ -2557,6 +2557,40 @@
                     <Japanese>Argana</Japanese>
                     <Turkish>Argana</Turkish>
 				</Key>
+				<Key ID="STR_A3_CfgGroups_West_BLU_F_Mortar_Platoon0">
+					<Original>Mortar Platoon</Original>
+					<Chinese>Mortar Platoon</Chinese>
+					<French>Mortar Platoon</French>
+					<Spanish>Mortar Platoon</Spanish>
+					<Italian>Mortar Platoon</Italian>
+					<Polish>Mortar Platoon</Polish>
+					<Russian>Mortar Platoon</Russian>
+					<German>Mortar Platoon</German>
+					<Czech>Mortar Platoon</Czech>
+					<English>Mortar Platoon</English>
+					<Portuguese>Mortar Platoon</Portuguese>
+					<Korean>Mortar Platoon</Korean>
+					<Chinesesimp>Mortar Platoon</Chinesesimp>
+					<Japanese>Mortar Platoon</Japanese>
+					<Turkish>Mortar Platoon</Turkish>
+				</Key>
+				<Key ID="STR_A3_CfgGroups_West_BLU_F_Mortar_Section0">
+					<Original>Mortar Section</Original>
+					<Chinese>Mortar Section</Chinese>
+					<French>Mortar Section</French>
+					<Spanish>Mortar Section</Spanish>
+					<Italian>Mortar Section</Italian>
+					<Polish>Mortar Section</Polish>
+					<Russian>Mortar Section</Russian>
+					<German>Mortar Section</German>
+					<Czech>Mortar Section</Czech>
+					<English>Mortar Section</English>
+					<Portuguese>Mortar Section</Portuguese>
+					<Korean>Mortar Section</Korean>
+					<Chinesesimp>Mortar Section</Chinesesimp>
+					<Japanese>Mortar Section</Japanese>
+					<Turkish>Mortar Section</Turkish>
+				</Key>
 			</Container>
 			<Container name="Headgear">
 				<Key ID="STR_A3_A_CfgWeapons_H_HelmetSpecter_F0">
