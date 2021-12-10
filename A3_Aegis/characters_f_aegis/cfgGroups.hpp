@@ -1965,10 +1965,9 @@ class CfgGroups
 						vehicle = B_D_RadioOperator_lxWS;
 					};
 				};
-				delete B_T_ReconTeam;
-				delete B_T_ReconPatrol;
-				delete B_T_ReconSentry;
-				delete B_T_SniperTeam;
+				delete BUS_D_ReconTeam_lxWS;
+				delete BUS_D_ReconPatrol_lxWS;
+				delete BUS_D_ReconSentry_lxWS;
 			};
 			class SpecOps
 			{
@@ -2021,13 +2020,10 @@ class CfgGroups
 					GROUP_UNIT(6,TWest,B_D_recon_exp_lxWS,PRIVATE,-15,-15);
 					GROUP_UNIT(7,TWest,B_D_recon_Sharpshooter_lxWS,CORPORAL,20,-20);
 				};
-				delete BUS_DiverTeam_Boat;
-				delete BUS_DiverTeam_SDV;
-				delete BUS_SmallTeam_UAV;
-				delete BUS_ReconTeam_UGV;
-				delete BUS_AttackTeam_UGV;
-				delete BUS_ReconTeam_UAV;
-				delete BUS_AttackTeam_UAV;
+				delete BUS_D_AttackTeam_UGV_lxWS;
+				delete BUS_D_ReconTeam_UAV_lxWS;
+				delete BUS_D_AttackTeam_UAV_lxWS;
+				delete BUS_D_ReconTeam_UGV_lxWS;
 			};
 			class Mechanized
 			{

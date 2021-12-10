@@ -1,6 +1,6 @@
 class B_D_Soldier_A_lxWS : B_Soldier_A_F
 {
-   //editorPreview = "\lxws\editorpreviews_f_lxws\Data\CfgVehicles\B_D_Soldier_A_lxWS.jpg";
+   editorPreview = "\A3_Aegis\editorPreviews_f_aegis\Data\CfgVehicles\B_D_Soldier_A_lxWS.jpg";
    linkedItems[] = {"V_lxWS_PlateCarrier1_desert","H_HelmetB_desert","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    respawnLinkedItems[] = {"V_lxWS_PlateCarrier1_desert","H_HelmetB_desert","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    uniformClass = "U_lxWS_B_CombatUniform_desert";
@@ -19,14 +19,14 @@ class B_D_Soldier_A_lxWS : B_Soldier_A_F
    };
    magazines[] =
    {
-         mag_8(30Rnd_65x39_caseless_black_mag),
+         mag_6(30Rnd_65x39_caseless_black_mag),
          mag_3(11Rnd_45ACP_Mag),
          HandGrenade,
          SmokeShell
    };
    respawnMagazines[] =
    {
-         mag_8(30Rnd_65x39_caseless_black_mag),
+         mag_6(30Rnd_65x39_caseless_black_mag),
          mag_3(11Rnd_45ACP_Mag),
          HandGrenade,
          SmokeShell
@@ -34,7 +34,7 @@ class B_D_Soldier_A_lxWS : B_Soldier_A_F
 };
 class B_D_soldier_AAR_lxWS : B_soldier_AAR_F
 {
-   //editorPreview = "\lxws\editorPreviews_f_aegis\Data\CfgVehicles\B_D_soldier_AAR_lxWS.jpg";
+   editorPreview = "\A3_Aegis\editorPreviews_f_aegis\Data\CfgVehicles\B_D_soldier_AAR_lxWS.jpg";
    linkedItems[] = {"V_PlateCarrier1_khk","H_HelmetB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    respawnLinkedItems[] = {"V_PlateCarrier1_khk","H_HelmetB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    uniformClass = "U_lxWS_B_CombatUniform_desert_tshirt";
@@ -60,7 +60,7 @@ class B_D_soldier_AAR_lxWS : B_soldier_AAR_F
    };
    respawnMagazines[] =
    {
-         mag_8(30Rnd_65x39_caseless_black_mag),
+         mag_6(30Rnd_65x39_caseless_black_mag),
          mag_3(11Rnd_45ACP_Mag),
          HandGrenade,
          SmokeShell
@@ -68,7 +68,7 @@ class B_D_soldier_AAR_lxWS : B_soldier_AAR_F
 };
 class B_D_support_AMG_lxWS : B_support_AMG_F
 {
-   //editorPreview = "\lxws\editorPreviews_f_aegis\Data\CfgVehicles\B_D_support_AMG_lxWS.jpg";
+   editorPreview = "\A3_Aegis\editorPreviews_f_aegis\Data\CfgVehicles\B_D_support_AMG_lxWS.jpg";
    linkedItems[] = {"V_PlateCarrier1_khk","H_HelmetB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    respawnLinkedItems[] = {"V_PlateCarrier1_khk","H_HelmetB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    uniformClass = "U_lxWS_B_CombatUniform_desert_tshirt";
@@ -94,7 +94,7 @@ class B_D_support_AMG_lxWS : B_support_AMG_F
    };
    respawnMagazines[] =
    {
-         mag_8(30Rnd_65x39_caseless_black_mag),
+         mag_6(30Rnd_65x39_caseless_black_mag),
          mag_3(11Rnd_45ACP_Mag),
          HandGrenade,
          SmokeShell
@@ -103,7 +103,7 @@ class B_D_support_AMG_lxWS : B_support_AMG_F
 class B_D_support_AMort_lxWS : B_support_AMort_F
 {
 
-   //editorPreview = "\lxws\editorPreviews_f_aegis\Data\CfgVehicles\B_D_support_AMort_lxWS.jpg";
+   editorPreview = "\A3_Aegis\editorPreviews_f_aegis\Data\CfgVehicles\B_D_support_AMort_lxWS.jpg";
    linkedItems[] = {"V_PlateCarrier1_khk","H_HelmetB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    respawnLinkedItems[] = {"V_PlateCarrier1_khk","H_HelmetB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    uniformClass = "U_lxWS_B_CombatUniform_desert_tshirt";
@@ -129,7 +129,7 @@ class B_D_support_AMort_lxWS : B_support_AMort_F
    };
    respawnMagazines[] =
    {
-         mag_8(30Rnd_65x39_caseless_black_mag),
+         mag_6(30Rnd_65x39_caseless_black_mag),
          mag_3(11Rnd_45ACP_Mag),
          HandGrenade,
          SmokeShell
@@ -138,7 +138,7 @@ class B_D_support_AMort_lxWS : B_support_AMort_F
 class B_D_soldier_AAA_lxWS : B_soldier_AAA_F
 {
 
-   //editorPreview = "\lxws\editorPreviews_f_aegis\Data\CfgVehicles\B_D_soldier_AAA_lxWS.jpg";
+   editorPreview = "\A3_Aegis\editorPreviews_f_aegis\Data\CfgVehicles\B_D_soldier_AAA_lxWS.jpg";
    linkedItems[] = {"V_PlateCarrier1_khk","H_HelmetB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    respawnLinkedItems[] = {"V_PlateCarrier1_khk","H_HelmetB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    uniformClass = "U_lxWS_B_CombatUniform_desert_tshirt";
@@ -164,7 +164,7 @@ class B_D_soldier_AAA_lxWS : B_soldier_AAA_F
    };
    respawnMagazines[] =
    {
-         mag_8(30Rnd_65x39_caseless_black_mag),
+         mag_6(30Rnd_65x39_caseless_black_mag),
          mag_3(11Rnd_45ACP_Mag),
          HandGrenade,
          SmokeShell
@@ -173,7 +173,7 @@ class B_D_soldier_AAA_lxWS : B_soldier_AAA_F
 class B_D_soldier_AAT_lxWS : B_soldier_AAT_F
 {
 
-   //editorPreview = "\lxws\editorPreviews_f_aegis\Data\CfgVehicles\B_D_soldier_AAT_lxWS.jpg";
+   editorPreview = "\A3_Aegis\editorPreviews_f_aegis\Data\CfgVehicles\B_D_soldier_AAT_lxWS.jpg";
    linkedItems[] = {"V_PlateCarrier1_khk","H_HelmetB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    respawnLinkedItems[] = {"V_PlateCarrier1_khk","H_HelmetB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    uniformClass = "U_lxWS_B_CombatUniform_desert_tshirt";
@@ -199,7 +199,7 @@ class B_D_soldier_AAT_lxWS : B_soldier_AAT_F
    };
    respawnMagazines[] =
    {
-         mag_8(30Rnd_65x39_caseless_black_mag),
+         mag_6(30Rnd_65x39_caseless_black_mag),
          mag_3(11Rnd_45ACP_Mag),
          HandGrenade,
          SmokeShell
@@ -209,7 +209,7 @@ class B_D_soldier_AAT_lxWS : B_soldier_AAT_F
 class B_D_soldier_AR_lxWS : B_soldier_AR_F
 {
 
-   //editorPreview = "\lxws\editorPreviews_f_aegis\Data\CfgVehicles\B_D_soldier_AR_lxWS.jpg";
+   editorPreview = "\A3_Aegis\editorPreviews_f_aegis\Data\CfgVehicles\B_D_soldier_AR_lxWS.jpg";
    linkedItems[] = {"V_PlateCarrier2_khk","H_HelmetB_desert","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    respawnLinkedItems[] = {"V_PlateCarrier2_khk","H_HelmetB_desert","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    uniformClass = "U_lxWS_B_CombatUniform_desert_tshirt";
@@ -243,7 +243,7 @@ class B_D_soldier_AR_lxWS : B_soldier_AR_F
 class B_D_medic_lxWS : B_medic_F
 {
 
-   //editorPreview = "\lxws\editorPreviews_f_aegis\Data\CfgVehicles\B_D_medic_lxWS.jpg";
+   editorPreview = "\A3_Aegis\editorPreviews_f_aegis\Data\CfgVehicles\B_D_medic_lxWS.jpg";
    linkedItems[] = {"V_lxWS_PlateCarrierSpec_desert","H_HelmetB_desert","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    respawnLinkedItems[] = {"V_lxWS_PlateCarrierSpec_desert","H_HelmetB_desert","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    uniformClass = "U_lxWS_B_CombatUniform_desert_tshirt";
@@ -262,24 +262,24 @@ class B_D_medic_lxWS : B_medic_F
    };
    magazines[] =
    {
-         mag_8(30Rnd_65x39_caseless_black_mag),
+         mag_6(30Rnd_65x39_caseless_black_mag),
          mag_3(11Rnd_45ACP_Mag),
-         HandGrenade,
-         SmokeShell
+         SmokeShell,
+        SMOKESHELLS_MEDIC
    };
    respawnMagazines[] =
    {
-         mag_8(30Rnd_65x39_caseless_black_mag),
+         mag_6(30Rnd_65x39_caseless_black_mag),
          mag_3(11Rnd_45ACP_Mag),
-         HandGrenade,
-         SmokeShell
+         SmokeShell,
+         SMOKESHELLS_MEDIC
    };
 };
 
 class B_D_crew_lxWS : B_crew_F
 {
 
-   //editorPreview = "\lxws\editorPreviews_f_aegis\Data\CfgVehicles\B_D_crew_lxWS.jpg";
+   editorPreview = "\A3_Aegis\editorPreviews_f_aegis\Data\CfgVehicles\B_D_crew_lxWS.jpg";
    linkedItems[] = {"V_BandollierB_khk","H_HelmetCrew_B","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    respawnLinkedItems[] = {"V_BandollierB_khk","H_HelmetCrew_B","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    uniformClass = "U_lxWS_B_CombatUniform_desert_vest";
@@ -304,7 +304,7 @@ class B_D_crew_lxWS : B_crew_F
    };
    respawnMagazines[] =
    {
-         mag_8(30Rnd_65x39_caseless_black_mag),
+         mag_6(30Rnd_65x39_caseless_black_mag),
          mag_3(11Rnd_45ACP_Mag),
          HandGrenade,
          SmokeShell
@@ -313,7 +313,7 @@ class B_D_crew_lxWS : B_crew_F
 class B_D_engineer_lxWS : B_engineer_F
 {
 
-   //editorPreview = "\lxws\editorPreviews_f_aegis\Data\CfgVehicles\B_D_engineer_lxWS.jpg";
+   editorPreview = "\A3_Aegis\editorPreviews_f_aegis\Data\CfgVehicles\B_D_engineer_lxWS.jpg";
    linkedItems[] = {"V_PlateCarrier1_khk","H_HelmetB_desert","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    respawnLinkedItems[] = {"V_PlateCarrier1_khk","H_HelmetB_desert","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    uniformClass = "U_lxWS_B_CombatUniform_desert_vest";
@@ -339,7 +339,7 @@ class B_D_engineer_lxWS : B_engineer_F
    };
    respawnMagazines[] =
    {
-         mag_8(30Rnd_65x39_caseless_black_mag),
+         mag_6(30Rnd_65x39_caseless_black_mag),
          mag_3(11Rnd_45ACP_Mag),
          HandGrenade,
          SmokeShell
@@ -349,7 +349,7 @@ class B_D_engineer_lxWS : B_engineer_F
 class B_D_soldier_exp_lxWS : B_soldier_exp_F
 {
 
-   //editorPreview = "\lxws\editorPreviews_f_aegis\Data\CfgVehicles\B_D_soldier_exp_lxWS.jpg";
+   editorPreview = "\A3_Aegis\editorPreviews_f_aegis\Data\CfgVehicles\B_D_soldier_exp_lxWS.jpg";
    linkedItems[] = {"V_lxWS_PlateCarrierGL_desert","H_HelmetSpecB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    respawnLinkedItems[] = {"V_lxWS_PlateCarrierGL_desert","H_HelmetSpecB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    uniformClass = "U_lxWS_B_CombatUniform_desert";
@@ -375,7 +375,7 @@ class B_D_soldier_exp_lxWS : B_soldier_exp_F
    };
    respawnMagazines[] =
    {
-         mag_8(30Rnd_65x39_caseless_black_mag),
+         mag_6(30Rnd_65x39_caseless_black_mag),
          mag_3(11Rnd_45ACP_Mag),
          HandGrenade,
          SmokeShell
@@ -385,15 +385,45 @@ class B_D_soldier_exp_lxWS : B_soldier_exp_F
 class B_D_Soldier_GL_lxWS : B_Soldier_GL_F
 {
 
-   //editorPreview = "\lxws\editorPreviews_f_aegis\Data\CfgVehicles\B_D_Soldier_GL_lxWS.jpg";
-   linkedItems[] = {"V_lxWS_PlateCarrierGL_desert","H_HelmetSpecB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
-   respawnLinkedItems[] = {"V_lxWS_PlateCarrierGL_desert","H_HelmetSpecB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
+   editorPreview = "\A3_Aegis\editorPreviews_f_aegis\Data\CfgVehicles\B_D_Soldier_GL_lxWS.jpg";
+   linkedItems[] = {"V_PlateCarrier2_khk","H_HelmetSpecB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
+   respawnLinkedItems[] = {"V_PlateCarrier2_khk","H_HelmetSpecB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    uniformClass = "U_lxWS_B_CombatUniform_desert";
+   weapons[] =
+	{
+		arifle_MX_GL_Black_ACO_Pointer_F,
+		hgun_P07_blk_F,
+		DefaultManWeapons
+	};
+	respawnWeapons[] =
+	{
+		arifle_MX_GL_Black_ACO_Pointer_F,
+		hgun_P07_blk_F,
+		DefaultManWeapons
+	};
+   magazines[] =
+   {
+      mag_6(30Rnd_65x39_caseless_black_mag),
+      mag_2(16Rnd_9x21_Mag),
+      mag_2(3Rnd_HE_Grenade_shell),
+      mag_2(HandGrenade),
+      mag_2(SmokeShell),
+      mag_2(1Rnd_Smoke_Grenade_shell)
+   };
+   respawnMagazines[] =
+   {
+      mag_6(30Rnd_65x39_caseless_black_mag),
+      mag_2(16Rnd_9x21_Mag),
+      mag_2(3Rnd_HE_Grenade_shell),
+      mag_2(HandGrenade),
+      mag_2(SmokeShell),
+      mag_2(1Rnd_Smoke_Grenade_shell)
+   };
 };
 class B_D_support_GMG_lxWS : B_support_GMG_F
 {
 
-   //editorPreview = "\lxws\editorPreviews_f_aegis\Data\CfgVehicles\B_D_support_GMG_lxWS.jpg";
+   editorPreview = "\A3_Aegis\editorPreviews_f_aegis\Data\CfgVehicles\B_D_support_GMG_lxWS.jpg";
    linkedItems[] = {"V_PlateCarrier1_khk","H_HelmetB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    respawnLinkedItems[] = {"V_PlateCarrier1_khk","H_HelmetB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    uniformClass = "U_lxWS_B_CombatUniform_desert_tshirt";
@@ -419,7 +449,7 @@ class B_D_support_GMG_lxWS : B_support_GMG_F
    };
    respawnMagazines[] =
    {
-         mag_8(30Rnd_65x39_caseless_black_mag),
+         mag_6(30Rnd_65x39_caseless_black_mag),
          mag_3(11Rnd_45ACP_Mag),
          HandGrenade,
          SmokeShell
@@ -428,7 +458,7 @@ class B_D_support_GMG_lxWS : B_support_GMG_F
 class B_D_support_MG_lxWS : B_support_MG_F
 {
 
-   //editorPreview = "\lxws\editorPreviews_f_aegis\Data\CfgVehicles\B_D_support_MG_lxWS.jpg";
+   editorPreview = "\A3_Aegis\editorPreviews_f_aegis\Data\CfgVehicles\B_D_support_MG_lxWS.jpg";
    linkedItems[] = {"V_PlateCarrier1_khk","H_HelmetB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    respawnLinkedItems[] = {"V_PlateCarrier1_khk","H_HelmetB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    uniformClass = "U_lxWS_B_CombatUniform_desert_tshirt";
@@ -454,7 +484,7 @@ class B_D_support_MG_lxWS : B_support_MG_F
    };
    respawnMagazines[] =
    {
-      mag_8(30Rnd_65x39_caseless_black_mag),
+      mag_6(30Rnd_65x39_caseless_black_mag),
       mag_3(11Rnd_45ACP_Mag),
       HandGrenade,
       SmokeShell
@@ -463,7 +493,7 @@ class B_D_support_MG_lxWS : B_support_MG_F
 class B_D_support_Mort_lxWS : B_support_Mort_F
 {
 
-   //editorPreview = "\lxws\editorPreviews_f_aegis\Data\CfgVehicles\B_D_support_Mort_lxWS.jpg";
+   editorPreview = "\A3_Aegis\editorPreviews_f_aegis\Data\CfgVehicles\B_D_support_Mort_lxWS.jpg";
    linkedItems[] = {"V_PlateCarrier1_khk","H_HelmetB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    respawnLinkedItems[] = {"V_PlateCarrier1_khk","H_HelmetB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    uniformClass = "U_lxWS_B_CombatUniform_desert_tshirt";
@@ -489,7 +519,7 @@ class B_D_support_Mort_lxWS : B_support_Mort_F
    };
    respawnMagazines[] =
    {
-         mag_8(30Rnd_65x39_caseless_black_mag),
+         mag_6(30Rnd_65x39_caseless_black_mag),
          mag_3(11Rnd_45ACP_Mag),
          HandGrenade,
          SmokeShell
@@ -499,15 +529,43 @@ class B_D_support_Mort_lxWS : B_support_Mort_F
 class B_D_soldier_M_lxWS : B_soldier_M_F
 {
 
-   //editorPreview = "\lxws\editorPreviews_f_aegis\Data\CfgVehicles\B_D_soldier_M_lxWS.jpg";
+   editorPreview = "\A3_Aegis\editorPreviews_f_aegis\Data\CfgVehicles\B_D_soldier_M_lxWS.jpg";
    linkedItems[] = {"V_PlateCarrier1_khk","H_HelmetB_desert","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    respawnLinkedItems[] = {"V_PlateCarrier1_khk","H_HelmetB_desert","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    uniformClass = "U_lxWS_B_CombatUniform_desert";
+   weapons[] =
+	{
+		arifle_MXM_Black_MOS_Pointer_Bipod_F,
+		hgun_P07_blk_F,
+		DefaultManWeapons,
+		Rangefinder
+	};
+	respawnWeapons[] =
+	{
+		arifle_MXM_Black_MOS_Pointer_Bipod_F,
+		hgun_P07_blk_F,
+		DefaultManWeapons,
+		Rangefinder
+	};
+   magazines[] =
+   {
+      mag_8(30Rnd_65x39_caseless_black_mag),
+      mag_2(16Rnd_9x21_Mag),
+      mag_2(HandGrenade),
+      mag_2(SmokeShell)
+   };
+   respawnMagazines[] =
+   {
+      mag_8(30Rnd_65x39_caseless_black_mag),
+      mag_2(16Rnd_9x21_Mag),
+      mag_2(HandGrenade),
+      mag_2(SmokeShell)
+   };
 };
 class B_D_soldier_mine_lxWS : B_soldier_mine_F 
 {
 
-   //editorPreview = "\lxws\editorPreviews_f_aegis\Data\CfgVehicles\B_D_soldier_mine_lxWS.jpg";
+   editorPreview = "\A3_Aegis\editorPreviews_f_aegis\Data\CfgVehicles\B_D_soldier_mine_lxWS.jpg";
    linkedItems[] = {"V_lxWS_PlateCarrierGL_desert","H_HelmetSpecB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    respawnLinkedItems[] = {"V_lxWS_PlateCarrierGL_desert","H_HelmetSpecB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    uniformClass = "U_lxWS_B_CombatUniform_desert";
@@ -533,7 +591,7 @@ class B_D_soldier_mine_lxWS : B_soldier_mine_F
    };
    respawnMagazines[] =
    {
-         mag_8(30Rnd_65x39_caseless_black_mag),
+         mag_6(30Rnd_65x39_caseless_black_mag),
          mag_3(11Rnd_45ACP_Mag),
          HandGrenade,
          SmokeShell
@@ -542,7 +600,7 @@ class B_D_soldier_mine_lxWS : B_soldier_mine_F
 class B_D_soldier_AA_lxWS : B_soldier_AA_F
 {
 
-   //editorPreview = "\lxws\editorPreviews_f_aegis\Data\CfgVehicles\B_D_soldier_AA_lxWS.jpg";
+   editorPreview = "\A3_Aegis\editorPreviews_f_aegis\Data\CfgVehicles\B_D_soldier_AA_lxWS.jpg";
    linkedItems[] = {"V_PlateCarrier1_khk","H_HelmetB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    respawnLinkedItems[] = {"V_PlateCarrier1_khk","H_HelmetB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    uniformClass = "U_lxWS_B_CombatUniform_desert";
@@ -581,7 +639,7 @@ class B_D_soldier_AA_lxWS : B_soldier_AA_F
 class B_D_soldier_AT_lxWS : B_soldier_AT_F 
 {
 
-   //editorPreview = "\lxws\editorPreviews_f_aegis\Data\CfgVehicles\B_D_soldier_AT_lxWS.jpg";
+   editorPreview = "\A3_Aegis\editorPreviews_f_aegis\Data\CfgVehicles\B_D_soldier_AT_lxWS.jpg";
    linkedItems[] = {"V_PlateCarrier1_khk","H_HelmetB_desert","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    respawnLinkedItems[] = {"V_PlateCarrier1_khk","H_HelmetB_desert","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    uniformClass = "U_lxWS_B_CombatUniform_desert";
@@ -620,10 +678,36 @@ class B_D_soldier_AT_lxWS : B_soldier_AT_F
 class B_D_officer_lxWS : B_officer_F
 {
 
-   //editorPreview = "\lxws\editorPreviews_f_aegis\Data\CfgVehicles\B_D_officer_lxWS.jpg";
+   editorPreview = "\A3_Aegis\editorPreviews_f_aegis\Data\CfgVehicles\B_D_officer_lxWS.jpg";
    linkedItems[] = {"V_BandollierB_khk","lxWS_H_MilCap_desert","ItemGPS","ItemMap","ItemCompass","ItemWatch","ItemRadio"};
    respawnLinkedItems[] = {"V_BandollierB_khk","lxWS_H_MilCap_desert","ItemGPS","ItemMap","ItemCompass","ItemWatch","ItemRadio"};
    uniformClass = "U_lxWS_B_CombatUniform_desert";
+   weapons[] =
+   {
+      arifle_MXC_Black_Holo_Pointer_F,
+      hgun_Pistol_heavy_01_black_F,
+      DefaultManWeapons
+   };
+   respawnWeapons[] =
+   {
+      arifle_MXC_Black_Holo_Pointer_F,
+      hgun_Pistol_heavy_01_black_F,
+      DefaultManWeapons
+   };
+   magazines[] =
+   {
+         mag_6(30Rnd_65x39_caseless_black_mag),
+         mag_3(11Rnd_45ACP_Mag),
+         HandGrenade,
+         SmokeShell
+   };
+   respawnMagazines[] =
+   {
+         mag_6(30Rnd_65x39_caseless_black_mag),
+         mag_3(11Rnd_45ACP_Mag),
+         HandGrenade,
+         SmokeShell
+   };
 };
 class B_D_soldier_PG_lxWS : B_soldier_PG_F
 {
@@ -632,7 +716,7 @@ class B_D_soldier_PG_lxWS : B_soldier_PG_F
 class B_D_RadioOperator_lxWS: B_Soldier_F
 {
 	author = $STR_A3_A_Heliotrope;
-	editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_RadioOperator_F.jpg";
+	editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_D_RadioOperator_lxWS.jpg";
    scope = public;
    scopeCurator = public;
    displayName = $STR_A3_C_B_W_RadioOperator_F0;
@@ -666,14 +750,14 @@ class B_D_RadioOperator_lxWS: B_Soldier_F
    };
    magazines[] =
    {
-         mag_8(30Rnd_65x39_caseless_black_mag),
+         mag_6(30Rnd_65x39_caseless_black_mag),
          mag_3(11Rnd_45ACP_Mag),
          HandGrenade,
          SmokeShell
    };
    respawnMagazines[] =
    {
-         mag_8(30Rnd_65x39_caseless_black_mag),
+         mag_6(30Rnd_65x39_caseless_black_mag),
          mag_3(11Rnd_45ACP_Mag),
          HandGrenade,
          SmokeShell
@@ -683,7 +767,7 @@ class B_D_RadioOperator_lxWS: B_Soldier_F
 class B_D_soldier_repair_lxWS : B_soldier_repair_F
 {
 
-   //editorPreview = "\lxws\editorPreviews_f_aegis\Data\CfgVehicles\B_D_soldier_repair_lxWS.jpg";
+   editorPreview = "\A3_Aegis\editorPreviews_f_aegis\Data\CfgVehicles\B_D_soldier_repair_lxWS.jpg";
    linkedItems[] = {"V_PlateCarrier1_khk","H_HelmetB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    respawnLinkedItems[] = {"V_PlateCarrier1_khk","H_HelmetB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    uniformClass = "U_lxWS_B_CombatUniform_desert";
@@ -702,14 +786,14 @@ class B_D_soldier_repair_lxWS : B_soldier_repair_F
    };
    magazines[] =
    {
-         mag_8(30Rnd_65x39_caseless_black_mag),
+         mag_6(30Rnd_65x39_caseless_black_mag),
          mag_3(11Rnd_45ACP_Mag),
          HandGrenade,
          SmokeShell
    };
    respawnMagazines[] =
    {
-         mag_8(30Rnd_65x39_caseless_black_mag),
+         mag_6(30Rnd_65x39_caseless_black_mag),
          mag_3(11Rnd_45ACP_Mag),
          HandGrenade,
          SmokeShell
@@ -719,7 +803,7 @@ class B_D_soldier_repair_lxWS : B_soldier_repair_F
 class B_D_Soldier_lxWS : B_Soldier_F
 {
 
-   //editorPreview = "\lxws\editorPreviews_f_aegis\Data\CfgVehicles\B_D_Soldier_lxWS.jpg";
+   editorPreview = "\A3_Aegis\editorPreviews_f_aegis\Data\CfgVehicles\B_D_Soldier_lxWS.jpg";
    linkedItems[] = {"V_PlateCarrier2_khk","H_HelmetB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    respawnLinkedItems[] = {"V_PlateCarrier2_khk","H_HelmetB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    uniformClass = "U_lxWS_B_CombatUniform_desert";
@@ -737,14 +821,14 @@ class B_D_Soldier_lxWS : B_Soldier_F
    };
    magazines[] =
    {
-         mag_8(30Rnd_65x39_caseless_black_mag),
+         mag_6(30Rnd_65x39_caseless_black_mag),
          mag_3(11Rnd_45ACP_Mag),
          HandGrenade,
          SmokeShell
    };
    respawnMagazines[] =
    {
-         mag_8(30Rnd_65x39_caseless_black_mag),
+         mag_6(30Rnd_65x39_caseless_black_mag),
          mag_3(11Rnd_45ACP_Mag),
          HandGrenade,
          SmokeShell
@@ -753,7 +837,7 @@ class B_D_Soldier_lxWS : B_Soldier_F
 class B_D_soldier_LAT_lxWS : B_soldier_LAT_F
 {
 
-   //editorPreview = "\lxws\editorPreviews_f_aegis\Data\CfgVehicles\B_D_soldier_LAT_lxWS.jpg";
+   editorPreview = "\A3_Aegis\editorPreviews_f_aegis\Data\CfgVehicles\B_D_soldier_LAT_lxWS.jpg";
    linkedItems[] = {"V_PlateCarrier2_khk","H_HelmetB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    respawnLinkedItems[] = {"V_PlateCarrier2_khk","H_HelmetB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"}; 
    uniformClass = "U_lxWS_B_CombatUniform_desert";
@@ -792,7 +876,7 @@ class B_D_soldier_LAT_lxWS : B_soldier_LAT_F
 class B_D_soldier_LAT2_lxWS : B_soldier_LAT2_F
 {
 
-   //editorPreview = "\lxws\editorPreviews_f_aegis\Data\CfgVehicles\B_D_soldier_LAT2_lxWS.jpg";
+   editorPreview = "\A3_Aegis\editorPreviews_f_aegis\Data\CfgVehicles\B_D_soldier_LAT2_lxWS.jpg";
    linkedItems[] = {"V_PlateCarrier2_khk","H_HelmetB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    respawnLinkedItems[] = {"V_PlateCarrier2_khk","H_HelmetB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    uniformClass = "U_lxWS_B_CombatUniform_desert";
@@ -832,7 +916,7 @@ class B_D_soldier_LAT2_lxWS : B_soldier_LAT2_F
 class B_D_Soldier_lite_lxWS : B_Soldier_lite_F
 {
 
-   //editorPreview = "\lxws\editorPreviews_f_aegis\Data\CfgVehicles\B_D_Soldier_lite_lxWS.jpg";
+   editorPreview = "\A3_Aegis\editorPreviews_f_aegis\Data\CfgVehicles\B_D_Soldier_lite_lxWS.jpg";
    linkedItems[] = {"V_BandollierB_khk","lxWS_H_MilCap_desert","ItemMap","ItemCompass","ItemWatch","ItemRadio"};
    respawnLinkedItems[] = {"V_BandollierB_khk","lxWS_H_MilCap_desert","ItemMap","ItemCompass","ItemWatch","ItemRadio"};
    uniformClass = "U_lxWS_B_CombatUniform_desert_vest";
@@ -841,7 +925,7 @@ class B_D_Soldier_lite_lxWS : B_Soldier_lite_F
 class B_D_Soldier_unarmed_lxWS : B_Soldier_unarmed_F
 {
 
-   //editorPreview = "\lxws\editorPreviews_f_aegis\Data\CfgVehicles\B_D_Soldier_unarmed_lxWS.jpg";
+   editorPreview = "\A3_Aegis\editorPreviews_f_aegis\Data\CfgVehicles\B_D_Soldier_unarmed_lxWS.jpg";
    linkedItems[] = {"V_PlateCarrier1_khk","H_HelmetB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    respawnLinkedItems[] = {"V_PlateCarrier1_khk","H_HelmetB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    uniformClass = "U_lxWS_B_CombatUniform_desert";
@@ -850,7 +934,7 @@ class B_D_Soldier_unarmed_lxWS : B_Soldier_unarmed_F
 class B_D_Soldier_SL_lxWS : B_Soldier_SL_F
 {
 
-   //editorPreview = "\lxws\editorPreviews_f_aegis\Data\CfgVehicles\B_D_Soldier_SL_lxWS.jpg";
+   editorPreview = "\A3_Aegis\editorPreviews_f_aegis\Data\CfgVehicles\B_D_Soldier_SL_lxWS.jpg";
    linkedItems[] = {"V_PlateCarrier2_khk","H_HelmetB_desert","ItemGPS","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    respawnLinkedItems[] = {"V_PlateCarrier2_khk","H_HelmetB_desert","ItemGPS","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    uniformClass = "U_lxWS_B_CombatUniform_desert_vest";
@@ -887,7 +971,7 @@ class B_D_Soldier_SL_lxWS : B_Soldier_SL_F
 class B_D_Soldier_TL_lxWS : B_Soldier_TL_F
 {
 
-   //editorPreview = "\lxws\editorPreviews_f_aegis\Data\CfgVehicles\B_D_Soldier_TL_lxWS.jpg";
+   editorPreview = "\A3_Aegis\editorPreviews_f_aegis\Data\CfgVehicles\B_D_Soldier_TL_lxWS.jpg";
    linkedItems[] = {"V_PlateCarrier2_khk","H_HelmetSpecB_sand","ItemGPS","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    respawnLinkedItems[] = {"V_PlateCarrier2_khk","H_HelmetSpecB_sand","ItemGPS","ItemMap","ItemCompass","ItemWatch","ItemRadio","NVGoggles"};
    uniformClass = "U_lxWS_B_CombatUniform_desert_vest";
@@ -924,7 +1008,7 @@ class B_D_Soldier_TL_lxWS : B_Soldier_TL_F
 class B_D_soldier_UAV01_lxWS : B_soldier_UAV_F
 {
 
-   //editorPreview = "\lxws\editorPreviews_f_aegis\Data\CfgVehicles\B_D_soldier_UAV01_lxWS.jpg";
+   editorPreview = "\A3_Aegis\editorPreviews_f_aegis\Data\CfgVehicles\B_D_soldier_UAV01_lxWS.jpg";
    linkedItems[] = {"V_PlateCarrier1_khk","H_HelmetB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","B_UavTerminal","NVGoggles"};
    respawnLinkedItems[] = {"V_PlateCarrier1_khk","H_HelmetB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","B_UavTerminal","NVGoggles"};
    uniformClass = "U_lxWS_B_CombatUniform_desert";
@@ -942,14 +1026,14 @@ class B_D_soldier_UAV01_lxWS : B_soldier_UAV_F
    };
    magazines[] =
    {
-         mag_8(30Rnd_65x39_caseless_black_mag),
+         mag_6(30Rnd_65x39_caseless_black_mag),
          mag_3(11Rnd_45ACP_Mag),
          HandGrenade,
          SmokeShell
    };
    respawnMagazines[] =
    {
-         mag_8(30Rnd_65x39_caseless_black_mag),
+         mag_6(30Rnd_65x39_caseless_black_mag),
          mag_3(11Rnd_45ACP_Mag),
          HandGrenade,
          SmokeShell
@@ -960,7 +1044,7 @@ class B_soldier_UAV_lxWS;
 class B_D_soldier_UAV02_lxWS : B_soldier_UAV_lxWS
 {
 
-   //editorPreview = "\lxws\editorPreviews_f_aegis\Data\CfgVehicles\B_D_soldier_UAV02_lxWS.jpg";
+   editorPreview = "\A3_Aegis\editorPreviews_f_aegis\Data\CfgVehicles\B_D_soldier_UAV02_lxWS.jpg";
    linkedItems[] = {"V_PlateCarrier1_khk","H_HelmetB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","B_UavTerminal","NVGoggles"};
    respawnLinkedItems[] = {"V_PlateCarrier1_khk","H_HelmetB_sand","ItemMap","ItemCompass","ItemWatch","ItemRadio","B_UavTerminal","NVGoggles"};
    uniformClass = "U_lxWS_B_CombatUniform_desert";
@@ -978,14 +1062,14 @@ class B_D_soldier_UAV02_lxWS : B_soldier_UAV_lxWS
    };
    magazines[] =
    {
-         mag_8(30Rnd_65x39_caseless_black_mag),
+         mag_6(30Rnd_65x39_caseless_black_mag),
          mag_3(11Rnd_45ACP_Mag),
          HandGrenade,
          SmokeShell
    };
    respawnMagazines[] =
    {
-         mag_8(30Rnd_65x39_caseless_black_mag),
+         mag_6(30Rnd_65x39_caseless_black_mag),
          mag_3(11Rnd_45ACP_Mag),
          HandGrenade,
          SmokeShell
@@ -997,7 +1081,7 @@ class B_D_soldier_UAV02_lxWS : B_soldier_UAV_lxWS
 //
 class B_D_recon_lxWS: B_recon_F
 {
-   //editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_recon_usmc_F.jpg";
+   editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_D_recon_lxWS.jpg";
 	identityTypes[] =
 	{
 		LanguageENG_F,
@@ -1053,7 +1137,7 @@ class B_D_recon_lxWS: B_recon_F
 };
 class B_D_recon_LAT_lxWS: B_recon_LAT_F
 {
-    //editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_recon_usmc_LAT_F.jpg";
+    editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_D_recon_LAT_lxWS.jpg";
 	identityTypes[] =
 	{
 		LanguageENG_F,
@@ -1111,7 +1195,7 @@ class B_D_recon_LAT_lxWS: B_recon_LAT_F
 };
 class B_D_recon_medic_lxWS: B_recon_medic_F
 {
-    //editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_recon_usmc_medic_F.jpg";
+    editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_D_recon_medic_lxWS.jpg";
 	identityTypes[] =
 	{
 		LanguageENG_F,
@@ -1167,7 +1251,7 @@ class B_D_recon_medic_lxWS: B_recon_medic_F
 };
 class B_D_recon_TL_lxWS: B_recon_TL_F
 {
-    //editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_recon_usmc_TL_F.jpg";
+    editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_D_recon_TL_lxWS.jpg";
 	identityTypes[] =
 	{
 		LanguageENG_F,
@@ -1228,7 +1312,7 @@ class B_D_recon_TL_lxWS: B_recon_TL_F
 };
 class B_D_recon_M_lxWS: B_recon_M_F
 {
-    //editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_recon_usmc_M_F.jpg";
+    editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_D_recon_M_lxWS.jpg";
     weapons[] =
     {
         arifle_SPAR_03_snd_MOS_Pointer_Snds_Bipod_F,
@@ -1288,7 +1372,7 @@ class B_D_recon_M_lxWS: B_recon_M_F
 };
 class B_D_recon_JTAC_lxWS: B_recon_JTAC_F
 {
-    //editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_recon_usmc_JTAC_F.jpg";
+    editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_D_recon_JTAC_lxWS.jpg";
 	identityTypes[] =
 	{
 		LanguageENG_F,
@@ -1351,7 +1435,7 @@ class B_D_recon_JTAC_lxWS: B_recon_JTAC_F
 };
 class B_D_recon_exp_lxWS : B_recon_exp_F
 {
-   ////editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_D_recon_exp_lxWS.jpg";
+   editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_D_recon_exp_lxWS.jpg";
    weapons[] =
    {
       arifle_SPAR_01_snd_Holo_Pointer_Snds_F,
