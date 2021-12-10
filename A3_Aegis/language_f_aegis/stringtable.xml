@@ -2558,21 +2558,21 @@
                     <Turkish>Argana</Turkish>
 				</Key>
 				<Key ID="STR_A3_CfgGroups_West_BLU_F_Mortar_Platoon0">
-					<Original>Mortar Platoon</Original>
-					<Chinese>Mortar Platoon</Chinese>
-					<French>Mortar Platoon</French>
-					<Spanish>Mortar Platoon</Spanish>
-					<Italian>Mortar Platoon</Italian>
-					<Polish>Mortar Platoon</Polish>
-					<Russian>Mortar Platoon</Russian>
-					<German>Mortar Platoon</German>
-					<Czech>Mortar Platoon</Czech>
-					<English>Mortar Platoon</English>
-					<Portuguese>Mortar Platoon</Portuguese>
-					<Korean>Mortar Platoon</Korean>
-					<Chinesesimp>Mortar Platoon</Chinesesimp>
-					<Japanese>Mortar Platoon</Japanese>
-					<Turkish>Mortar Platoon</Turkish>
+					<Original>Mortar Battery</Original>
+					<Chinese>Mortar Battery</Chinese>
+					<French>Mortar Battery</French>
+					<Spanish>Mortar Battery</Spanish>
+					<Italian>Mortar Battery</Italian>
+					<Polish>Mortar Battery</Polish>
+					<Russian>Mortar Battery</Russian>
+					<German>Mortar Battery</German>
+					<Czech>Mortar Battery</Czech>
+					<English>Mortar Battery</English>
+					<Portuguese>Mortar Battery</Portuguese>
+					<Korean>Mortar Battery</Korean>
+					<Chinesesimp>Mortar Battery</Chinesesimp>
+					<Japanese>Mortar Battery</Japanese>
+					<Turkish>Mortar Battery</Turkish>
 				</Key>
 				<Key ID="STR_A3_CfgGroups_West_BLU_F_Mortar_Section0">
 					<Original>Mortar Section</Original>

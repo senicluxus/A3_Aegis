@@ -2006,15 +2006,6 @@ class CfgGroups
 					GROUP_UNIT(0,TWest,B_D_recon_M_lxWS,CORPORAL,0,0);
 					GROUP_UNIT(1,TWest,B_D_recon_lxWS,PRIVATE,5,-5);
 				};
-				class BUS_D_SniperTeam
-				{
-					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_SniperTeam0;
-					side = TWest;
-					faction = BLU_NATO_lxWS;
-					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_recon.paa";
-					GROUP_UNIT(0,TWest,B_spotter_lxWS,SERGEANT,0,0);
-					GROUP_UNIT(1,TWest,B_sniper_lxWS,CORPORAL,5,-5);
-				};
 				class BUS_D_ReconSquad
 				{
 					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_ReconSquad0;
@@ -2045,7 +2036,7 @@ class CfgGroups
 				{
 					class Unit0
 					{
-						vehicle = B_D_APC_Wheeled_01_cannon_lxWS;
+						vehicle = B_D_APC_Wheeled_01_cannon_lxWS_v2;
 					};
 					class Unit2
 					{
@@ -2056,25 +2047,43 @@ class CfgGroups
 				{
 					class Unit0
 					{
-						vehicle = B_D_APC_Wheeled_01_cannon_lxWS;
+						vehicle = B_D_APC_Wheeled_01_cannon_lxWS_v2;
 					};
 				};
 				class BUS_D_MechInf_AT_lxWS
 				{
 					class Unit0
 					{
-						vehicle = B_D_APC_Wheeled_01_atgm_lxWS;
+						vehicle = B_D_APC_Wheeled_01_atgm_lxWS_v2;
 					};
 				};
 				delete BUS_D_MechInf_AA_lxWS;
 			};
 			class Armored
 			{
+				class BUS_D_TankDestrSection_Rhino
+				{
+					name = $STR_A3_CfgGroups_TDSection;
+					side = TWest;
+					faction = BLU_NATO_lxWS;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_art.paa";
+					GROUP_UNIT(0,TWest,B_marines_AFV_Wheeled_01_cannon_F,LIEUTENANT,0,0);
+					GROUP_UNIT(1,TWest,B_marines_AFV_Wheeled_01_cannon_F,SERGEANT,10,-10);
+				};
+				class BUS_D_TankDestrSection_RhinoUP
+				{
+					name = $STR_A3_CfgGroups_TDSectionUP;
+					side = TWest;
+					faction = BLU_NATO_lxWS;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_art.paa";
+					GROUP_UNIT(0,TWest,B_marines_AFV_Wheeled_01_up_cannon_F,LIEUTENANT,0,0);
+					GROUP_UNIT(1,TWest,B_marines_AFV_Wheeled_01_up_cannon_F,SERGEANT,10,-10);
+				};
 				class BUS_D_Mortar_Platoon_lxWS
 				{
 					name = "$STR_A3_CfgGroups_West_BLU_F_Mortar_Platoon0";
 					side = TWest;
-					faction = "BLU_NATO_lxWS";
+					faction = BLU_NATO_lxWS;
 					icon = "\A3\ui_f\data\map\markers\nato\b_mortar.paa";
 					GROUP_UNIT(0,TEast,B_D_APC_Wheeled_01_mortar_lxWS,LIEUTENANT,0,0);
 					GROUP_UNIT(1,TEast,B_D_APC_Wheeled_01_mortar_lxWS,SERGEANT,5,-5);
@@ -2085,7 +2094,7 @@ class CfgGroups
 				{
 					name = "$STR_A3_CfgGroups_West_BLU_F_Mortar_Section0";
 					side = TWest;
-					faction = "BLU_NATO_lxWS";
+					faction = BLU_NATO_lxWS;
 					icon = "\A3\ui_f\data\map\markers\nato\b_mortar.paa";
 					GROUP_UNIT(0,TEast,B_D_APC_Wheeled_01_mortar_lxWS,LIEUTENANT,0,0);
 					GROUP_UNIT(1,TEast,B_D_APC_Wheeled_01_mortar_lxWS,SERGEANT,5,-5);
