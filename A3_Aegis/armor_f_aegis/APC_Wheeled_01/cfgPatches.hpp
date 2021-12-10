@@ -7,7 +7,8 @@ class CfgPatches
 		{
 			A3_Aegis_Armor_F_Aegis,
 			A3_Armor_F_Beta_APC_Wheeled_01,
-			A3_Armor_F_Exp_APC_Wheeled_01
+			A3_Armor_F_Exp_APC_Wheeled_01,
+            Vehicles_f_lxWS
 		};
 		requiredVersion = 0.1;
 		units[] =
@@ -28,15 +29,13 @@ class CfgPatches
             B_A_APC_Wheeled_01_cannon_v3_tna_F,
             B_A_APC_Wheeled_01_medical_wdl_F,
             B_A_APC_Wheeled_01_cannon_v3_wdl_F,
+            B_D_APC_Wheeled_01_cannon_lxWS_v2,
+            B_D_APC_Wheeled_01_atgm_lxWS_v2,
+            B_T_APC_Wheeled_01_atgm_lxWS_v2,
 
             /* From "cfgEAF.hpp" */
             I_E_APC_Wheeled_01_cannon_v3_F,
-            I_E_APC_Wheeled_01_medical_F,
-
-            /* From "WS_Compat.hpp" */
-            B_D_APC_Wheeled_01_cannon_lxWS_v2,
-            B_D_APC_Wheeled_01_atgm_lxWS_v2,
-            B_T_APC_Wheeled_01_atgm_lxWS
+            I_E_APC_Wheeled_01_medical_F
         };
 		weapons[] = {/* Automated */};
 	};
