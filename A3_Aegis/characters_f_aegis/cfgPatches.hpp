@@ -21,6 +21,7 @@ class CfgPatches
 			A3_Characters_F_Patrol,
 			A3_Characters_F_Tacops,
 			A3_Characters_F_Tank,
+            Characters_f_lxWS,
 			A3_Data_F
 		};
 		requiredVersion = 0.1;
@@ -540,7 +541,63 @@ class CfgPatches
             B_ION_soldier_UAV_06_F,
             B_ION_soldier_UAV_06_medical_F,
             B_ION_soldier_UGV_02_Demining_F,
-            B_ION_Soldier_unarmed_F
+            B_ION_Soldier_unarmed_F,
+
+            /* From "cfgRaven.hpp" */
+            I_Raven_soldier_F,
+            I_Raven_soldier_GL_F,
+            I_Raven_soldier_MG_F,
+            I_Raven_soldier_TL_F,
+            I_Raven_soldier_M_F,
+            I_Raven_soldier_LAT_F,
+            I_Raven_medic_F,
+            I_Raven_engineer_F,
+            I_Raven_Soldier_UAV_F,
+            I_Raven_soldier_UAV_06_F,
+            I_Raven_soldier_UAV_06_medical_F,
+            I_Raven_Soldier_unarmed_F,
+            I_Raven_Soldier_helipilot_F,
+
+            /* From "cfgUSMC.hpp" */
+            B_D_Soldier_A_lxWS,
+            B_D_soldier_AAR_lxWS,
+            B_D_support_AMG_lxWS,
+            B_D_support_AMort_lxWS,
+            B_D_soldier_AAA_lxWS,
+            B_D_soldier_AAT_lxWS,
+            B_D_soldier_AR_lxWS,
+            B_D_medic_lxWS,
+            B_D_crew_lxWS,
+            B_D_engineer_lxWS,
+            B_D_soldier_exp_lxWS,
+            B_D_Soldier_GL_lxWS,
+            B_D_support_GMG_lxWS,
+            B_D_support_MG_lxWS,
+            B_D_support_Mort_lxWS,
+            B_D_soldier_M_lxWS,
+            B_D_soldier_mine_lxWS,
+            B_D_soldier_AA_lxWS,
+            B_D_soldier_AT_lxWS,
+            B_D_officer_lxWS,
+            B_D_soldier_PG_lxWS,
+            B_D_RadioOperator_lxWS,
+            B_D_soldier_repair_lxWS,
+            B_D_Soldier_lxWS,
+            B_D_soldier_LAT_lxWS,
+            B_D_soldier_LAT2_lxWS,
+            B_D_Soldier_lite_lxWS,
+            B_D_Soldier_unarmed_lxWS,
+            B_D_Soldier_SL_lxWS,
+            B_D_Soldier_TL_lxWS,
+            B_D_soldier_UAV01_lxWS,
+            B_D_soldier_UAV02_lxWS,
+            B_D_recon_lxWS,
+            B_D_recon_LAT_lxWS,
+            B_D_recon_medic_lxWS,
+            B_D_recon_TL_lxWS,
+            B_D_recon_M_lxWS,
+            B_D_recon_JTAC_lxWS,
+            B_D_recon_exp_lxWS
         };
 		weapons[] = {/* Automated */};
 	};

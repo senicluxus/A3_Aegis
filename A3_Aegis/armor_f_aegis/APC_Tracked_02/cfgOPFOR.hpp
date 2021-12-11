@@ -57,6 +57,31 @@ class O_APC_Tracked_02_cannon_F: O_APC_Tracked_02_base_F
             factions[] = {};
         };
     };
+    /* Inventory */
+    class TransportMagazines
+    {
+        mag_xx(30Rnd_65x39_caseless_green,12);
+        mag_xx(150Rnd_762x54_box,4);
+        mag_xx(HandGrenade_East,6);
+        mag_xx(MiniGrenade,6);
+        mag_xx(SmokeShell,8);
+        mag_xx(SmokeShellRed,8);
+        mag_xx(SmokeShellYellow,8);
+        mag_xx(SmokeShellOrange,8);
+        mag_xx(1Rnd_HE_Grenade_shell,6);
+        mag_xx(1Rnd_Smoke_Grenade_shell,3);
+        mag_xx(1Rnd_SmokeYellow_Grenade_shell,3);
+        mag_xx(1Rnd_SmokeOrange_Grenade_shell,3);
+        mag_xx(1Rnd_SmokeRed_Grenade_shell,3);
+        mag_xx(RPG32_F,5);
+        mag_xx(RPG32_HE_F,2);
+        mag_xx(Titan_AT,2);
+        mag_xx(Titan_AA,2);
+    };
+    class TransportBackpacks
+    {
+        bag_xx(B_FieldPack_ocamo,2);
+    };
 };
 class O_APC_Tracked_02_AA_F: O_APC_Tracked_02_base_F
 {
@@ -107,6 +132,31 @@ class O_APC_Tracked_02_AA_F: O_APC_Tracked_02_base_F
             };
             factions[] = {};
         };
+    };
+    /* Inventory */
+    class TransportMagazines
+    {
+        mag_xx(30Rnd_65x39_caseless_green,12);
+        mag_xx(150Rnd_762x54_box,4);
+        mag_xx(HandGrenade_East,6);
+        mag_xx(MiniGrenade,6);
+        mag_xx(SmokeShell,8);
+        mag_xx(SmokeShellRed,8);
+        mag_xx(SmokeShellYellow,8);
+        mag_xx(SmokeShellOrange,8);
+        mag_xx(1Rnd_HE_Grenade_shell,6);
+        mag_xx(1Rnd_Smoke_Grenade_shell,3);
+        mag_xx(1Rnd_SmokeYellow_Grenade_shell,3);
+        mag_xx(1Rnd_SmokeOrange_Grenade_shell,3);
+        mag_xx(1Rnd_SmokeRed_Grenade_shell,3);
+        mag_xx(RPG32_F,5);
+        mag_xx(RPG32_HE_F,2);
+        mag_xx(Titan_AT,2);
+        mag_xx(Titan_AA,2);
+    };
+    class TransportBackpacks
+    {
+        bag_xx(B_FieldPack_ocamo,2);
     };
 };
 

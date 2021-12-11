@@ -151,6 +151,19 @@ class CfgVehicles
 				displayName = $STR_A3_TextureSources_Olive0;
 				factions[] = {};
 			};
+			class SFIA
+			{
+				displayName = $STR_LXWS_FACTION_SFIA;
+				factions[] = {};
+				textures[] = 
+				{
+					"\lxws\vehicles_f_lxws\data\AFV_Wheeled_01\Rhino_Africa1_CO.paa",
+					"\lxws\vehicles_f_lxws\data\AFV_Wheeled_01\Rhino_Africa2_CO.paa",
+					"\A3\Armor_F_Tank\AFV_Wheeled_01\Data\AFV_Wheeled_01_wheel_CO.paa",
+					"A3\Armor_F\Data\camonet_CSAT_HEX_Desert_CO.paa",
+					"A3\Armor_F_Tank\AFV_Wheeled_01\Data\afv_wheeled_01_EXT3_sand_CO.paa"
+				};
+			};
 		};
 	};
 	class AFV_Wheeled_01_up_base_F: AFV_Wheeled_01_base_F
@@ -256,4 +269,5 @@ class CfgVehicles
 
 	/* Factions */
 	#include "cfgBLUFOR.hpp"    // US
+	#include "cfgSFIA.hpp"		// SFIA
 };

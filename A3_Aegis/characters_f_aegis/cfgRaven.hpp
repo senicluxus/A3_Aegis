@@ -1,3 +1,4 @@
+/* Raven - INDEP */
 class I_Raven_soldier_base_F: I_soldier_F
 {
 	scope = private;
@@ -584,7 +585,7 @@ class I_Raven_Soldier_UAV_F: I_Raven_soldier_base_F
 		V_HarnessOSpec_blk,
 		G_Tactical_Clear,
 		DefaultManLinkedItems,
-		I_UavTerminal
+		I_UAVTerminal
 	};
 	respawnLinkedItems[] = 
 	{
@@ -592,7 +593,7 @@ class I_Raven_Soldier_UAV_F: I_Raven_soldier_base_F
 		V_HarnessOSpec_blk,
 		G_Tactical_Clear,
 		DefaultManLinkedItems,
-		I_UavTerminal
+		I_UAVTerminal
 	};
     headgearList[] = 
     {
@@ -669,4 +670,128 @@ class I_Raven_Soldier_helipilot_F: O_R_helipilot_ard_F
 	editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\O_R_helipilot_ard_F.jpg";
 	faction = IND_Raven_F;
 	side = TGuerrila;
+};
+
+/* Raven - OPFOR */
+
+class O_Raven_Soldier_F: I_Raven_soldier_F
+{
+	faction = OPF_Raven_F;
+	side = TEast;
+};
+class O_Raven_soldier_GL_F: I_Raven_soldier_GL_F
+{
+	faction = OPF_Raven_F;
+	side = TEast;
+};
+class O_Raven_soldier_MG_F: I_Raven_soldier_MG_F
+{
+	faction = OPF_Raven_F;
+	side = TEast;
+};
+class O_Raven_soldier_TL_F: I_Raven_soldier_TL_F
+{
+	faction = OPF_Raven_F;
+	side = TEast;
+};
+class O_Raven_soldier_M_F: I_Raven_soldier_M_F
+{
+	faction = OPF_Raven_F;
+	side = TEast;
+};
+class O_Raven_soldier_LAT_F: I_Raven_soldier_LAT_F
+{
+	faction = OPF_Raven_F;
+	side = TEast;
+};
+class O_Raven_Medic_F: I_Raven_medic_F
+{
+	faction = OPF_Raven_F;
+	side = TEast;
+};
+class O_Raven_engineer_F: I_Raven_engineer_F
+{
+	faction = OPF_Raven_F;
+	side = TEast;
+};
+class O_Raven_Soldier_UAV_F: I_Raven_Soldier_UAV_F
+{
+	faction = OPF_Raven_F;
+	side = TEast;
+	backpack = O_Raven_UAV_01_backpack_F;
+	linkedItems[] = 
+	{
+		H_HelmetSpecter_cover_khaki_F,
+		V_HarnessOSpec_blk,
+		G_Tactical_Clear,
+		DefaultManLinkedItems,
+		O_UAVTerminal
+	};
+	respawnLinkedItems[] = 
+	{
+		H_HelmetSpecter_cover_khaki_F,
+		V_HarnessOSpec_blk,
+		G_Tactical_Clear,
+		DefaultManLinkedItems,
+		O_UAVTerminal
+	};
+};
+class O_Raven_soldier_UAV_06_F: I_Raven_soldier_UAV_06_F
+{
+	faction = OPF_Raven_F;
+	side = TEast;
+	backpack = O_Raven_UAV_06_backpack_F;
+	linkedItems[] = 
+	{
+		H_HelmetSpecter_cover_khaki_F,
+		V_HarnessOSpec_blk,
+		G_Tactical_Clear,
+		DefaultManLinkedItems,
+		O_UAVTerminal
+	};
+	respawnLinkedItems[] = 
+	{
+		H_HelmetSpecter_cover_khaki_F,
+		V_HarnessOSpec_blk,
+		G_Tactical_Clear,
+		DefaultManLinkedItems,
+		O_UAVTerminal
+	};
+};
+class O_Raven_soldier_UAV_06_medical_F: I_Raven_soldier_UAV_06_medical_F
+{
+	faction = OPF_Raven_F;
+	side = TEast;
+	backpack = O_Raven_UAV_06_medical_backpack_F;
+	linkedItems[] = 
+	{
+		H_HelmetSpecter_cover_khaki_F,
+		V_HarnessOSpec_blk,
+		G_Tactical_Clear,
+		DefaultManLinkedItems,
+		O_UAVTerminal
+	};
+	respawnLinkedItems[] = 
+	{
+		H_HelmetSpecter_cover_khaki_F,
+		V_HarnessOSpec_blk,
+		G_Tactical_Clear,
+		DefaultManLinkedItems,
+		O_UAVTerminal
+	};
+};
+class O_Raven_Soldier_universal_F: I_Raven_Soldier_universal_F
+{
+	faction = OPF_Raven_F;
+	side = TEast;
+};
+class O_Raven_Soldier_unarmed_F: I_Raven_Soldier_unarmed_F
+{
+	faction = OPF_Raven_F;
+	side = TEast;
+};
+class O_Raven_Soldier_helipilot_F: I_Raven_Soldier_helipilot_F
+{
+	faction = OPF_Raven_F;
+	side = TEast;
 };

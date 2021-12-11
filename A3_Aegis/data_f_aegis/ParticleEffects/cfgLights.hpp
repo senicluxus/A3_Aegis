@@ -71,6 +71,40 @@ class CfgLights
             1       // B
         };
 	};
+	/*class IRBeacon
+	{
+		color[] = 
+		{
+			0.0099999998,	// R
+			0.0099999998,	// G
+			0.0099999998,	// B
+			1				// A
+		};
+        ambient[] = 
+		{.
+			0.0049999999,	// R
+			0.0049999999,	// G
+			0.0049999999,	// B
+			1				// A
+		};
+		diffuse[] =
+        {
+            0.0099999998,	// R
+			0.0099999998,	// G
+			0.0099999998,	// B
+        };
+		brightness=1;
+		intensity=4000;
+		drawLight=0;
+		class Attenuation
+		{
+			start=0;
+			constant=1;
+			linear=0;
+			quadratic=5;
+		};
+		position[]={0,0,0};
+	}; */
     class FiredLightMed;
 	class FiredLightCannon: FiredLightMed
 	{

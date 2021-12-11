@@ -71,6 +71,10 @@ class CfgWeapons
 		{
 			magazines[] = {HandGrenade_Guer};
 		};
+		/*class B_IR_BeaconMuzzle: ThrowMuzzle
+		{
+			magazines[] = {B_IR_Beacon};
+		};*/
     };
     #include "cfgLaunchers.hpp"
     #include "cfgLongRangeRifles.hpp"

@@ -5,6 +5,7 @@ class arifle_Katiba_Base_F: Rifle_Base_F
 };
 class arifle_Katiba_F: arifle_Katiba_Base_F
 {
+    INITSPEED_RIFLE;
     class WeaponSlotsInfo: WeaponSlotsInfo
     {
         class MuzzleSlot: asdg_MuzzleSlot_65
@@ -20,6 +21,7 @@ class arifle_Katiba_F: arifle_Katiba_Base_F
 };
 class arifle_Katiba_C_F: arifle_Katiba_Base_F
 {
+    INITSPEED_CARBINE;
     class WeaponSlotsInfo: WeaponSlotsInfo
     {
         class MuzzleSlot: asdg_MuzzleSlot_65
@@ -35,6 +37,7 @@ class arifle_Katiba_C_F: arifle_Katiba_Base_F
 };
 class arifle_Katiba_GL_F: arifle_Katiba_Base_F
 {
+    INITSPEED_RIFLE;
     class WeaponSlotsInfo: WeaponSlotsInfo
     {
         class MuzzleSlot: asdg_MuzzleSlot_65
@@ -90,10 +93,21 @@ class arifle_Katiba_ARCO_pointer_snds_F: arifle_Katiba_F
 };
 class mk20_base_F: Rifle_Base_F
 {
-    class WeaponSlotsInfo;
+    class WeaponSlotsInfo: WeaponSlotsInfo
+    {
+        class CowsSlot: CowsSlot_F2000
+		{
+			iconPosition[] =
+			{// X       Y
+				0.45,   0.25
+			};
+			iconScale = 0.2;
+		};
+    };
 };
 class arifle_Mk20_F: mk20_base_F
 {
+    INITSPEED_RIFLE;
     displayName = $STR_A3_A_CfgWeapons_arifle_Mk20_F0;
     class WeaponSlotsInfo: WeaponSlotsInfo
     {
@@ -106,6 +120,14 @@ class arifle_Mk20_F: mk20_base_F
             };
             iconScale = 0.2;
         };
+        class CowsSlot: CowsSlot_F2000
+		{
+			iconPosition[] =
+			{// X       Y
+				0.45,   0.25
+			};
+			iconScale = 0.2;
+		};
     };
 };
 class arifle_Mk20_plain_F: arifle_Mk20_F
@@ -114,6 +136,7 @@ class arifle_Mk20_plain_F: arifle_Mk20_F
 };
 class arifle_Mk20C_F: mk20_base_F
 {
+    INITSPEED_CARBINE;
     displayName = $STR_A3_A_CfgWeapons_arifle_Mk20C_F0;
     class WeaponSlotsInfo: WeaponSlotsInfo
     {
@@ -126,6 +149,14 @@ class arifle_Mk20C_F: mk20_base_F
             };
             iconScale = 0.2;
         };
+        class CowsSlot: CowsSlot_F2000
+		{
+			iconPosition[] =
+			{// X       Y
+				0.45,   0.25
+			};
+			iconScale = 0.2;
+		};
     };
 };
 class arifle_Mk20C_plain_F: arifle_Mk20C_F
@@ -134,6 +165,7 @@ class arifle_Mk20C_plain_F: arifle_Mk20C_F
 };
 class arifle_Mk20_GL_F: mk20_base_F
 {
+    INITSPEED_RIFLE;
     displayName = $STR_A3_A_CfgWeapons_arifle_Mk20_GL_F0;
     class WeaponSlotsInfo: WeaponSlotsInfo
     {
@@ -146,6 +178,14 @@ class arifle_Mk20_GL_F: mk20_base_F
             };
             iconScale = 0.2;
         };
+        class CowsSlot: CowsSlot_F2000
+		{
+			iconPosition[] =
+			{// X       Y
+				0.45,   0.25
+			};
+			iconScale = 0.2;
+		};
     };
 };
 class arifle_Mk20_GL_plain_F: arifle_Mk20_GL_F
@@ -163,6 +203,7 @@ class arifle_MX_Base_F: Rifle_Base_F
 };
 class arifle_MXC_F: arifle_MX_Base_F
 {
+    INITSPEED_CARBINE;
     hiddenSelections[] = {camo1};
     hiddenSelectionsTextures[] = {"\A3_Aegis\Weapons_F_Aegis\Rifles\MX\Data\XMX_Short_CO.paa"};
     class WeaponSlotsInfo: WeaponSlotsInfo
@@ -189,6 +230,7 @@ class arifle_MXC_F: arifle_MX_Base_F
 };
 class arifle_MX_F: arifle_MX_Base_F
 {
+    INITSPEED_RIFLE;
     hiddenSelections[] =
     {
         camo1,
@@ -223,6 +265,7 @@ class arifle_MX_F: arifle_MX_Base_F
 };
 class arifle_MX_GL_F: arifle_MX_Base_F
 {
+    INITSPEED_RIFLE;
     hiddenSelections[] =
     {
         camo1,
@@ -257,6 +300,7 @@ class arifle_MX_GL_F: arifle_MX_Base_F
 };
 class arifle_MX_SW_F: arifle_MX_Base_F
 {
+    INITSPEED_AR;
     UiPicture = "\A3\Weapons_F\Data\UI\icon_regular_CA.paa";
     cursor = arifle;
     hiddenSelections[] = {camo1};
@@ -296,6 +340,7 @@ class arifle_MX_SW_F: arifle_MX_Base_F
 };
 class arifle_MXM_F: arifle_MX_Base_F
 {
+    INITSPEED_MR;
     hiddenSelections[] = {camo1};
     hiddenSelectionsTextures[] = {"\A3_Aegis\Weapons_F_Aegis\Rifles\MX\Data\XMX_Long_CO.paa"};
     class WeaponSlotsInfo: WeaponSlotsInfo
@@ -408,6 +453,49 @@ class arifle_MX_SW_Black_Hamr_pointer_F: arifle_MX_SW_Black_F
         LINKED_UNDERBARREL(bipod_01_F_blk);
     };
 };
+class arifle_MX_SW_Black_Rifle_F: arifle_MX_SW_Black_F
+{
+    class manual;
+    class close: manual
+    {
+        burst = 5;
+        aiBurstTerminable = 1;
+        aiRateOfFire = 0.5;
+        aiRateOfFireDistance = 50;
+        minRange = 0;
+        minRangeProbab = 0.05;
+        midRange = 20;
+        midRangeProbab = 0.7;
+        maxRange = 50;
+        maxRangeProbab = 0.04;
+        showToPlayer = 0;
+    };
+    class short: close
+    {
+        burst = 3;
+        aiBurstTerminable = 1;
+        aiRateOfFire = 2;
+        aiRateOfFireDistance = 300;
+        minRange = 50;
+        minRangeProbab = 0.05;
+        midRange = 150;
+        midRangeProbab = 0.7;
+        maxRange = 300;
+        maxRangeProbab = 0.04;
+    };
+    class medium: close
+    {
+        burst = 3;
+        aiRateOfFire = 4;
+        aiRateOfFireDistance = 600;
+        minRange = 200;
+        minRangeProbab = 0.05;
+        midRange = 300;
+        midRangeProbab = 0.7;
+        maxRange = 500;
+        maxRangeProbab = 0.1;
+    };
+};
 class arifle_MXM_Black_F;
 class SDAR_base_F: Rifle_Base_F
 {
@@ -427,6 +515,7 @@ class Tavor_base_F: Rifle_Base_F
 };
 class arifle_TRG21_F: Tavor_base_F
 {
+    INITSPEED_RIFLE;
     hiddenSelections[] = {camo};
     class WeaponSlotsInfo: WeaponSlotsInfo
     {
@@ -443,6 +532,7 @@ class arifle_TRG21_F: Tavor_base_F
 };
 class arifle_TRG20_F: Tavor_base_F
 {
+    INITSPEED_CARBINE;
     class WeaponSlotsInfo: WeaponSlotsInfo
     {
         class MuzzleSlot: asdg_MuzzleSlot_556
@@ -466,6 +556,7 @@ class arifle_TRG20_F: Tavor_base_F
 };
 class arifle_TRG21_GL_F: Tavor_base_F
 {
+    INITSPEED_RIFLE;
     class WeaponSlotsInfo: WeaponSlotsInfo
     {
         class MuzzleSlot: asdg_MuzzleSlot_556

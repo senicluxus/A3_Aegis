@@ -7,7 +7,7 @@ diffuse[]={1,1,1,1};
 forcedDiffuse[]={0,0,0,1};
 emmisive[]={0,0,0,0};
 specular[]={0.25,0.25,0.25,1};
-specularPower=80;
+specularPower=50;
 PixelShaderID="Super";
 VertexShaderID="Super";
 class Stage1
@@ -84,8 +84,7 @@ class Stage6
 };
 class Stage7
 {
-	texture="a3\data_f\env_land_ca.tga";
-	useWorldEnvMap="true";
+	texture="a3\data_f\env_land_co.tga";
 	uvSource="tex";
 	class uvTransform
 	{

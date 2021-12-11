@@ -12,7 +12,13 @@ class CowsSlot: SlotInfo
 		optic_ACO_grn_AK_F
 	};
 };
-class PointerSlot;
+class PointerSlot
+{
+    compatibleItems[] +=
+	{
+		acc_flashlight_ir
+	};
+};
 class UnderBarrelSlot;
 class MuzzleSlot_556: MuzzleSlot
 {
@@ -65,6 +71,13 @@ class CowsSlot_AK: CowsSlot
 		optic_pso_F = true;
 	};
 };
+class CowsSlot_F2000: CowsSlot_Rail
+{
+	class compatibleItems: compatibleItems
+	{
+		acc_o_FMS = true;
+	};
+};
 class PointerSlot_Rail;
 class UnderBarrelSlot_rail;
 
@@ -72,7 +85,13 @@ class UnderBarrelSlot_rail;
 class asdg_SlotInfo;
 class asdg_OpticRail;
 class asdg_MuzzleSlot;
-class asdg_FrontSideRail;
+class asdg_FrontSideRail
+{
+    class compatibleItems
+    {
+		acc_flashlight_ir = true;
+    };
+};
 class asdg_UnderSlot;
 class asdg_PistolUnderRail;
 class asdg_PistolOpticMount;

@@ -226,34 +226,10 @@ class CfgAmmo
             0.95,   // B
             0       // A
         };
+		irLight = true;
 		intensity = 700000;
 		brightness = 100;
         model = "\A3_Aegis\Weapons_F_Aegis\Ammo\flare_cir.p3d";
-		class NVGMarkers
-		{
-			class Light
-			{
-				name = light_pos;
-				color[] =
-                {
-                    0.01,   // R
-                    0.01,   // G
-                    0.01,   // B
-                    1       // A
-                };
-				ambient[] =
-                {
-                    0.005,  // R
-                    0.005,  // G
-                    0.005,  // B
-                    1       // A
-                };
-				blinking = false;
-		        intensity = 700000;
-		        brightness = 100;
-				onlyInNvg = true;
-			};
-		};
 	};
 	class F_20mm_White: FlareBase
 	{
@@ -302,6 +278,20 @@ class CfgAmmo
 	{
 		caliber = 26;
 	};
+	/*class IRBeacon_Base: Chemlight_base
+	{
+		lightColor[] = 
+		{
+			0.0099999998,	// R
+			0.0099999998,	// G
+			0.0099999998,	// B
+			1				// A
+		};
+		irLight = true;
+		blinking = true;
+		model = "\A3\Weapons_F_EPB\Ammo\B_IRstrobe_F.p3d";
+		effectsSmoke = "IRBeacon_Light";
+	};*/
 	class Flare_82mm_AMOS_White: FlareCore
 	{
 		timeToLive = 90;

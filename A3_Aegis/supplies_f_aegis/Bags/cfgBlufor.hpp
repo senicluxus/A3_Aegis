@@ -415,3 +415,168 @@ class B_TacticalPack_rgr_BAReconLAT_F: B_TacticalPack_rgr
 		mag_xx(NLAW_F,2);
 	};
 };
+
+/* USMC */
+class B_Carryall_cbr_USMCAmmo_F: B_Carryall_cbr
+{
+	author = $STR_A3_A_AveryTheKitty;
+	scope = protected;
+	class TransportMagazines
+	{
+		mag_xx(30Rnd_65x39_caseless_black_mag,6);
+		mag_xx(100Rnd_65x39_caseless_black_mag,1);
+		mag_xx(MRAWS_HEAT_F,1);
+		mag_xx(HandGrenade,2);
+		mag_xx(MiniGrenade,2);
+		mag_xx(1Rnd_HE_Grenade_shell,3);
+		mag_xx(3Rnd_HE_Grenade_shell,1);
+	};
+	class TransportItems
+	{
+		item_xx(FirstAidKit,4);
+	};
+};
+class B_Carryall_cbr_USMCAAA_F: B_Carryall_cbr
+{
+	scope = protected;
+	class TransportMagazines
+	{
+		mag_xx(Titan_AA,3);
+	};
+};
+class B_Carryall_cbr_USMCAAT_F: B_Carryall_cbr
+{
+	scope = protected;
+	class TransportMagazines
+	{
+		mag_xx(Titan_AT,2);
+		mag_xx(Titan_AP,2);
+	};
+};
+class B_AssaultPack_cbr_USMCAA_F: B_AssaultPackSpec_cbr
+{
+	author = $STR_A3_A_AveryTheKitty;
+	scope = protected;
+	class TransportMagazines
+	{
+		mag_xx(Titan_AA,2);
+	};
+};
+class B_AssaultPack_cbr_USMCRepair_F: B_AssaultPackSpec_cbr
+{
+	author = $STR_A3_A_AveryTheKitty;
+	scope = protected;
+	class TransportMagazines
+	{
+		mag_xx(Toolkit,1);
+	};
+};
+class B_AssaultPack_cbr_USMCAT_F: B_AssaultPackSpec_cbr
+{
+	author = $STR_A3_A_AveryTheKitty;
+	scope = protected;
+	class TransportMagazines
+	{
+		mag_xx(Titan_AT,2);
+	};
+};
+class B_TacticalPack_khk_USMCEng_F: B_TacticalPack_khk
+{
+	author = $STR_A3_A_AveryTheKitty;
+	scope = protected;
+	class TransportMagazines
+	{
+		mag_xx(SatchelCharge_Remote_Mag,1);
+		mag_xx(DemoCharge_Remote_Mag,2);
+	};
+	class TransportItems
+	{
+		item_xx(ToolKit,1);
+		item_xx(MineDetector,1);
+	};
+};
+class B_AssaultPack_cbr_USMCLAT_F: B_AssaultPackSpec_cbr
+{
+	author = $STR_A3_A_AveryTheKitty;
+	scope = protected;
+	class TransportMagazines
+	{
+		mag_xx(NLAW_F,2);
+	};
+};
+class B_AssaultPack_cbr_USMCLAT2_F: B_AssaultPackSpec_cbr
+{
+	author = $STR_A3_A_AveryTheKitty;
+	scope = protected;
+	class TransportMagazines
+	{
+		mag_xx(MRAWS_HEAT_F,2);
+		mag_xx(MRAWS_HE_F,1);
+	};
+};
+class B_AssaultPack_cbr_USMCMedic_F: B_AssaultPackSpec_cbr
+{
+	author = $STR_A3_A_AveryTheKitty;
+	scope = protected;
+	class TransportItems
+	{
+		item_xx(Medikit,1);
+		item_xx(FirstAidKit,10);
+	};
+};
+class B_TacticalPack_khk_USMCAAR: B_TacticalPack_khk
+{
+	class TransportMagazines
+	{
+		mag_xx(100Rnd_65x39_caseless_black_mag,2);
+		mag_xx(100Rnd_65x39_caseless_black_mag_Tracer,2);
+		mag_xx(130Rnd_338_Mag,2);
+	};
+	class TransportItems
+	{
+		item_xx(optic_tws_mg,1);
+		item_xx(bipod_01_F_blk,1);
+		item_xx(muzzle_snds_338_black,1);
+		item_xx(muzzle_snds_H,1);
+	};
+};
+class B_Carryall_cbr_USMCExp_F: B_Carryall_cbr
+{
+	scope = protected;
+	class TransportMagazines
+	{
+		class _xx_APERSBoundingMine_Range_Mag
+		{
+			magazine = "APERSBoundingMine_Range_Mag";
+			count = 3;
+		};
+		class _xx_ClaymoreDirectionalMine_Remote_Mag
+		{
+			magazine = "ClaymoreDirectionalMine_Remote_Mag";
+			count = 2;
+		};
+		class _xx_SLAMDirectionalMine_Wire_Mag
+		{
+			magazine = "SLAMDirectionalMine_Wire_Mag";
+			count = 2;
+		};
+		class _xx_Democharge_Remote_Mag
+		{
+			magazine = "Democharge_Remote_Mag";
+			count = 1;
+		};
+	};
+	class TransportItems
+	{
+		class _xx_ToolKit
+		{
+			name = "ToolKit";
+			count = 1;
+		};
+		class _xx_MineDetector
+		{
+			name = "MineDetector";
+			count = 1;
+		};
+	};
+};

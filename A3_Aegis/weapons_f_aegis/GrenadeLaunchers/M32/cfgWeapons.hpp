@@ -91,7 +91,7 @@ class CfgWeapons
 			OP_eye_250
 		};
 		discreteDistanceInitIndex = 1;
-		initSpeed = 75;
+		initSpeed = -1;
 		descriptionShort = $STR_A3_A_CfgWeapons_GL_M32_F1;
 		inertia = 0.9;
 		aimTransitionSpeed = 0.8;

@@ -288,6 +288,7 @@ ItemRadio \
 #define RPM_350 0.17
 #define RPM_450 0.133333
 #define RPM_600 0.1
+#define RPM_625 0.096
 #define RPM_700 0.085
 #define RPM_705 0.0851
 #define RPM_710 0.084
@@ -296,6 +297,10 @@ ItemRadio \
 #define RPM_950 0.063
 #define RPM_1000 0.06
 
+#define INITSPEED_CARBINE initSpeed = -0.91
+#define INITSPEED_RIFLE initSpeed = -1.00
+#define INITSPEED_AR initSpeed = -1.10
+#define INITSPEED_MR initSpeed = -1.15
 
 
 #define DEPRECATED_CLASS(old,new) \

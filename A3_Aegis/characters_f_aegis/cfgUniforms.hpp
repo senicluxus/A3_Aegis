@@ -371,7 +371,7 @@ class O_R_PilotCoveralls_01_F: O_Pilot_F
     scope = protected;
     scopeCurator = protected;
 	uniformClass = U_O_R_PilotCoveralls;
-	hiddenSelectionsTextures[] = {"\A3_Aegis\Characters_F_Aegis\Uniforms\Data\pilot_suit_RUtaiga_CO.paa"};
+	hiddenSelectionsTextures[] = {"\A3_Aegis\Characters_F_Aegis\Uniforms\Data\pilot_suit_rus_co.paa"};
 };
 class O_R_Wetsuit_01_F: O_diver_F
 {
@@ -631,5 +631,33 @@ class O_R_Fatigues_01_Tshirt_arid_F: O_R_Fatigues_01_Tshirt_taiga_F
 	{
 		"\A3\Characters_F\Common\Data\basicbody_black_CO.paa",
 		"\A3_Aegis\Characters_F_Aegis\Uniforms\Data\clothing_RUarid_CO.paa"
+	};
+};
+
+/* AAF */
+class I_Uniform_01_tanktop_F: I_E_Uniform_01_tanktop_F
+{
+	author = $STR_A3_A_Ravenholme;
+    scope = protected;
+	model = "\A3\Characters_F_Exp\Syndikat\I_C_Soldier_Para_4_F.p3d";
+	uniformClass = U_I_Uniform_01_tanktop_F;
+	hiddenSelectionsTextures[] =
+    {
+        "A3\Characters_F_Exp\Syndikat\Data\U_I_C_Soldier_Bandit_5_F_1_CO.paa",
+        "A3\Characters_F_Beta\INDEP\Data\IA_Soldier_01_clothing_co.paa"
+    };
+	class Wounds
+	{
+		tex[] = {};
+		mat[] =
+		{
+			"A3\Characters_F_Exp\Syndikat\Data\U_I_C_Soldier_Bandit_5_F_1.rvmat",
+			"A3\Characters_F_Exp\Syndikat\Data\U_I_C_Soldier_Bandit_5_F_1_injury.rvmat",
+			"A3\Characters_F_Exp\Syndikat\Data\U_I_C_Soldier_Bandit_5_F_1_injury.rvmat",
+			"A3\Characters_F_Beta\INDEP\Data\IA_Soldier_01_clothing.rvmat",
+			"A3\Characters_F_Beta\INDEP\Data\IA_Soldier_01_clothing_injury.rvmat",
+			"A3\Characters_F_Beta\INDEP\Data\IA_Soldier_01_clothing_injury.rvmat",
+			INJURY_PERSONALITY_MATERIALS
+		};
 	};
 };

@@ -66,6 +66,13 @@ class CfgVehicles
 				textures[] = {"\A3_Aegis\Air_F_Aegis\Heli_Light_02\Data\Heli_Light_02_ext_RUS2_CO.paa"};
 				faction[] = {};
 			};
+			class Green
+			{
+				displayName = $STR_A3_TextureSources_Green0;
+				author = $STR_A3_A_BranFlakes;
+				textures[] = {"\A3_Aegis\Air_F_Aegis\Heli_Light_02\Data\Heli_Light_02_ext_raven_CO.paa"};
+				faction[] = {};
+			};
 		};
 
 		class EventHandlers;

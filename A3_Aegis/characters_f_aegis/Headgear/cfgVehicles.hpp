@@ -260,6 +260,12 @@ class CfgVehicles
 	HEADGEAR_HOLDER(H_HelmetSpecter_headset_F,$STR_A3_A_CfgWeapons_H_HelmetSpecter_headset_F0,EdSubcat_Helmets);
 	HEADGEAR_HOLDER(H_HelmetSpecter_black_headset_F,$STR_A3_A_CfgWeapons_H_HelmetSpecter_black_headset_F0,EdSubcat_Helmets);
 	HEADGEAR_HOLDER(H_HelmetSpecter_brown_headset_F,$STR_A3_A_CfgWeapons_H_HelmetSpecter_brown_headset_F0,EdSubcat_Helmets);
+	HEADGEAR_HOLDER(H_MK7_AAF_F,$STR_A3_A_CfgWeapons_H_MK7_AAF_F0,EdSubcat_Helmets);
+	HEADGEAR_HOLDER(H_MK7_oli_F,$STR_A3_A_CfgWeapons_H_MK7_oli_F0,EdSubcat_Helmets);
+	HEADGEAR_HOLDER(H_MK7_sand_F,$STR_A3_A_CfgWeapons_H_MK7_sand_F0,EdSubcat_Helmets);
+	HEADGEAR_HOLDER(H_MK7_UN_F,$STR_A3_A_CfgWeapons_H_MK7_UN_F0,EdSubcat_Helmets);
+	HEADGEAR_HOLDER(H_I_Helmet_canvas_UN,$STR_A3_A_CfgWeapons_H_I_Helmet_canvas_UN0,EdSubcat_Helmets);
+	HEADGEAR_HOLDER(H_I_Helmet_canvas_CBR,$STR_A3_A_CfgWeapons_H_I_Helmet_canvas_CBR0,EdSubcat_Helmets);
 	
     /* Deprecated */
     DEPRECATED_CLASS(Headgear_H_HelmetCrew_I_E,Headgear_H_HelmetCrew_I);;

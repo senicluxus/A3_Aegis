@@ -10,7 +10,8 @@ class CfgPatches
 			A3_Soft_F_Enoch_Truck_02,
 			A3_Soft_F_Exp_Truck_02,
 			A3_Soft_F_Gamma_Truck_02,
-			A3_Soft_F_Orange_Truck_02
+			A3_Soft_F_Orange_Truck_02,
+			Vehicles_F_lxWS_Truck_02
 		};
 		requiredVersion = 0.1;
 		units[] =
@@ -28,20 +29,6 @@ class CfgPatches
             O_A_Truck_02_medical_F,
             O_A_Truck_02_Ammo_F,
             O_A_Truck_02_fuel_F,
-            O_A_Truck_02_cargo_F,
-            O_A_Truck_02_flatbed_F,
-
-            /* From "cfgIndep.hpp" */
-            I_Truck_02_cargo_F,
-            I_Truck_02_flatbed_F,
-
-            /* From "cfgCivil.hpp" */
-            C_Truck_02_cargo_F,
-            C_Truck_02_flatbed_F,
-
-            /* From "cfgIDAP.hpp" */
-            C_IDAP_Truck_02_cargo_F,
-            C_IDAP_Truck_02_flatbed_F,
 
             /* From "cfgRUS.hpp" */
             O_R_Truck_02_F,
@@ -61,11 +48,7 @@ class CfgPatches
             O_R_Truck_02_fuel_ard_F,
             O_R_Truck_02_MRL_ard_F,
             O_R_Truck_02_cargo_ard_F,
-            O_R_Truck_02_flatbed_ard_F,
-            
-            /* From "cfgEAF.hpp" */
-            I_E_Truck_02_cargo_F,
-            I_E_Truck_02_flatbed_F
+            O_R_Truck_02_flatbed_ard_F
 
         };
 		weapons[] = {/* Automated */};

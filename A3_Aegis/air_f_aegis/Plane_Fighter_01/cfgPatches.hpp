@@ -13,7 +13,10 @@ class CfgPatches
             B_T_Ejection_Seat_Plane_Fighter_01_F,
             B_W_Plane_Fighter_01_F,
             B_W_Plane_Fighter_01_Stealth_F,
-            B_W_Ejection_Seat_Plane_Fighter_01_F
+            B_W_Ejection_Seat_Plane_Fighter_01_F,
+            B_USMC_Plane_Fighter_01_F,
+            B_USMC_Plane_Fighter_01_Stealth_F,
+            B_USMC_Ejection_Seat_Plane_Fighter_01_F
         };
 		weapons[] = {/* Automated */};
 	};

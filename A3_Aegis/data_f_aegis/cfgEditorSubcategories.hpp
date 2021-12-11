@@ -6,6 +6,12 @@ class CfgEditorSubcategories
 		displayName = $STR_A3_A_CfgEditorSubcategories_EdSubcat_TankDestroyers0;
 	};
 
+	/* Men */
+	class EdSubcat_Personnel_Conscripts
+	{
+		displayName = "Men (Conscripts)";
+	};
+
     /* Props */
 	class EdSubcat_Laboratory
 	{
