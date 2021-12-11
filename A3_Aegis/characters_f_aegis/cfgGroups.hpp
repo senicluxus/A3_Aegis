@@ -1909,7 +1909,7 @@ class CfgGroups
 				};
 			};
 		};
-		class BLU_ION_F
+		/*class BLU_ION_F
 		{
 			name = $STR_A3_A_CfgFactionClasses_BLU_ION_F0;
 			class Infantry
@@ -1951,7 +1951,7 @@ class CfgGroups
 					GROUP_UNIT(1,TWest,B_ION_soldier_F,PRIVATE,5,-5);
 				};
 			};
-		};
+		};*/
 		class BLU_NATO_lxWS
 		{
 			name = $STR_LXWS_FACTION_NATO_Desert;
@@ -2018,7 +2018,7 @@ class CfgGroups
 					GROUP_UNIT(4,TWest,B_D_recon_LAT_lxWS,PRIVATE,-10,-10);
 					GROUP_UNIT(5,TWest,B_D_recon_JTAC_lxWS,PRIVATE,15,-15);
 					GROUP_UNIT(6,TWest,B_D_recon_exp_lxWS,PRIVATE,-15,-15);
-					GROUP_UNIT(7,TWest,B_D_recon_Sharpshooter_lxWS,CORPORAL,20,-20);
+					GROUP_UNIT(7,TWest,B_D_recon_lxWS,CORPORAL,20,-20);
 				};
 				delete BUS_D_AttackTeam_UGV_lxWS;
 				delete BUS_D_ReconTeam_UAV_lxWS;

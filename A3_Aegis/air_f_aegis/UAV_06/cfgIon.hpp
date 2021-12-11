@@ -62,7 +62,7 @@ class B_ION_UAV_06_F: UAV_06_base_F
 	};
 	editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_ION_UAV_06_F.jpg";
 	displayName = $STR_A3_CfgVehicles_C_UAV_06_F0;
-	scope = public;
+	scope = protected;
 	side = TWest;
 	faction = BLU_ION_F;
 	crew = B_UAV_AI_F;
@@ -140,7 +140,7 @@ class B_ION_UAV_06_medical_F: UAV_06_medical_base_F
 	};
 	editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_ION_UAV_06_medical_F.jpg";
 	displayName = $STR_A3_CfgVehicles_C_UAV_06_medical_F0;
-	scope = public;
+	scope = protected;
 	side = TWest;
 	faction = BLU_ION_F;
 	crew = B_UAV_AI_F;
@@ -172,8 +172,8 @@ class Box_B_ION_UAV_06_F: Box_UAV_06_base_F
 		init = "[this, '', []] call bis_fnc_initVehicle";
 	};
 	editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\Box_B_ION_UAV_06_F.jpg";
-	scope = public;
-	scopeCurator = public;
+	scope = protected;
+	scopeCurator = protected;
 	displayName = $STR_A3_A_CfgVehicles_Box_B_ION_UAV_06_F0;
 	hiddenSelectionsTextures[] = {"\A3_Aegis\Air_F_Aegis\UAV_06\Data\B_ION_UAV_06_CO.paa"};
 };
@@ -190,8 +190,8 @@ class Box_B_ION_UAV_06_medical_F: Box_UAV_06_medical_base_F
 		init = "[this, '', []] call bis_fnc_initVehicle";
 	};
 	editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\Box_B_ION_UAV_06_medical_F.jpg";
-	scope = public;
-	scopeCurator = public;
+	scope = protected;
+	scopeCurator = protected;
 	displayName = $STR_A3_A_CfgVehicles_Box_B_ION_UAV_06_medical_F0;
 	hiddenSelectionsTextures[] =
 	{
@@ -202,8 +202,8 @@ class Box_B_ION_UAV_06_medical_F: Box_UAV_06_medical_base_F
 class B_ION_UAV_06_backpack_F: UAV_06_backpack_base_F
 {
 	author = $STR_A3_A_AveryTheKitty;
-	scope = public;
-	scopeCurator = public;
+	scope = protected;
+	scopeCurator = protected;
 	displayName = $STR_A3_A_CfgVehicles_B_ION_UAV_06_backpack_F0;
 	faction = BLU_ION_F;
 	picture = "\A3_Aegis\Supplies_F_Aegis\Bags\Data\UI\icon_B_ION_UAV_06_backpack_F_CA.paa";
@@ -221,8 +221,8 @@ class B_ION_UAV_06_backpack_F: UAV_06_backpack_base_F
 class B_ION_UAV_06_medical_backpack_F: UAV_06_medical_backpack_base_F
 {
 	author = $STR_A3_A_AveryTheKitty;
-	scope = public;
-	scopeCurator = public;
+	scope = protected;
+	scopeCurator = protected;
 	displayName = $STR_A3_A_CfgVehicles_B_ION_UAV_06_medical_backpack_F0;
 	faction = BLU_ION_F;
 	picture = "\A3_Aegis\Supplies_F_Aegis\Bags\Data\UI\icon_B_ION_UAV_06_medical_backpack_F_CA.paa";

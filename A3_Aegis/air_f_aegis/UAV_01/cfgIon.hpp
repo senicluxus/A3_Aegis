@@ -44,8 +44,8 @@ class B_ION_UAV_01_F: UAV_01_base_F
 		init = "''";
 	};
 	editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_ION_UAV_01_F.jpg";
-	scope = public;
-	scopeCurator = public;
+	scope = protected;
+	scopeCurator = protected;
 	displayName = $STR_A3_CfgVehicles_C_IDAP_UAV_01_F0;
 	side = TWest;
 	faction = BLU_ION_F;
@@ -67,8 +67,8 @@ class B_ION_UAV_01_backpack_F: Weapon_Bag_Base
 {
 	author = $STR_A3_A_AveryTheKitty;
 	mapSize = 0.6;
-	scope = public;
-	scopeCurator = public;
+	scope = protected;
+	scopeCurator = protected;
 	displayName = $STR_A3_A_CfgVehicles_B_ION_UAV_01_backpack_F0;
 	model = "\A3\Drones_F\Weapons_F_Gamma\Ammoboxes\Bags\UAV_backpack_F.p3d";
 	editorCategory = EdCat_Equipment;
