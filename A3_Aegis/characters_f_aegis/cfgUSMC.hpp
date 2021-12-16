@@ -1135,6 +1135,60 @@ class B_D_recon_lxWS: B_recon_F
    uniformClass = "U_lxWS_B_CombatUniform_desert_vest";
    faction = "BLU_NATO_lxWS";
 };
+class B_D_recon_AR_lxWS: B_recon_AR_F
+{
+   //editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_D_recon_AR_lxWS.jpg";
+	identityTypes[] =
+	{
+		LanguageENG_F,
+		Head_NATO,
+		G_NATO_SF
+	};
+   weapons[] =
+	{
+		arifle_SPAR_02_snd_RCO_Pointer_Snds_Bipod_F,
+		hgun_P07_snds_F,
+      DefaultManWeapons
+	};
+	respawnWeapons[] =
+	{
+		arifle_SPAR_02_snd_RCO_Pointer_Snds_Bipod_F,
+		hgun_P07_snds_F,
+      DefaultManWeapons
+	};
+	magazines[] =
+	{
+        mag_6(150Rnd_556x45_Drum_Sand_Mag_F),
+        mag_2(16Rnd_9x21_Mag),
+        MiniGrenade,
+        mag_2(SmokeShell),
+        mag_2(Chemlight_green)
+	};
+	respawnMagazines[] =
+	{
+        mag_6(150Rnd_556x45_Drum_Sand_Mag_F),
+        mag_2(16Rnd_9x21_Mag),
+        MiniGrenade,
+        mag_2(SmokeShell),
+        mag_2(Chemlight_green)
+	};
+	linkedItems[] =
+	{
+		V_lxWS_PlateCarrier1_desert,
+      H_HelmetSpecB_light_sand,
+		DefaultManLeaderLinkedItems,
+		NVGoggles
+	};
+	respawnLinkedItems[] =
+	{
+		V_lxWS_PlateCarrier1_desert,
+      H_HelmetSpecB_light_sand,
+		DefaultManLeaderLinkedItems,
+		NVGoggles
+	};
+   uniformClass = "U_lxWS_B_CombatUniform_desert_vest";
+   faction = "BLU_NATO_lxWS";
+};
 class B_D_recon_LAT_lxWS: B_recon_LAT_F
 {
     editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_D_recon_LAT_lxWS.jpg";
