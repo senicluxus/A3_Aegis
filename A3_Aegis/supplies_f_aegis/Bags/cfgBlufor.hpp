@@ -491,11 +491,7 @@ class B_TacticalPack_khk_USMCEng_F: B_TacticalPack_khk
 	};
 	class TransportItems
 	{
-		class _xx_ToolKit
-		{
-			name = "ToolKit";
-			count = 1;
-		};
+		item_xx(ToolKit,1);
 		item_xx(MineDetector,1);
 	};
 };
