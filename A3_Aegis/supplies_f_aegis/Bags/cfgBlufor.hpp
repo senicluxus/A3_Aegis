@@ -466,13 +466,9 @@ class B_AssaultPack_cbr_USMCRepair_F: B_AssaultPackSpec_cbr
 {
 	author = $STR_A3_A_AveryTheKitty;
 	scope = protected;
-	class TransportMagazines
+	class TransportItems
 	{
-		class _xx_ToolKit
-		{
-			name = "ToolKit";
-			count = 1;
-		};
+		item_xx(ToolKit,1);
 	};
 };
 class B_AssaultPack_cbr_USMCAT_F: B_AssaultPackSpec_cbr
