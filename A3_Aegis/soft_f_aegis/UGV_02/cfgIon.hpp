@@ -4,6 +4,7 @@ class B_ION_UGV_02_Demining_F: UGV_02_Demining_Base_F
 	author = $STR_A3_A_AveryTheKitty;
 	editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_ION_UGV_02_Demining_F.jpg";
 	scope = protected;
+	scopeCurator = protected;
 	displayName = $STR_A3_C_CfgVehicles_C_IDAP_UGV_02_Demining_F0;
 	side = TWest;
 	faction = BLU_ION_F;
