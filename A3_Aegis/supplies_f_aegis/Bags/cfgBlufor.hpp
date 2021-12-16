@@ -468,7 +468,11 @@ class B_AssaultPack_cbr_USMCRepair_F: B_AssaultPackSpec_cbr
 	scope = protected;
 	class TransportMagazines
 	{
-		mag_xx(Toolkit,1);
+		class _xx_ToolKit
+		{
+			name = "ToolKit";
+			count = 1;
+		};
 	};
 };
 class B_AssaultPack_cbr_USMCAT_F: B_AssaultPackSpec_cbr
@@ -491,7 +495,11 @@ class B_TacticalPack_khk_USMCEng_F: B_TacticalPack_khk
 	};
 	class TransportItems
 	{
-		item_xx(ToolKit,1);
+		class _xx_ToolKit
+		{
+			name = "ToolKit";
+			count = 1;
+		};
 		item_xx(MineDetector,1);
 	};
 };
