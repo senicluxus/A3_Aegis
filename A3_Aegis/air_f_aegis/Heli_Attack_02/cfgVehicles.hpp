@@ -44,7 +44,7 @@ class CfgVehicles
 			};
 			class Russian2
 			{
-				displayName = $STR_A3_TEXTURESOURCES_RUSSIANSTARFLAGS0;
+				displayName = $STR_A3_TEXTURESOURCES_RUSSIANSTARFLAG0;
 				author = $STR_A3_A_lilithsspawn;
 				textures[] = 
 				{

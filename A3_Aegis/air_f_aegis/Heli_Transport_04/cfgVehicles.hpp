@@ -43,7 +43,7 @@ class CfgVehicles
 				author = $STR_A3_A_lilithsspawn;
 				textures[] =
 				{
-					"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS_01_CO.paa",
+					"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS_02_CO.paa",
 					"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS2_02_CO.paa"
 				};
 				factions[] = {};
@@ -54,7 +54,7 @@ class CfgVehicles
 				author = $STR_A3_A_lilithsspawn;
 				textures[] =
 				{
-					"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS_02_CO.paa",
+					"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS_01_CO.paa",
 					"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS2_02_CO.paa"
 				};
 				factions[] = {};
@@ -87,7 +87,7 @@ class CfgVehicles
 				author = $STR_A3_A_lilithsspawn;
 				textures[] =
 				{
-					"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS_01_CO.paa",
+					"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS_02_CO.paa",
 					"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS2_02_CO.paa"
 				};
 				factions[] = {};
@@ -98,7 +98,7 @@ class CfgVehicles
 				author = $STR_A3_A_lilithsspawn;
 				textures[] =
 				{
-					"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS_02_CO.paa",
+					"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS_01_CO.paa",
 					"\A3_Aegis\Air_F_Aegis\Heli_Transport_04\Data\Heli_Transport_04_RUS2_02_CO.paa"
 				};
 				factions[] = {};
