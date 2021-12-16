@@ -1296,14 +1296,14 @@ class B_D_recon_TL_lxWS: B_recon_TL_F
 	linkedItems[] =
 	{
 		V_lxWS_PlateCarrier2_desert,
-        H_HelmetSpecB_light_sand_desert,
+      H_HelmetSpecB_light_sand,
 		DefaultManLeaderLinkedItems,
 		NVGoggles
 	};
 	respawnLinkedItems[] =
 	{
 		V_lxWS_PlateCarrier2_desert,
-        H_HelmetSpecB_light_sand_desert,
+      H_HelmetSpecB_light_sand,
 		DefaultManLeaderLinkedItems,
 		NVGoggles
 	};
@@ -1426,7 +1426,7 @@ class B_D_recon_JTAC_lxWS: B_recon_JTAC_F
 	respawnLinkedItems[] =
 	{
 		V_lxWS_PlateCarrier1_desert,
-        H_Watchcap_camo_hs,
+      H_Watchcap_camo_hs,
 		DefaultManLeaderLinkedItems,
 		NVGoggles
 	};
@@ -1482,4 +1482,42 @@ class B_D_recon_exp_lxWS : B_recon_exp_F
    };
    uniformClass = "U_lxWS_B_CombatUniform_desert_tshirt";
    faction = "BLU_NATO_lxWS";
+};
+class B_D_Pilot_lxWS : B_T_Pilot_F
+{
+   editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_Pilot_F.jpg";
+   uniformClass = "U_B_PilotCoveralls";
+   faction = "BLU_NATO_lxWS";
+   weapons[] =
+   {
+      SMG_01_black_Holo_F,
+        DefaultManWeapons
+   };
+   respawnWeapons[] =
+   {
+      SMG_01_black_Holo_F,
+        DefaultManWeapons
+   };
+   magazines[] =
+   {
+        mag_4(30Rnd_45ACP_Mag_SMG_01),
+        SMOKESHELLS_BLUFOR
+   };
+   respawnMagazines[] =
+   {
+        mag_4(30Rnd_45ACP_Mag_SMG_01),
+        SMOKESHELLS_BLUFOR
+   };
+    linkedItems[] =
+    {
+        H_PilotHelmetHeli_B,
+        DefaultManLinkedItems,
+        NVGoggles
+    };
+    respawnLinkedItems[] =
+    {
+        H_PilotHelmetHeli_B,
+        DefaultManLinkedItems,
+        NVGoggles
+    };
 };
