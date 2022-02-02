@@ -2681,6 +2681,13 @@ class CfgWeapons
 		picture = "\A3_Aegis\Characters_F_Aegis\Headgear\Data\UI\H_I_Helmet_canvas_CBR_F_ca.paa";
 		hiddenSelectionsTextures[] = {"\A3_Aegis\Characters_F_Aegis\Headgear\Data\headgear_helmet_canvas_CBR_CO.paa"};
 	};
+	class H_I_Helmet_canvas_JSDF: H_HelmetIA
+    {
+      	author = $STR_A3_A_BranFlakes;
+      	displayName = "Modular Helmet [JSDF]";
+      	//picture = "\A3_Aegis\Characters_F_Aegis\Headgear\Data\UI\icon_H_I_Helmet_canvas_Green_CA.paa";
+      	hiddenSelectionsTextures[] = {"\A3_Aegis\Characters_F_Aegis\Headgear\Data\headgear_helmet_canvas_Japan_CO.paa"};
+    };
     /* Deprecated */
     #include "deprecated.hpp"
 };

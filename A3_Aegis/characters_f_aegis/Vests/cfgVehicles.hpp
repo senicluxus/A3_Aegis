@@ -88,7 +88,10 @@ class CfgVehicles
 	VEST_HOLDER(V_Rangemaster_belt_taiga_F,$STR_A3_A_CfgWeapons_V_Rangemaster_belt_taiga_F0);
 	VEST_HOLDER(V_BandollierB_taiga_F,$STR_A3_A_CfgWeapons_V_BandollierB_taiga_F0);
 	VEST_HOLDER(V_TacVest_grn,$STR_A3_A_CfgWeapons_V_TacVest_grn0);
-	VEST_HOLDER(V_RebreatherRU,$STR_A3_A_CfgWeapons_V_RebreatherRU0);
+	VEST_HOLDER(V_TacVest_JSDF,"Tactical Vest [JSDF]");
+	VEST_HOLDER(V_CDF_Vest_Defender_empty_wdl,"CA Carrier Rig [CDF]");
+	VEST_HOLDER(V_CDF_Vest_Defender_rifleman_wdl,"CA Carrier Lite [CDF]");
+	VEST_HOLDER(V_CDF_Vest_Defender_autorifleman_wdl,"CA MG Rig [CDF]");
 
     /* Deprecated */
     DEPRECATED_CLASS(Vest_V_I_G_resistanceLeader_F,Vest_Base_F);;
