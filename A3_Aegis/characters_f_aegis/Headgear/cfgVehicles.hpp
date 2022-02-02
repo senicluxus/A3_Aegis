@@ -266,6 +266,7 @@ class CfgVehicles
 	HEADGEAR_HOLDER(H_MK7_UN_F,$STR_A3_A_CfgWeapons_H_MK7_UN_F0,EdSubcat_Helmets);
 	HEADGEAR_HOLDER(H_I_Helmet_canvas_UN,$STR_A3_A_CfgWeapons_H_I_Helmet_canvas_UN0,EdSubcat_Helmets);
 	HEADGEAR_HOLDER(H_I_Helmet_canvas_CBR,$STR_A3_A_CfgWeapons_H_I_Helmet_canvas_CBR0,EdSubcat_Helmets);
+	HEADGEAR_HOLDER(H_I_Helmet_canvas_JSDF,"Modular Helmet [JSDF]",EdSubcat_Helmets);
 	
     /* Deprecated */
     DEPRECATED_CLASS(Headgear_H_HelmetCrew_I_E,Headgear_H_HelmetCrew_I);;
