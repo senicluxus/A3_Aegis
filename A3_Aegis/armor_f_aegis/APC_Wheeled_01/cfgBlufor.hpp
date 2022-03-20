@@ -318,6 +318,10 @@ class B_APC_Wheeled_01_medical_F: B_APC_Wheeled_01_base_F
 		};
 	};
 };
+class B_APC_Wheeled_01_cannon_F: B_APC_Wheeled_01_base_F
+{
+    scope = protected;
+};
 class B_APC_Wheeled_01_cannon_v2_F: APC_Wheeled_01_base_v2_F
 {
 	author = $STR_A3_A_AveryTheKitty;
@@ -895,7 +899,30 @@ class B_APC_Wheeled_01_arty_F: B_APC_Wheeled_01_base_F
 */
 
 /* USMC (Desert) */
-class APC_Wheeled_01_atgm_base_lxWS: APC_Wheeled_01_base_F{};
+class APC_Wheeled_01_atgm_base_lxWS: APC_Wheeled_01_base_v2_F
+{
+    class Turrets: Turrets
+	{
+		class MainTurret: MainTurret
+		{
+			weapons[] = {"autocannon_30mm","MMG_02_coax_amv", "missiles_titan"};
+			magazines[] = 
+			{
+				mag_2(140Rnd_30mm_MP_shells_Tracer_Red),
+                mag_2(60Rnd_30mm_APFSDS_shells_Tracer_Red),
+				"200Rnd_338_Mag",
+				"200Rnd_338_Mag",
+				"200Rnd_338_Mag",
+				"200Rnd_338_Mag",
+				"200Rnd_338_Mag",
+				"200Rnd_338_Mag",
+				"200Rnd_338_Mag",
+				"200Rnd_338_Mag",
+				"4Rnd_GAT_missiles_lxWS"
+			};
+		};
+	};
+};
 class B_D_APC_Wheeled_01_atgm_lxWS: APC_Wheeled_01_atgm_base_lxWS
 {
     scope = protected;
@@ -906,7 +933,7 @@ class B_T_APC_Wheeled_01_atgm_lxWS: APC_Wheeled_01_atgm_base_lxWS
     scope = protected;
 	scopeCurator = protected;
 };
-class B_APC_Wheeled_01_cannon_F;
+//class B_APC_Wheeled_01_cannon_F;
 class B_D_APC_Wheeled_01_cannon_lxWS: B_APC_Wheeled_01_cannon_F
 {
     scope = protected;
@@ -1145,14 +1172,14 @@ class B_D_APC_Wheeled_01_atgm_lxWS_v2: B_D_APC_Wheeled_01_atgm_lxWS
             weapons[] =
             {
                 autocannon_30mm,
-                LMG_coax, 
+                MMG_02_coax_amv, 
                 missiles_titan
             };
             magazines[] = 
             {
                 mag_2(140Rnd_30mm_MP_shells_Tracer_Red),
                 mag_2(60Rnd_30mm_APFSDS_shells_Tracer_Red),
-                mag_10(200Rnd_762x51_Belt_Red),
+                mag_10(200Rnd_338_Mag),
                 4Rnd_GAT_missiles_lxWS
             };
         };
@@ -1195,14 +1222,14 @@ class B_T_APC_Wheeled_01_atgm_lxWS_v2: B_T_APC_Wheeled_01_atgm_lxWS
             weapons[] =
             {
                 autocannon_30mm,
-                LMG_coax, 
+                MMG_02_coax_amv, 
                 missiles_titan
             };
             magazines[] = 
             {
                 mag_2(140Rnd_30mm_MP_shells_Tracer_Red),
                 mag_2(60Rnd_30mm_APFSDS_shells_Tracer_Red),
-                mag_10(200Rnd_762x51_Belt_Red),
+                mag_10(200Rnd_338_Mag),
                 "4Rnd_GAT_missiles_lxWS"
             };
         };

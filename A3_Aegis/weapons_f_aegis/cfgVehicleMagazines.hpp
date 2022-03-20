@@ -369,6 +369,11 @@ class 160Rnd_30mm_APFSDS_shells_Tracer_Red: 60Rnd_30mm_APFSDS_shells_Tracer_Red
     author = $STR_A3_A_AveryTheKitty;
     count = 160;
 };
+class 40Rnd_30mm_APFSDS_shells_Tracer_Red: 60Rnd_30mm_APFSDS_shells_Tracer_Red
+{
+    author = $STR_A3_A_AveryTheKitty;
+    count = 40;
+};
 class 160Rnd_30mm_APFSDS_shells_Tracer_Green: 60Rnd_30mm_APFSDS_shells_Tracer_Green
 {
     author = $STR_A3_A_AveryTheKitty;
