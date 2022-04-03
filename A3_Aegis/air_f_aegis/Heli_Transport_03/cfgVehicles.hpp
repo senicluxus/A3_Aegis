@@ -26,14 +26,14 @@ class CfgVehicles
                 /* Weapons & Ammunition
                 - Let's replace its 6.5 mm rounds with 7.62 mm rounds
                 */
-				magazines[] = {mag_2(1000Rnd_762x51_Belt_T_Red_Splash)};
+				magazines[] = {mag_2(1000Rnd_762x51_Belt_T_Red)};
 			};
 			class RightDoorGun: MainTurret
 			{
                 /* Weapons & Ammunition
                 - Let's replace its 6.5 mm rounds with 7.62 mm rounds
                 */
-				magazines[] = {mag_2(1000Rnd_762x51_Belt_T_Red_Splash)};
+				magazines[] = {mag_2(1000Rnd_762x51_Belt_T_Red)};
 			};
 		};
 
