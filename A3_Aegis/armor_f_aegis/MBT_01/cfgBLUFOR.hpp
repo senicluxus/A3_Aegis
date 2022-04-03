@@ -1,21 +1,5 @@
 /* US */
-class B_MBT_01_base_F: MBT_01_base_F
-{
-    class Turrets: Turrets
-    {
-        class MainTurret: MainTurret
-        {
-            weapons[] = {"cannon_120mm","MMG_02_coax"};
-            magazines[] = 
-            {
-                "24Rnd_120mm_APFSDS_shells_Tracer_Red",
-                "12Rnd_120mm_HE_shells_Tracer_Red",
-                "12Rnd_120mm_HEAT_MP_T_Red",
-                mag_20(200Rnd_338_Mag)
-            };
-        };
-    };
-};
+class B_MBT_01_base_F: MBT_01_base_F{};
 class B_MBT_01_cannon_F: B_MBT_01_base_F
 {
     animationList[] =

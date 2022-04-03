@@ -119,7 +119,7 @@ class CfgVehicles
 				weapons[] =
 				{
 					autocannon_30mm,
-					MMG_02_coax
+					MMG_02_coax_amv
 				};
 				magazines[] =
 				{
