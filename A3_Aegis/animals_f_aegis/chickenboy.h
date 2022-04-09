@@ -9,7 +9,7 @@ class CfgVehicles
 	{
 		author 				= $STR_A3_A_AveryTheKitty;
 		scope 				= 1;
-		scopeCurator 		= 2;
+		scopeCurator 		= 0;
 		displayName 		= "chimken nugget";
 		model				= "\A3_Aegis\Animals_F_Aegis\ChickenBoy.p3d";
 		modelSides[] 		= {3};
