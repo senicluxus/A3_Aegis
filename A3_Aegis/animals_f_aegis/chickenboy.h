@@ -12,8 +12,6 @@ class CfgVehicles
 		scopeCurator 		= 0;
 		displayName 		= "chimken nugget";
 		model				= "\A3_Aegis\Animals_F_Aegis\ChickenBoy.p3d";
-		modelSides[] 		= {3};
-		faction				= CIV_IDAP_F;
 		uniformClass		= Aegis_U_ChickenBoy_F;
 	};
 };
