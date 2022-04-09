@@ -414,6 +414,18 @@ class MMG_02_coax: MMG_02_vehicle
     autoReload = false;
     backgroundReload = false;
 };
+class MMG_02_coax_amv: MMG_02_coax
+	{
+		class GunParticles
+		{
+			class effect1
+			{
+				positionName = "usti hlavne3";
+				directionName = "konec hlavne3";
+				effectName = "MachineGunCloud";
+			};
+		};
+	};
 class autocannon_30mm_RCWS: autocannon_Base_F
 {
     magazines[] +=

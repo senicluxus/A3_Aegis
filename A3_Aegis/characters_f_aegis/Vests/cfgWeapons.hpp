@@ -92,6 +92,13 @@ class CfgWeapons
 		hiddenSelectionsTextures[] = {"\A3_Aegis\Characters_F_Aegis\Vests\Data\tacticalvest_black_CO.paa"};
 		hiddenSelectionsMaterials[] = {"\A3_Aegis\Characters_F_Aegis\Vests\Data\tacticalvest.rvmat"};
 	};
+	class V_TacVest_JSDF: V_TacVest_khk
+	{
+		picture = "\A3_Aegis\Characters_F_Aegis\Vests\Data\UI\icon_V_TacVest_blk_CA.paa";
+		displayname = "Tactical Vest [JSDF]";
+		hiddenSelectionsTextures[] = {"\A3_Aegis\Characters_F_Aegis\Vests\Data\tacticalvest_JSDF_CO.paa"};
+		hiddenSelectionsMaterials[] = {"\A3_Aegis\Characters_F_Aegis\Vests\Data\tacticalvest.rvmat"};
+	};
 	class V_TacVest_camo: Vest_Camo_Base
 	{
 		picture = "\A3\Characters_F_EPB\Data\UI\icon_V_I_G_resistanceLeader_F_CA.paa";
@@ -824,6 +831,157 @@ class CfgWeapons
 			"\A3_Aegis\Characters_F_Aegis\Uniforms\Data\diver_equip_CO.paa",
 			"\A3_Aegis\Characters_F_Aegis\Uniforms\Data\diver_equip_CO.paa",
 			"\A3\Characters_F\Data\visors_CA.paa"
+		};
+	};
+	class V_CF_CarrierRig_F: V_PlateCarrier1_rgr 
+	{
+		author = "Jamie";
+		scope = public;
+		scopeArsenal = public;
+		displayName = "Defender Rig [CDF]";
+		//picture = "\jam_cdf_core\data\icon_ca.paa";
+        hiddenSelections[] = {camo}; 
+		hiddenSelectionsTextures[] = { "\A3_Aegis\Characters_F_Aegis\Vests\data\V_CF_CarrierRig_CO.paa"};
+		model = "\A3_Aegis\Characters_F_Aegis\Vests\V_CF_CarrierRig_F.p3d"; 
+		class ItemInfo : VestItem
+		{
+			uniformModel = "\A3_Aegis\Characters_F_Aegis\Vests\V_CF_CarrierRig_F.p3d";
+			hiddenSelections[] = {camo};
+			hiddenSelectionsTextures[] = { "\A3_Aegis\Characters_F_Aegis\Vests\data\V_CF_CarrierRig_CO.paa"};
+			containerClass = Supply60;
+			mass = 25;
+			class HitpointsProtectionInfo
+			{
+				class Chest
+				{
+					hitpointName	= "HitChest";
+					armor			= 12;
+					passThrough		= 0.1;
+				};
+				class Diaphragm
+				{
+					hitpointName	= "HitDiaphragm";
+					armor			= 12;
+					passThrough		= 0.15;
+				};
+				class Abdomen
+				{
+					hitpointName	= "HitAbdomen";
+					armor			= 12;
+					passThrough		= 0.15;
+				};
+				class Body
+				{
+					hitpointName	= "HitBody";
+					passThrough		= 0.1;
+				};
+			};
+		};
+	};
+	class V_CF_CarrierRig_Lite_F: V_PlateCarrier1_rgr 
+	{
+		author = "Jamie";
+		scope = public;
+		scopeArsenal = public;
+		displayName = "Defender Lite Rig [CDF]";
+		//picture = "\jam_cdf_core\data\icon_ca.paa";
+        hiddenSelections[] = {camo,camo1}; 
+		hiddenSelectionsTextures[] = 
+		{
+			"\A3_Aegis\Characters_F_Aegis\Vests\data\V_CF_CarrierRig_CO.paa",
+			"\A3_Aegis\Characters_F_Aegis\Vests\data\V_CF_CarrierRig_Pouches_CO.paa"
+		};
+		model = "\A3_Aegis\Characters_F_Aegis\Vests\V_CF_CarrierRig_Lite_F.p3d"; 
+		class ItemInfo : VestItem
+		{
+			uniformModel = "\A3_Aegis\Characters_F_Aegis\Vests\V_CF_CarrierRig_Lite_F.p3d";
+			hiddenSelections[] = {camo,camo1};
+			hiddenSelectionsTextures[] = 
+			{
+				"\A3_Aegis\Characters_F_Aegis\Vests\data\V_CF_CarrierRig_CO.paa",
+				"\A3_Aegis\Characters_F_Aegis\Vests\data\V_CF_CarrierRig_Pouches_CO.paa"
+			};
+			containerClass = Supply140;
+			mass = 35;
+			class HitpointsProtectionInfo
+			{
+				class Chest
+				{
+					hitpointName	= "HitChest";
+					armor			= 12;
+					passThrough		= 0.1;
+				};
+				class Diaphragm
+				{
+					hitpointName	= "HitDiaphragm";
+					armor			= 12;
+					passThrough		= 0.15;
+				};
+				class Abdomen
+				{
+					hitpointName	= "HitAbdomen";
+					armor			= 12;
+					passThrough		= 0.15;
+				};
+				class Body
+				{
+					hitpointName	= "HitBody";
+					passThrough		= 0.1;
+				};
+			};
+		};
+	};
+	class V_CF_CarrierRig_MG_F : V_PlateCarrier1_rgr 
+	{
+		author = "Jamie";
+		scope = public;
+		scopeArsenal = public;
+		displayName = "Defender MG Rig [CDF]";
+		//picture = "\jam_cdf_core\data\icon_ca.paa";
+        hiddenSelections[] = {camo,camo1}; 
+		hiddenSelectionsTextures[] = 
+		{
+			"\A3_Aegis\Characters_F_Aegis\Vests\data\V_CF_CarrierRig_CO.paa",
+			"\A3_Aegis\Characters_F_Aegis\Vests\data\V_CF_CarrierRig_Pouches_CO.paa"
+		};
+		model = "\A3_Aegis\Characters_F_Aegis\Vests\V_CF_CarrierRig_MG_F.p3d"; 
+		class ItemInfo : VestItem
+		{
+			uniformModel = "\A3_Aegis\Characters_F_Aegis\Vests\V_CF_CarrierRig_MG_F.p3d";
+			hiddenSelections[] = {camo,camo1};
+			hiddenSelectionsTextures[] = 
+			{
+				"\A3_Aegis\Characters_F_Aegis\Vests\data\V_CF_CarrierRig_CO.paa",
+				"\A3_Aegis\Characters_F_Aegis\Vests\data\V_CF_CarrierRig_Pouches_CO.paa"
+			};
+			containerClass = Supply160;
+			mass = 40;
+			class HitpointsProtectionInfo
+			{
+				class Chest
+				{
+					hitpointName	= "HitChest";
+					armor			= 12;
+					passThrough		= 0.1;
+				};
+				class Diaphragm
+				{
+					hitpointName	= "HitDiaphragm";
+					armor			= 12;
+					passThrough		= 0.15;
+				};
+				class Abdomen
+				{
+					hitpointName	= "HitAbdomen";
+					armor			= 12;
+					passThrough		= 0.15;
+				};
+				class Body
+				{
+					hitpointName	= "HitBody";
+					passThrough		= 0.1;
+				};
+			};
 		};
 	};
 

@@ -719,6 +719,7 @@ class B_D_RadioOperator_lxWS: B_Soldier_F
 	editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_D_RadioOperator_lxWS.jpg";
    scope = public;
    scopeCurator = public;
+   faction = "BLU_NATO_lxWS";
    displayName = $STR_A3_C_B_W_RadioOperator_F0;
 	uniformClass = U_lxWS_B_CombatUniform_desert;
 	linkedItems[] =
