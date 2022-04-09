@@ -33,7 +33,7 @@ class CfgWeapons
 		{
 			uniformModel 			= "-";
 			uniformClass 			= Aegis_ChickenBoy_F;
-			containerClass 			= Supply50;
+			containerClass 			= Supply60;
 			mass 					= 10;
 		};
 	};
