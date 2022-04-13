@@ -30,8 +30,8 @@ class B_ION_Soldier_AR_F: B_ION_Soldier_Base_F
 {
 	author = $STR_A3_A_AveryTheKitty;
 	editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_ION_Soldier_AR_F.jpg";
-	scope = public;
-	scopeCurator = public;
+	scope = protected;
+	scopeCurator = protected;
 	displayName = $STR_B_soldier_AR_F0;
 	role = MachineGunner;
 	icon = iconManMG;
@@ -105,8 +105,8 @@ class B_ION_Soldier_Medic_F: B_ION_Soldier_base_F
 	textPlural = $STR_A3_nameSound_veh_infantry_medic_p;
 	nameSound = veh_infantry_medic_s;
 	editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_ION_Soldier_Medic_F.jpg";
-	scope = public;
-	scopeCurator = public;
+	scope = protected;
+	scopeCurator = protected;
 	displayName = $STR_A3_B_CTRG_Soldier_Medic_tna_F0;
 	role = CombatLifeSaver;
 	icon = iconManMedic;
@@ -168,8 +168,8 @@ class B_ION_Engineer_F: B_ION_Soldier_base_F
 {
 	author = $STR_A3_A_AveryTheKitty;
 	editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_ION_Engineer_F.jpg";
-	scope = public;
-	scopeCurator = public;
+	scope = protected;
+	scopeCurator = protected;
 	displayName = $STR_B_engineer_F0;
     role = Sapper;
     icon = iconManEngineer;
@@ -238,8 +238,8 @@ class B_ION_Soldier_GL_F: B_ION_Soldier_base_F
 {
 	author = $STR_A3_A_AveryTheKitty;
 	editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_ION_Soldier_GL_F.jpg";
-	scope = public;
-	scopeCurator = public;
+	scope = protected;
+	scopeCurator = protected;
 	displayName = $STR_B_Soldier_GL_F0;
     role = Grenadier;
 	cost = 200000;
@@ -310,8 +310,8 @@ class B_ION_Helipilot_F: B_ION_Soldier_base_F
 	textPlural = $STR_A3_nameSound_veh_infantry_pilot_p;
 	nameSound = veh_infantry_pilot_s;
 	editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_ION_Helipilot_F.jpg";
-	scope = public;
-	scopeCurator = public;
+	scope = protected;
+	scopeCurator = protected;
 	displayName = $STR_B_Helipilot_F0;
 	role = Crewman;
 	cost = 160000;
@@ -358,8 +358,8 @@ class B_ION_Soldier_M_F: B_ION_Soldier_base_F
 	textPlural = $STR_A3_nameSound_veh_infantry_sniper_p;
 	nameSound = veh_infantry_sniper_s;
 	editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_ION_Soldier_M_F.jpg";
-	scope = public;
-	scopeCurator = public;
+	scope = protected;
+	scopeCurator = protected;
 	displayName = $STR_B_Soldier_M_F0;
 	role = Marksman;
 	cost = 250000;
@@ -417,8 +417,8 @@ class B_ION_Soldier_F: B_ION_Soldier_base_F
 {
 	author = $STR_A3_A_AveryTheKitty;
 	editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_ION_Soldier_F.jpg";
-	scope = public;
-	scopeCurator = public;
+	scope = protected;
+	scopeCurator = protected;
 	displayName = $STR_A3_CfgVehicles_B_Soldier_F0;
 	role = Rifleman;
 	cost = 100000;
@@ -485,8 +485,8 @@ class B_ION_Soldier_LAT_F: B_ION_Soldier_base_F
 	textPlural = $STR_A3_nameSound_veh_infantry_AT_p;
 	nameSound = veh_infantry_AT_s;
 	editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_ION_Soldier_LAT_F.jpg";
-	scope = public;
-	scopeCurator = public;
+	scope = protected;
+	scopeCurator = protected;
 	displayName = $STR_B_Soldier_LAT_F0;
 	role = MissileSpecialist;
 	icon = iconManAT;
@@ -548,8 +548,8 @@ class B_ION_Soldier_CQ_F: B_ION_Soldier_base_F
 {
 	author = $STR_A3_A_AveryTheKitty;
 	editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_ION_Soldier_CQ_F.jpg";
-	scope = public;
-	scopeCurator = public;
+	scope = protected;
+	scopeCurator = protected;
 	displayName = $STR_A3_A_CfgVehicles_B_Soldier_CQ_F0;
     cost = 130000;
 	threat[] =
@@ -612,8 +612,8 @@ class B_ION_Soldier_TL_F: B_ION_Soldier_base_F
 {
 	author = $STR_A3_A_AveryTheKitty;
 	editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_ION_Soldier_TL_F.jpg";
-	scope = public;
-	scopeCurator = public;
+	scope = protected;
+	scopeCurator = protected;
 	displayName = $STR_B_Soldier_TL_F0;
 	role = Rifleman;
 	icon = iconManLeader;
@@ -675,8 +675,8 @@ class B_ION_RadioOperator_F: B_ION_Soldier_F
 {
 	author = $STR_A3_A_AveryTheKitty;
 	editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_ION_RadioOperator_F.jpg";
-    scope = public;
-    scopeCurator = public;
+    scope = protected;
+    scopeCurator = protected;
     displayName = $STR_A3_C_B_W_RadioOperator_F0;
 	uniformClass = U_I_G_Story_Protagonist_F;
 	linkedItems[] =
@@ -732,8 +732,8 @@ class B_ION_Soldier_UAV_F: B_ION_Soldier_base_F
 {
 	author = $STR_A3_A_AveryTheKitty;
 	editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_ION_Soldier_UAV_F.jpg";
-	scope = public;
-	scopeCurator = public;
+	scope = protected;
+	scopeCurator = protected;
 	displayName = $STR_A3_B_SOLDIER_UAV_F0;
 	role = SpecialOperative;
 	uavHacker = true;

@@ -262,6 +262,8 @@ class CfgVehicles
 		showAllTargets = LockLaser;
 		radarTargetSize = 1.1;
 		irTargetSize = 1.2;
+		receiveRemoteTargets = 1;
+		reportOwnPosition = 1;
 		class Components: Components
 		{
 			class SensorsManagerComponent

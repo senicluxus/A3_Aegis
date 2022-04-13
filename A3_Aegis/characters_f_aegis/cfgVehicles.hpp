@@ -30,6 +30,7 @@ class CfgVehicles
 
     /* Factions */
     #include "cfgBLUFOR.hpp"        // US & BAF
+    #include "cfgUSMC.hpp"
     #include "cfgOPFOR.hpp"         // IAF, China & Argana
     #include "cfgIndep.hpp"         // AAF
     #include "cfgCivil.hpp"         // Civilians

@@ -649,3 +649,65 @@ class B_W_AFV_Wheeled_01_up_cannon_F: AFV_Wheeled_01_up_base_F
 		bag_xx(B_AssaultPack_wdl_F,2);
 	};
 };
+
+/* US Marines */
+class B_AFV_Wheeled_01_cannon_F;
+class B_marines_AFV_Wheeled_01_cannon_F: B_AFV_Wheeled_01_cannon_F
+{
+	faction = BLU_NATO_lxWS;
+	crew = B_D_crew_lxWS;
+	typicalCargo[] = {B_D_soldier_lxWS};
+	scope = public;
+
+    /* Inventory */
+	class TransportMagazines
+	{
+		mag_xx(SmokeShell,2);
+		mag_xx(SmokeShellBlue,2);
+		mag_xx(30Rnd_65x39_caseless_black_mag,4);
+	};
+	class TransportWeapons
+	{
+		weap_xx(arifle_MXC_Black_F,2);
+	};
+	class TransportItems
+	{
+		item_xx(FirstAidKit,10);
+		item_xx(Toolkit,1);
+		item_xx(Medikit,1);
+	};
+	class TransportBackpacks
+	{
+		bag_xx(B_AssaultPackSpec_cbr,2);
+	};
+};
+class B_AFV_Wheeled_01_up_cannon_F;
+class B_marines_AFV_Wheeled_01_up_cannon_F: B_AFV_Wheeled_01_up_cannon_F
+{
+	faction = BLU_NATO_lxWS;
+	crew = B_D_crew_lxWS;
+	typicalCargo[] = {B_D_soldier_lxWS};
+	scope = public;
+
+    /* Inventory */
+	class TransportMagazines
+	{
+		mag_xx(SmokeShell,2);
+		mag_xx(SmokeShellBlue,2);
+		mag_xx(30Rnd_65x39_caseless_black_mag,4);
+	};
+	class TransportWeapons
+	{
+		weap_xx(arifle_MXC_Black_F,2);
+	};
+	class TransportItems
+	{
+		item_xx(FirstAidKit,10);
+		item_xx(Toolkit,1);
+		item_xx(Medikit,1);
+	};
+	class TransportBackpacks
+	{
+		bag_xx(B_AssaultPackSpec_cbr,2);
+	};
+};

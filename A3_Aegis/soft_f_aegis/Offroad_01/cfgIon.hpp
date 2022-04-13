@@ -3,8 +3,8 @@ class B_ION_Offroad_01_F: B_G_Offroad_01_F
 {
 	author = $STR_A3_A_AveryTheKitty;
 	editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_ION_Offroad_01_F.jpg";
-	scope = public;
-	scopeCurator = public;
+	scope = protected;
+	scopeCurator = protected;
 	side = TWest;
 	faction = BLU_ION_F;
 	crew = B_ION_Soldier_F;
@@ -40,8 +40,8 @@ class B_ION_Offroad_01_covered_F: Offroad_01_military_covered_base_F
 {
 	author = $STR_A3_A_AveryTheKitty;
 	editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_ION_Offroad_01_covered_F.jpg";
-	scope = public;
-	scopeCurator = public;
+	scope = protected;
+	scopeCurator = protected;
 	accuracy = 1.25;
 	side = TWest;
 	faction = BLU_ION_F;
@@ -86,8 +86,8 @@ class B_ION_Offroad_01_comms_F: Offroad_01_military_comms_base_F
 {
 	author = $STR_A3_A_AveryTheKitty;
 	editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_ION_Offroad_01_comms_F.jpg";
-	scope = public;
-	scopeCurator = public;
+	scope = protected;
+	scopeCurator = protected;
 	side = TWest;
 	faction = BLU_ION_F;
 	crew = B_ION_Soldier_F;

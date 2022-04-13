@@ -919,7 +919,7 @@ class CfgWeapons
 			{
 				soundSetShot[] =
 				{
-					SPAR02_Shot_SoundSet,
+					XMS_Shot_SoundSet,
 					SPAR02_tail_SoundSet,
 					SPAR02_InteriorTail_SoundSet
 				};
@@ -928,9 +928,9 @@ class CfgWeapons
 			{
 				soundSetShot[] =
 				{
-					SPAR02_silencerShot_SoundSet,
-					SPAR02_silencerTail_SoundSet,
-					SPAR02_silencerInteriorTail_SoundSet
+					Msbs65_01_Shot_Silencer_SoundSet,
+					SPAR01_silencerTail_SoundSet,
+					Msbs65_01_Tail_Int_Silencer_SoundSet
 				};
 			};
 	  	};
@@ -941,7 +941,7 @@ class CfgWeapons
 			{
 				soundSetShot[] =
 				{
-					SPAR02_Shot_SoundSet,
+					XMS_Shot_SoundSet,
 					SPAR02_tail_SoundSet,
 					SPAR02_InteriorTail_SoundSet
 				};
@@ -950,9 +950,9 @@ class CfgWeapons
 			{
 				soundSetShot[] =
 				{
-					SPAR02_silencerShot_SoundSet,
-					SPAR02_silencerTail_SoundSet,
-					SPAR02_silencerInteriorTail_SoundSet
+					Msbs65_01_Shot_Silencer_SoundSet,
+					SPAR01_silencerTail_SoundSet,
+					Msbs65_01_Tail_Int_Silencer_SoundSet
 				};
 			};
 	  	};

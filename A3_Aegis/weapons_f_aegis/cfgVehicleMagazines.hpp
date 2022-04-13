@@ -317,8 +317,8 @@ class 1200Rnd_Gatling_30mm_Heli_Attack_03_F: 1000Rnd_Gatling_30mm_Plane_CAS_01_F
     count = 1200;
     muzzleImpulseFactor[] =
     {
-        1.0,    // X
-        4       // Y
+        0.25,    // X
+        0.25     // Y
     };
 };
 class 1200Rnd_Gatling_30mm_Heli_Attack_03_Yellow_F: 1200Rnd_Gatling_30mm_Heli_Attack_03_F
@@ -368,6 +368,11 @@ class 160Rnd_30mm_APFSDS_shells_Tracer_Red: 60Rnd_30mm_APFSDS_shells_Tracer_Red
 {
     author = $STR_A3_A_AveryTheKitty;
     count = 160;
+};
+class 40Rnd_30mm_APFSDS_shells_Tracer_Red: 60Rnd_30mm_APFSDS_shells_Tracer_Red
+{
+    author = $STR_A3_A_AveryTheKitty;
+    count = 40;
 };
 class 160Rnd_30mm_APFSDS_shells_Tracer_Green: 60Rnd_30mm_APFSDS_shells_Tracer_Green
 {

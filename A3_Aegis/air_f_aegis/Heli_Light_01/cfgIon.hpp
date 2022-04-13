@@ -138,7 +138,7 @@ class B_ION_Heli_Light_01_civil_F: Heli_Light_01_civil_base_F
 			init = "[this, '', []] call bis_fnc_initVehicle";
 	};
 	editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_ION_Heli_Light_01_civil_F.jpg";
-	scope = public;
+	scope = protected;
 	side = TWest;
 	faction = BLU_ION_F;
 	crew = B_ION_Helipilot_F;

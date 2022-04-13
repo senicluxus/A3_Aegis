@@ -119,13 +119,13 @@ class CfgVehicles
 				weapons[] =
 				{
 					autocannon_30mm,
-					LMG_coax
+					MMG_02_coax_amv
 				};
 				magazines[] =
 				{
 					mag_2(140Rnd_30mm_MP_shells_Tracer_Red),
 					mag_2(60Rnd_30mm_APFSDS_shells_Tracer_Red),
-					mag_10(200Rnd_762x51_Belt_Red)
+					mag_10(200Rnd_338_Mag)
 				};
 
                 /* Servos */
