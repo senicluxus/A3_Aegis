@@ -94,6 +94,7 @@ class CfgWeapons
 	};
 	class V_TacVest_JSDF: V_TacVest_khk
 	{
+		scope = private;
 		picture = "\A3_Aegis\Characters_F_Aegis\Vests\Data\UI\icon_V_TacVest_blk_CA.paa";
 		displayname = "Tactical Vest [JSDF]";
 		hiddenSelectionsTextures[] = {"\A3_Aegis\Characters_F_Aegis\Vests\Data\tacticalvest_JSDF_CO.paa"};

@@ -15797,6 +15797,23 @@
 					<Japanese>MAAWS Mk4 Mod 0（黒）</Japanese>
 					<Turkish>MAAWS Mk4 Mod 0 (Siyah)</Turkish>
 				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_launch_RPG7M_F0">
+					<Original>RPG-7M</Original>
+					<Chinese>RPG-7M</Chinese>
+					<French>RPG-7M</French>
+					<Spanish>RPG-7M</Spanish>
+					<Italian>RPG-7M</Italian>
+					<Polish>RPG-7M</Polish>
+					<Russian>RPG-7M</Russian>
+					<German>RPG-7M</German>
+					<Czech>RPG-7M</Czech>
+					<English>RPG-7M</English>
+					<Portuguese>RPG-7M</Portuguese>
+					<Korean>RPG-7M</Korean>
+					<Chinesesimp>RPG-7M</Chinesesimp>
+					<Japanese>RPG-7M</Japanese>
+					<Turkish>RPG-7M</Turkish>
+				</Key>
 			</Container>
 			<Container name="LongRangeRifles">
 				<Key ID="STR_A3_A_CfgWeapons_srifle_DMR_01_black_F0">

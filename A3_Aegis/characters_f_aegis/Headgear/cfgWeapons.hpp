@@ -2693,6 +2693,7 @@ class CfgWeapons
 	class H_I_Helmet_canvas_JSDF: H_HelmetIA
     {
       	author = $STR_A3_A_BranFlakes;
+		scope = private;
       	displayName = "Modular Helmet [JSDF]";
       	//picture = "\A3_Aegis\Characters_F_Aegis\Headgear\Data\UI\icon_H_I_Helmet_canvas_Green_CA.paa";
       	hiddenSelectionsTextures[] = {"\A3_Aegis\Characters_F_Aegis\Headgear\Data\headgear_helmet_canvas_Japan_CO.paa"};
