@@ -548,6 +548,7 @@ class B_APC_Wheeled_01_cannon_v2_F: APC_Wheeled_01_base_v2_F
 };
 class B_APC_Wheeled_01_atgm_lxWS_v2: APC_Wheeled_01_atgm_base_v2
 {
+    author = $STR_A3_A_Ravenholme;
     scope = public;
     scopeCurator = public;
 };
@@ -1144,6 +1145,7 @@ class B_D_APC_Wheeled_01_cannon_lxWS_v2: B_APC_Wheeled_01_cannon_v2_F
 
 class B_D_APC_Wheeled_01_atgm_lxWS_v2: APC_Wheeled_01_atgm_base_v2
 {
+    author = $STR_A3_A_Ravenholme;
     scope = public;
     scopeCurator = public;
     editorPreview = "\lxws\editorpreviews_f_lxws\Data\CfgVehicles\B_D_APC_Wheeled_01_atgm_lxWS.jpg"; 
@@ -1646,6 +1648,7 @@ class B_T_APC_Wheeled_01_cannon_v2_F: APC_Wheeled_01_base_v2_F
 
 class B_T_APC_Wheeled_01_atgm_lxWS_v2: APC_Wheeled_01_atgm_base_v2
 {
+    author = $STR_A3_A_Ravenholme;
     scope = public;
     scopeCurator = public;
     editorPreview = "\lxws\editorpreviews_f_lxws\Data\CfgVehicles\B_T_APC_Wheeled_01_atgm_lxWS.jpg"; 
@@ -2434,6 +2437,7 @@ class B_W_APC_Wheeled_01_cannon_v2_F: APC_Wheeled_01_base_v2_F
 };
 class B_W_APC_Wheeled_01_atgm_lxWS_v2: B_T_APC_Wheeled_01_atgm_lxWS_v2
 {
+    author = $STR_A3_A_Ravenholme;
     scope = public;
     scopeCurator = public;
     editorPreview = "\lxws\editorpreviews_f_lxws\Data\CfgVehicles\B_T_APC_Wheeled_01_atgm_lxWS.jpg"; 
@@ -2482,6 +2486,7 @@ class B_W_APC_Wheeled_01_atgm_lxWS_v2: B_T_APC_Wheeled_01_atgm_lxWS_v2
 class B_T_APC_Wheeled_01_mortar_lxWS;
 class B_W_APC_Wheeled_01_mortar_lxWS: B_T_APC_Wheeled_01_mortar_lxWS
 {
+    author = $STR_A3_A_Ravenholme;
     side = TWest;
 	faction = BLU_W_F;
 	crew = B_W_Crew_F;
@@ -2498,6 +2503,7 @@ class B_W_APC_Wheeled_01_mortar_lxWS: B_T_APC_Wheeled_01_mortar_lxWS
 class B_T_APC_Wheeled_01_command_lxWS;
 class B_W_APC_Wheeled_01_command_lxWS: B_T_APC_Wheeled_01_command_lxWS
 {
+    author = $STR_A3_A_Ravenholme;
     side = TWest;
 	faction = BLU_W_F;
 	crew = B_W_Crew_F;
