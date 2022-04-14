@@ -1651,7 +1651,7 @@ class B_T_APC_Wheeled_01_atgm_lxWS_v2: APC_Wheeled_01_atgm_base_v2
     author = $STR_A3_A_Ravenholme;
     scope = public;
     scopeCurator = public;
-    editorPreview = "\lxws\editorpreviews_f_lxws\Data\CfgVehicles\B_T_APC_Wheeled_01_atgm_lxWS.jpg"; 
+    //editorPreview = "\lxws\editorpreviews_f_lxws\Data\CfgVehicles\B_T_APC_Wheeled_01_atgm_lxWS.jpg"; 
     crew = B_T_Crew_F;
     typicalCargo[] = {B_T_Soldier_F};
     faction = BLU_T_F;
@@ -2387,7 +2387,7 @@ class B_W_APC_Wheeled_01_cannon_v2_F: APC_Wheeled_01_base_v2_F
 		verticalOffsetWorld = -0.091;
 		init = "[this, '', []] call bis_fnc_initVehicle";
 	};
-	editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_W_APC_Wheeled_01_cannon_v2_F.jpg";
+	//editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_W_APC_Wheeled_01_cannon_v2_F.jpg";
 	scope = public;
 	scopeCurator = public;
 	side = TWest;
@@ -2440,7 +2440,7 @@ class B_W_APC_Wheeled_01_atgm_lxWS_v2: B_T_APC_Wheeled_01_atgm_lxWS_v2
     author = $STR_A3_A_Ravenholme;
     scope = public;
     scopeCurator = public;
-    editorPreview = "\lxws\editorpreviews_f_lxws\Data\CfgVehicles\B_T_APC_Wheeled_01_atgm_lxWS.jpg"; 
+    //editorPreview = "\lxws\editorpreviews_f_lxws\Data\CfgVehicles\B_T_APC_Wheeled_01_atgm_lxWS.jpg"; 
     side = TWest;
 	faction = BLU_W_F;
 	crew = B_W_Crew_F;
