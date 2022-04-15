@@ -40,42 +40,39 @@ class CfgWeapons
 		///////////////////////////
 		// Optic
 		///////////////////////////
-		/*weaponInfoType = RscOptics_titan;
-		modelOptics = "\A3\Weapons_F_Beta\acc\reticle_titan.p3d";*/
-		//class OpticsModes
-		//{
-		//	class StepScope
-		//	{
-		//		opticsID = 1;
-		//		useModelOptics = 1;
-		//		opticsPPEffects[] = {"OpticsCHAbera1","OpticsBlur1"};
-		//		opticsFlare = 0;
-		//		opticsZoomMin = 0.08333;
-		//		opticsZoomMax = 0.04167;
-		//		opticsZoomInit = 0.08333;
-		//		distanceZoomMin = 300;
-		//		distanceZoomMax = 300;
-		//		memoryPointCamera = "eye";
-		//		cameraDir = "look";
-		//		visionMode[] = {"Normal","Ti"};
-		//		thermalMode[] = {0,1};
-		//		opticsDisablePeripherialVision = 1;
-		//		discretefov[] = {0.08333,0.04167};
-		//		discreteInitIndex = 0;
-		//	};
-		//};
+		modelOptics = "-";
+		class OpticsModes
+		{
+			class irons
+			{
+				opticsID = 1;
+				useModelOptics = 0;
+				opticsPPEffects[] = {};
+				opticsZoomMin = 0.375;
+				opticsZoomMax = 1.25;
+				opticsZoomInit = 0.75;
+				visionMode[] = {};
+				opticsFlare = 0;
+				opticsDisablePeripherialVision = 0;
+				distanceZoomMin = 200;
+				distanceZoomMax = 500;
+				cameraDir = "look";
+				memoryPointCamera = "eye";
+				discreteDistanceInitIndex = 0;
+			};
+		};
 
 		///////////////////////////
 		// Weapon Info
 		///////////////////////////
 		magazines[] = 
 		{
-			Stinger
+			Stinger_HE
 		};
-		magazineWell[] = 
+		/*magazineWell[] = 
 		{
 			Stinger_tube
-		};
+		};*/
 		cursor = missile;
 		handAnim[] = 
 		{
@@ -96,10 +93,7 @@ class CfgWeapons
 				effectName = "RocketBackEffectsNLAWNT";
 			};
 		};
-		modes[] = 
-		{
-			Single
-		};
+		modes[] = {"Single","TopDown"};
 		class Single: Mode_SemiAuto
 		{
 			sounds[] = {"StandardSound"};
@@ -118,6 +112,19 @@ class CfgWeapons
 			midRangeProbab = 0.85;
 			maxRange = 3450;
 			maxRangeProbab = 0.85;
+		};
+		class TopDown: Single
+		{
+			textureType = "topDown";
+			displayName = "Top-down Attack";
+			aiRateOfFire = 7.0;
+			aiRateOfFireDistance = 1500;
+			minRange = 150;
+			minRangeProbab = 0.8;
+			midRange = 500;
+			midRangeProbab = 0.95;
+			maxRange = 2000;
+			maxRangeProbab = 0.95;
 		};
 		value = 20;
 		canLock = 2;
@@ -163,12 +170,12 @@ class CfgWeapons
 
 class CfgAmmo
 {
-	class MissileBase;
 	class Components;
 	class SensorTemplateIR;
-	class M_Stinger: MissileBase
+	class MissileBase;
+	class M_Stinger_AA: MissileBase
 	{
-		model = "\A3_Aegis\weapons_f_aegis\Launchers\FIM-92\Stinger_rocket.p3d";
+		model = "\a3\weapons_f_tank\Ammo\Missile_SAAMI_AA_01_fly_F.p3d";
 		hit = 80;
 		indirectHit = 60;
 		indirectHitRange = 6;
@@ -270,16 +277,16 @@ class CfgAmmo
 class CfgMagazines
 {
 	class CA_LauncherMagazine;
-	class Stinger: CA_LauncherMagazine
+	class Stinger_HE: CA_LauncherMagazine
 	{
 		author = $STR_A3_Heliotrope;
 		scope = 2;
 		displayName = $STR_A3_CfgMagazines_Titan_AA0;
 		displayNameShort = $STR_A3_CfgMagazines_Titan_AA_dns;
-		ammo = M_Stinger;
+		ammo = M_Stinger_AA;
 		type = "6 * 256";
 		picture = "\A3\Weapons_F_beta\Launchers\titan\Data\UI\gear_titan_missile_atl_CA.paa";
-		model = "\A3\Weapons_F_beta\Launchers\titan\titan_missile_atl";
+		model = "\a3\weapons_f_tank\Ammo\Missile_SAAMI_AA_01_fly_F.p3d";
 		initSpeed = 18;
 		maxLeadSpeed = 277.778;
 		descriptionShort = "$STR_A3_CfgMagazines_Titan_AA1";
