@@ -17,12 +17,17 @@ class CfgPatches
             B_APC_Wheeled_01_medical_F,
             B_APC_Wheeled_01_cannon_v2_F,
             B_APC_Wheeled_01_arty_F,
+            B_APC_Wheeled_01_atgm_lxWS_v2,
             B_T_APC_Wheeled_01_medical_F,
             B_T_APC_Wheeled_01_cannon_v2_F,
             B_T_APC_Wheeled_01_arty_F,
+            B_T_APC_Wheeled_01_atgm_lxWS_v2,
             B_W_APC_Wheeled_01_medical_F,
             B_W_APC_Wheeled_01_cannon_v2_F,
             B_W_APC_Wheeled_01_arty_F,
+            B_W_APC_Wheeled_01_mortar_lxWS,
+            B_W_APC_Wheeled_01_command_lxWS,
+            B_W_APC_Wheeled_01_atgm_lxWS_v2,
             B_A_APC_Wheeled_01_cannon_v3_F,
             B_A_APC_Wheeled_01_medical_F,
             B_A_APC_Wheeled_01_medical_tna_F,
@@ -31,8 +36,7 @@ class CfgPatches
             B_A_APC_Wheeled_01_cannon_v3_wdl_F,
             B_D_APC_Wheeled_01_cannon_lxWS_v2,
             B_D_APC_Wheeled_01_atgm_lxWS_v2,
-            B_T_APC_Wheeled_01_atgm_lxWS_v2,
-
+            
             /* From "cfgEAF.hpp" */
             I_E_APC_Wheeled_01_cannon_v3_F,
             I_E_APC_Wheeled_01_medical_F
