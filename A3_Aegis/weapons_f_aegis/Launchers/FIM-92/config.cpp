@@ -134,12 +134,7 @@ class CfgWeapons
 		dexterity = 0.8;
 		class WeaponSlotsInfo: WeaponSlotsInfo
 		{
-			mass = 140;
-			class PointerSlot: PointerSlot_Launcher
-			{
-				iconPosition[] = {0.2,0.45};
-				iconScale = 0.25;
-			};
+			mass = 120;
 		};
 		class ItemInfo
 		{
