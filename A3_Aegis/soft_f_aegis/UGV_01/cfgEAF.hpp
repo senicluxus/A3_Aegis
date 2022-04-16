@@ -25,8 +25,7 @@ class Aegis_B_E_UGV_01_F: I_E_UGV_01_F
     author = $STR_A3_A_Ravenholme;
     side = TWest;
     faction = BLU_EAF_F;
-    crew = B_UAV_AI_F;
-    typicalCargo[] = {B_UAV_AI_F};
+    crew = B_UAV_AI;
 };
 class I_E_UGV_01_rcws_F;
 class Aegis_B_E_UGV_01_RCWS_F: I_E_UGV_01_rcws_F
@@ -34,14 +33,12 @@ class Aegis_B_E_UGV_01_RCWS_F: I_E_UGV_01_rcws_F
     author = $STR_A3_A_Ravenholme;
     side = TWest;
     faction = BLU_EAF_F;
-    crew = B_UAV_AI_F;
-    typicalCargo[] = {B_UAV_AI_F};
+    crew = B_UAV_AI;
 };
 class Aegis_B_E_UGV_01_medical_F: I_E_UGV_01_medical_F
 {
     author = $STR_A3_A_Ravenholme;
     side = TWest;
     faction = BLU_EAF_F;
-    crew = B_UAV_AI_F;
-    typicalCargo[] = {B_UAV_AI_F};
+    crew = B_UAV_AI;
 };
