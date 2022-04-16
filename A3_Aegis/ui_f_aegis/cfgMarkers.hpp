@@ -164,4 +164,10 @@ class CfgMarkers
 		icon = "\A3_Aegis\UI_F_Aegis\Data\CfgMarkers\Turkey_CA.paa";
 		texture = "\A3_Aegis\UI_F_Aegis\Data\CfgMarkers\Turkey_CA.paa";
 	};
+	class flag_USA: flag_NATO
+	{
+		name = "$STR_A3_CfgMarkers_flag_USA";
+		icon = "\A3_Aegis\UI_F_Aegis\Data\CfgMarkers\USA_CA_51.paa";
+		texture = "\A3_Aegis\UI_F_Aegis\Data\CfgMarkers\USA_CA_51.paa";
+	};
 };
