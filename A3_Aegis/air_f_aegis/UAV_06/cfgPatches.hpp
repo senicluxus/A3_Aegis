@@ -49,6 +49,15 @@ class CfgPatches
             B_ION_UAV_06_medical_F,
             Box_B_ION_UAV_06_F,
             Box_B_ION_UAV_06_medical_F
+
+            /* From "cfgBluEAF.hpp" */
+            Aegis_B_E_UAV_06_F,
+            Aegis_B_E_UAV_06_medical_F,
+            Aegis_Box_B_E_UAV_06_F,
+            Aegis_Box_B_E_UAV_06_medical_F,
+            Aegis_B_E_UAV_06_backpack_F,
+            Aegis_B_E_UAV_06_medical_backpack_F 
+
         };
 		weapons[] = {/* Automated */};
 	};

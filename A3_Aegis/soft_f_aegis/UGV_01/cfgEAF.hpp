@@ -17,3 +17,31 @@ class I_E_UGV_01_medical_F: UGV_01_medical_base_F
         "\A3\Soft_F_Orange\UGV_01\Data\Turret_IDAP_CO.paa"
     };
 };
+
+/* LDF BLUFOR */
+class I_E_UGV_01_F;
+class Aegis_B_E_UGV_01_F: I_E_UGV_01_F
+{
+    author = $STR_A3_A_Ravenholme;
+    side = TWest;
+    faction = BLU_EAF_F;
+    crew = B_UAV_AI_F;
+    typicalCargo[] = {B_UAV_AI_F};
+};
+class I_E_UGV_01_rcws_F;
+class Aegis_B_E_UGV_01_RCWS_F: I_E_UGV_01_rcws_F
+{
+    author = $STR_A3_A_Ravenholme;
+    side = TWest;
+    faction = BLU_EAF_F;
+    crew = B_UAV_AI_F;
+    typicalCargo[] = {B_UAV_AI_F};
+};
+class Aegis_B_E_UGV_01_medical_F: I_E_UGV_01_medical_F
+{
+    author = $STR_A3_A_Ravenholme;
+    side = TWest;
+    faction = BLU_EAF_F;
+    crew = B_UAV_AI_F;
+    typicalCargo[] = {B_UAV_AI_F};
+};

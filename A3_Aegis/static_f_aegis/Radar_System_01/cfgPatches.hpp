@@ -16,7 +16,11 @@ class CfgPatches
             B_W_Radar_System_01_F,
             B_A_Radar_System_01_F,
             B_A_Radar_System_01_tna_F,
-            B_A_Radar_System_01_wdl_F
+            B_A_Radar_System_01_wdl_F,
+
+			/* From "cfgEAF.hpp" */
+			Aegis_B_E_Radar_System_01_F
+			
         };
 		weapons[] = {/* Automated */};
 	};

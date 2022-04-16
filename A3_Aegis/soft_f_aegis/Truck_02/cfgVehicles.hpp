@@ -1239,4 +1239,5 @@ class CfgVehicles
     #include "ION.h"
     #include "SFIA.h"
 	#include "cargo_and_flatbed.h"
+	#include "cfgEAF.hpp"	// LDF/BLUFOR
 };

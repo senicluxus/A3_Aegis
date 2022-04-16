@@ -52,7 +52,13 @@ class CfgPatches
             O_R_HMG_01_support_high_F,
             O_R_HMG_01_ard_F,
             O_R_HMG_01_high_ard_F,
-            O_R_HMG_01_A_ard_F
+            O_R_HMG_01_A_ard_F,
+
+            /* From "cfgEAF.hpp" */
+            Aegis_B_E_HMG_01_F,
+            Aegis_B_E_HMG_01_high_F,
+            Aegis_B_E_HMG_01_A_F,
+            Aegis_B_E_HMG_01_A_Weapon_F
         };
 		weapons[] = {/* Automated */};
 	};

@@ -25,7 +25,9 @@ class CfgPatches
 
             /* From "cfgEAF.hpp" */
             I_E_Static_Designator_01_F,
-            I_E_Static_Designator_01_weapon_F
+            I_E_Static_Designator_01_weapon_F,
+            Aegis_B_E_Static_Designator_01_F,
+            Aegis_B_E_Static_Designator_01_weapon_F
         };
 		weapons[] = {/* Automated */};
 	};

@@ -29,7 +29,13 @@ class CfgPatches
 
             /* From "cfgION.hpp" */
             B_ION_UGV_02_Demining_F,
-            B_ION_UGV_02_Demining_backpack_F
+            B_ION_UGV_02_Demining_backpack_F,
+
+            /* From "cfgEAF.hpp" */
+            Aegis_B_E_UGV_02_Demining_F,
+            Aegis_B_E_UGV_02_Demining_backpack_F,
+            Aegis_B_E_UGV_02_Science_F,
+            Aegis_B_E_UGV_02_Science_backpack_F
         };
 		weapons[] = {/* Automated */};
 	};

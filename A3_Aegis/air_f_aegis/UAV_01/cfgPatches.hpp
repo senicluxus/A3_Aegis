@@ -30,7 +30,11 @@ class CfgPatches
 
             /* From "cfgION.hpp" */
             B_ION_UAV_01_F,
-            B_ION_UAV_01_backpack_F
+            B_ION_UAV_01_backpack_F,
+
+            /* From "cfgBluEAF.hpp" */
+            Aegis_B_E_UAV_01_F,
+            Aegis_B_E_UAV_01_backpack_F
         };
 		weapons[] = {/* Automated */};
 	};

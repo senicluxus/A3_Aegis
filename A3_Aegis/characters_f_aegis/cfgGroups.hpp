@@ -2103,6 +2103,342 @@ class CfgGroups
 				delete BUS_D_SPGSection_MLRS_lxWS;
 			};
 		};
+		class BLU_EAF_F
+		{
+			name = $STR_A3_C_CfgFactionClasses_IND_E_F0;
+			class Infantry
+			{
+				name = $STR_A3_CfgGroups_West_BLU_F_Infantry0;
+				class Aegis_B_E_InfSquad
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfSquad0;
+					side = TWest;
+					faction = BLU_EAF_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_inf.paa";
+					GROUP_UNIT(0,TWest,Aegis_B_E_soldier_SL_F,SERGEANT,0,0);
+					GROUP_UNIT(1,TWest,Aegis_B_E_RadioOperator_F,PRIVATE,5,-5);
+					GROUP_UNIT(2,TWest,Aegis_B_E_soldier_LAT_F,CORPORAL,-5,-5);
+					GROUP_UNIT(3,TWest,Aegis_B_E_soldier_M_F,PRIVATE,10,-10);
+					GROUP_UNIT(4,TWest,Aegis_B_E_soldier_TL_F,SERGEANT,-10,-10);
+					GROUP_UNIT(5,TWest,Aegis_B_E_soldier_AR_F,CORPORAL,15,-15);
+					GROUP_UNIT(6,TWest,Aegis_B_E_soldier_A_F,PRIVATE,-15,-15);
+					GROUP_UNIT(7,TWest,Aegis_B_E_medic_F,PRIVATE,20,-20);
+				};
+				class Aegis_B_E_InfSquad_Weapons
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfSquad_Weapons0;
+					side = TWest;
+					faction = BLU_EAF_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_inf.paa";
+					GROUP_UNIT(0,TWest,Aegis_B_E_soldier_SL_F,SERGEANT,0,0);
+					GROUP_UNIT(1,TWest,Aegis_B_E_soldier_AR_F,PRIVATE,5,-5);
+					GROUP_UNIT(2,TWest,Aegis_B_E_soldier_GL_F,CORPORAL,-5,-5);
+					GROUP_UNIT(3,TWest,Aegis_B_E_soldier_M_F,PRIVATE,10,-10);
+					GROUP_UNIT(4,TWest,Aegis_B_E_soldier_AT_F,PRIVATE,-10,-10);
+					GROUP_UNIT(5,TWest,Aegis_B_E_soldier_AAT_F,PRIVATE,15,-15);
+					GROUP_UNIT(6,TWest,Aegis_B_E_soldier_A_F,PRIVATE,-15,-15);
+					GROUP_UNIT(7,TWest,Aegis_B_E_medic_F,PRIVATE,20,-20);
+				};
+				class Aegis_B_E_InfTeam
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfTeam0;
+					side = TWest;
+					faction = BLU_EAF_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_inf.paa";
+					GROUP_UNIT(0,TWest,Aegis_B_E_soldier_TL_F,SERGEANT,0,0);
+					GROUP_UNIT(1,TWest,Aegis_B_E_soldier_AR_F,CORPORAL,5,-5);
+					GROUP_UNIT(2,TWest,Aegis_B_E_soldier_GL_F,PRIVATE,-5,-5);
+					GROUP_UNIT(3,TWest,Aegis_B_E_soldier_LAT_F,PRIVATE,10,-10);
+				};
+				class Aegis_B_E_InfTeam_AT
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfTeam_AT0;
+					side = TWest;
+					faction = BLU_EAF_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_inf.paa";
+					GROUP_UNIT(0,TWest,Aegis_B_E_soldier_TL_F,SERGEANT,0,0);
+					GROUP_UNIT(1,TWest,Aegis_B_E_soldier_AT_F,CORPORAL,5,-5);
+					GROUP_UNIT(2,TWest,Aegis_B_E_soldier_AT_F,PRIVATE,-5,-5);
+					GROUP_UNIT(3,TWest,Aegis_B_E_soldier_AAT_F,PRIVATE,10,-10);
+				};
+				class Aegis_B_E_InfTeam_AA
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfTeam_AA0;
+					side = TWest;
+					faction = BLU_EAF_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_inf.paa";
+					GROUP_UNIT(0,TWest,Aegis_B_E_soldier_TL_F,SERGEANT,0,0);
+					GROUP_UNIT(1,TWest,Aegis_B_E_soldier_AA_F,CORPORAL,5,-5);
+					GROUP_UNIT(2,TWest,Aegis_B_E_soldier_AA_F,PRIVATE,-5,-5);
+					GROUP_UNIT(3,TWest,Aegis_B_E_soldier_AAA_F,PRIVATE,10,-10);
+				};
+				class Aegis_B_E_InfSentry
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfSentry0;
+					side = TWest;
+					faction = BLU_EAF_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_inf.paa";
+					GROUP_UNIT(0,TWest,Aegis_B_E_soldier_GL_F,CORPORAL,0,0);
+					GROUP_UNIT(1,TWest,Aegis_B_E_soldier_F,PRIVATE,5,-5);
+				};
+				class Aegis_B_E_InfTeam_Light
+				{
+					name = $STR_A3_CfgGroups_FireTeamLight;
+					side = TWest;
+					faction = BLU_EAF_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_inf.paa";
+					GROUP_UNIT(0,TWest,Aegis_B_E_Soldier_TL_F,SERGEANT,0,0);
+					GROUP_UNIT(1,TWest,Aegis_B_E_Soldier_AR_F,CORPORAL,5,-5);
+					GROUP_UNIT(2,TWest,Aegis_B_E_Soldier_F,PRIVATE,-5,-5);
+					GROUP_UNIT(3,TWest,Aegis_B_E_Soldier_LAT2_F,PRIVATE,10,-10);
+				};
+			};
+			class Support
+			{
+				name = $STR_A3_CfgGroups_West_BLU_F_Support0;
+				class Aegis_B_E_Support_CLS
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Support_BUS_Support_CLS0;
+					side = TWest;
+					faction = BLU_EAF_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_inf.paa";
+					GROUP_UNIT(0,TWest,Aegis_B_E_Soldier_TL_F,SERGEANT,0,0);
+					GROUP_UNIT(1,TWest,Aegis_B_E_Soldier_AR_F,CORPORAL,5,-5);
+					GROUP_UNIT(2,TWest,Aegis_B_E_medic_F,PRIVATE,-5,-5);
+					GROUP_UNIT(3,TWest,Aegis_B_E_medic_F,PRIVATE,10,-10);
+				};
+				class Aegis_B_E_Support_EOD
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Support_BUS_Support_EOD0;
+					side = TWest;
+					faction = BLU_EAF_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_inf.paa";
+					GROUP_UNIT(0,TWest,Aegis_B_E_Soldier_TL_F,SERGEANT,0,0);
+					GROUP_UNIT(1,TWest,Aegis_B_E_engineer_F,CORPORAL,5,-5);
+					GROUP_UNIT(2,TWest,Aegis_B_E_Soldier_exp_F,PRIVATE,-5,-5);
+					GROUP_UNIT(3,TWest,Aegis_B_E_Soldier_exp_F,PRIVATE,10,-10);
+				};
+				class Aegis_B_E_Support_ENG
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Support_BUS_Support_ENG0;
+					side = TWest;
+					faction = BLU_EAF_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_inf.paa";
+					GROUP_UNIT(0,TWest,Aegis_B_E_Soldier_TL_F,SERGEANT,0,0);
+					GROUP_UNIT(1,TWest,Aegis_B_E_engineer_F,CORPORAL,5,-5);
+					GROUP_UNIT(2,TWest,Aegis_B_E_engineer_F,PRIVATE,-5,-5);
+					GROUP_UNIT(3,TWest,Aegis_B_E_Soldier_repair_F,PRIVATE,10,-10);
+				};
+				class Aegis_B_E_Support_MG
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Support_BUS_Support_MG0;
+					side = TWest;
+					faction = BLU_EAF_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_inf.paa";
+					GROUP_UNIT(0,TWest,Aegis_B_E_Soldier_TL_F,SERGEANT,0,0);
+					GROUP_UNIT(1,TWest,Aegis_B_E_Support_MG_F,CORPORAL,5,-5);
+					GROUP_UNIT(2,TWest,Aegis_B_E_Support_AMG_F,PRIVATE,-5,-5);
+				};
+				class Aegis_B_E_Support_GMG
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Support_BUS_Support_GMG0;
+					side = TWest;
+					faction = BLU_EAF_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_inf.paa";
+					GROUP_UNIT(0,TWest,Aegis_B_E_Soldier_TL_F,SERGEANT,0,0);
+					GROUP_UNIT(1,TWest,Aegis_B_E_Support_GMG_F,CORPORAL,5,-5);
+					GROUP_UNIT(2,TWest,Aegis_B_E_Support_AMG_F,PRIVATE,-5,-5);
+				};
+				class Aegis_B_E_Support_Mort
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Support_BUS_Support_Mort0;
+					side = TWest;
+					faction = BLU_EAF_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_mortar.paa";
+					GROUP_UNIT(0,TWest,Aegis_B_E_Soldier_TL_F,SERGEANT,0,0);
+					GROUP_UNIT(1,TWest,Aegis_B_E_Support_Mort_F,CORPORAL,5,-5);
+					GROUP_UNIT(2,TWest,Aegis_B_E_Support_AMort_F,PRIVATE,-5,-5);
+				};
+			};
+			class Motorized
+			{
+				name = $STR_A3_CfgGroups_West_BLU_F_Motorized0;
+				class Aegis_B_E_MotInf_Squad
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Mechanized_BUS_MechInfSquad0;
+					side = TWest;
+					faction = BLU_EAF_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\n_motor_inf.paa";
+					GROUP_UNIT(0,TWest,Aegis_B_E_Truck_02_transport_F,SERGEANT,0,0);
+					GROUP_UNIT(1,TWest,Aegis_B_E_soldier_SL_F,SERGEANT,5,0);
+					GROUP_UNIT(2,TWest,Aegis_B_E_RadioOperator_F,PRIVATE,5,-2);
+					GROUP_UNIT(3,TWest,Aegis_B_E_soldier_AT_F,CORPORAL,5,-4);
+					GROUP_UNIT(4,TWest,Aegis_B_E_soldier_M_F,PRIVATE,5,-6);
+					GROUP_UNIT(5,TWest,Aegis_B_E_soldier_TL_F,SERGEANT,5,-8);
+					GROUP_UNIT(6,TWest,Aegis_B_E_soldier_AR_F,CORPORAL,5,-10);
+					GROUP_UNIT(7,TWest,Aegis_B_E_soldier_A_F,PRIVATE,5,-12);
+					GROUP_UNIT(8,TWest,Aegis_B_E_medic_F,PRIVATE,5,-14);
+				};
+				class Aegis_B_E_MotInf_Team
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Motorized_BUS_MotInf_Team0;
+					side = TWest;
+					faction = BLU_EAF_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\n_motor_inf.paa";
+					GROUP_UNIT(0,TWest,Aegis_B_E_Offroad_01_F,SERGEANT,0,0);
+					GROUP_UNIT(1,TWest,Aegis_B_E_soldier_TL_F,SERGEANT,5,0);
+					GROUP_UNIT(2,TWest,Aegis_B_E_soldier_AR_F,PRIVATE,5,-2);
+					GROUP_UNIT(3,TWest,Aegis_B_E_soldier_GL_F,CORPORAL,5,-4);
+					GROUP_UNIT(4,TWest,Aegis_B_E_soldier_LAT_F,PRIVATE,5,-6);
+				};
+				class Aegis_B_E_MotInf_Reinforcements
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Motorized_BUS_MotInf_Reinforce0;
+					side = TWest;
+					faction = BLU_EAF_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\n_motor_inf.paa";
+					GROUP_UNIT(0,TWest,Aegis_B_E_Truck_02_transport_F,SERGEANT,0,0);
+					GROUP_UNIT(1,TWest,Aegis_B_E_soldier_SL_F,SERGEANT,5,0);
+					GROUP_UNIT(2,TWest,Aegis_B_E_RadioOperator_F,PRIVATE,5,-2);
+					GROUP_UNIT(3,TWest,Aegis_B_E_soldier_AT_F,CORPORAL,5,-4);
+					GROUP_UNIT(4,TWest,Aegis_B_E_soldier_M_F,PRIVATE,5,-6);
+					GROUP_UNIT(5,TWest,Aegis_B_E_soldier_TL_F,SERGEANT,5,-8);
+					GROUP_UNIT(6,TWest,Aegis_B_E_soldier_AR_F,CORPORAL,5,-10);
+					GROUP_UNIT(7,TWest,Aegis_B_E_soldier_A_F,PRIVATE,5,-12);
+					GROUP_UNIT(8,TWest,Aegis_B_E_medic_F,PRIVATE,5,-14);
+					GROUP_UNIT(9,TWest,Aegis_B_E_soldier_SL_F,SERGEANT,-5,0);
+					GROUP_UNIT(10,TWest,Aegis_B_E_RadioOperator_F,PRIVATE,-5,-2);
+					GROUP_UNIT(11,TWest,Aegis_B_E_soldier_AT_F,CORPORAL,-5,-4);
+					GROUP_UNIT(12,TWest,Aegis_B_E_soldier_M_F,PRIVATE,-5,-6);
+					GROUP_UNIT(13,TWest,Aegis_B_E_soldier_TL_F,SERGEANT,-5,-8);
+					GROUP_UNIT(14,TWest,Aegis_B_E_soldier_AR_F,CORPORAL,-5,-10);
+					GROUP_UNIT(15,TWest,Aegis_B_E_soldier_A_F,PRIVATE,-5,-12);
+					GROUP_UNIT(16,TWest,Aegis_B_E_medic_F,PRIVATE,-5,-14);
+				};
+				class Aegis_B_E_MotInf_AT
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Motorized_BUS_MotInf_AT0;
+					side = TWest;
+					faction = BLU_EAF_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_motor_inf.paa";
+					GROUP_UNIT(0,TWest,Aegis_B_E_Offroad_01_F,SERGEANT,0,0);
+					GROUP_UNIT(1,TWest,Aegis_B_E_Soldier_AT_F,CORPORAL,5,-5);
+					GROUP_UNIT(2,TWest,Aegis_B_E_Soldier_AT_F,PRIVATE,-5,-5);
+					GROUP_UNIT(3,TWest,Aegis_B_E_Soldier_AAT_F,PRIVATE,10,-10);
+					GROUP_UNIT(4,TWest,Aegis_B_E_Soldier_AAT_F,PRIVATE,-10,-10);
+				};
+				class Aegis_B_E_MotInf_AA
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Motorized_BUS_MotInf_AA0;
+					side = TWest;
+					faction = BLU_EAF_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_motor_inf.paa";
+					GROUP_UNIT(0,TWest,Aegis_B_E_Offroad_01_F,SERGEANT,0,0);
+					GROUP_UNIT(1,TWest,Aegis_B_E_Soldier_AA_F,CORPORAL,5,-5);
+					GROUP_UNIT(2,TWest,Aegis_B_E_Soldier_AA_F,PRIVATE,-5,-5);
+					GROUP_UNIT(3,TWest,Aegis_B_E_Soldier_AAA_F,PRIVATE,10,-10);
+					GROUP_UNIT(4,TWest,Aegis_B_E_Soldier_AAA_F,PRIVATE,-10,-10);
+				};
+				class Aegis_B_E_MotInf_MGTeam
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Motorized_BUS_MotInf_MGTeam0;
+					side = TWest;
+					faction = BLU_EAF_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_motor_inf.paa";
+					GROUP_UNIT(0,TWest,Aegis_B_E_Offroad_01_F,SERGEANT,0,0);
+					GROUP_UNIT(1,TWest,Aegis_B_E_Soldier_TL_F,SERGEANT,5,-5);
+					GROUP_UNIT(2,TWest,Aegis_B_E_Support_MG_F,CORPORAL,-5,-5);
+					GROUP_UNIT(3,TWest,Aegis_B_E_Support_AMG_F,PRIVATE,10,-10);
+				};
+				class Aegis_B_E_MotInf_GMGTeam
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Motorized_BUS_MotInf_GMGTeam0;
+					side = TWest;
+					faction = BLU_EAF_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_motor_inf.paa";
+					GROUP_UNIT(0,TWest,Aegis_B_E_Offroad_01_F,SERGEANT,0,0);
+					GROUP_UNIT(1,TWest,Aegis_B_E_Soldier_TL_F,SERGEANT,5,-5);
+					GROUP_UNIT(2,TWest,Aegis_B_E_Support_GMG_F,CORPORAL,-5,-5);
+					GROUP_UNIT(3,TWest,Aegis_B_E_Support_AMG_F,PRIVATE,10,-10);
+				};
+				class Aegis_B_E_MotInf_MortTeam
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Motorized_BUS_MotInf_MortTeam0;
+					side = TWest;
+					faction = BLU_EAF_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_motor_inf.paa";
+					GROUP_UNIT(0,TWest,Aegis_B_E_Offroad_01_F,SERGEANT,0,0);
+					GROUP_UNIT(1,TWest,Aegis_B_E_Soldier_TL_F,SERGEANT,5,-5);
+					GROUP_UNIT(2,TWest,Aegis_B_E_Support_Mort_F,CORPORAL,-5,-5);
+					GROUP_UNIT(3,TWest,Aegis_B_E_Support_AMort_F,PRIVATE,10,-10);
+				};
+			};
+			class Mechanized
+			{
+				name = $STR_A3_CfgGroups_West_BLU_F_Mechanized0;
+				class Aegis_B_E_MechInfSquad
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Mechanized_BUS_MechInfSquad0;
+					side = TWest;
+					faction = BLU_EAF_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_mech_inf.paa";
+					GROUP_UNIT(0,TWest,Aegis_B_E_APC_tracked_03_cannon_v2_F,LIEUTENANT,0,0);
+					GROUP_UNIT(1,TWest,Aegis_B_E_soldier_SL_F,SERGEANT,5,-5);
+					GROUP_UNIT(2,TWest,Aegis_B_E_RadioOperator_F,PRIVATE,-5,-5);
+					GROUP_UNIT(3,TWest,Aegis_B_E_soldier_AT_F,CORPORAL,10,-10);
+					GROUP_UNIT(4,TWest,Aegis_B_E_soldier_M_F,PRIVATE,-10,-10);
+					GROUP_UNIT(5,TWest,Aegis_B_E_soldier_TL_F,SERGEANT,15,-15);
+					GROUP_UNIT(6,TWest,Aegis_B_E_soldier_AR_F,CORPORAL,-15,-15);
+					GROUP_UNIT(7,TWest,Aegis_B_E_soldier_A_F,PRIVATE,20,-20);
+					GROUP_UNIT(8,TWest,Aegis_B_E_medic_F,PRIVATE,-20,-20);
+				};
+				class Aegis_B_E_MechInf_AT
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Mechanized_BUS_MechInf_AT0;
+					side = TWest;
+					faction = BLU_EAF_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_mech_inf.paa";
+					GROUP_UNIT(0,TWest,Aegis_B_E_APC_tracked_03_cannon_v2_F,LIEUTENANT,0,0);
+					GROUP_UNIT(1,TWest,Aegis_B_E_Soldier_SL_F,SERGEANT,5,-5);
+					GROUP_UNIT(2,TWest,Aegis_B_E_Soldier_AT_F,CORPORAL,-5,-5);
+					GROUP_UNIT(3,TWest,Aegis_B_E_Soldier_AT_F,PRIVATE,10,-10);
+					GROUP_UNIT(4,TWest,Aegis_B_E_Soldier_AT_F,PRIVATE,-10,-10);
+					GROUP_UNIT(5,TWest,Aegis_B_E_Soldier_AAT_F,PRIVATE,15,-15);
+					GROUP_UNIT(6,TWest,Aegis_B_E_Soldier_AAT_F,PRIVATE,-15,-15);
+					GROUP_UNIT(7,TWest,Aegis_B_E_Soldier_AAT_F,PRIVATE,20,-20);
+				};
+				class Aegis_B_E_MechInf_AA
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Mechanized_BUS_MechInf_AA0;
+					side = TWest;
+					faction = BLU_EAF_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_mech_inf.paa";
+					GROUP_UNIT(0,TWest,Aegis_B_E_APC_tracked_03_cannon_v2_F,LIEUTENANT,0,0);
+					GROUP_UNIT(1,TWest,Aegis_B_E_Soldier_SL_F,SERGEANT,5,-5);
+					GROUP_UNIT(2,TWest,Aegis_B_E_Soldier_AA_F,CORPORAL,-5,-5);
+					GROUP_UNIT(3,TWest,Aegis_B_E_Soldier_AA_F,PRIVATE,10,-10);
+					GROUP_UNIT(4,TWest,Aegis_B_E_Soldier_AA_F,PRIVATE,-10,-10);
+					GROUP_UNIT(5,TWest,Aegis_B_E_Soldier_AAA_F,PRIVATE,15,-15);
+					GROUP_UNIT(6,TWest,Aegis_B_E_Soldier_AAA_F,PRIVATE,-15,-15);
+					GROUP_UNIT(7,TWest,Aegis_B_E_Soldier_AAA_F,PRIVATE,20,-20);
+				};
+				class Aegis_B_E_MechInf_Support
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Mechanized_BUS_MechInf_Support0;
+					side = TWest;
+					faction = BLU_EAF_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\b_mech_inf.paa";
+					GROUP_UNIT(0,TWest,Aegis_B_E_APC_tracked_03_cannon_v2_F,LIEUTENANT,0,0);
+					GROUP_UNIT(1,TWest,Aegis_B_E_Soldier_SL_F,SERGEANT,5,-5);
+					GROUP_UNIT(2,TWest,Aegis_B_E_Soldier_repair_F,CORPORAL,-5,-5);
+					GROUP_UNIT(3,TWest,Aegis_B_E_engineer_F,PRIVATE,10,-10);
+					GROUP_UNIT(4,TWest,Aegis_B_E_medic_F,PRIVATE,-10,-10);
+					GROUP_UNIT(5,TWest,Aegis_B_E_Soldier_AR_F,CORPORAL,15,-15);
+					GROUP_UNIT(6,TWest,Aegis_B_E_Soldier_exp_F,PRIVATE,-15,-15);
+					GROUP_UNIT(7,TWest,Aegis_B_E_Soldier_A_F,PRIVATE,20,-20);
+				};
+			};
+		};
 	};
 	class East
 	{

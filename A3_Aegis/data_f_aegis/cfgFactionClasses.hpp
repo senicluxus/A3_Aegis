@@ -127,4 +127,12 @@ class CfgFactionClasses
 		icon = "\A3_Aegis\Data_F_Aegis\FactionIcons\CfgFactionClasses_IND_R_CA.paa";
 		flag = "\A3_Aegis\Data_F_Aegis\Flags\flag_RUS_CO.paa";
 	};
+	class BLU_EAF_F
+	{
+		displayName = "$STR_A3_C_CfgFactionClasses_IND_E_F0";
+		priority = 3;
+		side = TWest;
+		icon = "\a3\Data_F_Enoch\FactionIcons\icon_EAF_CA.paa";
+		flag = "\a3\Data_F_Enoch\Flags\flag_EAF_co.paa";
+	};
 };

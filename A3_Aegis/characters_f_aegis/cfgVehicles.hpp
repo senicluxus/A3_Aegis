@@ -46,6 +46,7 @@ class CfgVehicles
     #include "cfgIDAP.hpp"          // IDAP
     #include "cfgRUS.hpp"           // Russia
     #include "cfgEAF.hpp"           // LDF
+    #include "cfgBluEAF.hpp"        // LDF BLUFOR
     #include "cfgLooters.hpp"       // Looters
     #include "cfgION.hpp"           // ION
     #include "cfgRaven.hpp"         // Raven Security

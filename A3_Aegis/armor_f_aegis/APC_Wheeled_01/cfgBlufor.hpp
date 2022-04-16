@@ -1148,7 +1148,7 @@ class B_D_APC_Wheeled_01_atgm_lxWS_v2: APC_Wheeled_01_atgm_base_v2
     author = $STR_A3_A_Ravenholme;
     scope = public;
     scopeCurator = public;
-    editorPreview = "\lxws\editorpreviews_f_lxws\Data\CfgVehicles\B_D_APC_Wheeled_01_atgm_lxWS.jpg"; 
+    //editorPreview = "\lxws\editorpreviews_f_lxws\Data\CfgVehicles\B_D_APC_Wheeled_01_atgm_lxWS.jpg"; 
     crew = B_D_crew_lxWS;
     typicalCargo[] = {B_D_soldier_lxWS};
 	faction = BLU_NATO_lxWS;
