@@ -64,6 +64,17 @@ class CfgVehicles
 				};
 				factions[] = {};
 			};
+			class Sand
+			{
+				displayName = $STR_A3_TEXTURESOURCES_SAND0;
+				author = $STR_A3_A_Ravenholme;
+				textures[] = 
+				{
+					"\lxWS\air_f_lxWS\Data\NATO\lxWS_Heli_Transport_03_ext01_sand_CO.paa",
+					"\lxWS\air_f_lxWS\Data\NATO\lxWS_Heli_Transport_03_ext02_sand_CO.paa"
+				};
+				factions[] = {};
+			};
 		};
 	};
 	class Heli_Transport_03_unarmed_base_F: Heli_Transport_03_base_F

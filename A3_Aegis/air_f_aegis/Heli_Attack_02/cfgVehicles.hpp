@@ -53,6 +53,26 @@ class CfgVehicles
 				};
 				faction[] = {};
 			};
+			class Sand
+			{
+				displayName = $STR_A3_TEXTURESOURCES_SAND0;
+				factions[] = {};
+				textures[] =
+				{
+					"lxWS\air_f_lxWS\Data\Heli_Attack_02\kajman_sand1_co.paa",
+					"lxWS\air_f_lxWS\Data\Heli_Attack_02\kajman_sand2_co.paa"
+				};
+			};
+			class SFIA
+			{
+				displayName = $STR_LXWS_FACTION_SFIA;
+				factions[] = {};
+				textures[] =
+				{
+					"lxWS\air_f_lxWS\Data\Heli_Attack_02\kajman_africa1_co.paa",
+					"lxWS\air_f_lxWS\Data\Heli_Attack_02\kajman_africa2_co.paa"
+				};
+			};
 		};
 	};
 	class Heli_Attack_02_dynamicLoadout_base_F: Heli_Attack_02_base_F
