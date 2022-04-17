@@ -30,20 +30,6 @@ class CfgVehicles
                 };
 				factions[] = {};
 			};
-			class Sand
-			{
-				displayName = $STR_A3_TEXTURESOURCES_SAND0;
-				author = $STR_A3_A_Ravenholme;
-				textures[] = 
-				{
-					"\lxWS\air_f_lxWS\Data\NATO\VTOL_01_EXT01_sand_CO.paa",
-					"\lxWS\air_f_lxWS\Data\NATO\VTOL_01_EXT02_sand_CO.paa",
-					"\lxWS\air_f_lxWS\Data\NATO\VTOL_01_EXT03_sand_CO.paa",
-					"\lxWS\air_f_lxWS\Data\NATO\VTOL_01_EXT04_sand_CO.paa",
-					"\A3\Air_F_Exp\VTOL_01\Data\VTOL_01_signs_CA.paa"
-				};
-				factions[] = {};
-			};
 		};
 	};
 	class VTOL_01_infantry_base_F;
