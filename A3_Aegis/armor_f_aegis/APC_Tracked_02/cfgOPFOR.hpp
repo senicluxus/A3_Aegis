@@ -56,6 +56,32 @@ class O_APC_Tracked_02_cannon_F: O_APC_Tracked_02_base_F
             };
             factions[] = {};
         };
+        class SFIA
+		{
+			displayName = $STR_LXWS_FACTION_SFIA;
+			factions[] = {};
+			textures[] =
+			{
+				"lxws\vehicles_f_lxws\data\APC_Tracked_02\kamysh_africa1_co.paa",
+				"lxws\vehicles_f_lxws\data\APC_Tracked_02\kamysh_africa2_co.paa",
+				"lxws\vehicles_f_lxws\data\APC_Tracked_02\kamysh_africa3_co.paa",
+				"A3\Armor_F\Data\camonet_CSAT_HEX_Desert_CO.paa",
+				"A3\armor_f\data\cage_csat_co.paa"
+			};
+        };
+        class Sand
+		{
+			displayName = $STR_A3_TEXTURESOURCES_SAND0;
+			factions[] = {};
+			textures[] =
+			{
+				"lxws\vehicles_f_lxws\data\APC_Tracked_02\kamysh_sand1_co.paa",
+				"lxws\vehicles_f_lxws\data\APC_Tracked_02\kamysh_sand2_co.paa",
+				"lxws\vehicles_f_lxws\data\APC_Tracked_02\kamysh_sand3_co.paa",
+				"A3\Armor_F\Data\camonet_CSAT_HEX_Desert_CO.paa",
+				"A3\armor_f\data\cage_csat_co.paa"
+			};
+		};
     };
     /* Inventory */
     class TransportMagazines
@@ -132,6 +158,32 @@ class O_APC_Tracked_02_AA_F: O_APC_Tracked_02_base_F
             };
             factions[] = {};
         };
+        class SFIA
+		{
+			displayName = $STR_LXWS_FACTION_SFIA;
+			factions[] = {};
+			textures[] =
+			{
+				"lxws\vehicles_f_lxws\data\APC_Tracked_02\kamysh_aa_africa1_co.paa",
+				"lxws\vehicles_f_lxws\data\APC_Tracked_02\kamysh_africa2_co.paa",
+				"lxws\vehicles_f_lxws\data\APC_Tracked_02\kamysh_aa_africa3_co.paa",
+				"A3\Armor_F\Data\camonet_CSAT_HEX_Desert_CO.paa",
+				"A3\armor_f\data\cage_csat_co.paa"
+			};
+        };
+        class Sand
+		{
+			displayName = $STR_A3_TEXTURESOURCES_SAND0;
+			factions[] = {};
+			textures[] =
+			{
+				"lxws\vehicles_f_lxws\data\APC_Tracked_02\kamysh_aa_sand1_co.paa",
+				"lxws\vehicles_f_lxws\data\APC_Tracked_02\kamysh_sand2_co.paa",
+				"lxws\vehicles_f_lxws\data\APC_Tracked_02\kamysh_aa_sand3.paa",
+				"A3\Armor_F\Data\camonet_CSAT_HEX_Desert_CO.paa",
+				"A3\armor_f\data\cage_csat_co.paa"
+			};
+		};
     };
     /* Inventory */
     class TransportMagazines

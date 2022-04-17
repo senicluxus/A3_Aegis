@@ -16,6 +16,18 @@ class O_MBT_02_base_F: MBT_02_base_F
             };
             factions[] = {};
         };
+        class SFIA
+		{
+			displayName = $STR_LXWS_FACTION_SFIA;
+			factions[] = {};
+			textures[] =
+			{
+				"lxws\vehicles_f_lxws\data\MBT_02\MBT_02_sand_body_CO.paa",
+				"lxws\vehicles_f_lxws\data\MBT_02\mbt_02_sand_turret_co.paa",
+				"lxws\vehicles_f_lxws\data\MBT_02\mbt_02_sand_co.paa",
+				"A3\Armor_F\Data\camonet_CSAT_HEX_Desert_CO.paa"
+			};
+        };
     };
 };
 class O_MBT_02_arty_base_F: MBT_02_arty_base_F
