@@ -836,10 +836,10 @@ class CfgWeapons
 	};
 	class V_CF_CarrierRig_F: V_PlateCarrier1_rgr 
 	{
-		author = "Jamie";
+		author = $STR_A3_A_Jamie;
 		scope = public;
 		scopeArsenal = public;
-		displayName = "Defender Rig [CDF]";
+		displayName = $STR_A3_A_CfgWeapons_V_CF_CarrierRig_F0;
 		//picture = "\jam_cdf_core\data\icon_ca.paa";
         hiddenSelections[] = {camo}; 
 		hiddenSelectionsTextures[] = { "\A3_Aegis\Characters_F_Aegis\Vests\data\V_CF_CarrierRig_CO.paa"};
@@ -881,10 +881,10 @@ class CfgWeapons
 	};
 	class V_CF_CarrierRig_Lite_F: V_PlateCarrier1_rgr 
 	{
-		author = "Jamie";
+		author = $STR_A3_A_Jamie;
 		scope = public;
 		scopeArsenal = public;
-		displayName = "Defender Lite Rig [CDF]";
+		displayName = $STR_A3_A_CfgWeapons_V_CF_CarrierRig_lite_F0;
 		//picture = "\jam_cdf_core\data\icon_ca.paa";
         hiddenSelections[] = {camo,camo1}; 
 		hiddenSelectionsTextures[] = 
@@ -934,10 +934,10 @@ class CfgWeapons
 	};
 	class V_CF_CarrierRig_MG_F : V_PlateCarrier1_rgr 
 	{
-		author = "Jamie";
+		author =$STR_A3_A_Jamie;
 		scope = public;
 		scopeArsenal = public;
-		displayName = "Defender MG Rig [CDF]";
+		displayName = $STR_A3_A_CfgWeapons_V_CF_CarrierRig_MG_F0;
 		//picture = "\jam_cdf_core\data\icon_ca.paa";
         hiddenSelections[] = {camo,camo1}; 
 		hiddenSelectionsTextures[] = 

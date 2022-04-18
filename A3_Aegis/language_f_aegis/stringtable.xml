@@ -7588,6 +7588,57 @@
 					<Japanese>リブリーザー[ロシア]</Japanese>
 					<Turkish>Yeniden Solunum Sistemi [RU]</Turkish>
 				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_V_CF_CarrierRig_F0">
+					<Original>Defender Rig [CDF]</Original>
+					<Chinese>Defender Rig [CDF]</Chinese>
+					<French>Defender Rig [CDF]</French>
+					<Spanish>Defender Rig [CDF]</Spanish>
+					<Italian>Defender Rig [CDF]</Italian>
+					<Polish>Defender Rig [CDF]</Polish>
+					<Russian>Defender Rig [CDF]</Russian>
+					<German>Defender Rig [CDF]</German>
+					<Czech>Defender Rig [CDF]</Czech>
+					<English>Defender Rig [CDF]</English>
+					<Portuguese>Defender Rig [CDF]</Portuguese>
+					<Korean>Defender Rig [CDF]</Korean>
+					<Chinesesimp>Defender Rig [CDF]</Chinesesimp>
+					<Japanese>Defender Rig [CDF]</Japanese>
+					<Turkish>Defender Rig [CDF]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_V_CF_CarrierRig_lite_F0">
+					<Original>Defender Lite Rig [CDF]</Original>
+					<Chinese>Defender Lite Rig [CDF]</Chinese>
+					<French>Defender Lite Rig [CDF]</French>
+					<Spanish>Defender Lite Rig [CDF]</Spanish>
+					<Italian>Defender Lite Rig [CDF]</Italian>
+					<Polish>Defender Lite Rig [CDF]</Polish>
+					<Russian>Defender Lite Rig [CDF]</Russian>
+					<German>Defender Lite Rig [CDF]</German>
+					<Czech>Defender Lite Rig [CDF]</Czech>
+					<English>Defender Lite Rig [CDF]</English>
+					<Portuguese>Defender Lite Rig [CDF]</Portuguese>
+					<Korean>Defender Lite Rig [CDF]</Korean>
+					<Chinesesimp>Defender Lite Rig [CDF]</Chinesesimp>
+					<Japanese>Defender Lite Rig [CDF]</Japanese>
+					<Turkish>Defender Lite Rig [CDF]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_V_CF_CarrierRig_MG_F0">
+					<Original>Defender MG Rig [CDF]</Original>
+					<Chinese>Defender MG Rig [CDF]</Chinese>
+					<French>Defender MG Rig [CDF]</French>
+					<Spanish>Defender MG Rig [CDF]</Spanish>
+					<Italian>Defender MG Rig [CDF]</Italian>
+					<Polish>Defender MG Rig [CDF]</Polish>
+					<Russian>Defender MG Rig [CDF]</Russian>
+					<German>Defender MG Rig [CDF]</German>
+					<Czech>Defender MG Rig [CDF]</Czech>
+					<English>Defender MG Rig [CDF]</English>
+					<Portuguese>Defender MG Rig [CDF]</Portuguese>
+					<Korean>Defender MG Rig [CDF]</Korean>
+					<Chinesesimp>Defender MG Rig [CDF]</Chinesesimp>
+					<Japanese>Defender MG Rig [CDF]</Japanese>
+					<Turkish>Defender MG Rig [CDF]</Turkish>
+				</Key>
 			</Container>
 		</Container>
 		<Container name="Data_F">
@@ -8016,6 +8067,23 @@
 					<Chinesesimp>lilithsspawn</Chinesesimp>
 					<Japanese>lilithsspawn</Japanese>
 					<Turkish>lilithsspawn</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_Jamie">
+					<Original>Jamie</Original>
+					<Chinese>Jamie</Chinese>
+					<French>Jamie</French>
+					<Spanish>Jamie</Spanish>
+					<Italian>Jamie</Italian>
+					<Polish>Jamie</Polish>
+					<Russian>Jamie</Russian>
+					<German>Jamie</German>
+					<Czech>Jamie</Czech>
+					<English>Jamie</English>
+					<Portuguese>Jamie</Portuguese>
+					<Korean>Jamie</Korean>
+					<Chinesesimp>Jamie</Chinesesimp>
+					<Japanese>Jamie</Japanese>
+					<Turkish>Jamie</Turkish>
 				</Key>
 			</Container>
 			<Container name="Faction_Classes">
