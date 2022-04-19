@@ -8370,6 +8370,23 @@
 					<Japanese>LDF（乾燥地帯）</Japanese>
 					<Turkish>LDF (Kurak)</Turkish>
 				</Key>
+				<Key ID="STR_A3_A_CfgFactionClasses_OPF_CD_F0">
+                    <Original>China (Desert)</Original>
+                    <Chinese>中國 (Desert)</Chinese>
+                    <French>Chine (Desert)</French>
+                    <Spanish>China (Desert)</Spanish>
+                    <Italian>Cina (Desert)</Italian>
+                    <Polish>Chiny (Desert)</Polish>
+                    <Russian>Китай (Desert)</Russian>
+                    <German>China (Desert)</German>
+                    <Czech>China (Desert)</Czech>
+                    <English>China (Desert)</English>
+                    <Portuguese>China (Desert)</Portuguese>
+                    <Korean>중국 (Desert)</Korean>
+                    <Chinesesimp>中国 (Desert)</Chinesesimp>
+                    <Japanese>中国 (Desert)</Japanese>
+                    <Turkish>Çin (Desert)</Turkish>
+				</Key>
 			</Container>
 			<Container name="Editor_Categories">
 				<Key ID="STR_A3_A_CfgEditorSubcategories_EdSubcat_Laboratory0">

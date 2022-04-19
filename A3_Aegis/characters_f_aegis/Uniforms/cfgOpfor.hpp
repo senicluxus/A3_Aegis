@@ -66,6 +66,29 @@ class U_O_T_Pilot_F: Uniform_Base
 		mass = 100;
 	};
 };
+class U_O_C_D_Sniper_oicamo_F: Uniform_Base
+{
+	author = $STR_A3_A_Ravenholme;
+	scope = public;
+	displayName= "Ghillie Suit [CSAT] (Desert)";
+	picture="\A3\characters_f_exp\data\ui\icon_U_OT_sniper_F_ca.paa";
+	model="\A3\Characters_F\Common\Suitpacks\suitpack_original_F.p3d";
+	hiddenSelections[]=
+	{
+		"camo"
+	};
+	hiddenSelectionsTextures[]=
+	{
+		"\A3\Characters_F\Common\Suitpacks\Data\suitpack_soldier_OPFOR_CO.paa"
+	};
+	class ItemInfo: UniformItem
+	{
+		uniformModel = "-";
+		uniformClass = O_C_D_Sniper_oicamo_F;
+		containerClass = Supply40;
+		mass = 100;
+	};
+};
 
 /* Argana */
 class U_O_officer_noInsignia_urb_F: Uniform_Base

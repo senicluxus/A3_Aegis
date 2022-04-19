@@ -209,6 +209,18 @@ class O_LightFatigues_01_ghex_F: O_A_officer_F
 	uniformClass = U_O_T_officer_noInsignia_ghex_F;
 	hiddenSelectionsTextures[] = {"\A3_Aegis\Characters_F_Aegis\Uniforms\Data\Officer_noinsignia_tna_CO.paa"};
 };
+class O_C_D_Sniper_oicamo_F: Aegis_O_C_D_Sniper_F
+{
+	scope = protected;
+    scopeCurator = private;
+	uniformClass = U_O_C_D_Sniper_oicamo_F;
+	hiddenSelectionsTextures[] =
+    {
+        "\A3_Aegis\Characters_F_Aegis\Uniforms\Data\clothing_oicamo_CO.paa",
+        "\A3_Aegis\Characters_F_Aegis\Uniforms\Data\tech_oicamo_CO.paa",
+        "\A3\characters_f\Common\Data\ghillie_desert_CO.paa"
+    };
+};
 
 /* Civilians */
 class B_CBRN_Man_Base_F: B_Soldier_F
