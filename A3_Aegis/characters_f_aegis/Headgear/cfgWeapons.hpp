@@ -2698,6 +2698,20 @@ class CfgWeapons
       	//picture = "\A3_Aegis\Characters_F_Aegis\Headgear\Data\UI\icon_H_I_Helmet_canvas_Green_CA.paa";
       	hiddenSelectionsTextures[] = {"\A3_Aegis\Characters_F_Aegis\Headgear\Data\headgear_helmet_canvas_Japan_CO.paa"};
     };
+	class lxWS_H_bmask_base : H_HelmetB{};
+	class Aegis_lxWS_H_bmask_UwU: lxWS_H_bmask_base
+	{
+		author = "Grave";
+		picture = "\lxws\characters_f_lxws\headgear\pmc\data\ui\icon_mask_black_ca";
+   		displayName = "Ballistic Mask (UwU)";
+   		hiddenSelectionsTextures[] = {"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_BalisticMask_black_kawaii_CO.paa"};
+   		class ItemInfo : ItemInfo
+   		{
+     	 	hiddenSelections[] = {"camo"};
+      		hiddenSelectionsTextures[] = {"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_BalisticMask_black_kawaii_CO.paa"};
+   		};
+	};
+
     /* Deprecated */
     #include "deprecated.hpp"
 };

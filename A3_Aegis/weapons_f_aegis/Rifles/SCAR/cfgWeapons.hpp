@@ -36,6 +36,7 @@ class CfgWeapons
 			"\A3\Weapons_F_Exp\Rifles\SPAR_01\Data\Anim\SPAR_01.rtm"
 		};
 		reloadAction = GestureReloadSPAR_01;
+		magazineReloadSwitchPhase = 0.47999999;
 
         /* Ammunition */ 
 		magazines[] = {20Rnd_762x51_Mag};
