@@ -2703,7 +2703,7 @@ class CfgWeapons
 	{
 		author = "Grave";
 		picture = "\lxws\characters_f_lxws\headgear\pmc\data\ui\icon_mask_black_ca";
-   		displayName = "Ballistic Mask (UwU)";
+   		displayName = $STR_A3_A_CfgWeapons_Aegis_lxWS_H_bmask_UwU0;
    		hiddenSelectionsTextures[] = {"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_BalisticMask_black_kawaii_CO.paa"};
    		class ItemInfo : ItemInfo
    		{

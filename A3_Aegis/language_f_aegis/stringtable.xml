@@ -2182,21 +2182,21 @@
 					<Turkish>Tactical Shades (Camo)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgGlasses_G_Bandanna_kawaii0">
-					<Original>Bandana (Kawaii)</Original>
-					<Chinese>Bandana (Kawaii)</Chinese>
-					<French>Bandana (Kawaii)</French>
-					<Spanish>Bandana (Kawaii)</Spanish>
-					<Italian>Bandana (Kawaii)</Italian>
-					<Polish>Bandana (Kawaii)</Polish>
-					<Russian>Bandana (Kawaii)</Russian>
-					<German>Bandana (Kawaii)</German>
-					<Czech>Bandana (Kawaii)</Czech>
-					<English>Bandana (Kawaii)</English>
-					<Portuguese>Bandana (Kawaii)</Portuguese>
-					<Korean>Bandana (Kawaii)</Korean>
-					<Chinesesimp>Bandana (Kawaii)</Chinesesimp>
-					<Japanese>Bandana (Kawaii)</Japanese>
-					<Turkish>Bandana (Kawaii)</Turkish>
+					<Original>Bandana (UwU)</Original>
+					<Chinese>Bandana (UwU)</Chinese>
+					<French>Bandana (UwU)</French>
+					<Spanish>Bandana (UwU)</Spanish>
+					<Italian>Bandana (UwU)</Italian>
+					<Polish>Bandana (UwU)</Polish>
+					<Russian>Bandana (UwU)</Russian>
+					<German>Bandana (UwU)</German>
+					<Czech>Bandana (UwU)</Czech>
+					<English>Bandana (UwU)</English>
+					<Portuguese>Bandana (UwU)</Portuguese>
+					<Korean>Bandana (UwU)</Korean>
+					<Chinesesimp>Bandana (UwU)</Chinesesimp>
+					<Japanese>Bandana (UwU)</Japanese>
+					<Turkish>Bandana (UwU)</Turkish>
 				</Key>
 				<Key ID="STR_A3_A_CfgGlasses_G_Bandanna_shemag0">
 					<Original>Bandana (Shemag)</Original>
@@ -5024,6 +5024,23 @@
 					<Chinesesimp>标准头盔（Coyote）</Chinesesimp>
 					<Japanese>モジュラーヘルメット（Coyote）</Japanese>
 					<Turkish>Modüler Miğfer (Coyote)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_Aegis_lxWS_H_bmask_UwU0">
+					<Original>Ballistic Mask (UwU)</Original>
+					<Chinese>Ballistic Mask (UwU)</Chinese>
+					<French>Ballistic Mask (UwU)</French>
+					<Spanish>Ballistic Mask (UwU)</Spanish>
+					<Italian>Ballistic Mask (UwU)</Italian>
+					<Polish>Ballistic Mask (UwU)</Polish>
+					<Russian>Ballistic Mask (UwU)</Russian>
+					<German>Ballistic Mask (UwU)</German>
+					<Czech>Ballistic Mask (UwU)</Czech>
+					<English>Ballistic Mask (UwU)</English>
+					<Portuguese>Ballistic Mask (UwU)</Portuguese>
+					<Korean>Ballistic Mask (UwU)</Korean>
+					<Chinesesimp>Ballistic Mask (UwU)</Chinesesimp>
+					<Japanese>Ballistic Mask (UwU)</Japanese>
+					<Turkish>Ballistic Mask (UwU)</Turkish>
 				</Key>
 			</Container>
 			<Container name="Uniforms">
