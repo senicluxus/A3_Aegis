@@ -70,7 +70,7 @@ class U_O_C_D_Sniper_oicamo_F: Uniform_Base
 {
 	author = $STR_A3_A_Ravenholme;
 	scope = public;
-	displayName= "Ghillie Suit [CSAT] (Desert)";
+	displayName= $STR_A3_A_CfgWeapons_U_O_C_D_Sniper_oicamo_F0;
 	picture="\A3\characters_f_exp\data\ui\icon_U_OT_sniper_F_ca.paa";
 	model="\A3\Characters_F\Common\Suitpacks\suitpack_original_F.p3d";
 	hiddenSelections[]=

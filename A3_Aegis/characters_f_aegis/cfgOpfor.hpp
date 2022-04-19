@@ -6346,14 +6346,14 @@ class Aegis_O_C_D_Crew_F: O_T_Crew_F
     linkedItems[] =
 	{
 		V_BandollierB_cbr,
-		H_HelmetCrew_B,
+		H_HelmetCrew_O,
 		DefaultManLinkedItems,
 		O_NVGoggles_hex_F
 	};
 	respawnLinkedItems[] =
 	{
 		V_BandollierB_cbr,
-		H_HelmetCrew_B,
+		H_HelmetCrew_O,
 		DefaultManLinkedItems,
 		O_NVGoggles_hex_F
 	};
@@ -6926,13 +6926,13 @@ class Aegis_O_C_D_HeavyGunner_F: O_T_HeavyGunner_F
     uniformClass = U_O_CombatUniform_oicamo;
     weapons[] =
     {
-        MMG_01_hex_ARCO_LP_F,
+        Aegis_MMG_01_black_ARCO_LP_F,
         hgun_Rook40_F,
         DefaultManWeapons
     };
     respawnWeapons[] =
     {
-        MMG_01_hex_ARCO_LP_F,
+        Aegis_MMG_01_black_ARCO_LP_F,
         hgun_Rook40_F,
         DefaultManWeapons
     };
@@ -7281,14 +7281,14 @@ class Aegis_O_C_D_Sniper_F: O_sniper_F
     };
     weapons[]=
 	{
-		srifle_GM6_camo_LRPS_F,
+		srifle_GM6_LRPS_F,
 		hgun_Rook40_snds_F,
 		DefaultManWeapons,
 		Rangefinder
 		};
 	respawnWeapons[]=
 	{
-		srifle_GM6_camo_LRPS_F,
+		srifle_GM6_LRPS_F,
 		hgun_Rook40_snds_F,
 		DefaultManWeapons,
 		Rangefinder

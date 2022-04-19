@@ -6488,6 +6488,23 @@
 					<Japanese>傭兵服（Tシャツ）</Japanese>
 					<Turkish>Gerilla Kıyafeti (Tişört)</Turkish>
 				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_U_O_C_D_Sniper_oicamo_F0">
+					<Original>Ghillie Suit [CSAT] (Desert)</Original>
+					<Chinese>Ghillie Suit [CSAT] (Desert)</Chinese>
+					<French>Ghillie Suit [CSAT] (Desert)</French>
+					<Spanish>Ghillie Suit [CSAT] (Desert)</Spanish>
+					<Italian>Ghillie Suit [CSAT] (Desert)</Italian>
+					<Polish>Ghillie Suit [CSAT] (Desert)</Polish>
+					<Russian>Ghillie Suit [CSAT] (Desert)</Russian>
+					<German>Ghillie Suit [CSAT] (Desert)</German>
+					<Czech>Ghillie Suit [CSAT] (Desert)</Czech>
+					<English>Ghillie Suit [CSAT] (Desert)</English>
+					<Portuguese>Ghillie Suit [CSAT] (Desert)</Portuguese>
+					<Korean>Ghillie Suit [CSAT] (Desert)</Korean>
+					<Chinesesimp>Ghillie Suit [CSAT] (Desert)</Chinesesimp>
+					<Japanese>Ghillie Suit [CSAT] (Desert)</Japanese>
+					<Turkish>Ghillie Suit [CSAT] (Desert)</Turkish>
+				</Key>
 			</Container>
 			<Container name="Vests">
 				<Key ID="STR_A3_A_CfgWeapons_V_Rangemaster_belt0">

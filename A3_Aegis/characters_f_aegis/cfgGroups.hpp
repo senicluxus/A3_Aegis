@@ -4185,6 +4185,123 @@ class CfgGroups
 				};
 			};
 		};
+		class OPF_CD_F
+		{
+		  	name = $STR_A3_A_CfgFactionClasses_OPF_CD_F0;
+			class Infantry
+			{
+				name = $STR_A3_CfgGroups_West_BLU_F_Infantry0;
+				class O_CD_InfSquad
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfSquad0;
+					side = TEast;
+					faction = OPF_CD_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\o_inf.paa";
+					GROUP_UNIT(0,TEast,Aegis_O_C_D_soldier_SL_F,SERGEANT,0,0);
+					GROUP_UNIT(1,TEast,Aegis_O_C_D_RadioOperator_F,PRIVATE,5,-5);
+					GROUP_UNIT(2,TEast,Aegis_O_C_D_soldier_LAT_F,CORPORAL,-5,-5);
+					GROUP_UNIT(3,TEast,Aegis_O_C_D_soldier_M_F,PRIVATE,10,-10);
+					GROUP_UNIT(4,TEast,Aegis_O_C_D_soldier_TL_F,SERGEANT,-10,-10);
+					GROUP_UNIT(5,TEast,Aegis_O_C_D_soldier_AR_F,CORPORAL,15,-15);
+					GROUP_UNIT(6,TEast,Aegis_O_C_D_soldier_A_F,PRIVATE,-15,-15);
+					GROUP_UNIT(7,TEast,Aegis_O_C_D_medic_F,PRIVATE,20,-20);
+				};
+				class O_CD_InfSquad_Weapons
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfSquad_Weapons0;
+					side = TEast;
+					faction = OPF_CD_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\o_inf.paa";
+					GROUP_UNIT(0,TEast,Aegis_O_C_D_soldier_SL_F,SERGEANT,0,0);
+					GROUP_UNIT(1,TEast,Aegis_O_C_D_soldier_AR_F,PRIVATE,5,-5);
+					GROUP_UNIT(2,TEast,Aegis_O_C_D_soldier_GL_F,CORPORAL,-5,-5);
+					GROUP_UNIT(3,TEast,Aegis_O_C_D_soldier_M_F,PRIVATE,10,-10);
+					GROUP_UNIT(4,TEast,Aegis_O_C_D_soldier_AT_F,PRIVATE,-10,-10);
+					GROUP_UNIT(5,TEast,Aegis_O_C_D_soldier_F,PRIVATE,15,-15);
+					GROUP_UNIT(6,TEast,Aegis_O_C_D_soldier_A_F,PRIVATE,-15,-15);
+					GROUP_UNIT(7,TEast,Aegis_O_C_D_medic_F,PRIVATE,20,-20);
+				};
+				class O_CD_InfTeam
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfTeam0;
+					side = TEast;
+					faction = OPF_CD_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\o_inf.paa";
+					GROUP_UNIT(0,TEast,Aegis_O_C_D_soldier_TL_F,SERGEANT,0,0);
+					GROUP_UNIT(1,TEast,Aegis_O_C_D_soldier_AR_F,CORPORAL,5,-5);
+					GROUP_UNIT(2,TEast,Aegis_O_C_D_soldier_GL_F,PRIVATE,-5,-5);
+					GROUP_UNIT(3,TEast,Aegis_O_C_D_soldier_LAT_F,PRIVATE,10,-10);
+				};
+				class O_CD_InfTeam_AT
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfTeam_AT0;
+					side = TEast;
+					faction = OPF_CD_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\o_inf.paa";
+					GROUP_UNIT(0,TEast,Aegis_O_C_D_soldier_TL_F,SERGEANT,0,0);
+					GROUP_UNIT(1,TEast,Aegis_O_C_D_soldier_AT_F,CORPORAL,5,-5);
+					GROUP_UNIT(2,TEast,Aegis_O_C_D_soldier_AT_F,PRIVATE,-5,-5);
+					GROUP_UNIT(3,TEast,Aegis_O_C_D_soldier_F,PRIVATE,10,-10);
+				};
+				class O_CD_InfTeam_AA
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfTeam_AA0;
+					side = TEast;
+					faction = OPF_CD_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\o_inf.paa";
+					GROUP_UNIT(0,TEast,Aegis_O_C_D_soldier_TL_F,SERGEANT,0,0);
+					GROUP_UNIT(1,TEast,Aegis_O_C_D_soldier_AA_F,CORPORAL,5,-5);
+					GROUP_UNIT(2,TEast,Aegis_O_C_D_soldier_AA_F,PRIVATE,-5,-5);
+					GROUP_UNIT(3,TEast,Aegis_O_C_D_soldier_F,PRIVATE,10,-10);
+				};
+				class O_CD_InfSentry
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_InfSentry0;
+					side = TEast;
+					faction = OPF_CD_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\o_inf.paa";
+					GROUP_UNIT(0,TEast,Aegis_O_C_D_soldier_GL_F,CORPORAL,0,0);
+					GROUP_UNIT(1,TEast,Aegis_O_C_D_soldier_F,PRIVATE,5,-5);
+				};
+			};
+			class SpecOps
+			{
+				name = $STR_A3_CfgGroups_West_BLU_F_SpecOps0;
+				class O_CD_reconTeam
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_reconTeam0;
+					side = TEast;
+					faction = OPF_CD_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\o_recon.paa";
+					GROUP_UNIT(0,TEast,Aegis_O_C_D_recon_TL_F,SERGEANT,0,0);
+					GROUP_UNIT(1,TEast,Aegis_O_C_D_recon_M_F,CORPORAL,5,-5);
+					GROUP_UNIT(2,TEast,Aegis_O_C_D_recon_medic_F,PRIVATE,-5,-5);
+					GROUP_UNIT(3,TEast,Aegis_O_C_D_recon_LAT_F,CORPORAL,10,-10);
+					GROUP_UNIT(4,TEast,Aegis_O_C_D_recon_JTAC_F,PRIVATE,-10,-10);
+					GROUP_UNIT(5,TEast,Aegis_O_C_D_recon_exp_F,PRIVATE,15,-15);
+				};
+				class O_CD_reconSentry
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_reconSentry0;
+					side = TEast;
+					faction = OPF_CD_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\o_recon.paa";
+					GROUP_UNIT(0,TEast,Aegis_O_C_D_recon_M_F,CORPORAL,0,0);
+					GROUP_UNIT(1,TEast,Aegis_O_C_D_recon_F,PRIVATE,5,-5);
+				};
+				class O_CD_reconPatrol
+				{
+					name = $STR_A3_CfgGroups_West_BLU_F_Infantry_BUS_reconPatrol0;
+					side = TEast;
+					faction = OPF_CD_F;
+					icon = "\A3\UI_F\Data\Map\Markers\NATO\o_recon.paa";
+					GROUP_UNIT(0,TEast,Aegis_O_C_D_recon_TL_F,SERGEANT,0,0);
+					GROUP_UNIT(1,TEast,Aegis_O_C_D_recon_M_F,CORPORAL,5,-5);
+					GROUP_UNIT(2,TEast,Aegis_O_C_D_recon_medic_F,PRIVATE,-5,-5);
+					GROUP_UNIT(3,TEast,Aegis_O_C_D_recon_F,PRIVATE,10,-10);
+				};
+			};
+		};
 	};
 	class Indep
 	{

@@ -981,3 +981,12 @@ class arifle_MSBS65_Mark_sand_SOS_LP_BI_F: arifle_MSBS65_Mark_sand_F
 		LINKED_UNDERBARREL(bipod_01_F_snd);
 	};
 };
+class Aegis_MMG_01_black_ARCO_LP_F: MMG_01_black_F
+{
+	class LinkedItems
+	{
+        LINKED_TOP(optic_Arco_blk_F);
+        LINKED_SIDE(acc_pointer_IR);
+        LINKED_UNDERBARREL(bipod_02_F_blk);
+	};
+};
