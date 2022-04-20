@@ -6987,6 +6987,7 @@ class Aegis_O_C_D_RadioOperator_F: O_T_RadioOperator_F
     //editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\Aegis_O_C_D_RadioOperator_F.jpg";
     faction = OPF_CD_F;
     backpack = B_RadioBag_01_oicamo_F;
+    uniformClass = U_O_CombatUniform_oicamo;
     linkedItems[] =
 	{
 		V_HarnessO_oicamo,
