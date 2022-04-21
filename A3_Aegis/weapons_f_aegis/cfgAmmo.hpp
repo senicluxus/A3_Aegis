@@ -347,29 +347,64 @@ class CfgAmmo
 	class B_25x40mm_HE: B_25x40mm_base{};
 	class B_25x40mm_airburst: B_25x40mm_base
 	{
-		triggerDistance = 22;
-		submunitionConeType[] = {randomupcone,5};
-		triggerSpeedCoef[] = {0.1,2};
-		submunitionInitSpeed = 18;
-		submunitionParentSpeedCoef = 0;
-		directionalExplosion = true;
-		submunitionConeAngle[] =
+		simulation = shotSubmunitions;
+		simulationStep = 0.05;
+
+		hit = 10; indirectHit = 5; indirectHitRange = 4;
+    	caliber = 2;
+    	explosive = 1;
+    	warheadName = HE;
+
+		//--- Submunition
+    	submunitionAmmo[] = {B_25x40mm_airburst_deploy,1};
+    	submunitionConeType[] = {randomcenter,15};
+		submunitionDirectionType = SubmunitionAutoLeveling;
+		submunitionCount = 3;
+		submunitionConeAngle[] = {-90,-45};
+		submunitionConeAngleHorizontal = 360;
+		submunitionParentSpeedCoef = 0.1;
+		submunitionInitialOffset[] = {0,0,-0.2};
+		deleteParentWhenTriggered = true;
+		triggerOnImpact = true;
+		triggerDistance = 10;
+		triggerSpeedCoef[] = {0.5,1};
+
+		deflecting = 5;
+		explosionTime = 0;
+		timeToLive = 50;
+
+		//--- SFX
+		soundSetExplosion[] =
 		{
-			10,
-			180
+			MiniGrenade_Exp_SoundSet,
+			MiniGrenade_Tail_SoundSet,
+			Explosion_Debris_SoundSet
 		};
-		submunitionConeAngleHorizontal = 175;
-		submunitionAutoleveling = true;
-		submunitionAmmo[] = {B_25x40mm_airburst_deploy,1};
+
+		//--- VFX
+		explosionEffects = ExploAmmoExplosion;
 	};
 	class B_25x40mm_airburst_deploy: B_25x40mm_HE
 	{
 		simulation = shotGrenade;
 		model = "\A3\Weapons_F_EPB\Ammo\B_IRstrobe_F.p3d";
-		airFriction = 0;
-		sideairFriction = 0;
-		simulationStep = 0.1;
-		explosionTime = 0.1;
+		airFriction = -0.001;
+		hit = 20; indirectHit = 2; indirectHitRange = 4;
+    	caliber = 2;
+    	explosive = 1;
+    	warheadName = HE;
+	
+		explosionTime = -1;
+		fuseDistance = 0;
+
+		//--- SFX
+		soundSetExplosion[] = {Shell19mm25mm_Exp_SoundSet};
+
+		//--- VFX
+		explosionEffects = ExploAmmoExplosion;
+		effectFly = ClusterEffectFly;
+		craterEffects = ClusterCraterEffects;
+		craterWaterEffects = ClusterCraterWaterEffects;
 	};
 	class B_25x40mm_autoseek: B_25x40mm_base{};
 	class B_25x40mm_stick: B_25x40mm_base{};
