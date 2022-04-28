@@ -6,14 +6,7 @@ class asdg_UnderSlot;
 class asdg_PistolUnderRail;
 class asdg_PistolOpticMount;
 class asdg_PistolOpticRail1913;
-class asdg_OpticRail1913: asdg_OpticRail
-{
-    class compatibleItems
-    {
-        optic_LRCO_blk_F = true;
-        optic_LRCO_snd_F = true;
-    };
-};
+class asdg_OpticRail1913;
 class asdg_OpticRail1913_short;
 class asdg_OpticRail1913_short_MG;
 class asdg_OpticRail1913_long;
