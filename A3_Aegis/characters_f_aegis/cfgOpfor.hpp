@@ -5920,7 +5920,9 @@ class O_A_helipilot_F: O_helipilot_F
 	identityTypes[] =
 	{
 		LanguageFRE_F,
-		Head_African,
+		Head_TK,
+        Head_African,
+        lxWS_Head_African,
 		G_IRAN_default
 	};
     faction = OPF_A_F;
