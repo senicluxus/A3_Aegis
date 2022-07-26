@@ -2404,6 +2404,65 @@ class B_CTRG_Soldier_JTAC_tna_F: B_CTRG_Soldier_F
         NVGogglesB_grn_F
 	};
 };
+class B_CTRG_Soldier_tna_F: B_CTRG_Soldier_F
+{
+    weapons[] =
+    {
+        arifle_SPAR_01_blk_ERCO_Pointer_Snds_F,
+        hgun_P07_blk_Snds_F,
+        DefaultManWeapons,
+        Rangefinder
+    };
+	respawnWeapons[] =
+    {
+        arifle_SPAR_01_blk_ERCO_Pointer_Snds_F,
+        hgun_P07_blk_Snds_F,
+        DefaultManWeapons,
+        Rangefinder
+    };
+	magazines[] =
+    {
+        mag_10(30Rnd_556x45_Stanag_red),
+        mag_2(16Rnd_9x21_Mag),
+        mag_2(MiniGrenade),
+        mag_2(SmokeShell),
+        mag_2(Chemlight_green)
+    };
+	respawnMagazines[] =
+    {
+        mag_10(30Rnd_556x45_Stanag_red),
+        mag_2(16Rnd_9x21_Mag),
+        mag_2(MiniGrenade),
+        mag_2(SmokeShell),
+        mag_2(Chemlight_green)
+    };
+	linkedItems[] =
+	{
+		V_PlateCarrier2_rgr_noflag_F,
+		H_HelmetB_TI_tna_F,
+		G_Balaclava_TI_G_tna_F,
+        DefaultManLeaderLinkedItems,
+        NVGogglesB_grn_F
+	};
+	respawnLinkedItems[] =
+	{
+		V_PlateCarrier2_rgr_noflag_F,
+		H_HelmetB_TI_tna_F,
+		G_Balaclava_TI_G_tna_F,
+        DefaultManLeaderLinkedItems,
+        NVGogglesB_grn_F
+	};
+	items[] =
+	{
+		FirstAidKit,
+		optic_NVS
+	};
+	respawnItems[] =
+	{
+		FirstAidKit,
+		optic_NVS
+	};
+};
 class B_CTRG_Miller_F: B_CTRG_Soldier_3_F
 {
 	editorPreview = "\A3_Aegis\EditorPreviews_F_Aegis\Data\CfgVehicles\B_CTRG_Miller_F.jpg";
